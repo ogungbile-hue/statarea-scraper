@@ -1,0 +1,289 @@
+﻿fixture_id,parent_match_date,parent_competition,h2h_date,h2h_competition,h2h_home_team,h2h_away_team,home_goals,away_goals,score_ft,score_ht,total_goals,bts_result,outcome,events_count
+1713975,2026-08-27,LALIGA,2026-03-07,Spain - Laliga 2025/2026,Athletic Club,Barcelona,0,1,0-1,0-0,1,0,2,4
+1713975,2026-08-27,LALIGA,2026-01-07,Spain - Super Cup 2024/2025,Barcelona,Athletic Club,5,0,5-0,0-4,5,0,1,5
+1713975,2026-08-27,LALIGA,2025-11-22,Spain - Laliga 2025/2026,Barcelona,Athletic Club,4,0,4-0,2-2,4,0,1,7
+1713975,2026-08-27,LALIGA,2025-05-25,Spain - Segunda Division Rfef 2024/2025,Athletic Club,Barcelona,0,3,0-3,2-0,3,0,2,4
+1713975,2026-08-27,LALIGA,2025-01-08,Spain - Super Cup 2024/2025,Athletic Club,Barcelona,0,2,0-2,1-0,2,0,2,3
+1713975,2026-08-27,LALIGA,2024-08-24,Spain - Segunda Division Rfef 2024/2025,Barcelona,Athletic Club,2,1,2-1,1-1,3,1,1,12
+1713975,2026-08-27,LALIGA,2024-03-03,Spain - Laliga 2023/2024,Athletic Club,Barcelona,0,0,0-0,0-0,0,0,X,7
+1713975,2026-08-27,LALIGA,2024-01-24,Spain - Fa Cup 2023/2024,Athletic Club,Barcelona,4,2,4-2,2-1,6,1,1,17
+1713975,2026-08-27,LALIGA,2023-10-22,Spain - Laliga 2023/2024,Barcelona,Athletic Club,1,0,1-0,0-0,1,0,1,7
+1713975,2026-08-27,LALIGA,2023-03-12,Spain - Laliga 2022/2023,Athletic Club,Barcelona,0,1,0-1,1-0,1,0,2,4
+1713975,2026-08-27,LALIGA,2022-10-23,Spain - Laliga 2022/2023,Barcelona,Athletic Club,4,0,4-0,0-3,4,0,1,9
+1713975,2026-08-27,LALIGA,2022-02-27,Spain - Segunda Division Rfef 2021/2022,Barcelona,Athletic Club,4,0,4-0,0-1,4,0,1,7
+1713975,2026-08-27,LALIGA,2022-01-20,Spain - FA Cup 2021/2022,Athletic Club,Barcelona,3,2,3-2,1-1,5,1,1,13
+1713975,2026-08-27,LALIGA,2021-08-21,Spain - Segunda Division Rfef 2021/2022,Athletic Club,Barcelona,1,1,1-1,0-0,2,1,X,6
+1713975,2026-08-27,LALIGA,2021-04-17,Spain - FA Cup 2020/2021,Athletic Club,Barcelona,0,4,0-4,0-0,4,0,2,6
+1713975,2026-08-27,LALIGA,2021-01-31,Spain - SD Promotion P.Off 2020/2021,Barcelona,Athletic Club,2,1,2-1,0-1,3,1,1,8
+1713975,2026-08-27,LALIGA,2021-01-17,Spain - Super Cup 2020/2021,Barcelona,Athletic Club,2,3,2-3,1-1,5,1,2,11
+1713975,2026-08-27,LALIGA,2021-01-06,Spain - SD Promotion P.Off 2020/2021,Athletic Club,Barcelona,2,3,2-3,2-1,5,1,2,8
+1713975,2026-08-27,LALIGA,2020-06-23,Spain - Primera Division 2019/2020,Barcelona,Athletic Club,1,0,1-0,0-0,1,0,1,4
+1713975,2026-08-27,LALIGA,2020-02-06,Spain - FA Cup 2019/2020,Athletic Club,Barcelona,1,0,1-0,0-0,1,0,1,10
+1713975,2026-08-27,LALIGA,2019-08-16,Spain - Primera Division 2019/2020,Athletic Club,Barcelona,1,0,1-0,0-0,1,0,1,3
+1713975,2026-08-27,LALIGA,2019-02-10,Spain - Primera Division 2018/2019,Athletic Club,Barcelona,0,0,0-0,0-0,0,0,X,6
+1713975,2026-08-27,LALIGA,2018-09-29,Spain - Primera Division 2018/2019,Barcelona,Athletic Club,1,1,1-1,1-0,2,1,X,8
+1713975,2026-08-27,LALIGA,2018-03-18,Spain - Primera Division 2017/2018,Barcelona,Athletic Club,2,0,2-0,0-2,2,0,1,6
+1713975,2026-08-27,LALIGA,2017-10-28,Spain - Primera Division 2017/2018,Athletic Club,Barcelona,0,2,0-2,1-0,2,0,2,7
+1713975,2026-08-27,LALIGA,2017-02-04,Spain - Primera Division 2016/2017,Barcelona,Athletic Club,3,0,3-0,0-2,3,0,1,7
+1713975,2026-08-27,LALIGA,2017-01-11,Spain - FA Cup 2016/2017,Barcelona,Athletic Club,3,1,3-1,0-1,4,1,1,10
+1713975,2026-08-27,LALIGA,2017-01-05,Spain - FA Cup 2016/2017,Athletic Club,Barcelona,2,1,2-1,0-2,3,1,1,12
+1713975,2026-08-27,LALIGA,2016-08-28,Spain - Primera Division 2016/2017,Athletic Club,Barcelona,0,1,0-1,1-0,1,0,2,10
+1713975,2026-08-27,LALIGA,2016-01-27,Spain - FA Cup 2015/2016,Barcelona,Athletic Club,3,1,3-1,1-0,4,1,1,8
+1713975,2026-08-27,LALIGA,2016-01-20,Spain - FA Cup 2015/2016,Athletic Club,Barcelona,1,2,1-2,2-0,3,1,2,12
+1713975,2026-08-27,LALIGA,2016-01-17,Spain - Primera Division 2015/2016,Barcelona,Athletic Club,6,0,6-0,0-2,6,0,1,11
+1713975,2026-08-27,LALIGA,2015-08-23,Spain - Primera Division 2015/2016,Athletic Club,Barcelona,0,1,0-1,0-0,1,0,2,7
+1713975,2026-08-27,LALIGA,2015-08-17,Spain - Super Cup 2015/2016,Barcelona,Athletic Club,1,1,1-1,0-1,2,1,X,9
+1713975,2026-08-27,LALIGA,2015-08-14,Spain - Super Cup 2015/2016,Athletic Club,Barcelona,4,0,4-0,0-1,4,0,1,14
+1713975,2026-08-27,LALIGA,2015-05-30,Spain - FA Cup 2014/2015,Athletic Club,Barcelona,1,3,1-3,2-0,4,1,2,11
+1713975,2026-08-27,LALIGA,2015-02-08,Spain - Primera Division 2014/2015,Athletic Club,Barcelona,2,5,2-5,2-0,7,1,2,12
+1713975,2026-08-27,LALIGA,2014-09-13,Spain - Primera Division 2014/2015,Barcelona,Athletic Club,2,0,2-0,0-0,2,0,1,4
+1713975,2026-08-27,LALIGA,2014-04-20,Spain - Primera Division 2013/2014,Barcelona,Athletic Club,2,1,2-1,0-0,3,1,1,8
+1713975,2026-08-27,LALIGA,2013-12-01,Spain - Primera Division 2013/2014,Athletic Club,Barcelona,1,0,1-0,0-0,1,0,1,8
+1713975,2026-08-27,LALIGA,2013-04-27,Spain - Primera Division 2012/2013,Athletic Club,Barcelona,2,2,2-2,0-1,4,1,X,9
+1713975,2026-08-27,LALIGA,2012-12-01,Spain - Primera Division 2012/2013,Barcelona,Athletic Club,5,1,5-1,0-3,6,1,1,10
+1713975,2026-08-27,LALIGA,2012-05-25,Spain - FA Cup 2011/2012,Athletic Club,Barcelona,0,3,0-3,3-0,3,0,2,7
+1713975,2026-08-27,LALIGA,2012-03-31,Spain - Primera Division 2011/2012,Barcelona,Athletic Club,2,0,2-0,0-1,2,0,1,6
+1713975,2026-08-27,LALIGA,2011-11-06,Spain - Primera Division 2011/2012,Athletic Club,Barcelona,2,2,2-2,1-1,4,1,X,10
+1713975,2026-08-27,LALIGA,2011-02-20,Spain - Primera Division 2010/2011,Barcelona,Athletic Club,2,1,2-1,0-1,3,1,1,9
+1713975,2026-08-27,LALIGA,2011-01-06,Spain - FA Cup 2010/2011,Athletic Club,Barcelona,1,1,1-1,0-0,2,1,X,2
+1713975,2026-08-27,LALIGA,2010-12-21,Spain - FA Cup 2010/2011,Barcelona,Athletic Club,0,0,0-0,0-0,0,0,X,0
+1713975,2026-08-27,LALIGA,2010-09-26,Spain - Primera Division 2010/2011,Athletic Club,Barcelona,1,3,1-3,0-0,4,1,2,8
+1713975,2026-08-27,LALIGA,2010-04-03,Spain - Division 1 2009/2010,Barcelona,Athletic Club,4,1,4-1,0-2,5,1,1,8
+1713975,2026-08-27,LALIGA,2009-11-22,Spain - Division 1 2009/2010,Athletic Club,Barcelona,1,1,1-1,0-0,2,1,X,4
+1713975,2026-08-27,LALIGA,2009-08-24,Spain - Super Cup 2009/2010,Barcelona,Athletic Club,3,0,3-0,0-0,3,0,1,3
+1713975,2026-08-27,LALIGA,2009-08-17,Spain - Super Cup 2009/2010,Athletic Club,Barcelona,1,2,1-2,0-1,3,1,2,3
+1713975,2026-08-27,LALIGA,2009-05-14,Spain - FA Cup 2008/2009,Athletic Club,Barcelona,1,4,1-4,1-1,5,1,2,5
+1713975,2026-08-27,LALIGA,2009-03-07,Spain - Division 1 2008/2009,Barcelona,Athletic Club,2,0,2-0,0-2,2,0,1,2
+1713975,2026-08-27,LALIGA,2008-10-19,Spain - Division 1 2008/2009,Athletic Club,Barcelona,0,1,0-1,0-0,1,0,2,1
+1713975,2026-08-27,LALIGA,2008-01-27,Spain - Division 1 2007/2008,Athletic Club,Barcelona,1,1,1-1,1-0,2,1,X,2
+1713975,2026-08-27,LALIGA,2007-09-02,Spain - Division 1 2007/2008,Barcelona,Athletic Club,3,1,3-1,0-2,4,1,1,6
+1713975,2026-08-27,LALIGA,2007-02-25,Spain - Division 1 2006/2007,Barcelona,Athletic Club,3,0,3-0,0-3,3,0,1,3
+1713975,2026-08-27,LALIGA,2006-10-01,Spain - Division 1 2006/2007,Athletic Club,Barcelona,1,3,1-3,1-1,4,1,2,5
+1713975,2026-08-27,LALIGA,2006-05-20,Spain - Division 1 2005/2006,Athletic Club,Barcelona,3,1,3-1,1-0,4,1,1,4
+1713975,2026-08-27,LALIGA,2006-01-15,Spain - Division 1 2005/2006,Barcelona,Athletic Club,2,1,2-1,1-1,3,1,1,4
+1713975,2026-08-27,LALIGA,2005-03-12,Spain - Division 1 2004/2005,Barcelona,Athletic Club,2,0,2-0,0-2,2,0,1,2
+1713975,2026-08-27,LALIGA,2004-10-30,Spain - Division 1 2004/2005,Athletic Club,Barcelona,1,1,1-1,1-1,2,1,X,3
+1713975,2026-08-27,LALIGA,2004-01-17,Spain - Division 1 2003/2004,Barcelona,Athletic Club,1,1,1-1,0-0,2,1,X,2
+1713975,2026-08-27,LALIGA,2003-08-31,Spain - Division 1 2003/2004,Athletic Club,Barcelona,0,1,0-1,1-0,1,0,2,1
+1713975,2026-08-27,LALIGA,2003-02-09,Spain - Division 1 2002/2003,Barcelona,Athletic Club,2,2,2-2,0-2,4,1,X,4
+1713975,2026-08-27,LALIGA,2002-09-15,Spain - Division 1 2002/2003,Athletic Club,Barcelona,0,2,0-2,2-0,2,0,2,2
+1713975,2026-08-27,LALIGA,2002-04-07,Spain - Division 1 2001/2002,Athletic Club,Barcelona,0,2,0-2,1-0,2,0,2,2
+1713975,2026-08-27,LALIGA,2001-11-24,Spain - Division 1 2001/2002,Barcelona,Athletic Club,1,2,1-2,1-0,3,1,2,4
+1713975,2026-08-27,LALIGA,2001-02-03,Spain - Division 1 2000/2001,Barcelona,Athletic Club,7,0,7-0,0-6,7,0,1,7
+1713975,2026-08-27,LALIGA,2000-09-16,Spain - Division 1 2000/2001,Athletic Club,Barcelona,3,1,3-1,1-1,4,1,1,4
+1713975,2026-08-27,LALIGA,2000-03-11,Spain - Division 1 1999/2000,Athletic Club,Barcelona,0,4,0-4,2-0,4,0,2,12
+1713975,2026-08-27,LALIGA,1999-10-24,Spain - Division 1 1999/2000,Barcelona,Athletic Club,4,0,4-0,0-1,4,0,1,10
+1713975,2026-08-27,LALIGA,1999-05-30,Spain - Division 1 1998/1999,Athletic Club,Barcelona,1,3,1-3,1-0,4,1,2,6
+1713975,2026-08-27,LALIGA,1999-01-10,Spain - Division 1 1998/1999,Barcelona,Athletic Club,4,2,4-2,0-2,6,1,1,6
+1713975,2026-08-27,LALIGA,1998-03-22,Spain - Division 1 1997/1998,Barcelona,Athletic Club,4,0,4-0,0-2,4,0,1,4
+1713975,2026-08-27,LALIGA,1997-11-12,Spain - Division 1 1997/1998,Athletic Club,Barcelona,3,0,3-0,0-1,3,0,1,3
+1713975,2026-08-27,LALIGA,1997-04-20,Spain - Division 1 1996/1997,Barcelona,Athletic Club,2,0,2-0,0-2,2,0,1,2
+1713975,2026-08-27,LALIGA,1996-11-23,Spain - Division 1 1996/1997,Athletic Club,Barcelona,2,1,2-1,1-2,3,1,1,3
+1713975,2026-08-27,LALIGA,1996-03-02,Spain - Division 1 1995/1996,Athletic Club,Barcelona,0,0,0-0,0-0,0,0,X,0
+1713975,2026-08-27,LALIGA,1995-10-14,Spain - Division 1 1995/1996,Barcelona,Athletic Club,4,1,4-1,1-4,5,1,1,5
+1713975,2026-08-27,LALIGA,1995-06-18,Spain - Division 1 1994/1995,Athletic Club,Barcelona,0,2,0-2,2-0,2,0,2,2
+1713975,2026-08-27,LALIGA,1995-01-28,Spain - Division 1 1994/1995,Barcelona,Athletic Club,1,0,1-0,0-1,1,0,1,1
+1713975,2026-08-27,LALIGA,1994-02-06,Spain - Division 1 1993/1994,Barcelona,Athletic Club,2,3,2-3,3-2,5,1,2,5
+1713975,2026-08-27,LALIGA,1993-09-19,Spain - Division 1 1993/1994,Athletic Club,Barcelona,0,0,0-0,0-0,0,0,X,0
+1707256,2026-08-27,LALIGA,2026-02-06,Spain - Laliga 2025/2026,Celta Vigo,Osasuna,1,2,1-2,1-0,3,1,2,7
+1707256,2026-08-27,LALIGA,2025-10-26,Spain - Laliga 2025/2026,Osasuna,Celta Vigo,2,3,2-3,2-2,5,1,2,12
+1707256,2026-08-27,LALIGA,2025-02-21,Spain - Segunda Division Rfef 2024/2025,Celta Vigo,Osasuna,1,0,1-0,0-0,1,0,1,2
+1707256,2026-08-27,LALIGA,2024-09-01,Spain - Segunda Division Rfef 2024/2025,Osasuna,Celta Vigo,3,2,3-2,1-2,5,1,1,8
+1707256,2026-08-27,LALIGA,2024-02-04,Spain - Laliga 2023/2024,Osasuna,Celta Vigo,0,3,0-3,2-0,3,0,2,5
+1707256,2026-08-27,LALIGA,2023-08-13,Spain - Laliga 2023/2024,Celta Vigo,Osasuna,0,2,0-2,1-0,2,0,2,4
+1707256,2026-08-27,LALIGA,2023-03-06,Spain - Laliga 2022/2023,Osasuna,Celta Vigo,0,0,0-0,0-0,0,0,X,2
+1707256,2026-08-27,LALIGA,2022-11-05,Spain - Laliga 2022/2023,Celta Vigo,Osasuna,1,2,1-2,2-1,3,1,2,9
+1707256,2026-08-27,LALIGA,2022-01-19,Spain - Segunda Division Rfef 2021/2022,Celta Vigo,Osasuna,2,0,2-0,0-2,2,0,1,5
+1707256,2026-08-27,LALIGA,2021-08-23,Spain - Segunda Division Rfef 2021/2022,Osasuna,Celta Vigo,0,0,0-0,0-0,0,0,X,7
+1707256,2026-08-27,LALIGA,2021-04-25,Spain - SD Promotion P.Off 2020/2021,Celta Vigo,Osasuna,2,1,2-1,0-1,3,1,1,8
+1707256,2026-08-27,LALIGA,2020-10-04,Spain - SD Promotion P.Off 2020/2021,Osasuna,Celta Vigo,2,0,2-0,0-1,2,0,1,8
+1707256,2026-08-27,LALIGA,2020-07-11,Spain - Primera Division 2019/2020,Osasuna,Celta Vigo,2,1,2-1,1-1,3,1,1,7
+1707256,2026-08-27,LALIGA,2020-01-05,Spain - Primera Division 2019/2020,Celta Vigo,Osasuna,1,1,1-1,0-0,2,1,X,8
+1707256,2026-08-27,LALIGA,2017-02-19,Spain - Primera Division 2016/2017,Celta Vigo,Osasuna,3,0,3-0,0-1,3,0,1,4
+1707256,2026-08-27,LALIGA,2016-09-18,Spain - Primera Division 2016/2017,Osasuna,Celta Vigo,0,0,0-0,0-0,0,0,X,5
+1707256,2026-08-27,LALIGA,2014-05-03,Spain - Primera Division 2013/2014,Osasuna,Celta Vigo,0,2,0-2,2-0,2,0,2,3
+1707256,2026-08-27,LALIGA,2013-12-22,Spain - Primera Division 2013/2014,Celta Vigo,Osasuna,1,1,1-1,1-1,2,1,X,5
+1707256,2026-08-27,LALIGA,2013-02-02,Spain - Primera Division 2012/2013,Osasuna,Celta Vigo,1,0,1-0,0-0,1,0,1,6
+1707256,2026-08-27,LALIGA,2012-09-01,Spain - Primera Division 2012/2013,Celta Vigo,Osasuna,2,0,2-0,0-0,2,0,1,7
+1707256,2026-08-27,LALIGA,2007-02-18,Spain - Division 1 2006/2007,Osasuna,Celta Vigo,0,1,0-1,1-0,1,0,2,2
+1707256,2026-08-27,LALIGA,2006-09-24,Spain - Division 1 2006/2007,Celta Vigo,Osasuna,0,2,0-2,1-0,2,0,2,3
+1707256,2026-08-27,LALIGA,2006-03-05,Spain - Division 1 2005/2006,Celta Vigo,Osasuna,2,0,2-0,0-1,2,0,1,3
+1707256,2026-08-27,LALIGA,2005-10-16,Spain - Division 1 2005/2006,Osasuna,Celta Vigo,2,0,2-0,0-0,2,0,1,2
+1707256,2026-08-27,LALIGA,2004-04-25,Spain - Division 1 2003/2004,Celta Vigo,Osasuna,1,0,1-0,0-0,1,0,1,1
+1707256,2026-08-27,LALIGA,2003-12-06,Spain - Division 1 2003/2004,Osasuna,Celta Vigo,3,2,3-2,1-1,5,1,1,5
+1707256,2026-08-27,LALIGA,2003-04-20,Spain - Division 1 2002/2003,Osasuna,Celta Vigo,0,2,0-2,1-0,2,0,2,2
+1707256,2026-08-27,LALIGA,2002-11-24,Spain - Division 1 2002/2003,Celta Vigo,Osasuna,0,0,0-0,0-0,0,0,X,0
+1707256,2026-08-27,LALIGA,2002-01-13,Spain - Division 1 2001/2002,Celta Vigo,Osasuna,1,1,1-1,0-1,2,1,X,2
+1707256,2026-08-27,LALIGA,2001-08-26,Spain - Division 1 2001/2002,Osasuna,Celta Vigo,0,3,0-3,1-0,3,0,2,7
+1707256,2026-08-27,LALIGA,2001-01-28,Spain - Division 1 2000/2001,Celta Vigo,Osasuna,1,0,1-0,0-0,1,0,1,1
+1707256,2026-08-27,LALIGA,2000-09-10,Spain - Division 1 2000/2001,Osasuna,Celta Vigo,0,2,0-2,0-0,2,0,2,2
+1707256,2026-08-27,LALIGA,1994-05-08,Spain - Division 1 1993/1994,Celta Vigo,Osasuna,4,0,4-0,0-4,4,0,1,4
+1707256,2026-08-27,LALIGA,1994-01-09,Spain - Division 1 1993/1994,Osasuna,Celta Vigo,0,1,0-1,1-0,1,0,2,1
+1714079,2026-08-27,CUP,2026-05-02,Brazil - Serie A 2025/2025,Palmeiras,Santos,1,1,1-1,1-0,2,1,X,4
+1714079,2026-08-27,CUP,2026-01-14,Brazil - Paulista A1 2026/2026,Palmeiras,Santos,1,0,1-0,0-1,1,0,1,1
+1714079,2026-08-27,CUP,2025-11-16,Brazil - Serie A 2025/2025,Santos,Palmeiras,1,0,1-0,0-0,1,0,1,3
+1714079,2026-08-27,CUP,2025-11-07,Brazil - Serie A 2025/2025,Palmeiras,Santos,2,0,2-0,0-0,2,0,1,5
+1714079,2026-08-27,CUP,2025-01-23,Brazil - Paulista A1 2024/2025,Santos,Palmeiras,1,1,1-1,0-1,2,1,X,3
+1714079,2026-08-27,CUP,2024-04-07,Brazil - Paulista A1 Playoff 2023/2024,Palmeiras,Santos,2,0,2-0,0-1,2,0,1,2
+1714079,2026-08-27,CUP,2024-03-31,Brazil - Paulista A1 Playoff 2023/2024,Santos,Palmeiras,1,0,1-0,0-0,1,0,1,1
+1714079,2026-08-27,CUP,2024-01-28,Brazil - Paulista A1 2023/2024,Palmeiras,Santos,2,1,2-1,0-0,3,1,1,3
+1714079,2026-08-27,CUP,2023-10-08,Brazil - State Football Leagues 2 2023/2024,Palmeiras,Santos,1,2,1-2,1-1,3,1,2,8
+1714079,2026-08-27,CUP,2023-05-21,Brazil - State Football Leagues 2 2023/2024,Santos,Palmeiras,0,0,0-0,0-0,0,0,X,5
+1714079,2026-08-27,CUP,2023-02-04,Brazil - Paulista A1 2022/2023,Palmeiras,Santos,3,1,3-1,0-2,4,1,1,4
+1714079,2026-08-27,CUP,2022-09-18,Brazil - State Football Leagues 2 2022/2023,Palmeiras,Santos,1,0,1-0,0-0,1,0,1,9
+1714079,2026-08-27,CUP,2022-05-29,Brazil - State Football Leagues 2 2022/2023,Santos,Palmeiras,0,1,0-1,0-0,1,0,2,7
+1714079,2026-08-27,CUP,2022-03-13,Brazil - Paulista A1 2021/2022,Palmeiras,Santos,1,0,1-0,0-1,1,0,1,2
+1714079,2026-08-27,CUP,2021-11-07,Brazil - State Football Leagues 2 2021/2022,Santos,Palmeiras,0,2,0-2,1-0,2,0,2,7
+1714079,2026-08-27,CUP,2021-07-10,Brazil - State Football Leagues 2 2021/2022,Palmeiras,Santos,3,2,3-2,0-2,5,1,1,12
+1714079,2026-08-27,CUP,2021-05-07,Brazil - Paulista A1 2020/2021,Palmeiras,Santos,3,2,3-2,1-2,5,1,1,5
+1714079,2026-08-27,CUP,2021-01-30,South America (CONMEBOL) - Copa Libertadores 2019/2020,Palmeiras,Santos,1,0,1-0,0-0,1,0,1,9
+1714079,2026-08-27,CUP,2020-12-05,Brazil - State Football Leagues 2 2020/2021,Santos,Palmeiras,2,2,2-2,0-1,4,1,X,11
+1714079,2026-08-27,CUP,2020-08-23,Brazil - State Football Leagues 2 2020/2021,Palmeiras,Santos,2,1,2-1,0-1,3,1,1,12
+1714079,2026-08-27,CUP,2020-02-29,Brazil - Paulista A1 2019/2020,Santos,Palmeiras,0,0,0-0,0-0,0,0,X,0
+1714079,2026-08-27,CUP,2019-10-10,Brazil - Serie A 2018/2019,Santos,Palmeiras,2,0,2-0,0-2,2,0,1,6
+1714079,2026-08-27,CUP,2019-05-18,Brazil - Serie A 2018/2019,Palmeiras,Santos,4,0,4-0,0-2,4,0,1,10
+1714079,2026-08-27,CUP,2019-02-23,Brazil - Paulista 2018/2019,Palmeiras,Santos,0,0,0-0,0-0,0,0,X,0
+1714079,2026-08-27,CUP,2018-11-03,Brazil - Serie A 2017/2018,Palmeiras,Santos,3,2,3-2,0-2,5,1,1,14
+1714079,2026-08-27,CUP,2018-07-20,Brazil - Serie A 2017/2018,Santos,Palmeiras,1,1,1-1,1-0,2,1,X,11
+1714079,2026-08-27,CUP,2018-03-28,Brazil - Pau P.Off SF 2017/2018,Palmeiras,Santos,5,3,5-3,2-1,8,1,1,11
+1714079,2026-08-27,CUP,2018-03-24,Brazil - Pau P.Off SF 2017/2018,Santos,Palmeiras,0,1,0-1,1-0,1,0,2,1
+1714079,2026-08-27,CUP,2018-02-04,Brazil - Paulista 2017/2018,Palmeiras,Santos,2,1,2-1,0-1,3,1,1,3
+1714079,2026-08-27,CUP,2017-09-30,Brazil - Serie A 2016/2017,Palmeiras,Santos,0,1,0-1,0-0,1,0,2,8
+1714079,2026-08-27,CUP,2017-06-15,Brazil - Serie A 2016/2017,Santos,Palmeiras,1,0,1-0,0-0,1,0,1,4
+1714079,2026-08-27,CUP,2017-03-19,Brazil - Paulista 2016/2017,Santos,Palmeiras,1,2,1-2,0-0,3,1,2,3
+1714079,2026-08-27,CUP,2016-10-29,Brazil - Serie A 2015/2016,Santos,Palmeiras,1,0,1-0,0-0,1,0,1,7
+1714079,2026-08-27,CUP,2016-07-13,Brazil - Serie A 2015/2016,Palmeiras,Santos,1,1,1-1,0-1,2,1,X,7
+1714079,2026-08-27,CUP,2016-04-24,Brazil - Paulista Final Phase 2015/2016,Santos,Palmeiras,3,2,3-2,0-1,5,1,1,9
+1714079,2026-08-27,CUP,2016-02-20,Brazil - Paulista 2015/2016,Palmeiras,Santos,0,0,0-0,0-0,0,0,X,0
+1714079,2026-08-27,CUP,2015-12-03,Brazil - FA Cup 2014/2015,Palmeiras,Santos,4,3,4-3,0-0,7,1,1,14
+1714079,2026-08-27,CUP,2015-11-26,Brazil - FA Cup 2014/2015,Santos,Palmeiras,1,0,1-0,0-0,1,0,1,12
+1714079,2026-08-27,CUP,2015-11-01,Brazil - Serie A 2014/2015,Santos,Palmeiras,2,1,2-1,0-1,3,1,1,10
+1714079,2026-08-27,CUP,2015-07-19,Brazil - Serie A 2014/2015,Palmeiras,Santos,1,0,1-0,0-1,1,0,1,7
+1714079,2026-08-27,CUP,2015-05-03,Brazil - Paulista Final Phase 2014/2015,Santos,Palmeiras,4,2,4-2,0-2,6,1,1,12
+1714079,2026-08-27,CUP,2015-04-26,Brazil - Paulista Final Phase 2014/2015,Palmeiras,Santos,1,0,1-0,0-1,1,0,1,2
+1714079,2026-08-27,CUP,2015-03-12,Brazil - Paulista 2014/2015,Santos,Palmeiras,2,1,2-1,1-1,3,1,1,3
+1714079,2026-08-27,CUP,2014-10-19,Brazil - Serie A 2013/2014,Palmeiras,Santos,1,3,1-3,2-0,4,1,2,13
+1714079,2026-08-27,CUP,2014-07-17,Brazil - Serie A 2013/2014,Santos,Palmeiras,2,0,2-0,0-1,2,0,1,6
+1714079,2026-08-27,CUP,2014-03-23,Brazil - Paulista 2013/2014,Santos,Palmeiras,2,1,2-1,0-2,3,1,1,3
+1714079,2026-08-27,CUP,2013-04-27,Brazil - Paulista Final Phase 2012/2013,Santos,Palmeiras,4,2,4-2,0-1,6,1,1,8
+1714079,2026-08-27,CUP,2013-03-24,Brazil - Paulista 2012/2013,Palmeiras,Santos,0,0,0-0,0-0,0,0,X,0
+1714079,2026-08-27,CUP,2012-12-01,Brazil - Division 1 2011/2012,Santos,Palmeiras,3,1,3-1,1-3,4,1,1,8
+1714079,2026-08-27,CUP,2012-08-25,Brazil - Division 1 2011/2012,Palmeiras,Santos,1,2,1-2,1-1,3,1,2,7
+1714079,2026-08-27,CUP,2012-02-05,Brazil - Paulista 2011/2012,Santos,Palmeiras,1,2,1-2,0-0,3,1,2,4
+1714079,2026-08-27,CUP,2011-10-09,Brazil - Division 1 2010/2011,Santos,Palmeiras,1,0,1-0,0-0,1,0,1,1
+1714079,2026-08-27,CUP,2011-07-10,Brazil - Division 1 2010/2011,Palmeiras,Santos,3,0,3-0,0-3,3,0,1,3
+1714079,2026-08-27,CUP,2011-04-03,Brazil - Paulista 2010/2011,Santos,Palmeiras,0,1,0-1,0-0,1,0,2,1
+1714079,2026-08-27,CUP,2010-10-02,Brazil - Division 1 2009/2010,Santos,Palmeiras,1,1,1-1,1-0,2,1,X,2
+1714079,2026-08-27,CUP,2010-07-16,Brazil - Division 1 2009/2010,Palmeiras,Santos,2,1,2-1,0-1,3,1,1,3
+1714079,2026-08-27,CUP,2010-03-14,Brazil - Paulista 2009/2010,Santos,Palmeiras,3,4,3-4,2-2,7,1,2,9
+1714079,2026-08-27,CUP,2009-10-04,Brazil - Division 1 2008/2009,Santos,Palmeiras,1,3,1-3,0-0,4,1,2,4
+1714079,2026-08-27,CUP,2009-06-29,Brazil - Division 1 2008/2009,Palmeiras,Santos,1,1,1-1,0-1,2,1,X,2
+1714079,2026-08-27,CUP,2009-02-08,Brazil - Paulista 2008/2009,Palmeiras,Santos,4,1,4-1,0-2,5,1,1,5
+1714079,2026-08-27,CUP,2008-11-02,Brazil - Division 1 2007/2008,Santos,Palmeiras,1,2,1-2,1-0,3,1,2,3
+1714079,2026-08-27,CUP,2008-07-25,Brazil - Division 1 2007/2008,Palmeiras,Santos,4,2,4-2,2-4,6,1,1,6
+1714079,2026-08-27,CUP,2008-01-20,Brazil - Paulista 2007/2008,Santos,Palmeiras,0,0,0-0,0-0,0,0,X,0
+1714079,2026-08-27,CUP,2007-10-14,Brazil - Division 1 2006/2007,Santos,Palmeiras,1,1,1-1,1-0,2,1,X,2
+1714079,2026-08-27,CUP,2007-07-20,Brazil - Division 1 2006/2007,Palmeiras,Santos,2,2,2-2,2-1,4,1,X,4
+1714079,2026-08-27,CUP,2007-02-04,Brazil - Paulista 2006/2007,Palmeiras,Santos,3,3,3-3,0-2,6,1,X,7
+1714079,2026-08-27,CUP,2006-09-03,Brazil - Division 1 2005/2006,Santos,Palmeiras,5,1,5-1,1-2,6,1,1,6
+1714079,2026-08-27,CUP,2006-04-30,Brazil - Division 1 2005/2006,Palmeiras,Santos,1,2,1-2,0-0,3,1,2,4
+1714079,2026-08-27,CUP,2005-09-22,Brazil - Division 1 2004/2005,Santos,Palmeiras,2,1,2-1,0-1,3,1,1,3
+1714079,2026-08-27,CUP,2005-05-29,Brazil - Division 1 2004/2005,Palmeiras,Santos,2,1,2-1,0-1,3,1,1,4
+1714079,2026-08-27,CUP,2004-09-12,Brazil - Division 1 2003/2004,Palmeiras,Santos,1,2,1-2,2-0,3,1,2,4
+1714079,2026-08-27,CUP,2004-05-23,Brazil - Division 1 2003/2004,Santos,Palmeiras,0,4,0-4,2-0,4,0,2,5
+1714079,2026-08-27,CUP,2002-09-29,Brazil - Division 1 2001/2002,Santos,Palmeiras,1,1,1-1,1-1,2,1,X,0
+1714080,2026-08-27,CUP,2026-07-16,Brazil - Serie A 2025/2025,Vitoria,Vasco Da Gama,1,0,1-0,0-0,1,0,1,1
+1714080,2026-08-27,CUP,2025-10-05,Brazil - Serie A 2025/2025,Vasco Da Gama,Vitoria,4,3,4-3,1-1,7,1,1,10
+1714080,2026-08-27,CUP,2025-05-10,Brazil - Serie A 2025/2025,Vitoria,Vasco Da Gama,2,1,2-1,1-0,3,1,1,8
+1714080,2026-08-27,CUP,2024-09-01,Brazil - Serie A 2023/2024,Vitoria,Vasco Da Gama,0,1,0-1,0-0,1,0,2,7
+1714080,2026-08-27,CUP,2024-05-12,Brazil - Serie A 2023/2024,Vasco Da Gama,Vitoria,2,1,2-1,0-0,3,1,1,11
+1714080,2026-08-27,CUP,2021-11-11,Brazil - Serie B 2020/2021,Vasco Da Gama,Vitoria,0,3,0-3,1-0,3,0,2,3
+1714080,2026-08-27,CUP,2021-08-07,Brazil - Serie B 2020/2021,Vitoria,Vasco Da Gama,0,1,0-1,1-0,1,0,2,2
+1714080,2026-08-27,CUP,2018-09-09,Brazil - Serie A 2017/2018,Vitoria,Vasco Da Gama,1,0,1-0,0-0,1,0,1,8
+1714080,2026-08-27,CUP,2018-05-13,Brazil - Serie A 2017/2018,Vasco Da Gama,Vitoria,2,3,2-3,1-1,5,1,2,11
+1714080,2026-08-27,CUP,2017-11-05,Brazil - Serie A 2016/2017,Vasco Da Gama,Vitoria,1,1,1-1,0-1,2,1,X,9
+1714080,2026-08-27,CUP,2017-07-13,Brazil - Serie A 2016/2017,Vitoria,Vasco Da Gama,1,4,1-4,1-0,5,1,2,11
+1714080,2026-08-27,CUP,2017-03-16,Brazil - FA Cup 2016/2017,Vitoria,Vasco Da Gama,1,0,1-0,0-0,1,0,1,1
+1714080,2026-08-27,CUP,2017-03-09,Brazil - FA Cup 2016/2017,Vasco Da Gama,Vitoria,1,1,1-1,0-0,2,1,X,3
+1714080,2026-08-27,CUP,2013-09-18,Brazil - Division 1 2012/2013,Vasco Da Gama,Vitoria,1,2,1-2,0-1,3,1,2,7
+1714080,2026-08-27,CUP,2013-06-01,Brazil - Division 1 2012/2013,Vitoria,Vasco Da Gama,2,0,2-0,0-1,2,0,1,4
+1714080,2026-08-27,CUP,2010-10-30,Brazil - Division 1 2009/2010,Vitoria,Vasco Da Gama,4,2,4-2,0-3,6,1,1,6
+1714080,2026-08-27,CUP,2010-08-09,Brazil - Division 1 2009/2010,Vasco Da Gama,Vitoria,1,0,1-0,0-1,1,0,1,2
+1714080,2026-08-27,CUP,2010-05-06,Brazil - FA Cup 2009/2010,Vasco Da Gama,Vitoria,3,1,3-1,1-1,4,1,1,7
+1714080,2026-08-27,CUP,2010-04-29,Brazil - FA Cup 2009/2010,Vitoria,Vasco Da Gama,2,0,2-0,0-1,2,0,1,2
+1714080,2026-08-27,CUP,2009-05-21,Brazil - FA Cup 2008/2009,Vitoria,Vasco Da Gama,1,1,1-1,1-1,2,1,X,3
+1714080,2026-08-27,CUP,2009-05-14,Brazil - FA Cup 2008/2009,Vasco Da Gama,Vitoria,4,0,4-0,0-2,4,0,1,5
+1714080,2026-08-27,CUP,2008-12-07,Brazil - Division 1 2007/2008,Vasco Da Gama,Vitoria,0,2,0-2,1-0,2,0,2,2
+1714080,2026-08-27,CUP,2008-08-10,Brazil - Division 1 2007/2008,Vitoria,Vasco Da Gama,5,0,5-0,0-2,5,0,1,5
+1714080,2026-08-27,CUP,2004-10-16,Brazil - Division 1 2003/2004,Vitoria,Vasco Da Gama,4,1,4-1,0-1,5,1,1,5
+1714080,2026-08-27,CUP,2004-07-07,Brazil - Division 1 2003/2004,Vasco Da Gama,Vitoria,3,1,3-1,1-1,4,1,1,5
+1714080,2026-08-27,CUP,2003-08-17,Brazil - Division 1 2002/2003,Vasco Da Gama,Vitoria,1,0,1-0,0-0,1,0,1,1
+1714080,2026-08-27,CUP,2003-04-14,Brazil - Division 1 2002/2003,Vitoria,Vasco Da Gama,2,1,2-1,1-1,3,1,1,3
+1714080,2026-08-27,CUP,2002-11-09,Brazil - Division 1 2001/2002,Vasco Da Gama,Vitoria,4,1,4-1,1-4,5,1,1,0
+1714080,2026-08-27,CUP,2002-08-18,Brazil - Division 1 2001/2002,Vasco Da Gama,Vitoria,2,1,2-1,1-2,3,1,1,0
+1713978,2026-08-27,LIGUE 1,2026-02-20,Algeria - 1. Division 2025/2026,MC Oran,MC Alger,2,1,2-1,1-1,3,1,1,3
+1713978,2026-08-27,LIGUE 1,2025-09-16,Algeria - 1. Division 2025/2026,MC Alger,MC Oran,3,2,3-2,2-2,5,1,1,6
+1713978,2026-08-27,LIGUE 1,2025-03-06,Algeria - Ligue 1 2024/2025,MC Oran,MC Alger,0,2,0-2,1-0,2,0,2,2
+1713978,2026-08-27,LIGUE 1,2024-10-11,Algeria - Ligue 1 2024/2025,MC Alger,MC Oran,1,0,1-0,0-0,1,0,1,1
+1713978,2026-08-27,LIGUE 1,2024-06-14,Algeria - Ligue 1 2023/2024,MC Alger,MC Oran,3,2,3-2,1-1,5,1,1,5
+1713978,2026-08-27,LIGUE 1,2024-01-26,Algeria - Ligue 1 2023/2024,MC Oran,MC Alger,0,2,0-2,0-0,2,0,2,2
+1713978,2026-08-27,LIGUE 1,2023-07-07,Algeria - Ligue 1 2022/2023,MC Alger,MC Oran,1,0,1-0,0-0,1,0,1,1
+1713978,2026-08-27,LIGUE 1,2022-12-07,Algeria - Ligue 1 2022/2023,MC Oran,MC Alger,3,0,3-0,0-1,3,0,1,3
+1713978,2026-08-27,LIGUE 1,2022-06-10,Algeria - Ligue 1 2021/2022,MC Alger,MC Oran,0,0,0-0,0-0,0,0,X,0
+1713978,2026-08-27,LIGUE 1,2022-02-05,Algeria - Ligue 1 2021/2022,MC Oran,MC Alger,1,0,1-0,0-0,1,0,1,2
+1713978,2026-08-27,LIGUE 1,2021-06-19,Algeria - Ligue 1 2020/2021,MC Oran,MC Alger,2,1,2-1,0-1,3,1,1,3
+1713978,2026-08-27,LIGUE 1,2021-01-11,Algeria - Ligue 1 2020/2021,MC Alger,MC Oran,1,1,1-1,0-1,2,1,X,2
+1713978,2026-08-27,LIGUE 1,2020-02-29,Algeria - Ligue 1 2019/2020,MC Alger,MC Oran,1,1,1-1,0-1,2,1,X,2
+1713978,2026-08-27,LIGUE 1,2019-09-15,Algeria - Ligue 1 2019/2020,MC Oran,MC Alger,2,3,2-3,2-0,5,1,2,5
+1713978,2026-08-27,LIGUE 1,2019-04-09,Algeria - Ligue 1 2018/2019,MC Alger,MC Oran,1,0,1-0,0-0,1,0,1,1
+1713978,2026-08-27,LIGUE 1,2018-09-22,Algeria - Ligue 1 2018/2019,MC Oran,MC Alger,4,3,4-3,1-3,7,1,1,7
+1713978,2026-08-27,LIGUE 1,2018-03-12,Algeria - Ligue 1 2017/2018,MC Alger,MC Oran,4,0,4-0,0-2,4,0,1,4
+1713978,2026-08-27,LIGUE 1,2017-10-17,Algeria - Ligue 1 2017/2018,MC Oran,MC Alger,0,0,0-0,0-0,0,0,X,0
+1713978,2026-08-27,LIGUE 1,2017-04-21,Algeria - Ligue 1 2016/2017,MC Oran,MC Alger,0,0,0-0,0-0,0,0,X,0
+1713978,2026-08-27,LIGUE 1,2016-09-23,Algeria - Ligue 1 2016/2017,MC Alger,MC Oran,1,0,1-0,0-0,1,0,1,2
+1713978,2026-08-27,LIGUE 1,2016-04-26,Algeria - Ligue 1 2015/2016,MC Oran,MC Alger,0,0,0-0,0-0,0,0,X,0
+1713978,2026-08-27,LIGUE 1,2015-11-21,Algeria - Ligue 1 2015/2016,MC Alger,MC Oran,1,0,1-0,0-1,1,0,1,1
+1713978,2026-08-27,LIGUE 1,2015-05-23,Algeria - Ligue 1 2014/2015,MC Alger,MC Oran,1,0,1-0,0-0,1,0,1,1
+1713978,2026-08-27,LIGUE 1,2014-12-20,Algeria - Ligue 1 2014/2015,MC Oran,MC Alger,1,1,1-1,0-1,2,1,X,2
+1713978,2026-08-27,LIGUE 1,2014-02-08,Algeria - Ligue 1 2013/2014,MC Alger,MC Oran,2,0,2-0,0-1,2,0,1,2
+1713978,2026-08-27,LIGUE 1,2013-09-03,Algeria - Ligue 1 2013/2014,MC Oran,MC Alger,1,1,1-1,0-0,2,1,X,3
+1713976,2026-08-27,LIGUE 1,2026-04-05,Algeria - 1. Division 2025/2026,ES Setif,ES Ben Aknoun,1,1,1-1,1-1,2,1,X,2
+1713976,2026-08-27,LIGUE 1,2025-11-02,Algeria - 1. Division 2025/2026,ES Ben Aknoun,ES Setif,0,1,0-1,0-0,1,0,2,2
+1713976,2026-08-27,LIGUE 1,2024-06-07,Algeria - Ligue 1 2023/2024,ES Ben Aknoun,ES Setif,1,0,1-0,0-0,1,0,1,3
+1713976,2026-08-27,LIGUE 1,2024-01-13,Algeria - Ligue 1 2023/2024,ES Setif,ES Ben Aknoun,1,1,1-1,1-0,2,1,X,2
+1713989,2026-08-27,QATAR STARS LEAGUE,2026-05-01,Qatar - Amir Cup 2026/2026,Al-Rayyan SC,Al-Wakrah,0,3,0-3,0-0,3,0,2,15
+1713989,2026-08-27,QATAR STARS LEAGUE,2026-03-17,Qatar - Qatar Stars League 2025/2026,Al-Rayyan SC,Al-Wakrah,2,1,2-1,1-0,3,1,1,3
+1713989,2026-08-27,QATAR STARS LEAGUE,2025-10-26,Qatar - Qatar Stars League 2025/2026,Al-Wakrah,Al-Rayyan SC,0,2,0-2,0-0,2,0,2,2
+1713989,2026-08-27,QATAR STARS LEAGUE,2025-02-23,Qatar - Qatar Stars League 2024/2025,Al-Wakrah,Al-Rayyan SC,0,4,0-4,1-0,4,0,2,5
+1713989,2026-08-27,QATAR STARS LEAGUE,2024-09-22,Qatar - Qatar Stars League 2024/2025,Al-Rayyan SC,Al-Wakrah,0,2,0-2,2-0,2,0,2,2
+1713989,2026-08-27,QATAR STARS LEAGUE,2024-03-06,Qatar - Qatar Stars League 2023/2024,Al-Rayyan SC,Al-Wakrah,3,0,3-0,0-2,3,0,1,4
+1713989,2026-08-27,QATAR STARS LEAGUE,2023-09-29,Qatar - Qatar Stars League 2023/2024,Al-Wakrah,Al-Rayyan SC,3,2,3-2,1-2,5,1,1,5
+1713989,2026-08-27,QATAR STARS LEAGUE,2023-05-03,Qatar - Qatar Stars League 2022/2023,Al-Wakrah,Al-Rayyan SC,1,0,1-0,0-0,1,0,1,2
+1713989,2026-08-27,QATAR STARS LEAGUE,2023-03-12,Qatar - Qatar Stars League 2022/2023,Al-Rayyan SC,Al-Wakrah,1,1,1-1,0-0,2,1,X,2
+1713989,2026-08-27,QATAR STARS LEAGUE,2022-01-10,Qatar - Second Division 2021/2022,Al-Rayyan SC,Al-Wakrah,3,0,3-0,0-1,3,0,1,3
+1713989,2026-08-27,QATAR STARS LEAGUE,2021-09-17,Qatar - Second Division 2021/2022,Al-Wakrah,Al-Rayyan SC,1,1,1-1,0-1,2,1,X,2
+1713989,2026-08-27,QATAR STARS LEAGUE,2021-01-19,Qatar - Qatar Stars League 2020/2021,Al-Wakrah,Al-Rayyan SC,0,3,0-3,1-0,3,0,2,3
+1713989,2026-08-27,QATAR STARS LEAGUE,2020-10-19,Qatar - Qatar Stars League 2020/2021,Al-Rayyan SC,Al-Wakrah,1,0,1-0,0-0,1,0,1,1
+1713989,2026-08-27,QATAR STARS LEAGUE,2020-08-21,Qatar - Stars League 2019/2020,Al-Wakrah,Al-Rayyan SC,0,2,0-2,0-0,2,0,2,2
+1713989,2026-08-27,QATAR STARS LEAGUE,2019-12-22,Qatar - Stars League 2019/2020,Al-Rayyan SC,Al-Wakrah,1,0,1-0,0-0,1,0,1,1
+1713989,2026-08-27,QATAR STARS LEAGUE,2019-12-01,Qatar - Stars Cup 2019/2020,Al-Wakrah,Al-Rayyan SC,1,0,1-0,0-0,1,0,1,1
+1713989,2026-08-27,QATAR STARS LEAGUE,2017-03-04,Qatar - Stars League 2016/2017,Al-Rayyan SC,Al-Wakrah,4,0,4-0,0-2,4,0,1,4
+1713989,2026-08-27,QATAR STARS LEAGUE,2016-12-11,Qatar - Stars League 2016/2017,Al-Wakrah,Al-Rayyan SC,0,1,0-1,1-0,1,0,2,1
+1713989,2026-08-27,QATAR STARS LEAGUE,2016-03-05,Qatar - Stars League 2015/2016,Al-Wakrah,Al-Rayyan SC,0,5,0-5,2-0,5,0,2,5
+1713989,2026-08-27,QATAR STARS LEAGUE,2015-11-06,Qatar - Stars League 2015/2016,Al-Rayyan SC,Al-Wakrah,2,1,2-1,1-1,3,1,1,4
+1713989,2026-08-27,QATAR STARS LEAGUE,2015-04-28,Qatar - Emir Cup 2014/2015,Al-Rayyan SC,Al-Wakrah,2,1,2-1,0-1,3,1,1,5
+1713989,2026-08-27,QATAR STARS LEAGUE,2014-01-17,Qatar - Stars League 2013/2014,Al-Wakrah,Al-Rayyan SC,2,1,2-1,1-0,3,1,1,3
+1713989,2026-08-27,QATAR STARS LEAGUE,2013-09-21,Qatar - Stars League 2013/2014,Al-Rayyan SC,Al-Wakrah,1,3,1-3,0-0,4,1,2,3
+1713989,2026-08-27,QATAR STARS LEAGUE,2013-09-20,Qatar - Stars League 2013/2014,Al-Rayyan SC,Al-Wakrah,1,3,1-3,0-0,4,1,2,4
+1713992,2026-08-27,NWSL,2026-06-01,Usa - Nwsl 2026/2026,Angel City FC (w),North Carolina Courage (w),1,2,1-2,0-0,3,1,2,4
+1713992,2026-08-27,NWSL,2025-09-13,Usa - Nwsl 2025/2025,North Carolina Courage (w),Angel City FC (w),2,1,2-1,2-2,3,1,1,3
+1713992,2026-08-27,NWSL,2025-06-15,Usa - Nwsl Women 2024/2025,Angel City FC (w),North Carolina Courage (w),1,1,1-1,1-1,2,1,X,3
+1713992,2026-08-27,NWSL,2024-10-13,Usa - Nwsl Women 2023/2024,North Carolina Courage (w),Angel City FC (w),1,1,1-1,0-0,2,1,X,2
+1713992,2026-08-27,NWSL,2024-04-22,Usa - Nwsl Women 2023/2024,Angel City FC (w),North Carolina Courage (w),2,1,2-1,0-1,3,1,1,3
+1713992,2026-08-27,NWSL,2023-07-10,Usa - Nwsl Women 2022/2023,Angel City FC (w),North Carolina Courage (w),2,1,2-1,1-1,3,1,1,3
+1713992,2026-08-27,NWSL,2023-05-21,Usa - Nwsl Women 2022/2023,North Carolina Courage (w),Angel City FC (w),0,0,0-0,0-0,0,0,X,0
+1713992,2026-08-27,NWSL,2022-09-15,Usa - Nwsl Women 2021/2022,North Carolina Courage (w),Angel City FC (w),1,0,1-0,0-0,1,0,1,1
+1713992,2026-08-27,NWSL,2022-04-30,Usa - Nwsl Women 2021/2022,Angel City FC (w),North Carolina Courage (w),2,1,2-1,0-2,3,1,1,3
+1714054,2026-08-27,USL CHAMPIONSHIP WESTERN CONFERENCE,2024-10-27,Usa - Usl Championship 2023/2024,Pittsburgh Riverhounds,El Paso Locomotive,2,0,2-0,0-2,2,0,1,2
+1714054,2026-08-27,USL CHAMPIONSHIP WESTERN CONFERENCE,2023-04-23,Usa - Usl Championship 2022/2023,El Paso Locomotive,Pittsburgh Riverhounds,2,0,2-0,0-1,2,0,1,2
+1714054,2026-08-27,USL CHAMPIONSHIP WESTERN CONFERENCE,2022-05-15,Usa - Usl Championship 2021/2022,Pittsburgh Riverhounds,El Paso Locomotive,1,0,1-0,0-0,1,0,1,1

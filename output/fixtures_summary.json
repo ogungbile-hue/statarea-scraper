@@ -1,0 +1,6314 @@
+[
+  {
+    "fixture": {
+      "match_id": "1713975",
+      "date": "2026-08-27",
+      "time": "20:00",
+      "competition": "LALIGA",
+      "country": "Spain",
+      "home_team": "Barcelona",
+      "away_team": "Athletic Club",
+      "tip": "1",
+      "comparison_url": "https://www.statarea.com/compare/teams/Barcelona (Spain)/Athletic+Club (Spain)",
+      "odds": {
+        "coef_1": 73,
+        "coef_x": 14,
+        "coef_2": 13,
+        "coef_ht1": 46,
+        "coef_htx": 30,
+        "coef_ht2": 24,
+        "coef_o15": 92,
+        "coef_o25": 70,
+        "coef_o35": 47,
+        "coef_bts": 50,
+        "coef_ots": 50
+      },
+      "user_votes": {
+        "vote_1": 7,
+        "vote_x": 1,
+        "vote_2": 1,
+        "likes": 5,
+        "dislikes": 0
+      }
+    },
+    "home_team_info": {
+      "name": "Barcelona",
+      "official_name": "Futbol Club Barcelona",
+      "found": "29 November 1899",
+      "country": "Spain",
+      "website": "http://www.fcbarcelona.com",
+      "world_rank": 3
+    },
+    "away_team_info": {
+      "name": "Athletic Club",
+      "official_name": "Athletic Club",
+      "found": "1898",
+      "country": "Spain",
+      "website": "http://www.athletic-club.net",
+      "world_rank": 13
+    },
+    "h2h_matches": [
+      {
+        "date": "2026-03-07",
+        "competition": "Spain - Laliga 2025/2026",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 50' Alejandro Rego",
+          "[ycard] 57' Pau Cubarsi",
+          "[goal] 68' Lamine Yamal",
+          "[ycard] 90' Dani Vivian"
+        ]
+      },
+      {
+        "date": "2026-01-07",
+        "competition": "Spain - Super Cup 2024/2025",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "5",
+        "away_goals": "0",
+        "half_time_score": "0-4",
+        "events": [
+          "[goal] 22' Ferran Torres",
+          "[goal] 30' Fermin Lopez",
+          "[goal] 34' Roony Bardghji",
+          "[goal] 38' Raphinha",
+          "[goal] 52' Raphinha"
+        ]
+      },
+      {
+        "date": "2025-11-22",
+        "competition": "Spain - Laliga 2025/2026",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "4",
+        "away_goals": "0",
+        "half_time_score": "2-2",
+        "events": [
+          "[goal] 4' Robert Lewandowski",
+          "[ycard] 43' Inigo Ruiz De Galarreta",
+          "[goal] 45' Ferran Torres",
+          "[goal] 48' Fermin Lopez",
+          "[rcard] 54' Oihan Sancet",
+          "[ycard] 73' Andoni Gorosabel",
+          "[goal] 90' Ferran Torres"
+        ]
+      },
+      {
+        "date": "2025-05-25",
+        "competition": "Spain - Segunda Division Rfef 2024/2025",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "3",
+        "half_time_score": "2-0",
+        "events": [
+          "[goal] 14' Lewandowski Robert",
+          "[goal] 17' Lewandowski Robert",
+          "[ycard] 75' Berchiche Yuri",
+          "[penalty] 90' Olmo Daniel"
+        ]
+      },
+      {
+        "date": "2025-01-08",
+        "competition": "Spain - Super Cup 2024/2025",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "2",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 17' Gavira Pablo",
+          "[ycard] 50' Berenguer Alex",
+          "[goal] 52' Yamal Lamine"
+        ]
+      },
+      {
+        "date": "2024-08-24",
+        "competition": "Spain - Segunda Division Rfef 2024/2025",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 24' Yamal Lamine",
+          "[ycard] 38' Alvarez Yeray",
+          "[ycard] 41' Cubarsi Pau",
+          "[penalty] 42' Sancet Oihan",
+          "[ycard] 49' Bernal Marc",
+          "[ycard] 56' Berenguer Alex",
+          "[goal] 75' Lewandowski Robert",
+          "[ycard] 85' Lewandowski Robert",
+          "[ycard] 87' Lekue Inigo",
+          "[ycard] 90' Herrera Ander",
+          "[ycard] 90' Lopez Fermin",
+          "[ycard] 90' Jauregizar Mikel"
+        ]
+      },
+      {
+        "date": "2024-03-03",
+        "competition": "Spain - Laliga 2023/2024",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 32' Hernandez Xavi",
+          "[ycard] 32' Araujo Ronald",
+          "[ycard] 52' Garcia Dani",
+          "[ycard] 62' Christensen Andreas",
+          "[ycard] 65' Garcia De Albeniz Imanol",
+          "[ycard] 86' Berenguer Alex",
+          "[ycard] 88' Kounde Jules"
+        ]
+      },
+      {
+        "date": "2024-01-24",
+        "competition": "Spain - Fa Cup 2023/2024",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "4",
+        "away_goals": "2",
+        "half_time_score": "2-1",
+        "events": [
+          "[goal] 1' Guruzeta Gorka",
+          "[ycard] 17' Christensen Andreas",
+          "[ycard] 17' Hernandez Xavi",
+          "[goal] 26' Lewandowski Robert",
+          "[goal] 32' Yamal Lamine",
+          "[ycard] 36' Sancet Oihan",
+          "[goal] 49' Sancet Oihan",
+          "[ycard] 82' Prados Benat",
+          "[ycard] 83' Torres Ferran",
+          "[ycard] 84' Fort Hector",
+          "[ycard] 95' Yamal Lamine",
+          "[goal] 105' Williams Inaki",
+          "[ycard] 109' Herrera Ander",
+          "[ycard] 115' De Jong Frenkie",
+          "[ycard] 117' Roberto Sergi",
+          "[goal] 120' Williams Nico",
+          "[ycard] 120' Williams Nico"
+        ]
+      },
+      {
+        "date": "2023-10-22",
+        "competition": "Spain - Laliga 2023/2024",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 16' Gavira Pablo",
+          "[ycard] 37' Garcia Dani",
+          "[ycard] 41' Romeu Oriol",
+          "[ycard] 73' Ares Malcom",
+          "[goal] 80' Guiu Marc",
+          "[ycard] 83' Guiu Marc",
+          "[ycard] 89' De Marcos Oscar"
+        ]
+      },
+      {
+        "date": "2023-03-12",
+        "competition": "Spain - Laliga 2022/2023",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[ycard] 30' Williams Inaki",
+          "[goal] 45' Raphinha",
+          "[ycard] 76' Roberto Sergi",
+          "[ycard] 86' Zarraga Oier"
+        ]
+      },
+      {
+        "date": "2022-10-23",
+        "competition": "Spain - Laliga 2022/2023",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "4",
+        "away_goals": "0",
+        "half_time_score": "0-3",
+        "events": [
+          "[goal] 12' Dembele Ousmane",
+          "[ycard] 16' De Marcos Oscar",
+          "[goal] 18' Roberto Sergi",
+          "[goal] 22' Lewandowski Robert",
+          "[ycard] 28' Hernandez Xavi",
+          "[ycard] 71' Busquets Sergio",
+          "[goal] 73' Torres Ferran",
+          "[ycard] 78' Garcia Eric",
+          "[ycard] 89' Vesga Mikel"
+        ]
+      },
+      {
+        "date": "2022-02-27",
+        "competition": "Spain - Segunda Division Rfef 2021/2022",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "4",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 37' Aubameyang Pierre-emerick-",
+          "[ycard] 48' Busquets Sergio",
+          "[ycard] 54' Balenziaga Mikel",
+          "[ycard] 70' Pique Gerard",
+          "[goal] 73' Dembele Ousmane",
+          "[goal] 90' De Jong Luuk",
+          "[goal] 90' Depay Memphis"
+        ]
+      },
+      {
+        "date": "2022-01-20",
+        "competition": "Spain - FA Cup 2021/2022",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "3",
+        "away_goals": "2",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 2' Muniain Iker",
+          "[goal] 20' Torres Ferran",
+          "[ycard] 30' Garcia Dani",
+          "[ycard] 76' Pique Gerard",
+          "[goal] 86' Martinez Inigo",
+          "[goal] 90' Pedri",
+          "[ycard] 97' Pedri",
+          "[ycard] 104' De Marcos Oscar",
+          "[ycard] 104' De Jong Frenkie",
+          "[ycard] 105' Alba Jordi",
+          "[penalty] 105' Muniain Iker",
+          "[ycard] 119' Williams Inaki",
+          "[ycard] 120' Muniain Iker"
+        ]
+      },
+      {
+        "date": "2021-08-21",
+        "competition": "Spain - Segunda Division Rfef 2021/2022",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 20' Martinez Inigo",
+          "[ycard] 28' Garcia Eric",
+          "[goal] 50' Martinez Inigo",
+          "[goal] 75' Depay Memphis",
+          "[ycard] 76' Alba Jordi",
+          "[rcard] 90' Garcia Eric"
+        ]
+      },
+      {
+        "date": "2021-04-17",
+        "competition": "Spain - FA Cup 2020/2021",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "4",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 39' Garcia Dani",
+          "[goal] 60' Griezmann Antoine",
+          "[goal] 63' De Jong Frenkie",
+          "[goal] 68' Messi Lionel",
+          "[goal] 72' Messi Lionel",
+          "[ycard] 90' Berchiche Yuri"
+        ]
+      },
+      {
+        "date": "2021-01-31",
+        "competition": "Spain - SD Promotion P.Off 2020/2021",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 20' Messi",
+          "[ycard] 32' Garcia",
+          "[ycard] 39' Alvarez",
+          "[ycard] 47' De Jong",
+          "[own] 49' Alba",
+          "[ycard] 50' Alba",
+          "[goal] 74' Griezmann",
+          "[ycard] 77' Capa"
+        ]
+      },
+      {
+        "date": "2021-01-17",
+        "competition": "Spain - Super Cup 2020/2021",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "2",
+        "away_goals": "3",
+        "half_time_score": "1-1",
+        "events": [
+          "[ycard] 11' Lenglet",
+          "[goal] 40' Griezmann",
+          "[goal] 42' De Marcos",
+          "[ycard] 67' Garcia",
+          "[goal] 77' Griezmann",
+          "[goal] 90' Villalibre",
+          "[goal] 94' Williams",
+          "[ycard] 109' Villalibre",
+          "[ycard] 110' Morcillo",
+          "[ycard] 114' Alba",
+          "[rcard] 120' Messi"
+        ]
+      },
+      {
+        "date": "2021-01-06",
+        "competition": "Spain - SD Promotion P.Off 2020/2021",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "2",
+        "away_goals": "3",
+        "half_time_score": "2-1",
+        "events": [
+          "[goal] 3' Williams",
+          "[goal] 14' Pedri",
+          "[ycard] 27' Vesga",
+          "[goal] 38' Messi",
+          "[ycard] 57' Lenglet",
+          "[goal] 62' Messi",
+          "[ycard] 70' Garcia",
+          "[goal] 90' Muniain"
+        ]
+      },
+      {
+        "date": "2020-06-23",
+        "competition": "Spain - Primera Division 2019/2020",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 32' Busquets",
+          "[ycard] 62' Nunez",
+          "[goal] 71' Rakitic",
+          "[ycard] 90' Rakitic"
+        ]
+      },
+      {
+        "date": "2020-02-06",
+        "competition": "Spain - FA Cup 2019/2020",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 6' Semedo Nelson",
+          "[ycard] 39' Messi Lionel",
+          "[ycard] 40' Alba Jordi",
+          "[ycard] 44' Alvarez Yeray",
+          "[ycard] 53' Vesga Mikel",
+          "[ycard] 57' De Jong Frenkie",
+          "[ycard] 63' Garcia Dani",
+          "[ycard] 72' Pique Gerard",
+          "[ycard] 82' Arthur Melo",
+          "[goal] 90' Williams Inaki"
+        ]
+      },
+      {
+        "date": "2019-08-16",
+        "competition": "Spain - Primera Division 2019/2020",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 60' Pique Gerard",
+          "[ycard] 65' Nunez Unai",
+          "[goal] 89' Aduriz Aritz"
+        ]
+      },
+      {
+        "date": "2019-02-10",
+        "competition": "Spain - Primera Division 2018/2019",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 52' Garcia Dani",
+          "[ycard] 69' De Marcos Oscar",
+          "[ycard] 72' Lenglet Clement",
+          "[ycard] 78' Busquets Sergio",
+          "[dycard] 90' De Marcos Oscar",
+          "[ycard] 90' Alvarez Yeray"
+        ]
+      },
+      {
+        "date": "2018-09-29",
+        "competition": "Spain - Primera Division 2018/2019",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 41' De Marcos Oscar",
+          "[ycard] 48' Alvarez Yeray",
+          "[ycard] 78' Rakitic Ivan",
+          "[goal] 84' El Haddadi Munir",
+          "[ycard] 89' Busquets Sergio",
+          "[ycard] 90' Messi Lionel",
+          "[ycard] 90' Garcia Dani",
+          "[ycard] 90' Nolaskoain Peru"
+        ]
+      },
+      {
+        "date": "2018-03-18",
+        "competition": "Spain - Primera Division 2017/2018",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 8' Alcacer Paco",
+          "[ycard] 17' Umtiti Samuel",
+          "[goal] 30' Messi Lionel",
+          "[ycard] 30' Garcia Raul",
+          "[ycard] 39' Dembele Ousmane",
+          "[ycard] 40' Lekue Inigo"
+        ]
+      },
+      {
+        "date": "2017-10-28",
+        "competition": "Spain - Primera Division 2017/2018",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "2",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 36' Messi Lionel",
+          "[ycard] 41' Iturraspe Ander",
+          "[ycard] 47' Busquets Sergio",
+          "[ycard] 63' Pique Gerard",
+          "[ycard] 75' Paulinho",
+          "[ycard] 81' Umtiti Samuel",
+          "[goal] 90' Paulinho"
+        ]
+      },
+      {
+        "date": "2017-02-04",
+        "competition": "Spain - Primera Division 2016/2017",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "3",
+        "away_goals": "0",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 18' Alcacer Paco",
+          "[ycard] 22' Pique Gerard",
+          "[ycard] 27' Iturraspe Ander",
+          "[ycard] 34' De Marcos Oscar",
+          "[goal] 40' Messi Lionel",
+          "[goal] 67' Vidal Aleix",
+          "[ycard] 70' Laporte Aymeric"
+        ]
+      },
+      {
+        "date": "2017-01-11",
+        "competition": "Spain - FA Cup 2016/2017",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "3",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[ycard] 28' Etxeita Xabier",
+          "[ycard] 30' Umtiti Samuel",
+          "[goal] 35' Suarez Luis",
+          "[ycard] 41' Laporte Aymeric",
+          "[penalty] 48' Neymar",
+          "[goal] 51' Saborit Enric",
+          "[ycard] 73' Elustondo Gorka",
+          "[ycard] 77' Etxebarria Benat",
+          "[goal] 78' Messi Lionel",
+          "[ycard] 90' Williams Inaki"
+        ]
+      },
+      {
+        "date": "2017-01-05",
+        "competition": "Spain - FA Cup 2016/2017",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 25' Aduriz Aritz",
+          "[goal] 28' Williams Inaki",
+          "[ycard] 40' Aduriz Aritz",
+          "[ycard] 40' Umtiti Samuel",
+          "[ycard] 45' Busquets Sergio",
+          "[ycard] 45' Iniesta Andres",
+          "[ycard] 45' Alba Jordi",
+          "[goal] 52' Messi Lionel",
+          "[ycard] 53' Iturraspe Ander",
+          "[ycard] 55' Garcia Raul",
+          "[dycard] 74' Garcia Raul",
+          "[dycard] 80' Iturraspe Ander"
+        ]
+      },
+      {
+        "date": "2016-08-28",
+        "competition": "Spain - Primera Division 2016/2017",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[ycard] 10' Umtiti Samuel",
+          "[goal] 21' Rakitic Ivan",
+          "[ycard] 37' Busquets Sergio",
+          "[ycard] 38' Suarez Luis",
+          "[ycard] 45' Susaeta Markel",
+          "[ycard] 56' Iturraspe Ander",
+          "[ycard] 59' Roberto Sergi",
+          "[ycard] 62' Eraso Javier",
+          "[ycard] 83' Etxebarria Benat",
+          "[ycard] 90' Balenziaga Mikel"
+        ]
+      },
+      {
+        "date": "2016-01-27",
+        "competition": "Spain - FA Cup 2015/2016",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "3",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 12' Williams Inaki",
+          "[ycard] 19' Rico Mikel",
+          "[ycard] 40' Balenziaga Mikel",
+          "[ycard] 52' Lekue Inigo",
+          "[goal] 53' Suarez Luis",
+          "[ycard] 70' Suarez Luis",
+          "[goal] 81' Pique Gerard",
+          "[goal] 90' Neymar Da Silva"
+        ]
+      },
+      {
+        "date": "2016-01-20",
+        "competition": "Spain - FA Cup 2015/2016",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "1",
+        "away_goals": "2",
+        "half_time_score": "2-0",
+        "events": [
+          "[goal] 18' El Haddadi Munir",
+          "[goal] 25' Neymar Da Silva",
+          "[ycard] 39' Iniesta Andres",
+          "[ycard] 54' Laporte Aymeric",
+          "[ycard] 65' De Marcos Oscar",
+          "[ycard] 67' Etxeita Xabier",
+          "[ycard] 76' Merino Sabin",
+          "[ycard] 77' Iturraspe Ander",
+          "[ycard] 78' Mascherano Javier",
+          "[goal] 89' Aduriz Aritz",
+          "[ycard] 90' Alves Dani",
+          "[ycard] 90' San Jose Mikel"
+        ]
+      },
+      {
+        "date": "2016-01-17",
+        "competition": "Spain - Primera Division 2015/2016",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "6",
+        "away_goals": "0",
+        "half_time_score": "0-2",
+        "events": [
+          "[rcard] 4' Iraizoz Gorka",
+          "[penalty] 7' Messi Lionel",
+          "[goal] 31' Neymar Da Silva",
+          "[goal] 47' Suarez Luis",
+          "[ycard] 51' Mascherano Javier",
+          "[goal] 62' Rakitic Ivan",
+          "[goal] 68' Suarez Luis",
+          "[ycard] 70' De Marcos Oscar",
+          "[goal] 82' Suarez Luis",
+          "[ycard] 85' Eraso Javier",
+          "[ycard] 88' Pique Gerard"
+        ]
+      },
+      {
+        "date": "2015-08-23",
+        "competition": "Spain - Primera Division 2015/2016",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 34' Elustondo Gorka",
+          "[ycard] 37' Eraso Javier",
+          "[ycard] 44' Rakitic Ivan",
+          "[goal] 54' Suarez Luis",
+          "[ycard] 64' Vermaelen Thomas",
+          "[ycard] 71' Gomez Ibai",
+          "[ycard] 75' Suarez Luis"
+        ]
+      },
+      {
+        "date": "2015-08-17",
+        "competition": "Spain - Super Cup 2015/2016",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[ycard] 30' Boveda Eneko",
+          "[ycard] 41' Eraso Javier",
+          "[goal] 43' Messi Lionel",
+          "[ycard] 45' Pedro",
+          "[rcard] 57' Pique Gerard",
+          "[ycard] 59' Aduriz Aritz",
+          "[ycard] 60' Benat",
+          "[goal] 74' Aduriz Aritz",
+          "[rcard] 86' Sola Kike"
+        ]
+      },
+      {
+        "date": "2015-08-14",
+        "competition": "Spain - Super Cup 2015/2016",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "4",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 14' San Jose Mikel",
+          "[ycard] 41' Pedro",
+          "[ycard] 44' Eraso Javier",
+          "[ycard] 45' Etxebarria Benat",
+          "[goal] 53' Aduriz Aritz",
+          "[goal] 62' Aduriz Aritz",
+          "[ycard] 67' Alves Dani",
+          "[penalty] 68' Aduriz Aritz",
+          "[ycard] 73' Susaeta Markel",
+          "[ycard] 74' Etxeita Xabier",
+          "[ycard] 80' Mascherano Javier",
+          "[ycard] 88' Gurpegui Carlos",
+          "[ycard] 90' San Jose Mikel",
+          "[ycard] 90' Iniesta Andres"
+        ]
+      },
+      {
+        "date": "2015-05-30",
+        "competition": "Spain - FA Cup 2014/2015",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "1",
+        "away_goals": "3",
+        "half_time_score": "2-0",
+        "events": [
+          "[goal] 20' Messi L.",
+          "[goal] 36' Neymar",
+          "[ycard] 42' Pique G.",
+          "[ycard] 43' Iraola A.",
+          "[ycard] 58' Balenziaga M.",
+          "[ycard] 67' Williams I.",
+          "[goal] 74' Messi L.",
+          "[goal] 80' Williams I.",
+          "[ycard] 89' Neymar",
+          "[ycard] 89' Aduriz A.",
+          "[ycard] 90' Busquets S."
+        ]
+      },
+      {
+        "date": "2015-02-08",
+        "competition": "Spain - Primera Division 2014/2015",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "2",
+        "away_goals": "5",
+        "half_time_score": "2-0",
+        "events": [
+          "[goal] 15' Messi L.",
+          "[goal] 26' Suarez L.",
+          "[ycard] 40' Balenziaga M.",
+          "[ycard] 45' Alves D.",
+          "[goal] 59' Rico M.",
+          "[own] 62' De Marcos O.",
+          "[goal] 64' Neymar",
+          "[goal] 66' Aduriz A.",
+          "[ycard] 69' Lopez U.",
+          "[rcard] 75' Etxeita X.",
+          "[goal] 86' Pedro",
+          "[ycard] 90' Gurpegi C."
+        ]
+      },
+      {
+        "date": "2014-09-13",
+        "competition": "Spain - Primera Division 2014/2015",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 30' Aduriz A.",
+          "[ycard] 62' Busquets S.",
+          "[goal] 79' Neymar",
+          "[goal] 84' Neymar"
+        ]
+      },
+      {
+        "date": "2014-04-20",
+        "competition": "Spain - Primera Division 2013/2014",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 7' Iturraspe A.",
+          "[ycard] 21' Bartra M.",
+          "[goal] 50' Aduriz A.",
+          "[goal] 72' Pedro",
+          "[ycard] 72' Herrera A.",
+          "[ycard] 73' De Marcos O.",
+          "[goal] 74' Messi L.",
+          "[ycard] 80' Pedro"
+        ]
+      },
+      {
+        "date": "2013-12-01",
+        "competition": "Spain - Primera Division 2013/2014",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 19' Rico M.",
+          "[ycard] 54' Neymar",
+          "[ycard] 57' Busquets S.",
+          "[ycard] 57' Iturraspe A.",
+          "[ycard] 70' Toquero G.",
+          "[goal] 70' Muniain I.",
+          "[ycard] 73' Mascherano J.",
+          "[ycard] 78' Adriano"
+        ]
+      },
+      {
+        "date": "2013-04-27",
+        "competition": "Spain - Primera Division 2012/2013",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "2",
+        "away_goals": "2",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 27' Susaeta M.",
+          "[ycard] 35' Fabregas C.",
+          "[ycard] 39' Herrera A.",
+          "[ycard] 55' Adriano",
+          "[goal] 67' Messi L.",
+          "[goal] 69' Sanchez A.",
+          "[ycard] 88' Gurpegi C.",
+          "[ycard] 90' De Marcos O.",
+          "[goal] 90' Herrera A."
+        ]
+      },
+      {
+        "date": "2012-12-01",
+        "competition": "Spain - Primera Division 2012/2013",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "5",
+        "away_goals": "1",
+        "half_time_score": "0-3",
+        "events": [
+          "[goal] 22' Pique G.",
+          "[own] 25' Amorebieta F.",
+          "[ycard] 26' Busquets S.",
+          "[ycard] 34' De Marcos O.",
+          "[goal] 45' Adriano",
+          "[ycard] 55' Iturraspe A.",
+          "[goal] 57' Fabregas C.",
+          "[goal] 65' Perez I.",
+          "[goal] 70' Messi L.",
+          "[ycard] 90' Herrera A."
+        ]
+      },
+      {
+        "date": "2012-05-25",
+        "competition": "Spain - FA Cup 2011/2012",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "3",
+        "half_time_score": "3-0",
+        "events": [
+          "[goal] 3' Pedro",
+          "[goal] 20' Messi",
+          "[goal] 25' Pedro",
+          "[ycard] 40' Susaeta",
+          "[ycard] 43' Iraola",
+          "[ycard] 66' Xavi",
+          "[ycard] 71' Iniesta"
+        ]
+      },
+      {
+        "date": "2012-03-31",
+        "competition": "Spain - Primera Division 2011/2012",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 40' Iniesta",
+          "[ycard] 52' Toquero",
+          "[ycard] 56' Iturraspe",
+          "[ycard] 58' Martinez",
+          "[penalty] 58' Messi",
+          "[ycard] 66' Busquets"
+        ]
+      },
+      {
+        "date": "2011-11-06",
+        "competition": "Spain - Primera Division 2011/2012",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "2",
+        "away_goals": "2",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 20' Herrera",
+          "[ycard] 22' Herrera",
+          "[goal] 24' Fabregas",
+          "[ycard] 49' Martinez",
+          "[ycard] 54' Iturraspe",
+          "[ycard] 63' Pique",
+          "[ycard] 69' Amorebieta",
+          "[own] 80' Pique",
+          "[goal] 90' Messi",
+          "[rcard] 90' Amorebieta"
+        ]
+      },
+      {
+        "date": "2011-02-20",
+        "competition": "Spain - Primera Division 2010/2011",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 4' Villa",
+          "[ycard] 24' Koikili",
+          "[ycard] 32' Iraola",
+          "[ycard] 36' Alves",
+          "[penalty] 50' Iraola",
+          "[ycard] 50' Busquets",
+          "[ycard] 52' Pique",
+          "[goal] 77' Messi",
+          "[ycard] 90' Gurpegi"
+        ]
+      },
+      {
+        "date": "2011-01-06",
+        "competition": "Spain - FA Cup 2010/2011",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 75' Abidal",
+          "[goal] 85' Llorente"
+        ]
+      },
+      {
+        "date": "2010-12-21",
+        "competition": "Spain - FA Cup 2010/2011",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": []
+      },
+      {
+        "date": "2010-09-26",
+        "competition": "Spain - Primera Division 2010/2011",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "1",
+        "away_goals": "3",
+        "half_time_score": "0-0",
+        "events": [
+          "[rcard] 35' Amorebieta",
+          "[goal] 55' Keita",
+          "[ycard] 59' Pique",
+          "[goal] 74' Xavi",
+          "[ycard] 81' Aurtenetxe",
+          "[rcard] 87' Villa",
+          "[goal] 90' Gabilondo",
+          "[goal] 90' Busquets"
+        ]
+      },
+      {
+        "date": "2010-04-03",
+        "competition": "Spain - Division 1 2009/2010",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "4",
+        "away_goals": "1",
+        "half_time_score": "0-2",
+        "events": [
+          "[ycard] 0' Gurpegi",
+          "[goal] 27' Jeffren",
+          "[goal] 40' Bojan",
+          "[goal] 59' Bojan",
+          "[ycard] 61' Martinez",
+          "[ycard] 61' Toure",
+          "[goal] 67' Messi",
+          "[goal] 77' Susaeta"
+        ]
+      },
+      {
+        "date": "2009-11-22",
+        "competition": "Spain - Division 1 2009/2010",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 54' Alves",
+          "[goal] 63' Toquero",
+          "[ycard] 65' Keita",
+          "[ycard] 81' Martinez"
+        ]
+      },
+      {
+        "date": "2009-08-24",
+        "competition": "Spain - Super Cup 2009/2010",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "3",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 50' Messi",
+          "[penalty] 68' Messi",
+          "[goal] 72' Krkic"
+        ]
+      },
+      {
+        "date": "2009-08-17",
+        "competition": "Spain - Super Cup 2009/2010",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "1",
+        "away_goals": "2",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 44' De Marcos",
+          "[goal] 59' Xavi",
+          "[goal] 68' Pedro"
+        ]
+      },
+      {
+        "date": "2009-05-14",
+        "competition": "Spain - FA Cup 2008/2009",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "1",
+        "away_goals": "4",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 9' Toquero",
+          "[goal] 31' Toure",
+          "[goal] 55' Messi",
+          "[goal] 58' Bojan",
+          "[goal] 64' Xavi"
+        ]
+      },
+      {
+        "date": "2009-03-07",
+        "competition": "Spain - Division 1 2008/2009",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 17' Busquets",
+          "[penalty] 32' Messi"
+        ]
+      },
+      {
+        "date": "2008-10-19",
+        "competition": "Spain - Division 1 2008/2009",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 63' Etoo"
+        ]
+      },
+      {
+        "date": "2008-01-27",
+        "competition": "Spain - Division 1 2007/2008",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 35' Bojan",
+          "[goal] 79' Llorente"
+        ]
+      },
+      {
+        "date": "2007-09-02",
+        "competition": "Spain - Division 1 2007/2008",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "3",
+        "away_goals": "1",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 8' Ronaldinho",
+          "[penalty] 35' Ronaldinho",
+          "[goal] 71' Susaeta",
+          "[goal] 72' Toure",
+          "[rcard] 76' Marquez",
+          "[rcard] 79' Koikili"
+        ]
+      },
+      {
+        "date": "2007-02-25",
+        "competition": "Spain - Division 1 2006/2007",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "3",
+        "away_goals": "0",
+        "half_time_score": "0-3",
+        "events": [
+          "[own] 22' Amorebieta",
+          "[goal] 29' Xavi",
+          "[goal] 40' Etoo"
+        ]
+      },
+      {
+        "date": "2006-10-01",
+        "competition": "Spain - Division 1 2006/2007",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "1",
+        "away_goals": "3",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 11' Yeste",
+          "[rcard] 19' Casas",
+          "[own] 45' Ustaritz",
+          "[goal] 60' Gudjohnsen",
+          "[goal] 76' Saviola"
+        ]
+      },
+      {
+        "date": "2006-05-20",
+        "competition": "Spain - Division 1 2005/2006",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "3",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 36' Etoo",
+          "[goal] 57' Iraola",
+          "[goal] 80' Gurendez",
+          "[own] 82' Oleguer"
+        ]
+      },
+      {
+        "date": "2006-01-15",
+        "competition": "Spain - Division 1 2005/2006",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 16' Llorente",
+          "[penalty] 38' Ronaldinho",
+          "[goal] 51' Messi",
+          "[rcard] 90' Deco"
+        ]
+      },
+      {
+        "date": "2005-03-12",
+        "competition": "Spain - Division 1 2004/2005",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 21' Deco",
+          "[goal] 39' Giuly"
+        ]
+      },
+      {
+        "date": "2004-10-30",
+        "competition": "Spain - Division 1 2004/2005",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 11' Etoo",
+          "[goal] 14' Yeste",
+          "[rcard] 80' Gurpegui"
+        ]
+      },
+      {
+        "date": "2004-01-17",
+        "competition": "Spain - Division 1 2003/2004",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 62' Kluivert P.",
+          "[goal] 85' Gurpegui"
+        ]
+      },
+      {
+        "date": "2003-08-31",
+        "competition": "Spain - Division 1 2003/2004",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 12' Cocu P."
+        ]
+      },
+      {
+        "date": "2003-02-09",
+        "competition": "Spain - Division 1 2002/2003",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "2",
+        "away_goals": "2",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 5' Saviola J.",
+          "[goal] 13' Overmars M.",
+          "[penalty] 49' Ezquerro",
+          "[goal] 55' Yeste"
+        ]
+      },
+      {
+        "date": "2002-09-15",
+        "competition": "Spain - Division 1 2002/2003",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "2",
+        "half_time_score": "2-0",
+        "events": [
+          "[goal] 21' Luis Enrique",
+          "[goal] 35' Saviola J."
+        ]
+      },
+      {
+        "date": "2002-04-07",
+        "competition": "Spain - Division 1 2001/2002",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "2",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 16' Saviola J.",
+          "[goal] 75' Saviola J."
+        ]
+      },
+      {
+        "date": "2001-11-24",
+        "competition": "Spain - Division 1 2001/2002",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "1",
+        "away_goals": "2",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 13' Urzaiz I.",
+          "[goal] 59' Rivaldo V.",
+          "[rcard] 75' Karanka D.",
+          "[goal] 81' Ezquerro"
+        ]
+      },
+      {
+        "date": "2001-02-03",
+        "competition": "Spain - Division 1 2000/2001",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "7",
+        "away_goals": "0",
+        "half_time_score": "0-6",
+        "events": [
+          "[goal] 5' Enrique L.",
+          "[goal] 24' Enrique L.",
+          "[goal] 25' Cocu P.",
+          "[goal] 30' Abelardo",
+          "[goal] 35' Enrique L.",
+          "[goal] 44' Cocu P.",
+          "[goal] 66' Overmars M."
+        ]
+      },
+      {
+        "date": "2000-09-16",
+        "competition": "Spain - Division 1 2000/2001",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "3",
+        "away_goals": "1",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 25' Kluivert P.",
+          "[goal] 42' Larrazabal",
+          "[goal] 63' Larrazabal",
+          "[goal] 91' Yeste"
+        ]
+      },
+      {
+        "date": "2000-03-11",
+        "competition": "Spain - Division 1 1999/2000",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "4",
+        "half_time_score": "2-0",
+        "events": [
+          "[ycard] 7' Ferreira",
+          "[goal] 8' Cocu P.",
+          "[ycard] 10' Abelardo",
+          "[goal] 30' Kluivert P.",
+          "[ycard] 39' Etxeberria J.",
+          "[ycard] 48' Hesp R.",
+          "[ycard] 57' De Boer R.",
+          "[ycard] 57' Figo L.",
+          "[ycard] 66' Mari J.",
+          "[ycard] 73' Larrazabal",
+          "[goal] 74' Cocu P.",
+          "[goal] 89' Figo L."
+        ]
+      },
+      {
+        "date": "1999-10-24",
+        "competition": "Spain - Division 1 1999/2000",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "4",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[ycard] 9' Felipe O.",
+          "[ycard] 22' Larrazabal",
+          "[ycard] 36' Larrazabal",
+          "[goal] 38' Cocu P.",
+          "[ycard] 41' Alkiza",
+          "[goal] 60' Rivaldo V.",
+          "[ycard] 69' Guardiola",
+          "[ycard] 73' Zenden B.",
+          "[goal] 77' Figo L.",
+          "[goal] 91' Dani"
+        ]
+      },
+      {
+        "date": "1999-05-30",
+        "competition": "Spain - Division 1 1998/1999",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "1",
+        "away_goals": "3",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 6' Kluivert P.",
+          "[goal] 49' Ferreira",
+          "[rcard] 64' Felipe O.",
+          "[goal] 65' Rivaldo V.",
+          "[goal] 88' Rivaldo V.",
+          "[ycard] 92' Guardiola"
+        ]
+      },
+      {
+        "date": "1999-01-10",
+        "competition": "Spain - Division 1 1998/1999",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "4",
+        "away_goals": "2",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 22' Luis Enrique",
+          "[goal] 40' Cocu P.",
+          "[goal] 51' Urzaiz I.",
+          "[goal] 54' Rivaldo V.",
+          "[goal] 72' Julen Guerrero",
+          "[goal] 85' Rivaldo V."
+        ]
+      },
+      {
+        "date": "1998-03-22",
+        "competition": "Spain - Division 1 1997/1998",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "4",
+        "away_goals": "0",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 4' Giovanni",
+          "[goal] 14' Anderson",
+          "[goal] 46' Anderson",
+          "[goal] 79' Oscar T."
+        ]
+      },
+      {
+        "date": "1997-11-12",
+        "competition": "Spain - Division 1 1997/1998",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "3",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 40' Ziganda",
+          "[goal] 49' Alkiza",
+          "[goal] 72' Urzaiz I."
+        ]
+      },
+      {
+        "date": "1997-04-20",
+        "competition": "Spain - Division 1 1996/1997",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 0' noname",
+          "[goal] 0' noname"
+        ]
+      },
+      {
+        "date": "1996-11-23",
+        "competition": "Spain - Division 1 1996/1997",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "1-2",
+        "events": [
+          "[goal] 0' noname",
+          "[goal] 0' noname",
+          "[goal] 0' noname"
+        ]
+      },
+      {
+        "date": "1996-03-02",
+        "competition": "Spain - Division 1 1995/1996",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": []
+      },
+      {
+        "date": "1995-10-14",
+        "competition": "Spain - Division 1 1995/1996",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "4",
+        "away_goals": "1",
+        "half_time_score": "1-4",
+        "events": [
+          "[goal] 0' noname",
+          "[goal] 0' noname",
+          "[goal] 0' noname",
+          "[goal] 0' noname",
+          "[goal] 0' noname"
+        ]
+      },
+      {
+        "date": "1995-06-18",
+        "competition": "Spain - Division 1 1994/1995",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "2",
+        "half_time_score": "2-0",
+        "events": [
+          "[goal] 0' noname",
+          "[goal] 0' noname"
+        ]
+      },
+      {
+        "date": "1995-01-28",
+        "competition": "Spain - Division 1 1994/1995",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 0' noname"
+        ]
+      },
+      {
+        "date": "1994-02-06",
+        "competition": "Spain - Division 1 1993/1994",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Club",
+        "home_goals": "2",
+        "away_goals": "3",
+        "half_time_score": "3-2",
+        "events": [
+          "[goal] 0' noname",
+          "[goal] 0' noname",
+          "[goal] 0' noname",
+          "[goal] 0' noname",
+          "[goal] 0' noname"
+        ]
+      },
+      {
+        "date": "1993-09-19",
+        "competition": "Spain - Division 1 1993/1994",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": []
+      }
+    ],
+    "recent_form_home": [
+      {
+        "date": "2026-08-23",
+        "competition": "Spain - Laliga 2026/2027",
+        "home_team": "Elche",
+        "away_team": "Barcelona",
+        "score": "0-5"
+      },
+      {
+        "date": "2026-08-19",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Barcelona",
+        "away_team": "Al Ahly Cairo",
+        "score": "2-1"
+      },
+      {
+        "date": "2026-08-16",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "FC Basel 1893",
+        "away_team": "Barcelona",
+        "score": "2-5"
+      },
+      {
+        "date": "2026-08-08",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Udinese",
+        "away_team": "Barcelona",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-08-08",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Barcelona",
+        "away_team": "Nottingham Forest",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-07-31",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Birmingham",
+        "away_team": "Barcelona",
+        "score": "2-2"
+      },
+      {
+        "date": "2026-07-24",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Barcelona",
+        "away_team": "Ce Europa",
+        "score": "4-1"
+      },
+      {
+        "date": "2026-05-23",
+        "competition": "Spain - Laliga 2025/2026",
+        "home_team": "Valencia",
+        "away_team": "Barcelona",
+        "score": "3-1"
+      },
+      {
+        "date": "2026-05-17",
+        "competition": "Spain - Laliga 2025/2026",
+        "home_team": "Barcelona",
+        "away_team": "Betis",
+        "score": "3-1"
+      },
+      {
+        "date": "2026-05-13",
+        "competition": "Spain - Laliga 2025/2026",
+        "home_team": "Deportivo Alaves",
+        "away_team": "Barcelona",
+        "score": "1-0"
+      }
+    ],
+    "recent_form_away": [
+      {
+        "date": "2026-08-22",
+        "competition": "Spain - Laliga 2026/2027",
+        "home_team": "Athletic Club",
+        "away_team": "Sevilla",
+        "score": "1-3"
+      },
+      {
+        "date": "2026-08-14",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Atalanta",
+        "away_team": "Athletic Club",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-08-09",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Marseille",
+        "away_team": "Athletic Club",
+        "score": "3-1"
+      },
+      {
+        "date": "2026-08-01",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Burgos",
+        "away_team": "Athletic Club",
+        "score": "0-3"
+      },
+      {
+        "date": "2026-07-29",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Racing Santander",
+        "away_team": "Athletic Club",
+        "score": "0-3"
+      },
+      {
+        "date": "2026-07-25",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Athletic Club",
+        "away_team": "Eibar",
+        "score": "2-2"
+      },
+      {
+        "date": "2026-07-22",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Sestao River",
+        "away_team": "Athletic Club",
+        "score": "0-2"
+      },
+      {
+        "date": "2026-07-18",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "SD Leioa",
+        "away_team": "Athletic Club",
+        "score": "0-11"
+      },
+      {
+        "date": "2026-07-15",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Cd Derio",
+        "away_team": "Athletic Club",
+        "score": "0-3"
+      },
+      {
+        "date": "2026-05-23",
+        "competition": "Spain - Laliga 2025/2026",
+        "home_team": "Real Madrid",
+        "away_team": "Athletic Club",
+        "score": "4-2"
+      }
+    ],
+    "match_facts": []
+  },
+  {
+    "fixture": {
+      "match_id": "1707256",
+      "date": "2026-08-27",
+      "time": "19:30",
+      "competition": "LALIGA",
+      "country": "Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Osasuna",
+      "tip": "1",
+      "comparison_url": "https://www.statarea.com/compare/teams/Celta+Vigo (Spain)/Osasuna (Spain)",
+      "odds": {
+        "coef_1": 54,
+        "coef_x": 24,
+        "coef_2": 22,
+        "coef_ht1": 32,
+        "coef_htx": 51,
+        "coef_ht2": 17,
+        "coef_o15": 73,
+        "coef_o25": 47,
+        "coef_o35": 24,
+        "coef_bts": 52,
+        "coef_ots": 48
+      },
+      "user_votes": {
+        "vote_1": 6,
+        "vote_x": 1,
+        "vote_2": 2,
+        "likes": 3,
+        "dislikes": 2
+      }
+    },
+    "home_team_info": {
+      "name": "Celta Vigo",
+      "official_name": "Real Club Celta de Vigo, S.A.D.",
+      "found": "23 August 1923",
+      "country": "Spain",
+      "website": "http://www.rccelta.es",
+      "world_rank": 78
+    },
+    "away_team_info": {
+      "name": "Osasuna",
+      "official_name": "Club Atlético Osasuna",
+      "found": "24 October 1920",
+      "country": "Spain",
+      "website": "http://www.osasuna.es",
+      "world_rank": 106
+    },
+    "h2h_matches": [
+      {
+        "date": "2026-02-06",
+        "competition": "Spain - Laliga 2025/2026",
+        "home_team": "Celta Vigo",
+        "away_team": "Osasuna",
+        "home_goals": "1",
+        "away_goals": "2",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 35' Ante Budimir",
+          "[ycard] 45' Ruben Garcia",
+          "[penalty] 53' Borja Iglesias",
+          "[ycard] 56' Javi Rueda",
+          "[ycard] 78' Sergio Carreira",
+          "[goal] 79' Raul Garcia",
+          "[ycard] 90' Valentin Rosier"
+        ]
+      },
+      {
+        "date": "2025-10-26",
+        "competition": "Spain - Laliga 2025/2026",
+        "home_team": "Osasuna",
+        "away_team": "Celta Vigo",
+        "home_goals": "2",
+        "away_goals": "3",
+        "half_time_score": "2-2",
+        "events": [
+          "[ycard] 13' Ferran Jutgla",
+          "[goal] 26' Ferran Jutgla",
+          "[ycard] 35' Manu Fernandez",
+          "[penalty] 37' Ante Budimir",
+          "[goal] 45' Ante Budimir",
+          "[ycard] 53' Damian Rodriguez",
+          "[ycard] 62' Alejandro Catena",
+          "[ycard] 66' Borja Iglesias",
+          "[goal] 69' Ferran Jutgla",
+          "[goal] 87' Pablo Duran",
+          "[ycard] 87' Abel Bretones",
+          "[ycard] 90' Flavien Boyomo"
+        ]
+      },
+      {
+        "date": "2025-02-21",
+        "competition": "Spain - Segunda Division Rfef 2024/2025",
+        "home_team": "Celta Vigo",
+        "away_team": "Osasuna",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 38' Lopez Fer",
+          "[penalty] 69' Aspas Iago"
+        ]
+      },
+      {
+        "date": "2024-09-01",
+        "competition": "Spain - Segunda Division Rfef 2024/2025",
+        "home_team": "Osasuna",
+        "away_team": "Celta Vigo",
+        "home_goals": "3",
+        "away_goals": "2",
+        "half_time_score": "1-2",
+        "events": [
+          "[goal] 21' Boyomo Flavien",
+          "[goal] 29' Iglesias Borja",
+          "[own] 45' Dominguez Carlos",
+          "[goal] 62' Bretones Abel",
+          "[ycard] 66' Torro Lucas",
+          "[ycard] 74' Garcia Ruben",
+          "[rcard] 86' Gonzalez Alfonso",
+          "[own] 90' Gomez Moi"
+        ]
+      },
+      {
+        "date": "2024-02-04",
+        "competition": "Spain - Laliga 2023/2024",
+        "home_team": "Osasuna",
+        "away_team": "Celta Vigo",
+        "home_goals": "0",
+        "away_goals": "3",
+        "half_time_score": "2-0",
+        "events": [
+          "[ycard] 12' Garcia David",
+          "[goal] 24' Strand Larsen Joergen",
+          "[goal] 25' De La Torre Luca",
+          "[ycard] 84' Barja Enrique",
+          "[goal] 90' Douvikas Anastasios"
+        ]
+      },
+      {
+        "date": "2023-08-13",
+        "competition": "Spain - Laliga 2023/2024",
+        "home_team": "Celta Vigo",
+        "away_team": "Osasuna",
+        "home_goals": "0",
+        "away_goals": "2",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 24' Garcia Ruben",
+          "[ycard] 30' Nunez Unai",
+          "[ycard] 51' Torro Lucas",
+          "[goal] 74' Gomez Moi"
+        ]
+      },
+      {
+        "date": "2023-03-06",
+        "competition": "Spain - Laliga 2022/2023",
+        "home_team": "Osasuna",
+        "away_team": "Celta Vigo",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 13' De La Torre Luca",
+          "[ycard] 90' Mallo Hugo"
+        ]
+      },
+      {
+        "date": "2022-11-05",
+        "competition": "Spain - Laliga 2022/2023",
+        "home_team": "Celta Vigo",
+        "away_team": "Osasuna",
+        "home_goals": "1",
+        "away_goals": "2",
+        "half_time_score": "2-1",
+        "events": [
+          "[ycard] 5' Garcia Unai",
+          "[goal] 8' Avila Ezequiel",
+          "[ycard] 16' Avila Ezequiel",
+          "[goal] 19' Aspas Iago",
+          "[goal] 28' Avila Ezequiel",
+          "[ycard] 42' Oroz Aimar",
+          "[ycard] 44' Aitor",
+          "[ycard] 66' Swedberg Williot",
+          "[ycard] 88' Kike"
+        ]
+      },
+      {
+        "date": "2022-01-19",
+        "competition": "Spain - Segunda Division Rfef 2021/2022",
+        "home_team": "Celta Vigo",
+        "away_team": "Osasuna",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 29' Mallo Hugo",
+          "[ycard] 31' Galan Javi",
+          "[goal] 38' Mina Santi",
+          "[ycard] 84' Benito Iker",
+          "[ycard] 90' Vidal Nacho"
+        ]
+      },
+      {
+        "date": "2021-08-23",
+        "competition": "Spain - Segunda Division Rfef 2021/2022",
+        "home_team": "Osasuna",
+        "away_team": "Celta Vigo",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 33' Brasanac Darko",
+          "[ycard] 46' Dominguez Carlos",
+          "[ycard] 51' Oier",
+          "[ycard] 51' Nolito",
+          "[ycard] 56' Tapia Renato",
+          "[ycard] 77' Sanchez Manuel",
+          "[ycard] 79' Torres Roberto"
+        ]
+      },
+      {
+        "date": "2021-04-25",
+        "competition": "Spain - SD Promotion P.Off 2020/2021",
+        "home_team": "Celta Vigo",
+        "away_team": "Osasuna",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[ycard] 25' Cruz Juan",
+          "[ycard] 32' Brasanac Darko",
+          "[ycard] 36' Moncayola Jon",
+          "[goal] 42' Aspas Iago",
+          "[goal] 64' Murillo Jeison",
+          "[ycard] 75' Aspas Iago",
+          "[penalty] 77' Torres Roberto",
+          "[ycard] 88' Sanchez Manuel"
+        ]
+      },
+      {
+        "date": "2020-10-04",
+        "competition": "Spain - SD Promotion P.Off 2020/2021",
+        "home_team": "Osasuna",
+        "away_team": "Celta Vigo",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 23' Roncaglia",
+          "[ycard] 26' Tapia",
+          "[ycard] 54' Garcia",
+          "[ycard] 60' Oier",
+          "[goal] 76' Calleri",
+          "[ycard] 82' Rodriguez",
+          "[dycard] 82' Garcia",
+          "[ycard] 90' Murillo"
+        ]
+      },
+      {
+        "date": "2020-07-11",
+        "competition": "Spain - Primera Division 2019/2020",
+        "home_team": "Osasuna",
+        "away_team": "Celta Vigo",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "1-1",
+        "events": [
+          "[ycard] 3' Hernandez",
+          "[goal] 10' Mina",
+          "[ycard] 19' Saenz",
+          "[goal] 23' Gallego",
+          "[ycard] 48' Garcia",
+          "[ycard] 59' Rafinha",
+          "[goal] 90' Arnaiz"
+        ]
+      },
+      {
+        "date": "2020-01-05",
+        "competition": "Spain - Primera Division 2019/2020",
+        "home_team": "Celta Vigo",
+        "away_team": "Osasuna",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 24' Vazquez Kevin",
+          "[ycard] 47' Estupinan Pervis",
+          "[ycard] 52' Brasanac Darko",
+          "[ycard] 62' Beltran Fran",
+          "[goal] 75' Mina Santi",
+          "[ycard] 76' Oier Sanjurjo",
+          "[ycard] 82' Rafinha Alcantara",
+          "[goal] 83' Avila Ezequiel"
+        ]
+      },
+      {
+        "date": "2017-02-19",
+        "competition": "Spain - Primera Division 2016/2017",
+        "home_team": "Celta Vigo",
+        "away_team": "Osasuna",
+        "home_goals": "3",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 23' Sisto Pione",
+          "[ycard] 80' Castro Jonny",
+          "[goal] 87' Sanchez Jozabed",
+          "[goal] 89' Aspas Iago"
+        ]
+      },
+      {
+        "date": "2016-09-18",
+        "competition": "Spain - Primera Division 2016/2017",
+        "home_team": "Osasuna",
+        "away_team": "Celta Vigo",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 27' Oier Sanjurjo",
+          "[ycard] 32' Garcia David",
+          "[ycard] 36' Merida Fran",
+          "[ycard] 43' Guidetti John",
+          "[ycard] 64' Torres Roberto"
+        ]
+      },
+      {
+        "date": "2014-05-03",
+        "competition": "Spain - Primera Division 2013/2014",
+        "home_team": "Osasuna",
+        "away_team": "Celta Vigo",
+        "home_goals": "0",
+        "away_goals": "2",
+        "half_time_score": "2-0",
+        "events": [
+          "[goal] 20' Nolito",
+          "[goal] 34' Nolito",
+          "[ycard] 74' Castro J."
+        ]
+      },
+      {
+        "date": "2013-12-22",
+        "competition": "Spain - Primera Division 2013/2014",
+        "home_team": "Celta Vigo",
+        "away_team": "Osasuna",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 17' Armenteros D.",
+          "[goal] 34' Fernandez A.",
+          "[ycard] 58' Damia A.",
+          "[ycard] 60' Flano M.",
+          "[ycard] 90' Cejudo A."
+        ]
+      },
+      {
+        "date": "2013-02-02",
+        "competition": "Spain - Primera Division 2012/2013",
+        "home_team": "Osasuna",
+        "away_team": "Celta Vigo",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 10' Lago R.",
+          "[ycard] 33' Bermejo M.",
+          "[goal] 55' Armenteros D.",
+          "[ycard] 59' Ruben",
+          "[ycard] 83' Toni",
+          "[ycard] 85' Damia P."
+        ]
+      },
+      {
+        "date": "2012-09-01",
+        "competition": "Spain - Primera Division 2012/2013",
+        "home_team": "Celta Vigo",
+        "away_team": "Osasuna",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 63' Flano M.",
+          "[ycard] 65' Tunez",
+          "[goal] 69' Aspas I.",
+          "[ycard] 76' Arribas A.",
+          "[ycard] 77' Annan A.",
+          "[dycard] 83' Arribas A.",
+          "[goal] 90' Bermejo M."
+        ]
+      },
+      {
+        "date": "2007-02-18",
+        "competition": "Spain - Division 1 2006/2007",
+        "home_team": "Osasuna",
+        "away_team": "Celta Vigo",
+        "home_goals": "0",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 2' Baiano",
+          "[rcard] 41' Canobbio"
+        ]
+      },
+      {
+        "date": "2006-09-24",
+        "competition": "Spain - Division 1 2006/2007",
+        "home_team": "Celta Vigo",
+        "away_team": "Osasuna",
+        "home_goals": "0",
+        "away_goals": "2",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 35' Valdo",
+          "[rcard] 74' Angel",
+          "[goal] 90' Juanfran"
+        ]
+      },
+      {
+        "date": "2006-03-05",
+        "competition": "Spain - Division 1 2005/2006",
+        "home_team": "Celta Vigo",
+        "away_team": "Osasuna",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 5' Baiano",
+          "[goal] 72' Canobbio",
+          "[rcard] 76' Munoz"
+        ]
+      },
+      {
+        "date": "2005-10-16",
+        "competition": "Spain - Division 1 2005/2006",
+        "home_team": "Osasuna",
+        "away_team": "Celta Vigo",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 48' Milosevic",
+          "[goal] 83' Webo"
+        ]
+      },
+      {
+        "date": "2004-04-25",
+        "competition": "Spain - Division 1 2003/2004",
+        "home_team": "Celta Vigo",
+        "away_team": "Osasuna",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[own] 49' Munoz"
+        ]
+      },
+      {
+        "date": "2003-12-06",
+        "competition": "Spain - Division 1 2003/2004",
+        "home_team": "Osasuna",
+        "away_team": "Celta Vigo",
+        "home_goals": "3",
+        "away_goals": "2",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 28' Aloisi",
+          "[goal] 37' Ignacio",
+          "[goal] 49' Aloisi",
+          "[goal] 73' Bakayoko",
+          "[goal] 90' Catanha H."
+        ]
+      },
+      {
+        "date": "2003-04-20",
+        "competition": "Spain - Division 1 2002/2003",
+        "home_team": "Osasuna",
+        "away_team": "Celta Vigo",
+        "home_goals": "0",
+        "away_goals": "2",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 14' Mido",
+          "[goal] 50' Mido"
+        ]
+      },
+      {
+        "date": "2002-11-24",
+        "competition": "Spain - Division 1 2002/2003",
+        "home_team": "Celta Vigo",
+        "away_team": "Osasuna",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": []
+      },
+      {
+        "date": "2002-01-13",
+        "competition": "Spain - Division 1 2001/2002",
+        "home_team": "Celta Vigo",
+        "away_team": "Osasuna",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 24' Vagner R.",
+          "[goal] 64' Cruchaga C."
+        ]
+      },
+      {
+        "date": "2001-08-26",
+        "competition": "Spain - Division 1 2001/2002",
+        "home_team": "Osasuna",
+        "away_team": "Celta Vigo",
+        "home_goals": "0",
+        "away_goals": "3",
+        "half_time_score": "1-0",
+        "events": [
+          "[ycard] 30' Rivero",
+          "[goal] 32' Catanha H.",
+          "[ycard] 38' Jesuli J.",
+          "[ycard] 43' Ivan Rosado",
+          "[goal] 55' Sergio P.",
+          "[ycard] 60' Vagner R.",
+          "[goal] 71' Jesuli J."
+        ]
+      },
+      {
+        "date": "2001-01-28",
+        "competition": "Spain - Division 1 2000/2001",
+        "home_team": "Celta Vigo",
+        "away_team": "Osasuna",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 47' Mostovoi A."
+        ]
+      },
+      {
+        "date": "2000-09-10",
+        "competition": "Spain - Division 1 2000/2001",
+        "home_team": "Osasuna",
+        "away_team": "Celta Vigo",
+        "home_goals": "0",
+        "away_goals": "2",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 81' Catanha H.",
+          "[goal] 84' Manolo"
+        ]
+      },
+      {
+        "date": "1994-05-08",
+        "competition": "Spain - Division 1 1993/1994",
+        "home_team": "Celta Vigo",
+        "away_team": "Osasuna",
+        "home_goals": "4",
+        "away_goals": "0",
+        "half_time_score": "0-4",
+        "events": [
+          "[goal] 0' noname",
+          "[goal] 0' noname",
+          "[goal] 0' noname",
+          "[goal] 0' noname"
+        ]
+      },
+      {
+        "date": "1994-01-09",
+        "competition": "Spain - Division 1 1993/1994",
+        "home_team": "Osasuna",
+        "away_team": "Celta Vigo",
+        "home_goals": "0",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 0' noname"
+        ]
+      }
+    ],
+    "recent_form_home": [
+      {
+        "date": "2026-08-22",
+        "competition": "Spain - Laliga 2026/2027",
+        "home_team": "Valencia",
+        "away_team": "Celta Vigo",
+        "score": "0-0"
+      },
+      {
+        "date": "2026-08-08",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Napoli",
+        "away_team": "Celta Vigo",
+        "score": "1-1"
+      },
+      {
+        "date": "2026-08-05",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Sassuolo",
+        "away_team": "Celta Vigo",
+        "score": "1-4"
+      },
+      {
+        "date": "2026-07-25",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Celta Vigo",
+        "away_team": "Sporting Gijon",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-07-18",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "SC Braga",
+        "away_team": "Celta Vigo",
+        "score": "2-2"
+      },
+      {
+        "date": "2026-05-23",
+        "competition": "Spain - Laliga 2025/2026",
+        "home_team": "Celta Vigo",
+        "away_team": "Sevilla",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-05-17",
+        "competition": "Spain - Laliga 2025/2026",
+        "home_team": "Athletic Club",
+        "away_team": "Celta Vigo",
+        "score": "1-1"
+      },
+      {
+        "date": "2026-05-12",
+        "competition": "Spain - Laliga 2025/2026",
+        "home_team": "Celta Vigo",
+        "away_team": "Levante",
+        "score": "2-3"
+      },
+      {
+        "date": "2026-05-09",
+        "competition": "Spain - Laliga 2025/2026",
+        "home_team": "Atletico Madrid",
+        "away_team": "Celta Vigo",
+        "score": "0-1"
+      },
+      {
+        "date": "2026-05-03",
+        "competition": "Spain - Laliga 2025/2026",
+        "home_team": "Celta Vigo",
+        "away_team": "Elche",
+        "score": "3-1"
+      }
+    ],
+    "recent_form_away": [
+      {
+        "date": "2026-08-24",
+        "competition": "Spain - Laliga 2026/2027",
+        "home_team": "Osasuna",
+        "away_team": "Levante",
+        "score": "0-0"
+      },
+      {
+        "date": "2026-08-15",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Arenas Club",
+        "away_team": "Osasuna",
+        "score": "1-1"
+      },
+      {
+        "date": "2026-08-08",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Osasuna",
+        "away_team": "Al-Ain FC",
+        "score": "0-2"
+      },
+      {
+        "date": "2026-08-05",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Napoli",
+        "away_team": "Osasuna",
+        "score": "2-1"
+      },
+      {
+        "date": "2026-08-01",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Norwich",
+        "away_team": "Osasuna",
+        "score": "1-2"
+      },
+      {
+        "date": "2026-07-29",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Ipswich",
+        "away_team": "Osasuna",
+        "score": "1-2"
+      },
+      {
+        "date": "2026-07-24",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Osasuna",
+        "away_team": "Racing Santander",
+        "score": "2-0"
+      },
+      {
+        "date": "2026-05-23",
+        "competition": "Spain - Laliga 2025/2026",
+        "home_team": "Getafe",
+        "away_team": "Osasuna",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-05-17",
+        "competition": "Spain - Laliga 2025/2026",
+        "home_team": "Osasuna",
+        "away_team": "Espanyol",
+        "score": "1-2"
+      },
+      {
+        "date": "2026-05-12",
+        "competition": "Spain - Laliga 2025/2026",
+        "home_team": "Osasuna",
+        "away_team": "Atletico Madrid",
+        "score": "1-2"
+      }
+    ],
+    "match_facts": []
+  },
+  {
+    "fixture": {
+      "match_id": "1714079",
+      "date": "2026-08-27",
+      "time": "01:30",
+      "competition": "CUP",
+      "country": "Brazil",
+      "home_team": "Palmeiras",
+      "away_team": "Santos",
+      "tip": "1",
+      "comparison_url": "https://www.statarea.com/compare/teams/Palmeiras (Brazil)/Santos (Brazil)",
+      "odds": {
+        "coef_1": 57,
+        "coef_x": 29,
+        "coef_2": 14,
+        "coef_ht1": 45,
+        "coef_htx": 41,
+        "coef_ht2": 14,
+        "coef_o15": 85,
+        "coef_o25": 55,
+        "coef_o35": 30,
+        "coef_bts": 53,
+        "coef_ots": 47
+      },
+      "user_votes": {
+        "vote_1": 4,
+        "vote_x": 2,
+        "vote_2": 0,
+        "likes": 4,
+        "dislikes": 0
+      }
+    },
+    "home_team_info": {
+      "name": "Palmeiras",
+      "official_name": "Sociedade Esportiva Palmeiras",
+      "found": "1914",
+      "country": "Brazil",
+      "website": "http://www.palmeiras.com.br",
+      "world_rank": 43
+    },
+    "away_team_info": {
+      "name": "Santos",
+      "official_name": "Santos Futebol Clube",
+      "found": "April 14, 1912",
+      "country": "Brazil",
+      "website": "http://www.santosfc.com.br",
+      "world_rank": 309
+    },
+    "h2h_matches": [
+      {
+        "date": "2026-05-02",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[ycard] 0' Luis Felipe Pacheco Da Costa",
+          "[goal] 26' Benjamin Rollheiser",
+          "[ycard] 32' Gabriel Brazao",
+          "[goal] 64' Emanuel Lopez"
+        ]
+      },
+      {
+        "date": "2026-01-14",
+        "competition": "Brazil - Paulista A1 2026/2026",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 40' Allan"
+        ]
+      },
+      {
+        "date": "2025-11-16",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 11' Anibal Moreno",
+          "[ycard] 28' Ze Rafael",
+          "[goal] 90' Benjamin Rollheiser"
+        ]
+      },
+      {
+        "date": "2025-11-07",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 40' Ze Rafael",
+          "[ycard] 45' Mayke",
+          "[ycard] 52' Jose Lopez",
+          "[goal] 67' Vitor Roque",
+          "[goal] 80' Vitor Roque"
+        ]
+      },
+      {
+        "date": "2025-01-23",
+        "competition": "Brazil - Paulista A1 2024/2025",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 35' Unknown",
+          "[goal] 68' Thalys",
+          "[goal] 92' Unknown"
+        ]
+      },
+      {
+        "date": "2024-04-07",
+        "competition": "Brazil - Paulista A1 Playoff 2023/2024",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[penalty] 33' Veiga Raphael",
+          "[goal] 67' Moreno Anibal"
+        ]
+      },
+      {
+        "date": "2024-03-31",
+        "competition": "Brazil - Paulista A1 Playoff 2023/2024",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 48' Otero Romulo"
+        ]
+      },
+      {
+        "date": "2024-01-28",
+        "competition": "Brazil - Paulista A1 2023/2024",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 49' Veiga Raphael",
+          "[goal] 62' Lopez Jose",
+          "[goal] 69' Otero Romulo"
+        ]
+      },
+      {
+        "date": "2023-10-08",
+        "competition": "Brazil - State Football Leagues 2 2023/2024",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "1",
+        "away_goals": "2",
+        "half_time_score": "1-1",
+        "events": [
+          "[ycard] 14' Rafael Ze",
+          "[ycard] 41' Rincon Tomas",
+          "[ycard] 42' Morelos Alfredo",
+          "[goal] 43' Rafael Ze",
+          "[goal] 45' Rincon Tomas",
+          "[goal] 70' Leonardo Marcos",
+          "[ycard] 73' Camacho Guilherme",
+          "[ycard] 90' Rios Richard"
+        ]
+      },
+      {
+        "date": "2023-05-21",
+        "competition": "Brazil - State Football Leagues 2 2023/2024",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 15' Veiga Raphael",
+          "[ycard] 21' Borges Angelo",
+          "[ycard] 33' Mayke",
+          "[ycard] 76' Dodi",
+          "[ycard] 89' Rivera Daniel"
+        ]
+      },
+      {
+        "date": "2023-02-04",
+        "competition": "Brazil - Paulista A1 2022/2023",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "3",
+        "away_goals": "1",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 21' Cerqueira Murilo",
+          "[goal] 45' Roni",
+          "[goal] 70' Giovani",
+          "[goal] 90' Gabriel Eduardo"
+        ]
+      },
+      {
+        "date": "2022-09-18",
+        "competition": "Brazil - State Football Leagues 2 2022/2023",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 35' Vinicius",
+          "[ycard] 45' Leonardo Marcos",
+          "[ycard] 55' Rafael Ze",
+          "[rcard] 60' Danilo",
+          "[ycard] 71' Soteldo Yeferson",
+          "[ycard] 75' Menino Gabriel",
+          "[goal] 77' Merentiel Miguel",
+          "[ycard] 90' Gomez Gustavo",
+          "[ycard] 90' Camacho Guilherme"
+        ]
+      },
+      {
+        "date": "2022-05-29",
+        "competition": "Brazil - State Football Leagues 2 2022/2023",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "0",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 60' Menino Gabriel",
+          "[ycard] 70' Fernandez Rodrigo",
+          "[ycard] 73' Maicon",
+          "[goal] 80' Gomez Gustavo",
+          "[ycard] 82' Paulo Joao",
+          "[ycard] 85' Felipe Bruno",
+          "[ycard] 88' Vinicius"
+        ]
+      },
+      {
+        "date": "2022-03-13",
+        "competition": "Brazil - Paulista A1 2021/2022",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[dycard] 45' Velazquez Emiliano",
+          "[penalty] 45' Veiga Raphael"
+        ]
+      },
+      {
+        "date": "2021-11-07",
+        "competition": "Brazil - State Football Leagues 2 2021/2022",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "0",
+        "away_goals": "2",
+        "half_time_score": "1-0",
+        "events": [
+          "[ycard] 3' Raniel",
+          "[ycard] 25' Gomez Gustavo",
+          "[ycard] 31' Rafael Ze",
+          "[goal] 44' Roni",
+          "[ycard] 65' Madson",
+          "[goal] 72' Veiga Raphael",
+          "[ycard] 78' Jonatan Felipe"
+        ]
+      },
+      {
+        "date": "2021-07-10",
+        "competition": "Brazil - State Football Leagues 2 2021/2022",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "3",
+        "away_goals": "2",
+        "half_time_score": "0-2",
+        "events": [
+          "[ycard] 15' Mota Jean",
+          "[goal] 19' Gomez Gustavo",
+          "[goal] 22' Lopes Breno",
+          "[ycard] 42' Camacho Guilherme",
+          "[penalty] 69' Sanchez Carlos",
+          "[ycard] 76' Jailson",
+          "[ycard] 82' Marinho",
+          "[goal] 83' Willian",
+          "[ycard] 87' Kaiky",
+          "[ycard] 90' Moraes",
+          "[penalty] 90' Marinho",
+          "[ycard] 90' Guilherme Marcos"
+        ]
+      },
+      {
+        "date": "2021-05-07",
+        "competition": "Brazil - Paulista A1 2020/2021",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "3",
+        "away_goals": "2",
+        "half_time_score": "1-2",
+        "events": [
+          "[goal] 8' Vina Matias",
+          "[goal] 15' Jorge Kaio",
+          "[goal] 23' Willian",
+          "[penalty] 54' Jorge Kaio",
+          "[goal] 78' Esteves Lucas"
+        ]
+      },
+      {
+        "date": "2021-01-30",
+        "competition": "South America (CONMEBOL) - Copa Libertadores 2019/2020",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 10' Verissimo",
+          "[ycard] 35' Gomez",
+          "[ycard] 58' Vina",
+          "[ycard] 70' Pituca",
+          "[ycard] 90' Rocha",
+          "[goal] 90' Lopes",
+          "[ycard] 90' Lopes",
+          "[ycard] 90' Alison",
+          "[ycard] 90' Soteldo"
+        ]
+      },
+      {
+        "date": "2020-12-05",
+        "competition": "Brazil - State Football Leagues 2 2020/2021",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "2",
+        "away_goals": "2",
+        "half_time_score": "0-1",
+        "events": [
+          "[ycard] 22' Soteldo",
+          "[goal] 39' Pituca",
+          "[ycard] 54' Verissimo",
+          "[penalty] 57' Veiga",
+          "[ycard] 59' Lima",
+          "[goal] 64' Willian",
+          "[ycard] 67' Emerson",
+          "[goal] 71' Marinho",
+          "[ycard] 73' Mayke",
+          "[ycard] 86' Pituca",
+          "[rcard] 90' Rafael"
+        ]
+      },
+      {
+        "date": "2020-08-23",
+        "competition": "Brazil - State Football Leagues 2 2020/2021",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[ycard] 16' Adriano",
+          "[ycard] 29' Jonatan",
+          "[ycard] 36' Henrique",
+          "[ycard] 39' Pituca",
+          "[ycard] 44' Alison",
+          "[penalty] 45' Adriano",
+          "[ycard] 45' Roni",
+          "[own] 48' Ramires",
+          "[ycard] 63' Ramires",
+          "[goal] 73' Carreiro",
+          "[ycard] 90' Silva",
+          "[dycard] 90' Alison"
+        ]
+      },
+      {
+        "date": "2020-02-29",
+        "competition": "Brazil - Paulista A1 2019/2020",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": []
+      },
+      {
+        "date": "2019-10-10",
+        "competition": "Brazil - Serie A 2018/2019",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 14' Gustavo Henrique",
+          "[goal] 18' Marinho Mario",
+          "[ycard] 65' Melo Felipe",
+          "[ycard] 70' Carlos Eduardo",
+          "[rcard] 73' Willian Siqueira",
+          "[ycard] 76' Sanchez Carlos"
+        ]
+      },
+      {
+        "date": "2019-05-18",
+        "competition": "Brazil - Serie A 2018/2019",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "4",
+        "away_goals": "0",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 7' Gomez Gustavo",
+          "[goal] 19' Deyverson Brum",
+          "[ycard] 37' Gonzalez Derlis",
+          "[ycard] 38' Dudu Rodrigues",
+          "[ycard] 40' Henrique Gustavo",
+          "[goal] 53' Veiga Raphael",
+          "[ycard] 70' Alison Lopes",
+          "[ycard] 79' Ferraz Victor",
+          "[ycard] 84' Melo Felipe",
+          "[goal] 88' Hyoran Dalmoro"
+        ]
+      },
+      {
+        "date": "2019-02-23",
+        "competition": "Brazil - Paulista 2018/2019",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": []
+      },
+      {
+        "date": "2018-11-03",
+        "competition": "Brazil - Serie A 2017/2018",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "3",
+        "away_goals": "2",
+        "half_time_score": "0-2",
+        "events": [
+          "[ycard] 7' Felipe Luiz",
+          "[goal] 14' Dudu Rodrigues",
+          "[ycard] 22' Gonzalez Derlis",
+          "[ycard] 23' Barbosa Gabriel",
+          "[ycard] 35' Dracena Edu",
+          "[goal] 40' Dracena Edu",
+          "[ycard] 51' Lima Lucas",
+          "[goal] 55' Copete Jonathan",
+          "[ycard] 57' Ferraz Victor",
+          "[goal] 65' Dodo Ribeiro",
+          "[ycard] 71' Pituca Diego",
+          "[goal] 72' Luis Victor",
+          "[dycard] 80' Pituca Diego",
+          "[ycard] 90' Dudu Rodrigues"
+        ]
+      },
+      {
+        "date": "2018-07-20",
+        "competition": "Brazil - Serie A 2017/2018",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 7' Lima Lucas",
+          "[ycard] 8' Lima Lucas",
+          "[ycard] 15' Melo Felipe",
+          "[ycard] 25' Alison Lopes",
+          "[ycard] 32' Mota Jean",
+          "[ycard] 44' Rodrygo Silva",
+          "[ycard] 56' Carlos Antonio",
+          "[ycard] 62' Hyoran Dalmoro",
+          "[ycard] 74' Scarpa Gustavo",
+          "[goal] 75' Henrique Gustavo",
+          "[ycard] 88' Cittadini Leo"
+        ]
+      },
+      {
+        "date": "2018-03-28",
+        "competition": "Brazil - Pau P.Off SF 2017/2018",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "5",
+        "away_goals": "3",
+        "half_time_score": "2-1",
+        "events": [
+          "[goal] 13' Sasha Eduardo",
+          "[goal] 17' Henrique Bruno",
+          "[goal] 39' Rodrygo Silva",
+          "[penalty] 121' Gabriel Barbosa Almeida",
+          "[penalty] 121' Dudu Rodrigues",
+          "[penalty] 122' Mota Jean",
+          "[penalty] 122' Tche Tche",
+          "[penalty] 123' Luis Victor",
+          "[penalty] 124' Moises Magalhaes",
+          "[penalty] 124' Gomes Arthur",
+          "[penalty] 125' Guerra Alejandro"
+        ]
+      },
+      {
+        "date": "2018-03-24",
+        "competition": "Brazil - Pau P.Off SF 2017/2018",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "0",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 12' Willian Siqueira"
+        ]
+      },
+      {
+        "date": "2018-02-04",
+        "competition": "Brazil - Paulista 2017/2018",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 2' Carlos Antonio",
+          "[goal] 50' Borja Miguel",
+          "[goal] 62' Renato Santos"
+        ]
+      },
+      {
+        "date": "2017-09-30",
+        "competition": "Brazil - Serie A 2016/2017",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "0",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 43' Garcia Luan",
+          "[ycard] 60' Jesus Matheus",
+          "[ycard] 69' Mota Jean",
+          "[goal] 76' Oliveira Ricardo",
+          "[ycard] 76' Mayke Oliveira",
+          "[ycard] 80' Zeca Neto",
+          "[ycard] 88' Alison Lopes",
+          "[ycard] 90' Henrique Bruno"
+        ]
+      },
+      {
+        "date": "2017-06-15",
+        "competition": "Brazil - Serie A 2016/2017",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 36' Juninho Ferreira",
+          "[ycard] 39' Tche Tche",
+          "[ycard] 41' Lima Lucas",
+          "[goal] 51' Kayke De Andrade"
+        ]
+      },
+      {
+        "date": "2017-03-19",
+        "competition": "Brazil - Paulista 2016/2017",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "1",
+        "away_goals": "2",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 75' Oliveira Ricardo",
+          "[goal] 86' Jean Moreira",
+          "[goal] 88' Willian Siqueira"
+        ]
+      },
+      {
+        "date": "2016-10-29",
+        "competition": "Brazil - Serie A 2015/2016",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 45' Mina Yerry",
+          "[goal] 67' Copete Jonathan",
+          "[ycard] 71' Lima Lucas",
+          "[ycard] 74' Zeca Neto",
+          "[ycard] 81' Oliveira Ricardo",
+          "[ycard] 84' Noguera Fabian",
+          "[ycard] 87' Moises Magalhaes"
+        ]
+      },
+      {
+        "date": "2016-07-13",
+        "competition": "Brazil - Serie A 2015/2016",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 7' Mina Yerry",
+          "[ycard] 9' Gabriel Barbosa Almeida",
+          "[ycard] 9' Moises Magalhaes",
+          "[ycard] 17' Erik Lima",
+          "[goal] 56' Gabriel Barbosa Almeida",
+          "[ycard] 65' Zeca Neto",
+          "[ycard] 85' Arouca Marcos"
+        ]
+      },
+      {
+        "date": "2016-04-24",
+        "competition": "Brazil - Paulista Final Phase 2015/2016",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "3",
+        "away_goals": "2",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 40' Gabriel Barbosa Almeida",
+          "[goal] 74' Gabriel Barbosa Almeida",
+          "[goal] 88' Marques Rafael",
+          "[goal] 89' Marques Rafael",
+          "[penalty] 121' Unknown",
+          "[penalty] 121' Unknown",
+          "[penalty] 122' Unknown",
+          "[penalty] 122' Unknown",
+          "[penalty] 123' Unknown"
+        ]
+      },
+      {
+        "date": "2016-02-20",
+        "competition": "Brazil - Paulista 2015/2016",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": []
+      },
+      {
+        "date": "2015-12-03",
+        "competition": "Brazil - FA Cup 2014/2015",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "4",
+        "away_goals": "3",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 49' Gabriel Barbosa",
+          "[ycard] 51' Sales Matheus",
+          "[goal] 57' Dudu E. Rodrigues",
+          "[ycard] 66' Pedro Joao",
+          "[goal] 85' Dudu E. Rodrigues",
+          "[goal] 87' Oliveira Ricardo",
+          "[ycard] 90' Dudu E. Rodrigues",
+          "[penalty] 121' Unknown",
+          "[penalty] 123' Unknown",
+          "[penalty] 123' Unknown",
+          "[penalty] 124' Unknown",
+          "[penalty] 124' Unknown",
+          "[penalty] 125' Unknown",
+          "[penalty] 125' Unknown"
+        ]
+      },
+      {
+        "date": "2015-11-26",
+        "competition": "Brazil - FA Cup 2014/2015",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 32' Prass Fernando",
+          "[ycard] 38' Sales Matheus",
+          "[ycard] 44' Barrios Lucas",
+          "[ycard] 60' Renato",
+          "[ycard] 63' Oliveira Ricardo",
+          "[ycard] 64' Arouca",
+          "[ycard] 70' Lucas Rios Marques",
+          "[goal] 79' Gabriel Bardosa Almeida",
+          "[ycard] 85' Ferraz Victor",
+          "[ycard] 86' Gabriel Bardosa Almeida",
+          "[ycard] 90' Dudu E. Rodrigues",
+          "[rcard] 90' Lucas Rios Marques"
+        ]
+      },
+      {
+        "date": "2015-11-01",
+        "competition": "Brazil - Serie A 2014/2015",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[ycard] 24' Ze Roberto",
+          "[goal] 27' Maia Thiago",
+          "[ycard] 41' Prass Fernando",
+          "[goal] 48' Oliveira Ricardo",
+          "[ycard] 68' Gabriel Bardosa Almeida",
+          "[goal] 75' Dudu E. Rodrigues",
+          "[ycard] 77' Henrique Gustavo",
+          "[ycard] 90' Unknown",
+          "[rcard] 90' Cristaldo Jonathan",
+          "[ycard] 90' Dudu E. Rodrigues"
+        ]
+      },
+      {
+        "date": "2015-07-19",
+        "competition": "Brazil - Serie A 2014/2015",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 14' Pereira Leandro",
+          "[ycard] 30' Oliveira Ricardo",
+          "[ycard] 32' Almeida Leandro",
+          "[ycard] 45' Arouca",
+          "[ycard] 59' Werley",
+          "[ycard] 70' Egidio",
+          "[ycard] 90' Berola Neto"
+        ]
+      },
+      {
+        "date": "2015-05-03",
+        "competition": "Brazil - Paulista Final Phase 2014/2015",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "4",
+        "away_goals": "2",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 30' Braz D.",
+          "[goal] 44' Oliveira R.",
+          "[rcard] 45' Dudu",
+          "[rcard] 45' Geuvanio",
+          "[goal] 65' Lucas",
+          "[rcard] 80' Ramos V.",
+          "[penalty] 121' Unknown",
+          "[penalty] 121' Unknown",
+          "[penalty] 122' Unknown",
+          "[penalty] 122' Unknown",
+          "[penalty] 123' Unknown",
+          "[penalty] 124' Unknown"
+        ]
+      },
+      {
+        "date": "2015-04-26",
+        "competition": "Brazil - Paulista Final Phase 2014/2015",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 30' Pereira L.",
+          "[rcard] 57' Ricardo P."
+        ]
+      },
+      {
+        "date": "2015-03-12",
+        "competition": "Brazil - Paulista 2014/2015",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 8' Hugo V.",
+          "[goal] 28' Renato",
+          "[goal] 62' Oliveira R."
+        ]
+      },
+      {
+        "date": "2014-10-19",
+        "competition": "Brazil - Serie A 2013/2014",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "1",
+        "away_goals": "3",
+        "half_time_score": "2-0",
+        "events": [
+          "[ycard] 8' Valdivia J.",
+          "[ycard] 34' Alison",
+          "[goal] 38' Geuvanio",
+          "[goal] 41' Gabriel",
+          "[ycard] 45' Wesley",
+          "[goal] 48' Gabriel",
+          "[ycard] 56' Mena E.",
+          "[ycard] 62' Robinho",
+          "[ycard] 67' Braz D.",
+          "[ycard] 76' Geuvanio",
+          "[ycard] 84' Henrique",
+          "[goal] 89' Henrique",
+          "[ycard] 90' Dracena E."
+        ]
+      },
+      {
+        "date": "2014-07-17",
+        "competition": "Brazil - Serie A 2013/2014",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[ycard] 6' Gabriel",
+          "[goal] 24' Uvini B.",
+          "[ycard] 26' Wellington",
+          "[ycard] 48' Oliveira M.",
+          "[ycard] 61' Wesley",
+          "[goal] 69' Alison"
+        ]
+      },
+      {
+        "date": "2014-03-23",
+        "competition": "Brazil - Paulista 2013/2014",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 25' Neto",
+          "[goal] 36' Ribeiro T.",
+          "[goal] 88' Kardec A."
+        ]
+      },
+      {
+        "date": "2013-04-27",
+        "competition": "Brazil - Paulista Final Phase 2012/2013",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "4",
+        "away_goals": "2",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 12' Cicero",
+          "[goal] 84' Kleber",
+          "[penalty] 121' Unknown",
+          "[penalty] 121' Unknown",
+          "[penalty] 122' Unknown",
+          "[penalty] 122' Unknown",
+          "[penalty] 123' Unknown",
+          "[penalty] 124' Unknown"
+        ]
+      },
+      {
+        "date": "2013-03-24",
+        "competition": "Brazil - Paulista 2012/2013",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": []
+      },
+      {
+        "date": "2012-12-01",
+        "competition": "Brazil - Division 1 2011/2012",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "3",
+        "away_goals": "1",
+        "half_time_score": "1-3",
+        "events": [
+          "[goal] 5' Leite M.",
+          "[goal] 14' Andrade V.",
+          "[ycard] 17' Roman A.",
+          "[dycard] 22' Roman A.",
+          "[penalty] 23' Neymar",
+          "[ycard] 24' Santos A.",
+          "[goal] 39' Neymar",
+          "[dycard] 56' Santos A."
+        ]
+      },
+      {
+        "date": "2012-08-25",
+        "competition": "Brazil - Division 1 2011/2012",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "1",
+        "away_goals": "2",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 41' Correa",
+          "[goal] 44' Neymar",
+          "[ycard] 53' Vitor J.",
+          "[ycard] 54' Adriano",
+          "[ycard] 61' Valdivia J.",
+          "[goal] 63' Neymar",
+          "[ycard] 89' Ramos M."
+        ]
+      },
+      {
+        "date": "2012-02-05",
+        "competition": "Brazil - Paulista 2011/2012",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "1",
+        "away_goals": "2",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 74' Neymar",
+          "[rcard] 87' Ibson",
+          "[goal] 90' Fernandao",
+          "[own] 90' Maranhao"
+        ]
+      },
+      {
+        "date": "2011-10-09",
+        "competition": "Brazil - Division 1 2010/2011",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 75' Borges"
+        ]
+      },
+      {
+        "date": "2011-07-10",
+        "competition": "Brazil - Division 1 2010/2011",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "3",
+        "away_goals": "0",
+        "half_time_score": "0-3",
+        "events": [
+          "[goal] 21' Leite",
+          "[goal] 29' Ramos",
+          "[goal] 45' Patrik"
+        ]
+      },
+      {
+        "date": "2011-04-03",
+        "competition": "Brazil - Paulista 2010/2011",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "0",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 81' Kleber"
+        ]
+      },
+      {
+        "date": "2010-10-02",
+        "competition": "Brazil - Division 1 2009/2010",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 20' Kleber",
+          "[goal] 52' Patrick"
+        ]
+      },
+      {
+        "date": "2010-07-16",
+        "competition": "Brazil - Division 1 2009/2010",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 13' Ewerthon",
+          "[goal] 67' Tinga",
+          "[goal] 83' Marcel"
+        ]
+      },
+      {
+        "date": "2010-03-14",
+        "competition": "Brazil - Paulista 2009/2010",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "3",
+        "away_goals": "4",
+        "half_time_score": "2-2",
+        "events": [
+          "[goal] 10' Para",
+          "[goal] 31' Neymar",
+          "[goal] 42' Robert",
+          "[goal] 43' Robert",
+          "[goal] 57' Souza",
+          "[goal] 81' Madson",
+          "[rcard] 82' Neymar",
+          "[goal] 88' Robert",
+          "[rcard] 89' Leo"
+        ]
+      },
+      {
+        "date": "2009-10-04",
+        "competition": "Brazil - Division 1 2008/2009",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "1",
+        "away_goals": "3",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 55' Luizinho",
+          "[goal] 64' Souza",
+          "[goal] 73' Robert",
+          "[goal] 77' Love"
+        ]
+      },
+      {
+        "date": "2009-06-29",
+        "competition": "Brazil - Division 1 2008/2009",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 32' Obina",
+          "[goal] 82' Robson"
+        ]
+      },
+      {
+        "date": "2009-02-08",
+        "competition": "Brazil - Paulista 2008/2009",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "4",
+        "away_goals": "1",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 15' Edmilson",
+          "[penalty] 23' Keirrison",
+          "[goal] 46' Keirrison",
+          "[goal] 63' Pereira",
+          "[goal] 85' Lenny"
+        ]
+      },
+      {
+        "date": "2008-11-02",
+        "competition": "Brazil - Division 1 2007/2008",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "1",
+        "away_goals": "2",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 2' Kleber",
+          "[own] 47' Bruno",
+          "[goal] 90' Lima"
+        ]
+      },
+      {
+        "date": "2008-07-25",
+        "competition": "Brazil - Division 1 2007/2008",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "4",
+        "away_goals": "2",
+        "half_time_score": "2-4",
+        "events": [
+          "[goal] 12' Leandro",
+          "[goal] 14' Mineiro",
+          "[goal] 29' Leandro",
+          "[goal] 33' Pereira",
+          "[goal] 37' Apodi",
+          "[goal] 44' Gladstone"
+        ]
+      },
+      {
+        "date": "2008-01-20",
+        "competition": "Brazil - Paulista 2007/2008",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": []
+      },
+      {
+        "date": "2007-10-14",
+        "competition": "Brazil - Division 1 2006/2007",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 34' Caio",
+          "[goal] 58' Renatinho"
+        ]
+      },
+      {
+        "date": "2007-07-20",
+        "competition": "Brazil - Division 1 2006/2007",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "2",
+        "away_goals": "2",
+        "half_time_score": "2-1",
+        "events": [
+          "[goal] 9' Kleber",
+          "[goal] 18' Nen",
+          "[goal] 45' Pedrinho",
+          "[goal] 90' Martinez"
+        ]
+      },
+      {
+        "date": "2007-02-04",
+        "competition": "Brazil - Paulista 2006/2007",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "3",
+        "away_goals": "3",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 27' Osmar",
+          "[goal] 38' Osmar",
+          "[goal] 53' Pedrinho",
+          "[goal] 69' Edmundo",
+          "[goal] 77' Kleber",
+          "[goal] 78' Jonas",
+          "[rcard] 79' Wendel"
+        ]
+      },
+      {
+        "date": "2006-09-03",
+        "competition": "Brazil - Division 1 2005/2006",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "5",
+        "away_goals": "1",
+        "half_time_score": "1-2",
+        "events": [
+          "[goal] 13' Alberto",
+          "[goal] 22' Juninho",
+          "[goal] 24' Alberto",
+          "[goal] 60' Paulista",
+          "[goal] 67' Paulista",
+          "[goal] 69' Jonas"
+        ]
+      },
+      {
+        "date": "2006-04-30",
+        "competition": "Brazil - Division 1 2005/2006",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "1",
+        "away_goals": "2",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 66' Gamarra",
+          "[own] 68' Baier",
+          "[rcard] 84' Santana",
+          "[goal] 86' Reinaldo"
+        ]
+      },
+      {
+        "date": "2005-09-22",
+        "competition": "Brazil - Division 1 2004/2005",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 17' Frontini",
+          "[goal] 75' Marcinho",
+          "[goal] 77' Basilio"
+        ]
+      },
+      {
+        "date": "2005-05-29",
+        "competition": "Brazil - Division 1 2004/2005",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 8' Gioino",
+          "[goal] 46' Daniel",
+          "[rcard] 76' Daniel",
+          "[goal] 89' Basilio"
+        ]
+      },
+      {
+        "date": "2004-09-12",
+        "competition": "Brazil - Division 1 2003/2004",
+        "home_team": "Palmeiras",
+        "away_team": "Santos",
+        "home_goals": "1",
+        "away_goals": "2",
+        "half_time_score": "2-0",
+        "events": [
+          "[goal] 40' Deivid",
+          "[goal] 45' Elano",
+          "[goal] 81' Osmar",
+          "[rcard] 82' Ze Elias"
+        ]
+      },
+      {
+        "date": "2004-05-23",
+        "competition": "Brazil - Division 1 2003/2004",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "0",
+        "away_goals": "4",
+        "half_time_score": "2-0",
+        "events": [
+          "[rcard] 11' Pereira",
+          "[goal] 13' Vagner",
+          "[goal] 32' Munoz",
+          "[goal] 63' Vagner",
+          "[goal] 77' Elson"
+        ]
+      },
+      {
+        "date": "2002-09-29",
+        "competition": "Brazil - Division 1 2001/2002",
+        "home_team": "Santos",
+        "away_team": "Palmeiras",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "1-1",
+        "events": []
+      }
+    ],
+    "recent_form_home": [
+      {
+        "date": "2026-08-23",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Palmeiras",
+        "away_team": "Vasco Da Gama",
+        "score": "4-1"
+      },
+      {
+        "date": "2026-08-19",
+        "competition": "International - Copa Libertadores Knockout Stage 2026/2026",
+        "home_team": "Cerro Porteno",
+        "away_team": "Palmeiras",
+        "score": "0-1"
+      },
+      {
+        "date": "2026-08-15",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Fluminense",
+        "away_team": "Palmeiras",
+        "score": "3-2"
+      },
+      {
+        "date": "2026-08-12",
+        "competition": "International - Copa Libertadores Knockout Stage 2026/2026",
+        "home_team": "Palmeiras",
+        "away_team": "Cerro Porteno",
+        "score": "1-1"
+      },
+      {
+        "date": "2026-08-09",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Palmeiras",
+        "away_team": "Internacional",
+        "score": "0-0"
+      },
+      {
+        "date": "2026-08-06",
+        "competition": "Brazil - Cup 2026/2026",
+        "home_team": "Fortaleza",
+        "away_team": "Palmeiras",
+        "score": "3-2"
+      },
+      {
+        "date": "2026-08-02",
+        "competition": "Brazil - Cup 2026/2026",
+        "home_team": "Palmeiras",
+        "away_team": "Fortaleza",
+        "score": "3-0"
+      },
+      {
+        "date": "2026-07-30",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Vitoria",
+        "away_team": "Palmeiras",
+        "score": "0-4"
+      },
+      {
+        "date": "2026-07-26",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Palmeiras",
+        "away_team": "Atletico Mineiro",
+        "score": "1-2"
+      },
+      {
+        "date": "2026-07-22",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Coritiba",
+        "away_team": "Palmeiras",
+        "score": "1-3"
+      }
+    ],
+    "recent_form_away": [
+      {
+        "date": "2026-08-23",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Santos",
+        "away_team": "Mirassol",
+        "score": "1-1"
+      },
+      {
+        "date": "2026-08-20",
+        "competition": "International - Copa Sudamericana Knockout Stage 2026/2026",
+        "home_team": "Macara",
+        "away_team": "Santos",
+        "score": "0-0"
+      },
+      {
+        "date": "2026-08-16",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Santos",
+        "score": "0-3"
+      },
+      {
+        "date": "2026-08-13",
+        "competition": "International - Copa Sudamericana Knockout Stage 2026/2026",
+        "home_team": "Santos",
+        "away_team": "Macara",
+        "score": "2-1"
+      },
+      {
+        "date": "2026-08-09",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Santos",
+        "away_team": "Atletico Paranaense",
+        "score": "0-2"
+      },
+      {
+        "date": "2026-08-05",
+        "competition": "Brazil - Cup 2026/2026",
+        "home_team": "Remo",
+        "away_team": "Santos",
+        "score": "0-1"
+      },
+      {
+        "date": "2026-08-02",
+        "competition": "Brazil - Cup 2026/2026",
+        "home_team": "Santos",
+        "away_team": "Remo",
+        "score": "0-0"
+      },
+      {
+        "date": "2026-07-29",
+        "competition": "International - Copa Sudamericana Knockout Stage 2026/2026",
+        "home_team": "Santos",
+        "away_team": "UCV",
+        "score": "4-2"
+      },
+      {
+        "date": "2026-07-25",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Santos",
+        "away_team": "Chapecoense",
+        "score": "2-2"
+      },
+      {
+        "date": "2026-07-22",
+        "competition": "International - Copa Sudamericana Knockout Stage 2026/2026",
+        "home_team": "UCV",
+        "away_team": "Santos",
+        "score": "1-4"
+      }
+    ],
+    "match_facts": []
+  },
+  {
+    "fixture": {
+      "match_id": "1714080",
+      "date": "2026-08-27",
+      "time": "01:30",
+      "competition": "CUP",
+      "country": "Brazil",
+      "home_team": "Vasco Da Gama",
+      "away_team": "Vitoria",
+      "tip": "1",
+      "comparison_url": "https://www.statarea.com/compare/teams/Vasco+Da+Gama (Brazil)/Vitoria (Brazil)",
+      "odds": {
+        "coef_1": 46,
+        "coef_x": 29,
+        "coef_2": 25,
+        "coef_ht1": 34,
+        "coef_htx": 44,
+        "coef_ht2": 22,
+        "coef_o15": 75,
+        "coef_o25": 51,
+        "coef_o35": 30,
+        "coef_bts": 46,
+        "coef_ots": 54
+      },
+      "user_votes": {
+        "vote_1": 0,
+        "vote_x": 1,
+        "vote_2": 2,
+        "likes": 0,
+        "dislikes": 2
+      }
+    },
+    "home_team_info": {
+      "name": "Vasco Da Gama",
+      "official_name": "Club de Regatas Vasco da Gama",
+      "found": "August 21, 1898",
+      "country": "Brazil",
+      "website": "http://www.crvascodagama.com",
+      "world_rank": 138
+    },
+    "away_team_info": {
+      "name": "Vitoria",
+      "official_name": "Esporte Clube Vitória",
+      "found": "1899",
+      "country": "Brazil",
+      "website": "http://www.ecvitoria.com.br",
+      "world_rank": 181
+    },
+    "h2h_matches": [
+      {
+        "date": "2026-07-16",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Vitoria",
+        "away_team": "Vasco Da Gama",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 69' Unknown"
+        ]
+      },
+      {
+        "date": "2025-10-05",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Vitoria",
+        "home_goals": "4",
+        "away_goals": "3",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 6' Nuno Moreira",
+          "[goal] 26' Aitor Cantalapiedra",
+          "[goal] 34' Lucas Halter",
+          "[ycard] 39' Robert Renan",
+          "[goal] 52' Rayan",
+          "[ycard] 65' Lucas Halter",
+          "[penalty] 68' Rayan",
+          "[rcard] 70' Lucas Halter",
+          "[goal] 72' Raul Caceres",
+          "[goal] 90' Gb"
+        ]
+      },
+      {
+        "date": "2025-05-10",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Vitoria",
+        "away_team": "Vasco Da Gama",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[ycard] 12' Paulinho",
+          "[rcard] 33' Matheusinho",
+          "[ycard] 38' Janderson",
+          "[goal] 42' Vegetti Pablo",
+          "[goal] 60' Kayzer Renato",
+          "[ycard] 75' Augusto Loide",
+          "[goal] 90' Kayzer Renato",
+          "[ycard] 90' Piton Lucas"
+        ]
+      },
+      {
+        "date": "2024-09-01",
+        "competition": "Brazil - Serie A 2023/2024",
+        "home_team": "Vitoria",
+        "away_team": "Vasco Da Gama",
+        "home_goals": "0",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 73' Victor Joao",
+          "[ycard] 74' Neris",
+          "[ycard] 84' Victor Joao",
+          "[ycard] 85' Lepo",
+          "[ycard] 90' Maicon",
+          "[ycard] 90' Everaldo",
+          "[ycard] 90' Cocao Mateus"
+        ]
+      },
+      {
+        "date": "2024-05-12",
+        "competition": "Brazil - Serie A 2023/2024",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Vitoria",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 28' Maicon",
+          "[goal] 51' Maicon",
+          "[goal] 56' Vegetti Pablo",
+          "[ycard] 57' Dudu",
+          "[ycard] 57' Sforza Juan",
+          "[ycard] 59' Iury",
+          "[ycard] 66' Galdames Pablo",
+          "[ycard] 84' David",
+          "[goal] 89' Iury",
+          "[ycard] 90' Praxedes Bruno",
+          "[rcard] 90' Camutanga"
+        ]
+      },
+      {
+        "date": "2021-11-11",
+        "competition": "Brazil - Serie B 2020/2021",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Vitoria",
+        "home_goals": "0",
+        "away_goals": "3",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 1' Marcinho",
+          "[goal] 69' Thalisson",
+          "[penalty] 78' Marcinho"
+        ]
+      },
+      {
+        "date": "2021-08-07",
+        "competition": "Brazil - Serie B 2020/2021",
+        "home_team": "Vitoria",
+        "away_team": "Vasco Da Gama",
+        "home_goals": "0",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 14' Sarrafiore Martin",
+          "[rcard] 90' Alves Marcelo"
+        ]
+      },
+      {
+        "date": "2018-09-09",
+        "competition": "Brazil - Serie A 2017/2018",
+        "home_team": "Vitoria",
+        "away_team": "Vasco Da Gama",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 23' Ramon Menezes",
+          "[ycard] 41' Desabato Leandro",
+          "[ycard] 59' Erick Serafim",
+          "[ycard] 68' Gomes Leo",
+          "[goal] 73' Erick Serafim",
+          "[rcard] 74' Pikachu Yago",
+          "[rcard] 74' Ribeiro Lucas",
+          "[ycard] 79' Fernandes Lucas"
+        ]
+      },
+      {
+        "date": "2018-05-13",
+        "competition": "Brazil - Serie A 2017/2018",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Vitoria",
+        "home_goals": "2",
+        "away_goals": "3",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 17' Lima Andre",
+          "[ycard] 34' Maia Arthur",
+          "[ycard] 39' Borges Breno",
+          "[penalty] 40' Picachu Yago",
+          "[ycard] 42' Rhayner Nascimento",
+          "[ycard] 43' Farias Willian",
+          "[ycard] 55' Soutto Fellipe",
+          "[goal] 71' Fernandes Lucas",
+          "[own] 76' Werley Silva",
+          "[goal] 83' Rios Andres",
+          "[ycard] 86' Henrique Milagres"
+        ]
+      },
+      {
+        "date": "2017-11-05",
+        "competition": "Brazil - Serie A 2016/2017",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Vitoria",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 10' Breno Borges",
+          "[ycard] 24' Juninho Evanildo",
+          "[ycard] 40' Neilton Mestzk",
+          "[ycard] 45' Fabiano Luis",
+          "[ycard] 45' Kanu Pereira",
+          "[ycard] 57' Madson Dos Santos",
+          "[ycard] 65' Silva Martin",
+          "[goal] 90' Lima Andre",
+          "[ycard] 90' Yago Rocha"
+        ]
+      },
+      {
+        "date": "2017-07-13",
+        "competition": "Brazil - Serie A 2016/2017",
+        "home_team": "Vitoria",
+        "away_team": "Vasco Da Gama",
+        "home_goals": "1",
+        "away_goals": "4",
+        "half_time_score": "1-0",
+        "events": [
+          "[ycard] 11' Geferson Teles",
+          "[own] 14' Kanu Pereira",
+          "[ycard] 31' Wellington Martins",
+          "[ycard] 40' Fred Xavier",
+          "[ycard] 58' Eduardo Carlos",
+          "[goal] 70' Kanu Pereira",
+          "[goal] 75' Thalles Lima",
+          "[ycard] 75' Thalles Lima",
+          "[ycard] 84' Kanu Pereira",
+          "[goal] 90' Costa Guilherme",
+          "[goal] 90' Vitor Paulo"
+        ]
+      },
+      {
+        "date": "2017-03-16",
+        "competition": "Brazil - FA Cup 2016/2017",
+        "home_team": "Vitoria",
+        "away_team": "Vasco Da Gama",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 59' Costa Alan"
+        ]
+      },
+      {
+        "date": "2017-03-09",
+        "competition": "Brazil - FA Cup 2016/2017",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Vitoria",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[rcard] 48' Euller Silva",
+          "[penalty] 69' Lalau Patric",
+          "[penalty] 90' Nene Carvalho"
+        ]
+      },
+      {
+        "date": "2013-09-18",
+        "competition": "Brazil - Division 1 2012/2013",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Vitoria",
+        "home_goals": "1",
+        "away_goals": "2",
+        "half_time_score": "0-1",
+        "events": [
+          "[ycard] 3' Caja R.",
+          "[goal] 8' Andre",
+          "[ycard] 32' Wendel",
+          "[goal] 81' Alemao",
+          "[ycard] 86' Ayrton",
+          "[ycard] 87' Montoya",
+          "[goal] 90' Marquinhos"
+        ]
+      },
+      {
+        "date": "2013-06-01",
+        "competition": "Brazil - Division 1 2012/2013",
+        "home_team": "Vitoria",
+        "away_team": "Vasco Da Gama",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[ycard] 30' Elsinho",
+          "[goal] 32' Dinei",
+          "[ycard] 58' Silva R.",
+          "[penalty] 59' Dinei"
+        ]
+      },
+      {
+        "date": "2010-10-30",
+        "competition": "Brazil - Division 1 2009/2010",
+        "home_team": "Vitoria",
+        "away_team": "Vasco Da Gama",
+        "home_goals": "4",
+        "away_goals": "2",
+        "half_time_score": "0-3",
+        "events": [
+          "[goal] 2' Adailton",
+          "[goal] 41' Elkesson",
+          "[goal] 45' Coruja",
+          "[goal] 49' Nunes",
+          "[goal] 56' Junior",
+          "[goal] 90' Fumagalli"
+        ]
+      },
+      {
+        "date": "2010-08-09",
+        "competition": "Brazil - Division 1 2009/2010",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Vitoria",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 22' Ze Roberto",
+          "[rcard] 47' Alberto"
+        ]
+      },
+      {
+        "date": "2010-05-06",
+        "competition": "Brazil - FA Cup 2009/2010",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Vitoria",
+        "home_goals": "3",
+        "away_goals": "1",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 12' Magno",
+          "[rcard] 19' Nilton",
+          "[penalty] 21' Viafara",
+          "[goal] 48' Ramon",
+          "[rcard] 59' Cruz",
+          "[penalty] 77' Alberto",
+          "[rcard] 89' Schwenck"
+        ]
+      },
+      {
+        "date": "2010-04-29",
+        "competition": "Brazil - FA Cup 2009/2010",
+        "home_team": "Vitoria",
+        "away_team": "Vasco Da Gama",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 39' Renato",
+          "[goal] 85' Berola"
+        ]
+      },
+      {
+        "date": "2009-05-21",
+        "competition": "Brazil - FA Cup 2008/2009",
+        "home_team": "Vitoria",
+        "away_team": "Vasco Da Gama",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 1' Baiano",
+          "[goal] 4' Elton",
+          "[rcard] 42' Baiano"
+        ]
+      },
+      {
+        "date": "2009-05-14",
+        "competition": "Brazil - FA Cup 2008/2009",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Vitoria",
+        "home_goals": "4",
+        "away_goals": "0",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 27' Alberto",
+          "[goal] 44' Elton",
+          "[goal] 55' Sergio",
+          "[rcard] 61' Almeida",
+          "[goal] 62' Nilton"
+        ]
+      },
+      {
+        "date": "2008-12-07",
+        "competition": "Brazil - Division 1 2007/2008",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Vitoria",
+        "home_goals": "0",
+        "away_goals": "2",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 23' Domingues",
+          "[goal] 74' Adriano"
+        ]
+      },
+      {
+        "date": "2008-08-10",
+        "competition": "Brazil - Division 1 2007/2008",
+        "home_team": "Vitoria",
+        "away_team": "Vasco Da Gama",
+        "home_goals": "5",
+        "away_goals": "0",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 5' Dinei",
+          "[goal] 43' Ramon",
+          "[goal] 60' Domingues",
+          "[goal] 69' Jackson",
+          "[goal] 82' Adriano"
+        ]
+      },
+      {
+        "date": "2004-10-16",
+        "competition": "Brazil - Division 1 2003/2004",
+        "home_team": "Vitoria",
+        "away_team": "Vasco Da Gama",
+        "home_goals": "4",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 31' Edilson",
+          "[goal] 47' Cliber",
+          "[goal] 62' Obina",
+          "[goal] 81' Anderson",
+          "[goal] 84' Obina"
+        ]
+      },
+      {
+        "date": "2004-07-07",
+        "competition": "Brazil - Division 1 2003/2004",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Vitoria",
+        "home_goals": "3",
+        "away_goals": "1",
+        "half_time_score": "1-1",
+        "events": [
+          "[penalty] 16' Obina",
+          "[penalty] 34' Petkovic",
+          "[rcard] 69' Nene",
+          "[goal] 73' Henrique",
+          "[goal] 90' Muriqui"
+        ]
+      },
+      {
+        "date": "2003-08-17",
+        "competition": "Brazil - Division 1 2002/2003",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Vitoria",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 61' Regis D."
+        ]
+      },
+      {
+        "date": "2003-04-14",
+        "competition": "Brazil - Division 1 2002/2003",
+        "home_team": "Vitoria",
+        "away_team": "Vasco Da Gama",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 12' Marcelinho",
+          "[goal] 17' Adailton",
+          "[goal] 80' Samir"
+        ]
+      },
+      {
+        "date": "2002-11-09",
+        "competition": "Brazil - Division 1 2001/2002",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Vitoria",
+        "home_goals": "4",
+        "away_goals": "1",
+        "half_time_score": "1-4",
+        "events": []
+      },
+      {
+        "date": "2002-08-18",
+        "competition": "Brazil - Division 1 2001/2002",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Vitoria",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "1-2",
+        "events": []
+      }
+    ],
+    "recent_form_home": [
+      {
+        "date": "2026-08-23",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Palmeiras",
+        "away_team": "Vasco Da Gama",
+        "score": "4-1"
+      },
+      {
+        "date": "2026-08-20",
+        "competition": "International - Copa Sudamericana Knockout Stage 2026/2026",
+        "home_team": "Olimpia",
+        "away_team": "Vasco Da Gama",
+        "score": "1-4"
+      },
+      {
+        "date": "2026-08-16",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Santos",
+        "score": "0-3"
+      },
+      {
+        "date": "2026-08-13",
+        "competition": "International - Copa Sudamericana Knockout Stage 2026/2026",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Olimpia",
+        "score": "0-0"
+      },
+      {
+        "date": "2026-08-09",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Bahia",
+        "away_team": "Vasco Da Gama",
+        "score": "0-0"
+      },
+      {
+        "date": "2026-08-06",
+        "competition": "Brazil - Cup 2026/2026",
+        "home_team": "Fluminense",
+        "away_team": "Vasco Da Gama",
+        "score": "1-3"
+      },
+      {
+        "date": "2026-08-01",
+        "competition": "Brazil - Cup 2026/2026",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Fluminense",
+        "score": "0-0"
+      },
+      {
+        "date": "2026-07-29",
+        "competition": "International - Copa Sudamericana Knockout Stage 2026/2026",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Independiente Medellin",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-07-26",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Vasco Da Gama",
+        "away_team": "Mirassol",
+        "score": "1-1"
+      },
+      {
+        "date": "2026-07-22",
+        "competition": "International - Copa Sudamericana Knockout Stage 2026/2026",
+        "home_team": "Independiente Medellin",
+        "away_team": "Vasco Da Gama",
+        "score": "2-2"
+      }
+    ],
+    "recent_form_away": [
+      {
+        "date": "2026-08-23",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Vitoria",
+        "away_team": "Bahia",
+        "score": "0-2"
+      },
+      {
+        "date": "2026-08-16",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Vitoria",
+        "away_team": "Botafogo",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-08-09",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Flamengo",
+        "away_team": "Vitoria",
+        "score": "2-0"
+      },
+      {
+        "date": "2026-08-07",
+        "competition": "Brazil - Cup 2026/2026",
+        "home_team": "Vitoria",
+        "away_team": "Atletico Paranaense",
+        "score": "4-0"
+      },
+      {
+        "date": "2026-08-04",
+        "competition": "Brazil - Cup 2026/2026",
+        "home_team": "Atletico Paranaense",
+        "away_team": "Vitoria",
+        "score": "2-0"
+      },
+      {
+        "date": "2026-07-30",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Vitoria",
+        "away_team": "Palmeiras",
+        "score": "0-4"
+      },
+      {
+        "date": "2026-07-26",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Remo",
+        "away_team": "Vitoria",
+        "score": "2-0"
+      },
+      {
+        "date": "2026-07-23",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Botafogo",
+        "away_team": "Vitoria",
+        "score": "0-0"
+      },
+      {
+        "date": "2026-07-16",
+        "competition": "Brazil - Serie A 2025/2025",
+        "home_team": "Vitoria",
+        "away_team": "Vasco Da Gama",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-06-06",
+        "competition": "Brazil - Copa Do Nordeste Knockout Stage 2026/2026",
+        "home_team": "Vitoria",
+        "away_team": "Fortaleza",
+        "score": "2-1"
+      }
+    ],
+    "match_facts": []
+  },
+  {
+    "fixture": {
+      "match_id": "1713978",
+      "date": "2026-08-27",
+      "time": "21:00",
+      "competition": "LIGUE 1",
+      "country": "Algeria",
+      "home_team": "MC Alger",
+      "away_team": "MC Oran",
+      "tip": "1",
+      "comparison_url": "https://www.statarea.com/compare/teams/MC+Alger (Algeria)/MC+Oran (Algeria)",
+      "odds": {
+        "coef_1": 65,
+        "coef_x": 25,
+        "coef_2": 10,
+        "coef_ht1": 42,
+        "coef_htx": 42,
+        "coef_ht2": 16,
+        "coef_o15": 70,
+        "coef_o25": 43,
+        "coef_o35": 18,
+        "coef_bts": 40,
+        "coef_ots": 60
+      },
+      "user_votes": {
+        "vote_1": 2,
+        "vote_x": 0,
+        "vote_2": 0,
+        "likes": 1,
+        "dislikes": 0
+      }
+    },
+    "home_team_info": {
+      "name": "MC Alger",
+      "official_name": "Mouloudia Club d'Alger",
+      "found": "August 7, 1921",
+      "country": "Algeria",
+      "website": "n\\a",
+      "world_rank": 257
+    },
+    "away_team_info": {
+      "name": "MC Oran",
+      "official_name": "Mouloudia Club d'Oran",
+      "found": "14 May 1946",
+      "country": "Algeria",
+      "website": "http://www.hamri.net",
+      "world_rank": null
+    },
+    "h2h_matches": [
+      {
+        "date": "2026-02-20",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "MC Oran",
+        "away_team": "MC Alger",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 23' Boubacar Traore",
+          "[goal] 41' Zinedine Ferhat",
+          "[own] 90' Ayoub Abdellaoui"
+        ]
+      },
+      {
+        "date": "2025-09-16",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "MC Alger",
+        "away_team": "MC Oran",
+        "home_goals": "3",
+        "away_goals": "2",
+        "half_time_score": "2-2",
+        "events": [
+          "[goal] 15' Zakaria Naidji",
+          "[goal] 15' Unknown",
+          "[goal] 32' Gape Mohutsiwa",
+          "[goal] 37' Soufiane Bayazid",
+          "[rcard] 45' Larbi Tabti",
+          "[goal] 68' Moulay Abdelaziz Abdelkader"
+        ]
+      },
+      {
+        "date": "2025-03-06",
+        "competition": "Algeria - Ligue 1 2024/2025",
+        "home_team": "MC Oran",
+        "away_team": "MC Alger",
+        "home_goals": "0",
+        "away_goals": "2",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 7' Bayazid Soufiane",
+          "[goal] 49' Naidji Zakaria"
+        ]
+      },
+      {
+        "date": "2024-10-11",
+        "competition": "Algeria - Ligue 1 2024/2025",
+        "home_team": "MC Alger",
+        "away_team": "MC Oran",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 65' Naidji Zakaria"
+        ]
+      },
+      {
+        "date": "2024-06-14",
+        "competition": "Algeria - Ligue 1 2023/2024",
+        "home_team": "MC Alger",
+        "away_team": "MC Oran",
+        "home_goals": "3",
+        "away_goals": "2",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 4' Belaili Mohamed Youcef",
+          "[goal] 11' Dahar Merouane",
+          "[goal] 48' Merzougui Kheiredine",
+          "[goal] 52' Belaili Mohamed Youcef",
+          "[goal] 82' Bengrina Mustapha"
+        ]
+      },
+      {
+        "date": "2024-01-26",
+        "competition": "Algeria - Ligue 1 2023/2024",
+        "home_team": "MC Oran",
+        "away_team": "MC Alger",
+        "home_goals": "0",
+        "away_goals": "2",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 63' Bayazid Soufiane",
+          "[own] 87' Belharrane Abdelkader"
+        ]
+      },
+      {
+        "date": "2023-07-07",
+        "competition": "Algeria - Ligue 1 2022/2023",
+        "home_team": "MC Alger",
+        "away_team": "MC Oran",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 74' Debbih Chouaib"
+        ]
+      },
+      {
+        "date": "2022-12-07",
+        "competition": "Algeria - Ligue 1 2022/2023",
+        "home_team": "MC Oran",
+        "away_team": "MC Alger",
+        "home_goals": "3",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 27' Benali Benamar",
+          "[goal] 48' Naamani Mohamed",
+          "[goal] 73' Benayad Mourad"
+        ]
+      },
+      {
+        "date": "2022-06-10",
+        "competition": "Algeria - Ligue 1 2021/2022",
+        "home_team": "MC Alger",
+        "away_team": "MC Oran",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": []
+      },
+      {
+        "date": "2022-02-05",
+        "competition": "Algeria - Ligue 1 2021/2022",
+        "home_team": "MC Oran",
+        "away_team": "MC Alger",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[penalty] 79' Djabout Adil",
+          "[rcard] 89' Unknown"
+        ]
+      },
+      {
+        "date": "2021-06-19",
+        "competition": "Algeria - Ligue 1 2020/2021",
+        "home_team": "MC Oran",
+        "away_team": "MC Alger",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 38' Benali Benamar",
+          "[goal] 83' Tahar Fethi",
+          "[goal] 84' Nekkache Hichem"
+        ]
+      },
+      {
+        "date": "2021-01-11",
+        "competition": "Algeria - Ligue 1 2020/2021",
+        "home_team": "MC Alger",
+        "away_team": "MC Oran",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[penalty] 27' Lamara",
+          "[goal] 69' Masmoudi"
+        ]
+      },
+      {
+        "date": "2020-02-29",
+        "competition": "Algeria - Ligue 1 2019/2020",
+        "home_team": "MC Alger",
+        "away_team": "MC Oran",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 15' Frioui Samy",
+          "[goal] 73' Motrani Zoubir"
+        ]
+      },
+      {
+        "date": "2019-09-15",
+        "competition": "Algeria - Ligue 1 2019/2020",
+        "home_team": "MC Oran",
+        "away_team": "MC Alger",
+        "home_goals": "2",
+        "away_goals": "3",
+        "half_time_score": "2-0",
+        "events": [
+          "[goal] 33' Bendebka Sofiane",
+          "[goal] 40' Brahimi Belkacem",
+          "[goal] 55' Mesmoudi Boualem",
+          "[penalty] 90' Mansouri Zakaria",
+          "[goal] 90' Bourdim Abderrahmane"
+        ]
+      },
+      {
+        "date": "2019-04-09",
+        "competition": "Algeria - Ligue 1 2018/2019",
+        "home_team": "MC Alger",
+        "away_team": "MC Oran",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 84' Frioui Samy"
+        ]
+      },
+      {
+        "date": "2018-09-22",
+        "competition": "Algeria - Ligue 1 2018/2019",
+        "home_team": "MC Oran",
+        "away_team": "MC Alger",
+        "home_goals": "4",
+        "away_goals": "3",
+        "half_time_score": "1-3",
+        "events": [
+          "[goal] 1' Zri Hammar",
+          "[goal] 33' Mansouri Zakaria",
+          "[goal] 37' Nadji Rachid",
+          "[goal] 44' Azzi Ayoub",
+          "[goal] 49' Nekkache Hichem",
+          "[goal] 62' Amada Ibrahim",
+          "[goal] 76' Mohamed Bouchar"
+        ]
+      },
+      {
+        "date": "2018-03-12",
+        "competition": "Algeria - Ligue 1 2017/2018",
+        "home_team": "MC Alger",
+        "away_team": "MC Oran",
+        "home_goals": "4",
+        "away_goals": "0",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 4' Nekkache Hichem",
+          "[goal] 19' Bendebka Sofiane",
+          "[goal] 46' Souibaa Mohamed",
+          "[goal] 90' Balegh Abou"
+        ]
+      },
+      {
+        "date": "2017-10-17",
+        "competition": "Algeria - Ligue 1 2017/2018",
+        "home_team": "MC Oran",
+        "away_team": "MC Alger",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": []
+      },
+      {
+        "date": "2017-04-21",
+        "competition": "Algeria - Ligue 1 2016/2017",
+        "home_team": "MC Oran",
+        "away_team": "MC Alger",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": []
+      },
+      {
+        "date": "2016-09-23",
+        "competition": "Algeria - Ligue 1 2016/2017",
+        "home_team": "MC Alger",
+        "away_team": "MC Oran",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[rcard] 77' Heriat Hamza",
+          "[goal] 82' Seguer Mohamed"
+        ]
+      },
+      {
+        "date": "2016-04-26",
+        "competition": "Algeria - Ligue 1 2015/2016",
+        "home_team": "MC Oran",
+        "away_team": "MC Alger",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": []
+      },
+      {
+        "date": "2015-11-21",
+        "competition": "Algeria - Ligue 1 2015/2016",
+        "home_team": "MC Alger",
+        "away_team": "MC Oran",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 34' Merzougui Kheiredine"
+        ]
+      },
+      {
+        "date": "2015-05-23",
+        "competition": "Algeria - Ligue 1 2014/2015",
+        "home_team": "MC Alger",
+        "away_team": "MC Oran",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[penalty] 48' Gourmi K."
+        ]
+      },
+      {
+        "date": "2014-12-20",
+        "competition": "Algeria - Ligue 1 2014/2015",
+        "home_team": "MC Oran",
+        "away_team": "MC Alger",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 24' Larbi K.",
+          "[penalty] 90' Gourmi K."
+        ]
+      },
+      {
+        "date": "2014-02-08",
+        "competition": "Algeria - Ligue 1 2013/2014",
+        "home_team": "MC Alger",
+        "away_team": "MC Oran",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 42' Hachoud A.",
+          "[goal] 50' Bougueche H."
+        ]
+      },
+      {
+        "date": "2013-09-03",
+        "competition": "Algeria - Ligue 1 2013/2014",
+        "home_team": "MC Oran",
+        "away_team": "MC Alger",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[rcard] 53' Nessakh C.",
+          "[penalty] 55' Djallit M.",
+          "[goal] 63' Bouaicha D."
+        ]
+      }
+    ],
+    "recent_form_home": [
+      {
+        "date": "2026-08-15",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Al-Sadd",
+        "away_team": "MC Alger",
+        "score": "2-0"
+      },
+      {
+        "date": "2026-08-03",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Al-Shabab",
+        "away_team": "MC Alger",
+        "score": "3-1"
+      },
+      {
+        "date": "2026-07-29",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Al-Hilal Saudi FC",
+        "away_team": "MC Alger",
+        "score": "0-2"
+      },
+      {
+        "date": "2026-07-27",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Mamelodi Sundowns",
+        "away_team": "MC Alger",
+        "score": "1-1"
+      },
+      {
+        "date": "2026-06-05",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "MC Alger",
+        "away_team": "ASO Chlef",
+        "score": "2-0"
+      },
+      {
+        "date": "2026-05-20",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "ES Setif",
+        "away_team": "MC Alger",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-05-08",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "MC Alger",
+        "away_team": "MB Rouissat",
+        "score": "1-1"
+      },
+      {
+        "date": "2026-04-28",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "MC Alger",
+        "away_team": "Olympique Akbou",
+        "score": "2-1"
+      },
+      {
+        "date": "2026-04-21",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "ES Ben Aknoun",
+        "away_team": "MC Alger",
+        "score": "2-3"
+      },
+      {
+        "date": "2026-04-09",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "MC Alger",
+        "away_team": "MCE Bayadh",
+        "score": "3-0"
+      }
+    ],
+    "recent_form_away": [
+      {
+        "date": "2026-07-26",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Al-Markhiya",
+        "away_team": "MC Oran",
+        "score": "1-2"
+      },
+      {
+        "date": "2026-06-06",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "MC Oran",
+        "away_team": "USM Alger",
+        "score": "2-2"
+      },
+      {
+        "date": "2026-05-20",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "CR Belouizdad",
+        "away_team": "MC Oran",
+        "score": "3-1"
+      },
+      {
+        "date": "2026-05-07",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "MC Oran",
+        "away_team": "ASO Chlef",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-04-29",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "JS Kabylie",
+        "away_team": "MC Oran",
+        "score": "1-2"
+      },
+      {
+        "date": "2026-04-17",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "ES Setif",
+        "away_team": "MC Oran",
+        "score": "3-0"
+      },
+      {
+        "date": "2026-04-09",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "MC Oran",
+        "away_team": "MB Rouissat",
+        "score": "2-1"
+      },
+      {
+        "date": "2026-04-03",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "CS Constantine",
+        "away_team": "MC Oran",
+        "score": "0-1"
+      },
+      {
+        "date": "2026-03-17",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "MC Oran",
+        "away_team": "MCE Bayadh",
+        "score": "2-0"
+      },
+      {
+        "date": "2026-03-13",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "JS Saoura",
+        "away_team": "MC Oran",
+        "score": "2-0"
+      }
+    ],
+    "match_facts": []
+  },
+  {
+    "fixture": {
+      "match_id": "1713976",
+      "date": "2026-08-27",
+      "time": "19:00",
+      "competition": "LIGUE 1",
+      "country": "Algeria",
+      "home_team": "ES Setif",
+      "away_team": "ES Ben Aknoun",
+      "tip": "1X",
+      "comparison_url": "https://www.statarea.com/compare/teams/ES+Setif (Algeria)/ES+Ben+Aknoun (Algeria)",
+      "odds": {
+        "coef_1": 57,
+        "coef_x": 30,
+        "coef_2": 13,
+        "coef_ht1": 35,
+        "coef_htx": 45,
+        "coef_ht2": 20,
+        "coef_o15": 81,
+        "coef_o25": 53,
+        "coef_o35": 31,
+        "coef_bts": 46,
+        "coef_ots": 54
+      },
+      "user_votes": {
+        "vote_1": 1,
+        "vote_x": 0,
+        "vote_2": 0,
+        "likes": 0,
+        "dislikes": 0
+      }
+    },
+    "home_team_info": {
+      "name": "ES Setif",
+      "official_name": "Entente Sportive de Sétif",
+      "found": "1958",
+      "country": "Algeria",
+      "website": "http://www.ententedesetif.com",
+      "world_rank": 556
+    },
+    "away_team_info": {
+      "name": "ES Ben Aknoun",
+      "official_name": "Etoile Sportif de Ben Aknoun",
+      "found": "1940",
+      "country": "Algeria",
+      "website": "n\\a",
+      "world_rank": null
+    },
+    "h2h_matches": [
+      {
+        "date": "2026-04-05",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "ES Setif",
+        "away_team": "ES Ben Aknoun",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 12' Adil Djabout",
+          "[goal] 14' Imadeddine Boubkeur"
+        ]
+      },
+      {
+        "date": "2025-11-02",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "ES Ben Aknoun",
+        "away_team": "ES Setif",
+        "home_goals": "0",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 90' Akram Djahnit",
+          "[dycard] 90' Akram Djahnit"
+        ]
+      },
+      {
+        "date": "2024-06-07",
+        "competition": "Algeria - Ligue 1 2023/2024",
+        "home_team": "ES Ben Aknoun",
+        "away_team": "ES Setif",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[rcard] 25' Unknown",
+          "[dycard] 81' Unknown",
+          "[penalty] 82' Hachoud Abderahmane"
+        ]
+      },
+      {
+        "date": "2024-01-13",
+        "competition": "Algeria - Ligue 1 2023/2024",
+        "home_team": "ES Setif",
+        "away_team": "ES Ben Aknoun",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 42' Hachoud Abderahmane",
+          "[goal] 52' Abdelmalek Ammar"
+        ]
+      }
+    ],
+    "recent_form_home": [
+      {
+        "date": "2026-06-05",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "Paradou AC",
+        "away_team": "ES Setif",
+        "score": "0-2"
+      },
+      {
+        "date": "2026-05-20",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "ES Setif",
+        "away_team": "MC Alger",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-05-16",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "ES Setif",
+        "away_team": "CR Belouizdad",
+        "score": "3-1"
+      },
+      {
+        "date": "2026-05-08",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "JS Kabylie",
+        "away_team": "ES Setif",
+        "score": "5-1"
+      },
+      {
+        "date": "2026-04-17",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "ES Setif",
+        "away_team": "MC Oran",
+        "score": "3-0"
+      },
+      {
+        "date": "2026-04-11",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "Olympique Akbou",
+        "away_team": "ES Setif",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-04-05",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "ES Setif",
+        "away_team": "ES Ben Aknoun",
+        "score": "1-1"
+      },
+      {
+        "date": "2026-03-18",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "USM Alger",
+        "away_team": "ES Setif",
+        "score": "2-0"
+      },
+      {
+        "date": "2026-03-06",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "ASO Chlef",
+        "away_team": "ES Setif",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-02-28",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "ES Setif",
+        "away_team": "Mostaganem",
+        "score": "3-0"
+      }
+    ],
+    "recent_form_away": [
+      {
+        "date": "2026-06-06",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "Olympique Akbou",
+        "away_team": "ES Ben Aknoun",
+        "score": "1-1"
+      },
+      {
+        "date": "2026-06-04",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "ES Ben Aknoun",
+        "away_team": "USM Alger",
+        "score": "2-2"
+      },
+      {
+        "date": "2026-05-24",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "CR Belouizdad",
+        "away_team": "ES Ben Aknoun",
+        "score": "3-1"
+      },
+      {
+        "date": "2026-05-19",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "ES Ben Aknoun",
+        "away_team": "Mostaganem",
+        "score": "3-0"
+      },
+      {
+        "date": "2026-04-21",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "ES Ben Aknoun",
+        "away_team": "MC Alger",
+        "score": "2-3"
+      },
+      {
+        "date": "2026-04-10",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "ES Ben Aknoun",
+        "away_team": "ASO Chlef",
+        "score": "2-1"
+      },
+      {
+        "date": "2026-04-05",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "ES Setif",
+        "away_team": "ES Ben Aknoun",
+        "score": "1-1"
+      },
+      {
+        "date": "2026-04-01",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "JS Kabylie",
+        "away_team": "ES Ben Aknoun",
+        "score": "3-1"
+      },
+      {
+        "date": "2026-03-18",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "ES Ben Aknoun",
+        "away_team": "MB Rouissat",
+        "score": "3-2"
+      },
+      {
+        "date": "2026-03-13",
+        "competition": "Algeria - 1. Division 2025/2026",
+        "home_team": "CS Constantine",
+        "away_team": "ES Ben Aknoun",
+        "score": "0-0"
+      }
+    ],
+    "match_facts": []
+  },
+  {
+    "fixture": {
+      "match_id": "1713989",
+      "date": "2026-08-27",
+      "time": "17:30",
+      "competition": "QATAR STARS LEAGUE",
+      "country": "Qatar",
+      "home_team": "Al-Wakrah",
+      "away_team": "Al-Rayyan SC",
+      "tip": "2",
+      "comparison_url": "https://www.statarea.com/compare/teams/Al-Wakrah (Qatar)/Al-Rayyan+SC (Qatar)",
+      "odds": {
+        "coef_1": 33,
+        "coef_x": 26,
+        "coef_2": 41,
+        "coef_ht1": 25,
+        "coef_htx": 45,
+        "coef_ht2": 30,
+        "coef_o15": 88,
+        "coef_o25": 65,
+        "coef_o35": 47,
+        "coef_bts": 62,
+        "coef_ots": 38
+      },
+      "user_votes": {
+        "vote_1": 2,
+        "vote_x": 0,
+        "vote_2": 1,
+        "likes": 0,
+        "dislikes": 2
+      }
+    },
+    "home_team_info": {
+      "name": "Al-Wakrah",
+      "official_name": "Al-Wakrah Sport Club",
+      "found": "1959",
+      "country": "Qatar",
+      "website": "http://www.alwakrh.com",
+      "world_rank": null
+    },
+    "away_team_info": {
+      "name": "Al-Rayyan SC",
+      "official_name": "Al Rayyan Sports Club",
+      "found": "1967",
+      "country": "Qatar",
+      "website": "http://www.alrayyansc.com",
+      "world_rank": null
+    },
+    "h2h_matches": [
+      {
+        "date": "2026-05-01",
+        "competition": "Qatar - Amir Cup 2026/2026",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Wakrah",
+        "home_goals": "0",
+        "away_goals": "3",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 12' Unknown",
+          "[ycard] 18' Unknown",
+          "[goal] 19' Unknown",
+          "[ycard] 28' Unknown",
+          "[ycard] 34' Unknown",
+          "[ycard] 41' Unknown",
+          "[ycard] 45' Unknown",
+          "[ycard] 51' Unknown",
+          "[goal] 52' Unknown",
+          "[goal] 76' Unknown",
+          "[goal] 81' Unknown",
+          "[ycard] 85' Unknown",
+          "[ycard] 89' Unknown",
+          "[ycard] 90' Unknown",
+          "[ycard] 90' Unknown"
+        ]
+      },
+      {
+        "date": "2026-03-17",
+        "competition": "Qatar - Qatar Stars League 2025/2026",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Wakrah",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 29' Yusuf Abdurisag",
+          "[goal] 69' Gregore De Magalhaes Da Silva",
+          "[goal] 85' Roger Guedes"
+        ]
+      },
+      {
+        "date": "2025-10-26",
+        "competition": "Qatar - Qatar Stars League 2025/2026",
+        "home_team": "Al-Wakrah",
+        "away_team": "Al-Rayyan SC",
+        "home_goals": "0",
+        "away_goals": "2",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 37' Rodrigo",
+          "[goal] 82' Roger Guedes"
+        ]
+      },
+      {
+        "date": "2025-02-23",
+        "competition": "Qatar - Qatar Stars League 2024/2025",
+        "home_team": "Al-Wakrah",
+        "away_team": "Al-Rayyan SC",
+        "home_goals": "0",
+        "away_goals": "4",
+        "half_time_score": "1-0",
+        "events": [
+          "[rcard] 2' Gannan Suhaib",
+          "[goal] 29' Guedes Roger",
+          "[goal] 51' Al-abdullah Tameem-",
+          "[own] 67' Scholz Alexander",
+          "[goal] 81' Guedes Roger"
+        ]
+      },
+      {
+        "date": "2024-09-22",
+        "competition": "Qatar - Qatar Stars League 2024/2025",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Wakrah",
+        "home_goals": "0",
+        "away_goals": "2",
+        "half_time_score": "2-0",
+        "events": [
+          "[goal] 8' Gelson",
+          "[goal] 36' Gomes Ricardo"
+        ]
+      },
+      {
+        "date": "2024-03-06",
+        "competition": "Qatar - Qatar Stars League 2023/2024",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Wakrah",
+        "home_goals": "3",
+        "away_goals": "0",
+        "half_time_score": "0-2",
+        "events": [
+          "[rcard] 29' Amaro Andre",
+          "[penalty] 41' Guedes Roger",
+          "[goal] 45' Bencharki Achraf",
+          "[goal] 61' Guedes Roger"
+        ]
+      },
+      {
+        "date": "2023-09-29",
+        "competition": "Qatar - Qatar Stars League 2023/2024",
+        "home_team": "Al-Wakrah",
+        "away_team": "Al-Rayyan SC",
+        "home_goals": "3",
+        "away_goals": "2",
+        "half_time_score": "1-2",
+        "events": [
+          "[goal] 7' Bencharki Achraf",
+          "[goal] 16' Assal Ayoub",
+          "[goal] 45' Benyettou Mohamed",
+          "[goal] 53' Benyettou Mohamed",
+          "[goal] 54' Tabata Rodrigo"
+        ]
+      },
+      {
+        "date": "2023-05-03",
+        "competition": "Qatar - Qatar Stars League 2022/2023",
+        "home_team": "Al-Wakrah",
+        "away_team": "Al-Rayyan SC",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[rcard] 18' Rodrigues Ivanildo",
+          "[goal] 76' Benyettou Mohamed"
+        ]
+      },
+      {
+        "date": "2023-03-12",
+        "competition": "Qatar - Qatar Stars League 2022/2023",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Wakrah",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 82' Gelson",
+          "[goal] 89' Boli Yohan"
+        ]
+      },
+      {
+        "date": "2022-01-10",
+        "competition": "Qatar - Second Division 2021/2022",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Wakrah",
+        "home_goals": "3",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 19' Khalilzadeh Shoja",
+          "[goal] 69' Rodriguez James",
+          "[goal] 72' Rodriguez James"
+        ]
+      },
+      {
+        "date": "2021-09-17",
+        "competition": "Qatar - Second Division 2021/2022",
+        "home_team": "Al-Wakrah",
+        "away_team": "Al-Rayyan SC",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 43' Yazidi Nasser Al",
+          "[goal] 90' Al-abdullah Tameem-"
+        ]
+      },
+      {
+        "date": "2021-01-19",
+        "competition": "Qatar - Qatar Stars League 2020/2021",
+        "home_team": "Al-Wakrah",
+        "away_team": "Al-Rayyan SC",
+        "home_goals": "0",
+        "away_goals": "3",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 45' Kom",
+          "[goal] 62' Boli",
+          "[goal] 90' Khalilzadeh"
+        ]
+      },
+      {
+        "date": "2020-10-19",
+        "competition": "Qatar - Qatar Stars League 2020/2021",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Wakrah",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 49' Boli"
+        ]
+      },
+      {
+        "date": "2020-08-21",
+        "competition": "Qatar - Stars League 2019/2020",
+        "home_team": "Al-Wakrah",
+        "away_team": "Al-Rayyan SC",
+        "home_goals": "0",
+        "away_goals": "2",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 59' Brahimi",
+          "[goal] 71' Mercado"
+        ]
+      },
+      {
+        "date": "2019-12-22",
+        "competition": "Qatar - Stars League 2019/2020",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Wakrah",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 90' Brahimi Yacine"
+        ]
+      },
+      {
+        "date": "2019-12-01",
+        "competition": "Qatar - Stars Cup 2019/2020",
+        "home_team": "Al-Wakrah",
+        "away_team": "Al-Rayyan SC",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 54' Benyettou Mohamed"
+        ]
+      },
+      {
+        "date": "2017-03-04",
+        "competition": "Qatar - Stars League 2016/2017",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Wakrah",
+        "home_goals": "4",
+        "away_goals": "0",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 29' Tabata Rodrigo",
+          "[goal] 45' Garcia Sergio",
+          "[goal] 51' Tabata Rodrigo",
+          "[goal] 63' Tabata Rodrigo"
+        ]
+      },
+      {
+        "date": "2016-12-11",
+        "competition": "Qatar - Stars League 2016/2017",
+        "home_team": "Al-Wakrah",
+        "away_team": "Al-Rayyan SC",
+        "home_goals": "0",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[own] 34' Fakhro Abdurahman"
+        ]
+      },
+      {
+        "date": "2016-03-05",
+        "competition": "Qatar - Stars League 2015/2016",
+        "home_team": "Al-Wakrah",
+        "away_team": "Al-Rayyan SC",
+        "home_goals": "0",
+        "away_goals": "5",
+        "half_time_score": "2-0",
+        "events": [
+          "[goal] 36' Tabata Rodrigo",
+          "[goal] 45' Soria Sebastian",
+          "[goal] 57' Garcia Sergio",
+          "[goal] 66' Koh Myong-jin-",
+          "[goal] 71' Caceres Victor"
+        ]
+      },
+      {
+        "date": "2015-11-06",
+        "competition": "Qatar - Stars League 2015/2016",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Wakrah",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 29' Moutouali Mouhssine",
+          "[goal] 45' Tabata Rodrigo",
+          "[goal] 51' Otavio Nathan",
+          "[rcard] 54' Al Yazidi Hamood"
+        ]
+      },
+      {
+        "date": "2015-04-28",
+        "competition": "Qatar - Emir Cup 2014/2015",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Wakrah",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[penalty] 11' Tabata R.",
+          "[goal] 64' Hamza W.",
+          "[goal] 77' Tabata R.",
+          "[rcard] 87' Al Yazidi H.",
+          "[rcard] 90' Yaghoub Y."
+        ]
+      },
+      {
+        "date": "2014-01-17",
+        "competition": "Qatar - Stars League 2013/2014",
+        "home_team": "Al-Wakrah",
+        "away_team": "Al-Rayyan SC",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "1-0",
+        "events": [
+          "[goal] 4' Afifa A.",
+          "[goal] 57' Saez S.",
+          "[penalty] 73' Saez S."
+        ]
+      },
+      {
+        "date": "2013-09-21",
+        "competition": "Qatar - Stars League 2013/2014",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Wakrah",
+        "home_goals": "1",
+        "away_goals": "3",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 69' Saez",
+          "[goal] 77' Michel",
+          "[goal] 90' Michel"
+        ]
+      },
+      {
+        "date": "2013-09-20",
+        "competition": "Qatar - Stars League 2013/2014",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Wakrah",
+        "home_goals": "1",
+        "away_goals": "3",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 68' Saez S.",
+          "[goal] 77' Michel",
+          "[goal] 81' Tabata R.",
+          "[goal] 90' Michel"
+        ]
+      }
+    ],
+    "recent_form_home": [
+      {
+        "date": "2026-08-20",
+        "competition": "Qatar - Qatar Stars League 2026/2027",
+        "home_team": "Al-Wakrah",
+        "away_team": "Qatar SC",
+        "score": "2-2"
+      },
+      {
+        "date": "2026-07-31",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Nantes",
+        "away_team": "Al-Wakrah",
+        "score": "5-1"
+      },
+      {
+        "date": "2026-07-28",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Rouen",
+        "away_team": "Al-Wakrah",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-07-25",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Caen",
+        "away_team": "Al-Wakrah",
+        "score": "4-1"
+      },
+      {
+        "date": "2026-07-22",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Dinamo Brest",
+        "away_team": "Al-Wakrah",
+        "score": "0-2"
+      },
+      {
+        "date": "2026-05-05",
+        "competition": "Qatar - Amir Cup 2026/2026",
+        "home_team": "Al-Gharafa",
+        "away_team": "Al-Wakrah",
+        "score": "0-0"
+      },
+      {
+        "date": "2026-05-01",
+        "competition": "Qatar - Amir Cup 2026/2026",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Wakrah",
+        "score": "0-3"
+      },
+      {
+        "date": "2026-04-27",
+        "competition": "Qatar - Qatar Stars League 2025/2026",
+        "home_team": "Al-Wakrah",
+        "away_team": "Al-Sailiya",
+        "score": "3-1"
+      },
+      {
+        "date": "2026-04-08",
+        "competition": "Qatar - Qatar Stars League 2025/2026",
+        "home_team": "Al-Wakrah",
+        "away_team": "Al-Gharafa",
+        "score": "3-3"
+      },
+      {
+        "date": "2026-04-03",
+        "competition": "Qatar - Qatar Stars League 2025/2026",
+        "home_team": "Qatar SC",
+        "away_team": "Al-Wakrah",
+        "score": "1-4"
+      }
+    ],
+    "recent_form_away": [
+      {
+        "date": "2026-08-20",
+        "competition": "Qatar - Qatar Stars League 2026/2027",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Lusail City FC",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-08-04",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Leganes",
+        "away_team": "Al-Rayyan SC",
+        "score": "2-1"
+      },
+      {
+        "date": "2026-07-19",
+        "competition": "International - Club Friendlies 2026/2026",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Rochdale",
+        "score": "3-3"
+      },
+      {
+        "date": "2026-05-01",
+        "competition": "Qatar - Amir Cup 2026/2026",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Wakrah",
+        "score": "0-3"
+      },
+      {
+        "date": "2026-04-27",
+        "competition": "Qatar - Qatar Stars League 2025/2026",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Arabi SC",
+        "score": "4-0"
+      },
+      {
+        "date": "2026-04-08",
+        "competition": "Qatar - Qatar Stars League 2025/2026",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Umm Salal",
+        "score": "3-0"
+      },
+      {
+        "date": "2026-04-04",
+        "competition": "Qatar - Qatar Stars League 2025/2026",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Sadd",
+        "score": "1-1"
+      },
+      {
+        "date": "2026-03-28",
+        "competition": "Qatar - Qsl Cup Knockout Stage 2025/2026",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Umm Salal",
+        "score": "3-3"
+      },
+      {
+        "date": "2026-03-24",
+        "competition": "Qatar - Qsl Cup Knockout Stage 2025/2026",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Shahaniya",
+        "score": "3-0"
+      },
+      {
+        "date": "2026-03-17",
+        "competition": "Qatar - Qatar Stars League 2025/2026",
+        "home_team": "Al-Rayyan SC",
+        "away_team": "Al-Wakrah",
+        "score": "2-1"
+      }
+    ],
+    "match_facts": []
+  },
+  {
+    "fixture": {
+      "match_id": "1713992",
+      "date": "2026-08-27",
+      "time": "01:00",
+      "competition": "NWSL",
+      "country": "USA",
+      "home_team": "North Carolina Courage (w)",
+      "away_team": "Angel City FC (w)",
+      "tip": "1",
+      "comparison_url": "https://www.statarea.com/compare/teams/North+Carolina+Courage+%28w%29 (USA)/Angel+City+FC+%28w%29 (USA)",
+      "odds": {
+        "coef_1": 51,
+        "coef_x": 23,
+        "coef_2": 26,
+        "coef_ht1": 32,
+        "coef_htx": 47,
+        "coef_ht2": 21,
+        "coef_o15": 88,
+        "coef_o25": 66,
+        "coef_o35": 43,
+        "coef_bts": 60,
+        "coef_ots": 40
+      },
+      "user_votes": {
+        "vote_1": 1,
+        "vote_x": 0,
+        "vote_2": 2,
+        "likes": 0,
+        "dislikes": 0
+      }
+    },
+    "home_team_info": {
+      "name": "North Carolina Courage (w)",
+      "official_name": "North Carolina Courage - women soccer team",
+      "found": "2009",
+      "country": "USA",
+      "website": "http://www.northcarolinafc.com/nccourage",
+      "world_rank": null
+    },
+    "away_team_info": {
+      "name": "Angel City FC (w)",
+      "official_name": "n\\a",
+      "found": "n\\a",
+      "country": "USA",
+      "website": "n\\a",
+      "world_rank": null
+    },
+    "h2h_matches": [
+      {
+        "date": "2026-06-01",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "Angel City FC (w)",
+        "away_team": "North Carolina Courage (w)",
+        "home_goals": "1",
+        "away_goals": "2",
+        "half_time_score": "0-0",
+        "events": [
+          "[ycard] 3' Uno Shiragaki",
+          "[goal] 48' Evelyn Ijeh",
+          "[goal] 51' Maiara",
+          "[goal] 79' Manaka Matsukubo"
+        ]
+      },
+      {
+        "date": "2025-09-13",
+        "competition": "Usa - Nwsl 2025/2025",
+        "home_team": "North Carolina Courage (w)",
+        "away_team": "Angel City FC (w)",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "2-2",
+        "events": [
+          "[goal] 6' Manaka Matsukubo",
+          "[goal] 16' Brianna Pinto",
+          "[goal] 88' Sveindis Jane Jonsdottir"
+        ]
+      },
+      {
+        "date": "2025-06-15",
+        "competition": "Usa - Nwsl Women 2024/2025",
+        "home_team": "Angel City FC (w)",
+        "away_team": "North Carolina Courage (w)",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 1' Vine Cortnee",
+          "[goal] 11' Tiernan Riley",
+          "[goal] 96' Unknown"
+        ]
+      },
+      {
+        "date": "2024-10-13",
+        "competition": "Usa - Nwsl Women 2023/2024",
+        "home_team": "North Carolina Courage (w)",
+        "away_team": "Angel City FC (w)",
+        "home_goals": "1",
+        "away_goals": "1",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 90' Wingate Olivia",
+          "[goal] 90' Press Christen"
+        ]
+      },
+      {
+        "date": "2024-04-22",
+        "competition": "Usa - Nwsl Women 2023/2024",
+        "home_team": "Angel City FC (w)",
+        "away_team": "North Carolina Courage (w)",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 23' Emslie Claire",
+          "[goal] 54' Emslie Claire",
+          "[goal] 73' Lussi Tyler"
+        ]
+      },
+      {
+        "date": "2023-07-10",
+        "competition": "Usa - Nwsl Women 2022/2023",
+        "home_team": "Angel City FC (w)",
+        "away_team": "North Carolina Courage (w)",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "1-1",
+        "events": [
+          "[goal] 15' Pinto Brianna",
+          "[goal] 18' Mccaskill Savannah",
+          "[own] 77' Kurtz Kaleigh"
+        ]
+      },
+      {
+        "date": "2023-05-21",
+        "competition": "Usa - Nwsl Women 2022/2023",
+        "home_team": "North Carolina Courage (w)",
+        "away_team": "Angel City FC (w)",
+        "home_goals": "0",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": []
+      },
+      {
+        "date": "2022-09-15",
+        "competition": "Usa - Nwsl Women 2021/2022",
+        "home_team": "North Carolina Courage (w)",
+        "away_team": "Angel City FC (w)",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 54' Kerolin"
+        ]
+      },
+      {
+        "date": "2022-04-30",
+        "competition": "Usa - Nwsl Women 2021/2022",
+        "home_team": "Angel City FC (w)",
+        "away_team": "North Carolina Courage (w)",
+        "home_goals": "2",
+        "away_goals": "1",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 3' Gilles Vanessa",
+          "[goal] 13' Endo Jun",
+          "[goal] 51' Debinha"
+        ]
+      }
+    ],
+    "recent_form_home": [
+      {
+        "date": "2026-08-23",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "North Carolina Courage (w)",
+        "away_team": "Boston Legacy Fc (w)",
+        "score": "2-1"
+      },
+      {
+        "date": "2026-08-17",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "North Carolina Courage (w)",
+        "away_team": "Houston Dash (w)",
+        "score": "2-3"
+      },
+      {
+        "date": "2026-08-08",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "Washington Spirit (w)",
+        "away_team": "North Carolina Courage (w)",
+        "score": "3-4"
+      },
+      {
+        "date": "2026-08-06",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "Denver Summit Fc (w)",
+        "away_team": "North Carolina Courage (w)",
+        "score": "0-2"
+      },
+      {
+        "date": "2026-08-01",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "North Carolina Courage (w)",
+        "away_team": "Orlando Pride (w)",
+        "score": "5-0"
+      },
+      {
+        "date": "2026-07-26",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "North Carolina Courage (w)",
+        "away_team": "Utah Royals (w)",
+        "score": "1-4"
+      },
+      {
+        "date": "2026-07-18",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "Bay FC (w)",
+        "away_team": "North Carolina Courage (w)",
+        "score": "3-0"
+      },
+      {
+        "date": "2026-07-11",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "North Carolina Courage (w)",
+        "away_team": "Washington Spirit (w)",
+        "score": "0-2"
+      },
+      {
+        "date": "2026-07-05",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "North Carolina Courage (w)",
+        "away_team": "OL Reign (w)",
+        "score": "3-1"
+      },
+      {
+        "date": "2026-06-27",
+        "competition": "Usa - Usl W League South Atlantic Division 2026/2026",
+        "home_team": "North Carolina Courage (w)",
+        "away_team": "Charlotte Eagles (w)",
+        "score": "0-4"
+      }
+    ],
+    "recent_form_away": [
+      {
+        "date": "2026-08-24",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "Angel City FC (w)",
+        "away_team": "Gotham FC (w)",
+        "score": "0-0"
+      },
+      {
+        "date": "2026-08-17",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "Angel City FC (w)",
+        "away_team": "Washington Spirit (w)",
+        "score": "1-1"
+      },
+      {
+        "date": "2026-08-10",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "OL Reign (w)",
+        "away_team": "Angel City FC (w)",
+        "score": "2-2"
+      },
+      {
+        "date": "2026-08-01",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "Fc Kansas City (w)",
+        "away_team": "Angel City FC (w)",
+        "score": "1-1"
+      },
+      {
+        "date": "2026-07-27",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "Angel City FC (w)",
+        "away_team": "Racing Louisville (w)",
+        "score": "1-2"
+      },
+      {
+        "date": "2026-07-18",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "Chicago Red Stars (w)",
+        "away_team": "Angel City FC (w)",
+        "score": "0-2"
+      },
+      {
+        "date": "2026-07-12",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "San Diego Wave FC (w)",
+        "away_team": "Angel City FC (w)",
+        "score": "0-2"
+      },
+      {
+        "date": "2026-07-04",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "Angel City FC (w)",
+        "away_team": "Orlando Pride (w)",
+        "score": "2-0"
+      },
+      {
+        "date": "2026-06-01",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "Angel City FC (w)",
+        "away_team": "North Carolina Courage (w)",
+        "score": "1-2"
+      },
+      {
+        "date": "2026-05-24",
+        "competition": "Usa - Nwsl 2026/2026",
+        "home_team": "Houston Dash (w)",
+        "away_team": "Angel City FC (w)",
+        "score": "2-1"
+      }
+    ],
+    "match_facts": []
+  },
+  {
+    "fixture": {
+      "match_id": "1714054",
+      "date": "2026-08-27",
+      "time": "02:00",
+      "competition": "USL CHAMPIONSHIP WESTERN CONFERENCE",
+      "country": "USA",
+      "home_team": "El Paso Locomotive",
+      "away_team": "Pittsburgh Riverhounds",
+      "tip": "1",
+      "comparison_url": "https://www.statarea.com/compare/teams/El+Paso+Locomotive (USA)/Pittsburgh+Riverhounds (USA)",
+      "odds": {
+        "coef_1": 44,
+        "coef_x": 29,
+        "coef_2": 27,
+        "coef_ht1": 35,
+        "coef_htx": 40,
+        "coef_ht2": 25,
+        "coef_o15": 68,
+        "coef_o25": 38,
+        "coef_o35": 22,
+        "coef_bts": 42,
+        "coef_ots": 58
+      },
+      "user_votes": {
+        "vote_1": 1,
+        "vote_x": 0,
+        "vote_2": 1,
+        "likes": 0,
+        "dislikes": 2
+      }
+    },
+    "home_team_info": {
+      "name": "El Paso Locomotive",
+      "official_name": "El Paso Locomotive FC",
+      "found": "March 1, 2018",
+      "country": "USA",
+      "website": "http://www.eplocomotivefc.com",
+      "world_rank": null
+    },
+    "away_team_info": {
+      "name": "Pittsburgh Riverhounds",
+      "official_name": "Pittsburgh Riverhounds",
+      "found": "1999",
+      "country": "USA",
+      "website": "http://www.riverhounds.com",
+      "world_rank": null
+    },
+    "h2h_matches": [
+      {
+        "date": "2024-10-27",
+        "competition": "Usa - Usl Championship 2023/2024",
+        "home_team": "Pittsburgh Riverhounds",
+        "away_team": "El Paso Locomotive",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-2",
+        "events": [
+          "[goal] 9' Kizza Edward",
+          "[own] 19' Ruiz Ricardo"
+        ]
+      },
+      {
+        "date": "2023-04-23",
+        "competition": "Usa - Usl Championship 2022/2023",
+        "home_team": "El Paso Locomotive",
+        "away_team": "Pittsburgh Riverhounds",
+        "home_goals": "2",
+        "away_goals": "0",
+        "half_time_score": "0-1",
+        "events": [
+          "[goal] 39' Petrovic Petar",
+          "[goal] 69' Solignac Luis"
+        ]
+      },
+      {
+        "date": "2022-05-15",
+        "competition": "Usa - Usl Championship 2021/2022",
+        "home_team": "Pittsburgh Riverhounds",
+        "away_team": "El Paso Locomotive",
+        "home_goals": "1",
+        "away_goals": "0",
+        "half_time_score": "0-0",
+        "events": [
+          "[goal] 46' Cicerone Russell"
+        ]
+      }
+    ],
+    "recent_form_home": [
+      {
+        "date": "2026-08-23",
+        "competition": "Usa - Usl Championship Western Conference 2026/2026",
+        "home_team": "Colorado Switchbacks",
+        "away_team": "El Paso Locomotive",
+        "score": "0-1"
+      },
+      {
+        "date": "2026-08-16",
+        "competition": "Usa - Usl Championship Western Conference 2026/2026",
+        "home_team": "San Antonio FC",
+        "away_team": "El Paso Locomotive",
+        "score": "0-3"
+      },
+      {
+        "date": "2026-08-09",
+        "competition": "Usa - Usl Championship Western Conference 2026/2026",
+        "home_team": "El Paso Locomotive",
+        "away_team": "Oakland Roots",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-08-06",
+        "competition": "Usa - Usl Championship Western Conference 2026/2026",
+        "home_team": "El Paso Locomotive",
+        "away_team": "Monterey Bay FC",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-08-02",
+        "competition": "Usa - Usl Championship Western Conference 2026/2026",
+        "home_team": "Orange County SC",
+        "away_team": "El Paso Locomotive",
+        "score": "2-0"
+      },
+      {
+        "date": "2026-07-26",
+        "competition": "Usa - Usl Championship Western Conference 2026/2026",
+        "home_team": "El Paso Locomotive",
+        "away_team": "SPORTING JAX",
+        "score": "2-0"
+      },
+      {
+        "date": "2026-07-19",
+        "competition": "Usa - Usl Championship 2026/2026",
+        "home_team": "FC Tulsa",
+        "away_team": "El Paso Locomotive",
+        "score": "1-0"
+      },
+      {
+        "date": "2026-07-12",
+        "competition": "Usa - Usl Cup Grp. 2 2026/2026",
+        "home_team": "El Paso Locomotive",
+        "away_team": "New Mexico United",
+        "score": "0-2"
+      },
+      {
+        "date": "2026-07-05",
+        "competition": "Usa - Usl Championship 2026/2026",
+        "home_team": "Las Vegas Lights FC",
+        "away_team": "El Paso Locomotive",
+        "score": "1-2"
+      },
+      {
+        "date": "2026-06-21",
+        "competition": "Usa - Usl Championship 2026/2026",
+        "home_team": "Monterey Bay FC",
+        "away_team": "El Paso Locomotive",
+        "score": "1-0"
+      }
+    ],
+    "recent_form_away": [
+      {
+        "date": "2026-08-23",
+        "competition": "Usa - Usl Championship Eastern Conference 2026/2026",
+        "home_team": "Brooklyn",
+        "away_team": "Pittsburgh Riverhounds",
+        "score": "0-1"
+      },
+      {
+        "date": "2026-08-16",
+        "competition": "Usa - Usl Championship Eastern Conference 2026/2026",
+        "home_team": "Pittsburgh Riverhounds",
+        "away_team": "Charleston Battery",
+        "score": "3-1"
+      },
+      {
+        "date": "2026-08-09",
+        "competition": "Usa - Usl Championship Western Conference 2026/2026",
+        "home_team": "Pittsburgh Riverhounds",
+        "away_team": "Sacramento Republic",
+        "score": "0-0"
+      },
+      {
+        "date": "2026-08-02",
+        "competition": "Usa - Usl Championship Western Conference 2026/2026",
+        "home_team": "Oakland Roots",
+        "away_team": "Pittsburgh Riverhounds",
+        "score": "0-1"
+      },
+      {
+        "date": "2026-07-30",
+        "competition": "Usa - Usl Championship Western Conference 2026/2026",
+        "home_team": "Pittsburgh Riverhounds",
+        "away_team": "FC Tulsa",
+        "score": "0-1"
+      },
+      {
+        "date": "2026-07-26",
+        "competition": "Usa - Usl Championship Eastern Conference 2026/2026",
+        "home_team": "Pittsburgh Riverhounds",
+        "away_team": "Rhode Island",
+        "score": "0-1"
+      },
+      {
+        "date": "2026-07-18",
+        "competition": "Usa - Usl Championship 2026/2026",
+        "home_team": "Pittsburgh Riverhounds",
+        "away_team": "Louisville City FC",
+        "score": "3-1"
+      },
+      {
+        "date": "2026-07-16",
+        "competition": "Usa - Usl Championship 2026/2026",
+        "home_team": "SPORTING JAX",
+        "away_team": "Pittsburgh Riverhounds",
+        "score": "2-1"
+      },
+      {
+        "date": "2026-07-12",
+        "competition": "Usa - Usl Cup Grp. 6 2026/2026",
+        "home_team": "Pittsburgh Riverhounds",
+        "away_team": "Loudoun United",
+        "score": "2-0"
+      },
+      {
+        "date": "2026-07-05",
+        "competition": "Usa - Usl Championship 2026/2026",
+        "home_team": "Pittsburgh Riverhounds",
+        "away_team": "Brooklyn",
+        "score": "0-2"
+      }
+    ],
+    "match_facts": []
+  }
+]
