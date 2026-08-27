@@ -1,9 +1,9 @@
 ======================================================================================
-             🛡️ ONÍTẸ́TẸ́ HIGH-SAFETY / LOW-RISK 5-ODDS SLIPS             
+             🛡️ ONÍTẸ́TẸ́ HIGH-SAFETY / LOW-RISK DAILY 5-ODDS SLIP             
 ======================================================================================
 
->> HIGH-SAFETY 5-ODDS BANKER SLIP
-   Ultra-conservative multi-market slip built with strict risk filters and dynamic H2H verification.
+>> ONÍTẸ́TẸ́ DAILY 5-ODDS BANKER SLIP
+   Ultra-conservative multi-market daily ticket with strict risk constraints, dynamic H2H recency, and safety verification.
    Total Odds: 1.86x  |  Avg Confidence: 88.0%  |  Legs: 5
 --------------------------------------------------------------------------------------
 Time   | Fixture                      | Selection              | Odds  | Risk      | Conf
@@ -20,23 +20,5 @@ Time   | Fixture                      | Selection              | Odds  | Risk   
        ↳ Justification: Defensive Lock: 78% Under 3.5 model + low attacking output.
 --------------------------------------------------------------------------------------
 
->> CONSERVATIVE MULTI-MARKET VALUE SLIP
-   Diversified low-risk ticket combining Double Chance and Over 1.5 Goal selections.
-   Total Odds: 1.86x  |  Avg Confidence: 87.8%  |  Legs: 5
---------------------------------------------------------------------------------------
-Time   | Fixture                      | Selection              | Odds  | Risk      | Conf
---------------------------------------------------------------------------------------
-20:00  | Barcelona vs Athletic Club   | Over 1.5 Goals         | 1.12x | Ultra-Low | 92.9%
-       ↳ Justification: Over 1.5 Goal Pace: 92% model prob + 3.8 combined recent goals/game.
-17:30  | Al-Wakrah vs Al-Rayyan SC    | Over 1.5 Goals         | 1.12x | Ultra-Low | 90.1%
-       ↳ Justification: Over 1.5 Goal Pace: 88% model prob + 3.5 combined recent goals/game.
-01:00  | North Carolin vs Angel City FC | Over 1.5 Goals         | 1.12x | Ultra-Low | 90.1%
-       ↳ Justification: Over 1.5 Goal Pace: 88% model prob + 3.1 combined recent goals/game.
-19:00  | ES Setif vs ES Ben Aknoun    | ES Setif or Draw (1X)  | 1.12x | Ultra-Low | 85.9%
-       ↳ Justification: Double Chance 1X: 87% non-loss probability with 0+ rank superiority.
-02:00  | El Paso Locom vs Pittsburgh Ri | Under 3.5 Goals        | 1.18x | Low       | 80.1%
-       ↳ Justification: Defensive Lock: 78% Under 3.5 model + low attacking output.
---------------------------------------------------------------------------------------
-
-💡 Execution Strategy: Split unit stakes across Banker and Value slips for maximum consistency.
+💡 Execution Strategy: Place 1-unit flat stake on the single daily banker ticket.
 ======================================================================================

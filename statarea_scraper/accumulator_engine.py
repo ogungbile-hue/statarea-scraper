@@ -11,6 +11,7 @@ Features:
 """
 
 import csv
+import datetime
 import itertools
 import json
 import logging
@@ -537,48 +538,24 @@ class AccumulatorEngine:
 
         if not all_valid_combos:
             logger.warning("No accumulator combinations matched.")
-            return {"banker_ticket": None, "value_ticket": None}
+            return {"daily_ticket": None, "banker_ticket": None}
 
-        # 1. Banker Slip: Highest average confidence score
+        # Select the single best slip: highest confidence score closest to ~5.00x odds
         all_valid_combos.sort(key=lambda x: (-x[0], abs(x[1] - target_odds)))
-        banker_conf, banker_odds, banker_legs = all_valid_combos[0]
+        best_conf, best_odds, best_legs = all_valid_combos[0]
 
-        banker_slip = AccumulatorSlip(
-            name="High-Safety 5-Odds Banker Slip",
-            description="Ultra-conservative multi-market slip built with strict risk filters and dynamic H2H verification.",
-            legs_count=len(banker_legs),
-            total_odds=banker_odds,
-            average_confidence=banker_conf,
-            legs=banker_legs,
-        )
-
-        # 2. Value Multi-Market Slip: Diversified markets
-        diversified_combos = []
-        for conf, odds_val, combo in all_valid_combos:
-            markets_used = set(l.market for l in combo)
-            if len(markets_used) >= 2:
-                diversified_combos.append((conf, odds_val, combo))
-
-        if diversified_combos:
-            diversified_combos.sort(key=lambda x: (-x[0], abs(x[1] - target_odds)))
-            val_conf, val_odds, val_legs = diversified_combos[0]
-            if val_legs == banker_legs and len(diversified_combos) > 1:
-                val_conf, val_odds, val_legs = diversified_combos[1]
-        else:
-            val_conf, val_odds, val_legs = all_valid_combos[min(1, len(all_valid_combos) - 1)]
-
-        value_slip = AccumulatorSlip(
-            name="Conservative Multi-Market Value Slip",
-            description="Diversified low-risk ticket combining Double Chance and Over 1.5 Goal selections.",
-            legs_count=len(val_legs),
-            total_odds=val_odds,
-            average_confidence=val_conf,
-            legs=val_legs,
+        daily_slip = AccumulatorSlip(
+            name="Onítẹ́tẹ́ Daily 5-Odds Banker Slip",
+            description="Ultra-conservative multi-market daily ticket with strict risk constraints, dynamic H2H recency, and safety verification.",
+            legs_count=len(best_legs),
+            total_odds=best_odds,
+            average_confidence=best_conf,
+            legs=best_legs,
         )
 
         return {
-            "banker_ticket": banker_slip,
-            "value_ticket": value_slip,
+            "daily_ticket": daily_slip,
+            "banker_ticket": daily_slip,  # Backwards-compatible alias
         }
 
     def generate_and_save(
@@ -595,20 +572,19 @@ class AccumulatorEngine:
         json_path = os.path.join(self.output_dir, "daily_5odds_slip.json")
         txt_path = os.path.join(self.output_dir, "daily_5odds_slip.txt")
 
-        # Save JSON
+        daily_slip = slips.get("daily_ticket") or slips.get("banker_ticket")
         payload = {
-            "strategy": "High-Safety / Low-Risk Multi-Market Accumulator",
-            "evaluated_candidates_count": len(candidates),
-            "h2h_recency_filter_min_year": MIN_H2H_YEAR,
-            "banker_ticket": slips["banker_ticket"].to_dict() if slips["banker_ticket"] else None,
-            "value_ticket": slips["value_ticket"].to_dict() if slips["value_ticket"] else None,
+            "strategy": "High-Safety / Low-Risk Daily 5-Odds Banker Accumulator",
+            "generated_at": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "daily_ticket": daily_slip.to_dict() if daily_slip else None,
+            "banker_ticket": daily_slip.to_dict() if daily_slip else None,  # Backwards-compatible alias
         }
 
         with open(json_path, "w", encoding="utf-8") as f:
             json.dump(payload, f, indent=2, ensure_ascii=False)
 
         # Save Formatted TXT
-        txt_report = self._format_txt_report(slips)
+        txt_report = self._format_txt_report(daily_slip)
         with open(txt_path, "w", encoding="utf-8") as f:
             f.write(txt_report)
 
@@ -618,38 +594,39 @@ class AccumulatorEngine:
         return {
             "json_file": json_path,
             "txt_file": txt_path,
-            "banker_ticket": slips["banker_ticket"],
-            "value_ticket": slips["value_ticket"],
+            "daily_ticket": daily_slip,
+            "banker_ticket": daily_slip,
             "text_report": txt_report,
         }
 
-    def _format_txt_report(self, slips: Dict[str, Optional[AccumulatorSlip]]) -> str:
-        """Format generated tickets with individual risk justifications into an ASCII table."""
+    def _format_txt_report(self, slip: Optional[AccumulatorSlip]) -> str:
+        """Format generated daily ticket with individual risk justifications into an ASCII table."""
         lines = []
         lines.append("=" * 86)
-        lines.append("             🛡️ ONÍTẸ́TẸ́ HIGH-SAFETY / LOW-RISK 5-ODDS SLIPS             ")
+        lines.append("             🛡️ ONÍTẸ́TẸ́ HIGH-SAFETY / LOW-RISK DAILY 5-ODDS SLIP             ")
         lines.append("=" * 86)
 
-        for key, slip in slips.items():
-            if not slip:
-                continue
-            lines.append(f"\n>> {slip.name.upper()}")
-            lines.append(f"   {slip.description}")
-            lines.append(f"   Total Odds: {slip.total_odds:.2f}x  |  Avg Confidence: {slip.average_confidence:.1f}%  |  Legs: {slip.legs_count}")
-            lines.append("-" * 86)
-            lines.append(f"{'Time':<6} | {'Fixture':<28} | {'Selection':<22} | {'Odds':<5} | {'Risk':<9} | {'Conf'}")
-            lines.append("-" * 86)
+        if not slip:
+            lines.append("\n  [!] No valid daily slip generated matching the safety criteria.")
+            lines.append("=" * 86)
+            return "\n".join(lines)
 
-            for leg in slip.legs:
-                fixture_str = f"{leg.home_team[:13]} vs {leg.away_team[:13]}"
-                lines.append(
-                    f"{leg.time:<6} | {fixture_str:<28} | {leg.selection[:22]:<22} | {leg.estimated_odds:>4.2f}x | {leg.risk_level:<9} | {leg.confidence_score:>4.1f}%"
-                )
-                lines.append(f"       ↳ Justification: {leg.justification}")
+        lines.append(f"\n>> {slip.name.upper()}")
+        lines.append(f"   {slip.description}")
+        lines.append(f"   Total Odds: {slip.total_odds:.2f}x  |  Avg Confidence: {slip.average_confidence:.1f}%  |  Legs: {slip.legs_count}")
+        lines.append("-" * 86)
+        lines.append(f"{'Time':<6} | {'Fixture':<28} | {'Selection':<22} | {'Odds':<5} | {'Risk':<9} | {'Conf'}")
+        lines.append("-" * 86)
 
-            lines.append("-" * 86)
+        for leg in slip.legs:
+            fixture_str = f"{leg.home_team[:13]} vs {leg.away_team[:13]}"
+            lines.append(
+                f"{leg.time:<6} | {fixture_str:<28} | {leg.selection[:22]:<22} | {leg.estimated_odds:>4.2f}x | {leg.risk_level:<9} | {leg.confidence_score:>4.1f}%"
+            )
+            lines.append(f"       ↳ Justification: {leg.justification}")
 
-        lines.append("\n💡 Execution Strategy: Split unit stakes across Banker and Value slips for maximum consistency.")
+        lines.append("-" * 86)
+        lines.append("\n💡 Execution Strategy: Place 1-unit flat stake on the single daily banker ticket.")
         lines.append("=" * 86)
         return "\n".join(lines)
 

@@ -281,110 +281,74 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
         <div class="glass-card rounded-2xl p-3.5 sm:p-5 border border-brand-500/30 glow-orange">
           <div class="flex items-center justify-between mb-1.5">
-            <span class="text-[10px] sm:text-xs font-semibold text-brand-400 uppercase tracking-wider">Banker Odds</span>
+            <span class="text-[10px] sm:text-xs font-semibold text-brand-400 uppercase tracking-wider">Daily Target Odds</span>
             <i class="fa-solid fa-shield-halved text-brand-500 text-xs sm:text-base"></i>
           </div>
-          <div id="statBankerOdds" class="text-2xl sm:text-3xl font-extrabold text-brand-400">4.59x</div>
-          <div id="statBankerLegs" class="text-[10px] sm:text-xs text-brand-500/80 mt-1 font-semibold truncate">6 Ultra-Safe Legs</div>
+          <div id="statDailyOdds" class="text-2xl sm:text-3xl font-extrabold text-brand-400">4.59x</div>
+          <div id="statDailyLegs" class="text-[10px] sm:text-xs text-brand-500/80 mt-1 font-semibold truncate">6 Ultra-Safe Legs</div>
         </div>
 
         <div class="glass-card rounded-2xl p-3.5 sm:p-5 border border-accent-500/30 glow-blue">
           <div class="flex items-center justify-between mb-1.5">
-            <span class="text-[10px] sm:text-xs font-semibold text-accent-400 uppercase tracking-wider">Value Odds</span>
+            <span class="text-[10px] sm:text-xs font-semibold text-accent-400 uppercase tracking-wider">Safety Confidence</span>
             <i class="fa-solid fa-chart-line text-accent-500 text-xs sm:text-base"></i>
           </div>
-          <div id="statValueOdds" class="text-2xl sm:text-3xl font-extrabold text-accent-400">4.55x</div>
-          <div id="statValueLegs" class="text-[10px] sm:text-xs text-accent-400/80 mt-1 font-semibold truncate">6 Diversified Legs</div>
+          <div id="statDailyConf" class="text-2xl sm:text-3xl font-extrabold text-accent-400">73.0%</div>
+          <div class="text-[10px] sm:text-xs text-accent-400/80 mt-1 font-semibold truncate">H2H & Model consensus</div>
         </div>
       </div>
 
-      <!-- ACCUMULATOR SLIPS SECTION -->
+      <!-- ACCUMULATOR SLIP SECTION (SINGLE DAILY SLIP) -->
       <div class="space-y-4">
         <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
           <div>
             <h2 class="text-xl sm:text-2xl font-bold tracking-tight text-white flex items-center space-x-2">
-              <span>🛡️ Onítẹ́tẹ́ High-Safety 5-Odds Slips</span>
+              <span>🛡️ Onítẹ́tẹ́ Daily 5-Odds Banker Slip</span>
             </h2>
-            <p class="text-xs sm:text-sm text-gray-400">Conservative multi-market algorithms with dynamic H2H recency and safety filters.</p>
+            <p class="text-xs sm:text-sm text-gray-400">Ultra-conservative daily prediction ticket with strict risk constraints, dynamic H2H recency, and safety verification.</p>
           </div>
           <div>
             <button onclick="copySlipText()" class="w-full sm:w-auto px-4 py-2 rounded-xl bg-dark-surface hover:bg-gray-800 text-xs font-semibold text-gray-300 border border-dark-border transition flex items-center justify-center space-x-2">
               <i class="fa-regular fa-copy text-brand-500"></i>
-              <span>Copy Banker Ticket</span>
+              <span>Copy Daily Ticket</span>
             </button>
           </div>
         </div>
 
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-4 sm:gap-6" id="slipsContainer">
-          <!-- Banker Ticket Card -->
-          <div class="glass-card rounded-2xl p-4 sm:p-6 border border-brand-500/30 flex flex-col justify-between relative overflow-hidden">
+        <div class="max-w-4xl mx-auto" id="slipsContainer">
+          <!-- Single Daily Banker Ticket Card -->
+          <div class="glass-card rounded-2xl p-4 sm:p-7 border border-brand-500/30 glow-orange flex flex-col justify-between relative overflow-hidden">
             <div class="absolute top-0 right-0 px-3 sm:px-4 py-1 bg-brand-500/20 border-b border-l border-brand-500/30 text-brand-400 text-[10px] sm:text-xs font-bold rounded-bl-xl uppercase tracking-wider">
-              Primary Banker
+              Primary Daily Slip
             </div>
             <div>
-              <div class="flex items-center space-x-3 mb-3 pr-24">
-                <div class="w-8 h-8 sm:w-9 sm:h-9 rounded-xl bg-brand-500/20 text-brand-500 flex items-center justify-center font-bold border border-brand-500/30 flex-shrink-0">
-                  <i class="fa-solid fa-lock text-xs sm:text-sm"></i>
+              <div class="flex items-center space-x-3.5 mb-3 pr-24">
+                <div class="w-9 h-9 sm:w-10 sm:h-10 rounded-xl bg-brand-500/20 text-brand-500 flex items-center justify-center font-bold border border-brand-500/30 flex-shrink-0">
+                  <i class="fa-solid fa-shield-halved text-sm sm:text-base"></i>
                 </div>
                 <div>
-                  <h3 class="text-base sm:text-lg font-bold text-white" id="bankerTitle">High-Safety 5-Odds Banker Slip</h3>
-                  <p class="text-[11px] sm:text-xs text-gray-400" id="bankerDesc">Ultra-conservative multi-market slip</p>
+                  <h3 class="text-base sm:text-xl font-bold text-white" id="dailyTitle">Onítẹ́tẹ́ Daily 5-Odds Banker Slip</h3>
+                  <p class="text-[11px] sm:text-xs text-gray-400" id="dailyDesc">Ultra-conservative multi-market daily ticket with strict risk constraints.</p>
                 </div>
               </div>
 
-              <div class="grid grid-cols-3 py-2 px-3 rounded-xl bg-dark-surface/80 border border-dark-border my-3 text-center">
+              <div class="grid grid-cols-3 py-2.5 px-4 rounded-xl bg-dark-surface/80 border border-dark-border my-4 text-center">
                 <div>
                   <span class="text-[10px] sm:text-xs text-gray-400 block">Total Odds</span>
-                  <span class="text-sm sm:text-base font-extrabold text-brand-400" id="bankerTotalOdds">4.59x</span>
+                  <span class="text-base sm:text-xl font-extrabold text-brand-400" id="dailyTotalOdds">4.59x</span>
                 </div>
                 <div class="border-x border-dark-border">
-                  <span class="text-[10px] sm:text-xs text-gray-400 block">Avg Conf</span>
-                  <span class="text-sm sm:text-base font-extrabold text-white" id="bankerAvgConf">73.0%</span>
+                  <span class="text-[10px] sm:text-xs text-gray-400 block">Avg Confidence</span>
+                  <span class="text-base sm:text-xl font-extrabold text-white" id="dailyAvgConf">73.0%</span>
                 </div>
                 <div>
                   <span class="text-[10px] sm:text-xs text-gray-400 block">Total Legs</span>
-                  <span class="text-sm sm:text-base font-extrabold text-gray-200" id="bankerLegsCount">6</span>
+                  <span class="text-base sm:text-xl font-extrabold text-gray-200" id="dailyLegsCount">6</span>
                 </div>
               </div>
 
               <!-- Legs List -->
-              <div class="space-y-2.5 sm:space-y-3 mt-3" id="bankerLegsList"></div>
-            </div>
-          </div>
-
-          <!-- Value Ticket Card -->
-          <div class="glass-card rounded-2xl p-4 sm:p-6 border border-accent-500/30 flex flex-col justify-between relative overflow-hidden">
-            <div class="absolute top-0 right-0 px-3 sm:px-4 py-1 bg-accent-500/20 border-b border-l border-accent-500/30 text-accent-400 text-xs font-bold rounded-bl-xl uppercase tracking-wider">
-              Diversified Value
-            </div>
-            <div>
-              <div class="flex items-center space-x-3 mb-3 pr-24">
-                <div class="w-8 h-8 sm:w-9 sm:h-9 rounded-xl bg-accent-500/20 text-accent-400 flex items-center justify-center font-bold border border-accent-500/30 flex-shrink-0">
-                  <i class="fa-solid fa-scale-balanced text-xs sm:text-sm"></i>
-                </div>
-                <div>
-                  <h3 class="text-base sm:text-lg font-bold text-white" id="valueTitle">Conservative Multi-Market Value Slip</h3>
-                  <p class="text-[11px] sm:text-xs text-gray-400" id="valueDesc">Diversified low-risk ticket</p>
-                </div>
-              </div>
-
-              <div class="grid grid-cols-3 py-2 px-3 rounded-xl bg-dark-surface/80 border border-dark-border my-3 text-center">
-                <div>
-                  <span class="text-[10px] sm:text-xs text-gray-400 block">Total Odds</span>
-                  <span class="text-sm sm:text-base font-extrabold text-accent-400" id="valueTotalOdds">4.55x</span>
-                </div>
-                <div class="border-x border-dark-border">
-                  <span class="text-[10px] sm:text-xs text-gray-400 block">Avg Conf</span>
-                  <span class="text-sm sm:text-base font-extrabold text-white" id="valueAvgConf">72.9%</span>
-                </div>
-                <div>
-                  <span class="text-[10px] sm:text-xs text-gray-400 block">Total Legs</span>
-                  <span class="text-sm sm:text-base font-extrabold text-gray-200" id="valueLegsCount">6</span>
-                </div>
-              </div>
-
-              <!-- Legs List -->
-              <div class="space-y-2.5 sm:space-y-3 mt-3" id="valueLegsList"></div>
+              <div class="space-y-2.5 sm:space-y-3 mt-4" id="dailyLegsList"></div>
             </div>
           </div>
         </div>
@@ -617,28 +581,19 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     function renderSlips(data) {
       if (!data) return;
       
-      const banker = data.banker_ticket;
-      if (banker) {
-        document.getElementById('bankerTotalOdds').innerText = `${banker.total_odds}x`;
-        document.getElementById('bankerAvgConf').innerText = `${banker.average_confidence}%`;
-        document.getElementById('bankerLegsCount').innerText = banker.legs_count;
-        document.getElementById('statBankerOdds').innerText = `${banker.total_odds}x`;
-        document.getElementById('statBankerLegs').innerText = `${banker.legs_count} Ultra-Safe Legs`;
+      const slip = data.daily_ticket || data.banker_ticket;
+      if (slip) {
+        document.getElementById('dailyTitle').innerText = slip.name || 'Onítẹ́tẹ́ Daily 5-Odds Banker Slip';
+        document.getElementById('dailyDesc').innerText = slip.description || 'Ultra-conservative multi-market daily ticket.';
+        document.getElementById('dailyTotalOdds').innerText = `${slip.total_odds}x`;
+        document.getElementById('dailyAvgConf').innerText = `${slip.average_confidence}%`;
+        document.getElementById('dailyLegsCount').innerText = slip.legs_count;
+        document.getElementById('statDailyOdds').innerText = `${slip.total_odds}x`;
+        document.getElementById('statDailyConf').innerText = `${slip.average_confidence}%`;
+        document.getElementById('statDailyLegs').innerText = `${slip.legs_count} Ultra-Safe Legs`;
 
-        const list = document.getElementById('bankerLegsList');
-        list.innerHTML = banker.legs.map(leg => createLegCard(leg, 'brand')).join('');
-      }
-
-      const value = data.value_ticket;
-      if (value) {
-        document.getElementById('valueTotalOdds').innerText = `${value.total_odds}x`;
-        document.getElementById('valueAvgConf').innerText = `${value.average_confidence}%`;
-        document.getElementById('valueLegsCount').innerText = value.legs_count;
-        document.getElementById('statValueOdds').innerText = `${value.total_odds}x`;
-        document.getElementById('statValueLegs').innerText = `${value.legs_count} Diversified Legs`;
-
-        const list = document.getElementById('valueLegsList');
-        list.innerHTML = value.legs.map(leg => createLegCard(leg, 'accent')).join('');
+        const list = document.getElementById('dailyLegsList');
+        list.innerHTML = slip.legs.map(leg => createLegCard(leg, 'brand')).join('');
       }
     }
 
@@ -1007,17 +962,17 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     }
 
     function copySlipText() {
-      if (!rawSlips || !rawSlips.banker_ticket) return;
-      const banker = rawSlips.banker_ticket;
-      let text = `⚽ ONÍTẸ́TẸ́ 5-ODDS BANKER TICKET (${banker.total_odds}x Odds)\\n`;
-      text += `Avg Confidence: ${banker.average_confidence}% | Legs: ${banker.legs_count}\\n\\n`;
-      banker.legs.forEach(l => {
-        text += `• ${l.time} | ${l.home_team} vs ${l.away_team} -> [${l.selection}] @ ${l.estimated_odds}x\\n`;
+      const slip = rawSlips && (rawSlips.daily_ticket || rawSlips.banker_ticket);
+      if (!slip) return;
+      let text = `⚽ ONÍTẸ́TẸ́ DAILY 5-ODDS BANKER TICKET (${slip.total_odds}x Odds)\n`;
+      text += `Avg Confidence: ${slip.average_confidence}% | Legs: ${slip.legs_count}\n\n`;
+      slip.legs.forEach(l => {
+        text += `• ${l.time} | ${l.home_team} vs ${l.away_team} -> [${l.selection}] @ ${l.estimated_odds}x\n`;
       });
-      text += `\\nGenerated by Onítẹ́tẹ́ AI Engine`;
+      text += `\nGenerated by Onítẹ́tẹ́ AI Engine`;
 
       navigator.clipboard.writeText(text);
-      showToast("Onítẹ́tẹ́ Banker ticket copied to clipboard!", "success");
+      showToast("Onítẹ́tẹ́ Daily Banker ticket copied to clipboard!", "success");
     }
 
     function showToast(msg, type = "success") {

@@ -280,30 +280,27 @@ class ResultsTracker:
         ledger = self.load_ledger()
         today_str = datetime.date.today().strftime("%Y-%m-%d")
 
-        settled_banker = self._settle_single_slip(daily_data.get("banker_ticket"), live_scores, today_str, "banker")
-        settled_value = self._settle_single_slip(daily_data.get("value_ticket"), live_scores, today_str, "value")
+        daily_slip_data = daily_data.get("daily_ticket") or daily_data.get("banker_ticket")
+        settled_daily = self._settle_single_slip(daily_slip_data, live_scores, today_str, "daily")
 
         # 1. Update Daily Slips JSON so "Daily Slips" view displays live scores directly
-        daily_data["banker_ticket"] = settled_banker
-        daily_data["value_ticket"] = settled_value
+        daily_data["daily_ticket"] = settled_daily
+        daily_data["banker_ticket"] = settled_daily  # Backwards-compatible alias
         with open(slips_path, "w", encoding="utf-8") as f:
             json.dump(daily_data, f, indent=2, ensure_ascii=False)
 
-        # 2. Update real ledger
-        for settled in [settled_banker, settled_value]:
-            if not settled:
-                continue
-            idx = next((i for i, s in enumerate(ledger) if s["slip_id"] == settled["slip_id"]), None)
+        # 2. Update real ledger with single daily record
+        if settled_daily:
+            idx = next((i for i, s in enumerate(ledger) if s["slip_id"] == settled_daily["slip_id"]), None)
             if idx is not None:
-                ledger[idx] = settled
+                ledger[idx] = settled_daily
             else:
-                ledger.insert(0, settled)
+                ledger.insert(0, settled_daily)
 
         self.save_ledger(ledger)
         return {
             "success": True,
-            "settled_banker": settled_banker,
-            "settled_value": settled_value,
+            "settled_daily": settled_daily,
             "total_records": len(ledger),
         }
 
