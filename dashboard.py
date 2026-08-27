@@ -25,7 +25,8 @@ SCRAPER_STATE = {
     "error": None,
 }
 
-OUTPUT_DIR = "output"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR = os.path.join(BASE_DIR, "output")
 
 
 def get_data_paths():
