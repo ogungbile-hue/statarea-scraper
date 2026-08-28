@@ -8,7 +8,7 @@ import os
 import threading
 import time
 import webbrowser
-from typing import Dict, Any
+from typing import Dict, Any, Optional, List
 from flask import Flask, jsonify, render_template_string, request
 import pandas as pd
 
@@ -20,6 +20,8 @@ logger = logging.getLogger(__name__)
 SCRAPER_STATE = {
     "is_running": False,
     "status": "Idle",
+    "progress_pct": 0,
+    "progress_text": "",
     "last_run": None,
     "total_fixtures": 0,
     "error": None,
@@ -148,55 +150,36 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                 </radialGradient>
                 <radialGradient id="badge-disk" cx="38%" cy="30%" r="70%">
                   <stop offset="0%" stop-color="#1a2540" />
-                  <stop offset="100%" stop-color="#0a0f1c" />
+                  <stop offset="100%" stop-color="#0b101c" />
                 </radialGradient>
-                <linearGradient id="badge-num" x1="0" y1="0" x2="0" y2="1">
-                  <stop offset="0%" stop-color="#f0f4ff" />
-                  <stop offset="35%" stop-color="#ffffff" />
-                  <stop offset="100%" stop-color="#8a96b8" />
+                <linearGradient id="badge-ring" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" stop-color="#ff6b35" stop-opacity=".85" />
+                  <stop offset="50%" stop-color="#ff9a6c" stop-opacity=".5" />
+                  <stop offset="100%" stop-color="#ff6b35" stop-opacity=".1" />
                 </linearGradient>
-                <filter id="badge-glow" x="-30%" y="-30%" width="160%" height="160%">
-                  <feGaussianBlur in="SourceGraphic" stdDeviation="8" result="blur" />
-                  <feColorMatrix in="blur" type="matrix" values="1 0.3 0 0 0   0.2 0.1 0 0 0   0 0 0 0 0   0 0 0 0.6 0" result="orange" />
-                  <feMerge>
-                    <feMergeNode in="orange" />
-                    <feMergeNode in="SourceGraphic" />
-                  </feMerge>
+                <linearGradient id="badge-num" x1="20%" y1="10%" x2="80%" y2="90%">
+                  <stop offset="0%" stop-color="#ffffff" />
+                  <stop offset="60%" stop-color="#e8f0fe" />
+                  <stop offset="100%" stop-color="#ff6b35" />
+                </linearGradient>
+                <filter id="badge-glow" x="-20%" y="-20%" width="140%" height="140%">
+                  <feGaussianBlur stdDeviation="6" result="blur" />
+                  <feComposite in="SourceGraphic" in2="blur" operator="over" />
                 </filter>
               </defs>
-
-              <!-- Background -->
-              <circle cx="250" cy="250" r="250" fill="url(#badge-bg)" />
-              <circle cx="250" cy="250" r="214" fill="none" stroke="#0f1826" stroke-width="3" />
-
-              <!-- Rotating outer ring + cardinal dots -->
+              <circle cx="250" cy="250" r="236" fill="url(#badge-bg)" />
+              <circle cx="250" cy="250" r="232" fill="none" stroke="#ff6b35" stroke-width="1.5" stroke-opacity=".5" class="badge-rim" />
               <g class="badge-outer">
-                <circle cx="250" cy="250" r="205" fill="none" stroke="#1e2e48" stroke-width="2.5" stroke-dasharray="4 9" />
-                <circle cx="250" cy="45" r="3.5" fill="#ff6b35" opacity=".85" class="badge-dot" />
-                <circle cx="455" cy="250" r="3.5" fill="#ff6b35" opacity=".85" class="badge-dot" />
-                <circle cx="250" cy="455" r="3.5" fill="#ff6b35" opacity=".85" class="badge-dot" />
-                <circle cx="45" cy="250" r="3.5" fill="#ff6b35" opacity=".85" class="badge-dot" />
-                <circle cx="395" cy="99" r="2" fill="#cc4a1a" opacity=".55" />
-                <circle cx="395" cy="401" r="2" fill="#cc4a1a" opacity=".55" />
-                <circle cx="105" cy="99" r="2" fill="#cc4a1a" opacity=".55" />
-                <circle cx="105" cy="401" r="2" fill="#cc4a1a" opacity=".55" />
+                <circle cx="250" cy="250" r="218" fill="none" stroke="url(#badge-ring)" stroke-width="1.5" stroke-dasharray="14 9 3 9" />
+                <circle cx="250" cy="32" r="3.5" fill="#ff6b35" opacity=".7" class="badge-dot" />
+                <circle cx="250" cy="468" r="3.5" fill="#ff6b35" opacity=".7" class="badge-dot" />
               </g>
-
               <g class="badge-inner">
-                <circle cx="250" cy="250" r="172" fill="none" stroke="#1a2840" stroke-width="1.5" stroke-dasharray="2 13" />
+                <circle cx="250" cy="250" r="198" fill="none" stroke="#ff6b35" stroke-width="1" stroke-dasharray="4 16" stroke-opacity=".4" />
+                <circle cx="52" cy="250" r="2.5" fill="#ff9a6c" opacity=".6" />
+                <circle cx="448" cy="250" r="2.5" fill="#ff9a6c" opacity=".6" />
               </g>
-
-              <circle cx="250" cy="250" r="184" fill="none" stroke="#3a2818" stroke-width="3" class="badge-rim" />
-              <circle cx="250" cy="250" r="179" fill="none" stroke="#ff6b35" stroke-width="2" opacity=".35" class="badge-rim" />
-
-              <circle cx="250" cy="250" r="156" fill="url(#badge-disk)" />
-              <circle cx="250" cy="250" r="156" fill="none" stroke="#263040" stroke-width="2" />
-              <circle cx="250" cy="250" r="149" fill="none" stroke="#1a2030" stroke-width="1.5" />
-
-              <path d="M 250 94 A 156 156 0 0 1 406 250" fill="none" stroke="#2a3040" stroke-width="1.5" />
-              <path d="M 250 406 A 156 156 0 0 1 94 250" fill="none" stroke="#2a3040" stroke-width="1.5" />
-              <circle cx="250" cy="250" r="90" fill="#ff6b35" opacity=".04" />
-
+              <circle cx="250" cy="250" r="184" fill="url(#badge-disk)" stroke="#ff6b35" stroke-width="1.5" stroke-opacity=".3" />
               <text x="250" y="272" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="172" font-weight="800" letter-spacing="-6" fill="url(#badge-num)" text-anchor="middle" dominant-baseline="middle" filter="url(#badge-glow)" class="badge-center">82</text>
               <text x="250" y="176" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="400" letter-spacing="5" fill="#3a4a60" text-anchor="middle">EIGHTY-TWO</text>
               <text x="250" y="398" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10" font-weight="300" letter-spacing="3" fill="#1e2e44" text-anchor="middle">207.2 u</text>
@@ -210,18 +193,19 @@ HTML_TEMPLATE = """<!DOCTYPE html>
               <h1 class="text-lg sm:text-xl font-extrabold tracking-tight bg-gradient-to-r from-white via-orange-100 to-brand-500 bg-clip-text text-transparent">
                 Onítẹ́tẹ́
               </h1>
-              <span class="px-2 py-0.5 rounded-full bg-brand-500/20 text-brand-500 text-[10px] font-extrabold tracking-wider border border-brand-500/30 uppercase">
-                Live Tracker
+              <span class="px-2 py-0.5 rounded-full bg-brand-500/20 text-brand-500 text-[10px] font-extrabold tracking-wider border border-brand-500/30 uppercase flex items-center space-x-1">
+                <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-ping mr-0.5"></span>
+                <span>Live Engine</span>
               </span>
             </div>
-            <p class="text-[11px] sm:text-xs text-gray-400 font-medium">Daily High-Safety Predictions & Performance Analytics</p>
+            <p class="text-[11px] sm:text-xs text-gray-400 font-medium">Daily Multi-Tier AI Predictions (1.5x • 3x • 5x • 10x) & Live Score Tracking</p>
           </div>
         </div>
 
         <!-- Mobile Action Buttons -->
         <div class="flex items-center space-x-2 md:hidden">
           <button id="btnUpdateScoresMob" onclick="updateLiveScores()" class="p-2.5 rounded-xl bg-dark-surface hover:bg-gray-800 border border-dark-border text-xs text-gray-200 transition" title="Settle & Live Scores">
-            <i class="fa-solid fa-arrows-rotate text-xs text-accent-500"></i>
+            <i class="fa-solid fa-arrows-rotate text-xs text-emerald-400"></i>
           </button>
           <button id="btnTriggerScrapeMob" onclick="triggerScrape()" class="p-2.5 rounded-xl bg-gradient-to-r from-brand-500 to-orange-600 text-white text-xs shadow-md shadow-brand-500/20 transition" title="Scrape Today">
             <i class="fa-solid fa-bolt text-xs"></i>
@@ -241,9 +225,15 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
       <!-- Desktop Action Buttons -->
       <div class="hidden md:flex items-center space-x-3">
+        <!-- Live Auto-Sync Toggle -->
+        <button id="btnAutoSync" onclick="toggleAutoSync()" class="px-3 py-2 rounded-xl bg-dark-surface border border-dark-border text-xs font-semibold transition flex items-center space-x-2 text-gray-300 hover:text-white" title="Toggle 30s auto-refresh for live scores">
+          <span id="autoSyncDot" class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+          <span id="autoSyncText">Auto Live: ON (30s)</span>
+        </button>
+
         <button id="btnUpdateScores" onclick="updateLiveScores()" class="px-3.5 py-2 rounded-xl bg-dark-surface hover:bg-gray-800 border border-dark-border text-xs font-semibold transition flex items-center space-x-2 text-gray-200 hover:text-white">
-          <i class="fa-solid fa-arrows-rotate text-xs text-accent-500"></i>
-          <span>Settle & Live Scores</span>
+          <i class="fa-solid fa-arrows-rotate text-xs text-emerald-400"></i>
+          <span>⚡ Sync Live Scores</span>
         </button>
 
         <button id="btnTriggerScrape" onclick="triggerScrape()" class="px-4 py-2 rounded-xl bg-gradient-to-r from-brand-500 to-orange-600 hover:from-brand-600 hover:to-orange-700 text-white text-xs font-bold shadow-lg shadow-brand-500/25 transition flex items-center space-x-2">
@@ -259,72 +249,117 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     
     <!-- TAB 1: PREDICTIONS VIEW -->
     <div id="tabPredictions" class="space-y-6 sm:space-y-8">
-      <!-- STATS OVERVIEW CARDS (2-column on mobile, 4-column on desktop) -->
-      <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-5">
-        <div class="glass-card rounded-2xl p-3.5 sm:p-5 border border-dark-border">
+      
+      <!-- 4-TIER QUICK OVERVIEW BAR -->
+      <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">
+        <!-- Tier 1: 1.5 Odds Ultra Banker -->
+        <div onclick="selectSlipTier('1.5')" id="tierCard15" class="cursor-pointer glass-card rounded-2xl p-4 border border-dark-border hover:border-emerald-500/50 transition relative overflow-hidden group">
           <div class="flex items-center justify-between mb-1.5">
-            <span class="text-[10px] sm:text-xs font-semibold text-gray-400 uppercase tracking-wider">Matches</span>
-            <i class="fa-solid fa-calendar-check text-brand-500 text-xs sm:text-base"></i>
+            <span class="text-[10px] font-extrabold text-emerald-400 uppercase tracking-wider flex items-center space-x-1">
+              <i class="fa-solid fa-shield-check"></i>
+              <span>1.5-Odds Ultra Banker</span>
+            </span>
+            <span id="tierStatus15" class="text-[10px] font-mono px-1.5 py-0.5 rounded bg-dark-surface border border-dark-border text-gray-400">Active</span>
           </div>
-          <div id="statTotalFixtures" class="text-2xl sm:text-3xl font-extrabold text-white">53</div>
-          <div class="text-[10px] sm:text-xs text-gray-500 mt-1 truncate">Today from Statarea</div>
+          <div class="flex items-baseline justify-between mt-1">
+            <div id="tierOdds15" class="text-2xl font-extrabold text-white group-hover:text-emerald-400 transition">1.50x</div>
+            <div id="tierConf15" class="text-xs font-bold text-emerald-400/90">90%+ Conf</div>
+          </div>
+          <div id="tierLegs15" class="text-[11px] text-gray-400 mt-1">2-3 Ultra-Safe Legs</div>
         </div>
 
-        <div class="glass-card rounded-2xl p-3.5 sm:p-5 border border-dark-border">
+        <!-- Tier 2: 3.0 Odds Banker -->
+        <div onclick="selectSlipTier('3')" id="tierCard3" class="cursor-pointer glass-card rounded-2xl p-4 border border-dark-border hover:border-blue-500/50 transition relative overflow-hidden group">
           <div class="flex items-center justify-between mb-1.5">
-            <span class="text-[10px] sm:text-xs font-semibold text-gray-400 uppercase tracking-wider">H2H Data</span>
-            <i class="fa-solid fa-clock-rotate-left text-accent-500 text-xs sm:text-base"></i>
+            <span class="text-[10px] font-extrabold text-blue-400 uppercase tracking-wider flex items-center space-x-1">
+              <i class="fa-solid fa-bullseye"></i>
+              <span>3-Odds Banker</span>
+            </span>
+            <span id="tierStatus3" class="text-[10px] font-mono px-1.5 py-0.5 rounded bg-dark-surface border border-dark-border text-gray-400">Active</span>
           </div>
-          <div id="statH2HCount" class="text-2xl sm:text-3xl font-extrabold text-white">688+</div>
-          <div class="text-[10px] sm:text-xs text-gray-500 mt-1 truncate">>= 2023 recency</div>
+          <div class="flex items-baseline justify-between mt-1">
+            <div id="tierOdds3" class="text-2xl font-extrabold text-white group-hover:text-blue-400 transition">3.00x</div>
+            <div id="tierConf3" class="text-xs font-bold text-blue-400/90">80%+ Conf</div>
+          </div>
+          <div id="tierLegs3" class="text-[11px] text-gray-400 mt-1">3-4 Balanced Legs</div>
         </div>
 
-        <div class="glass-card rounded-2xl p-3.5 sm:p-5 border border-brand-500/30 glow-orange">
+        <!-- Tier 3: 5.0 Odds Banker -->
+        <div onclick="selectSlipTier('5')" id="tierCard5" class="cursor-pointer glass-card rounded-2xl p-4 border border-brand-500/40 glow-orange hover:border-brand-500 transition relative overflow-hidden group">
           <div class="flex items-center justify-between mb-1.5">
-            <span class="text-[10px] sm:text-xs font-semibold text-brand-400 uppercase tracking-wider">Daily Target Odds</span>
-            <i class="fa-solid fa-shield-halved text-brand-500 text-xs sm:text-base"></i>
+            <span class="text-[10px] font-extrabold text-brand-400 uppercase tracking-wider flex items-center space-x-1">
+              <i class="fa-solid fa-shield-halved"></i>
+              <span>5-Odds Banker</span>
+            </span>
+            <span id="tierStatus5" class="text-[10px] font-mono px-1.5 py-0.5 rounded bg-brand-500/20 text-brand-400 border border-brand-500/30">Primary</span>
           </div>
-          <div id="statDailyOdds" class="text-2xl sm:text-3xl font-extrabold text-brand-400">4.59x</div>
-          <div id="statDailyLegs" class="text-[10px] sm:text-xs text-brand-500/80 mt-1 font-semibold truncate">6 Ultra-Safe Legs</div>
+          <div class="flex items-baseline justify-between mt-1">
+            <div id="tierOdds5" class="text-2xl font-extrabold text-brand-400 group-hover:text-brand-300 transition">5.00x</div>
+            <div id="tierConf5" class="text-xs font-bold text-brand-400/90">75%+ Conf</div>
+          </div>
+          <div id="tierLegs5" class="text-[11px] text-gray-400 mt-1">4-6 Conservative Legs</div>
         </div>
 
-        <div class="glass-card rounded-2xl p-3.5 sm:p-5 border border-accent-500/30 glow-blue">
+        <!-- Tier 4: 10.0 Odds Multiplier -->
+        <div onclick="selectSlipTier('10')" id="tierCard10" class="cursor-pointer glass-card rounded-2xl p-4 border border-dark-border hover:border-purple-500/50 transition relative overflow-hidden group">
           <div class="flex items-center justify-between mb-1.5">
-            <span class="text-[10px] sm:text-xs font-semibold text-accent-400 uppercase tracking-wider">Safety Confidence</span>
-            <i class="fa-solid fa-chart-line text-accent-500 text-xs sm:text-base"></i>
+            <span class="text-[10px] font-extrabold text-purple-400 uppercase tracking-wider flex items-center space-x-1">
+              <i class="fa-solid fa-gem"></i>
+              <span>10-Odds Multiplier</span>
+            </span>
+            <span id="tierStatus10" class="text-[10px] font-mono px-1.5 py-0.5 rounded bg-dark-surface border border-dark-border text-gray-400">Active</span>
           </div>
-          <div id="statDailyConf" class="text-2xl sm:text-3xl font-extrabold text-accent-400">73.0%</div>
-          <div class="text-[10px] sm:text-xs text-accent-400/80 mt-1 font-semibold truncate">H2H & Model consensus</div>
+          <div class="flex items-baseline justify-between mt-1">
+            <div id="tierOdds10" class="text-2xl font-extrabold text-white group-hover:text-purple-400 transition">10.00x</div>
+            <div id="tierConf10" class="text-xs font-bold text-purple-400/90">70%+ Conf</div>
+          </div>
+          <div id="tierLegs10" class="text-[11px] text-gray-400 mt-1">5-8 Safe Legs</div>
         </div>
       </div>
 
-      <!-- ACCUMULATOR SLIP SECTION (SINGLE DAILY SLIP) -->
+      <!-- ACCUMULATOR SLIP SECTION -->
       <div class="space-y-4">
         <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
           <div>
-            <h2 class="text-xl sm:text-2xl font-bold tracking-tight text-white flex items-center space-x-2">
-              <span>🛡️ Onítẹ́tẹ́ Daily 5-Odds Banker Slip</span>
-            </h2>
-            <p class="text-xs sm:text-sm text-gray-400">Ultra-conservative daily prediction ticket with strict risk constraints, dynamic H2H recency, and safety verification.</p>
+            <!-- TIER SELECTOR TABS -->
+            <div class="flex flex-wrap items-center gap-1.5 bg-dark-surface p-1 rounded-xl border border-dark-border">
+              <button id="btnTier15" onclick="selectSlipTier('1.5')" class="px-3 py-1.5 rounded-lg text-xs font-bold transition text-gray-400 hover:text-white">
+                🛡️ 1.5 Odds
+              </button>
+              <button id="btnTier3" onclick="selectSlipTier('3')" class="px-3 py-1.5 rounded-lg text-xs font-bold transition text-gray-400 hover:text-white">
+                🎯 3 Odds
+              </button>
+              <button id="btnTier5" onclick="selectSlipTier('5')" class="px-3 py-1.5 rounded-lg text-xs font-bold transition text-white bg-brand-500 shadow-md">
+                🚀 5 Odds (Banker)
+              </button>
+              <button id="btnTier10" onclick="selectSlipTier('10')" class="px-3 py-1.5 rounded-lg text-xs font-bold transition text-gray-400 hover:text-white">
+                💎 10 Odds
+              </button>
+            </div>
           </div>
-          <div>
-            <button onclick="copySlipText()" class="w-full sm:w-auto px-4 py-2 rounded-xl bg-dark-surface hover:bg-gray-800 text-xs font-semibold text-gray-300 border border-dark-border transition flex items-center justify-center space-x-2">
+
+          <div class="flex items-center space-x-2">
+            <button onclick="copyCurrentSlip()" class="w-full sm:w-auto px-3.5 py-2 rounded-xl bg-dark-surface hover:bg-gray-800 text-xs font-semibold text-gray-300 border border-dark-border transition flex items-center justify-center space-x-2">
               <i class="fa-regular fa-copy text-brand-500"></i>
-              <span>Copy Daily Ticket</span>
+              <span>Copy Selected Ticket</span>
+            </button>
+            <button onclick="copyAllSlips()" class="w-full sm:w-auto px-3.5 py-2 rounded-xl bg-dark-surface hover:bg-gray-800 text-xs font-semibold text-gray-300 border border-dark-border transition flex items-center justify-center space-x-2" title="Copy all 4 tiers">
+              <i class="fa-solid fa-copy text-accent-500"></i>
+              <span>Copy All (1.5x - 10x)</span>
             </button>
           </div>
         </div>
 
         <div class="max-w-4xl mx-auto" id="slipsContainer">
-          <!-- Single Daily Banker Ticket Card -->
-          <div class="glass-card rounded-2xl p-4 sm:p-7 border border-brand-500/30 glow-orange flex flex-col justify-between relative overflow-hidden">
-            <div class="absolute top-0 right-0 px-3 sm:px-4 py-1 bg-brand-500/20 border-b border-l border-brand-500/30 text-brand-400 text-[10px] sm:text-xs font-bold rounded-bl-xl uppercase tracking-wider">
-              Primary Daily Slip
+          <!-- Active Ticket Card -->
+          <div id="activeSlipCard" class="glass-card rounded-2xl p-4 sm:p-7 border border-brand-500/30 glow-orange flex flex-col justify-between relative overflow-hidden">
+            <div id="slipBadgeHeader" class="absolute top-0 right-0 px-3 sm:px-4 py-1 bg-brand-500/20 border-b border-l border-brand-500/30 text-brand-400 text-[10px] sm:text-xs font-bold rounded-bl-xl uppercase tracking-wider">
+              Selected Daily Slip
             </div>
             <div>
-              <div class="flex items-center space-x-3.5 mb-3 pr-24">
-                <div class="w-9 h-9 sm:w-10 sm:h-10 rounded-xl bg-brand-500/20 text-brand-500 flex items-center justify-center font-bold border border-brand-500/30 flex-shrink-0">
-                  <i class="fa-solid fa-shield-halved text-sm sm:text-base"></i>
+              <div class="flex items-center space-x-3.5 mb-3 pr-28">
+                <div id="slipIconBox" class="w-9 h-9 sm:w-10 sm:h-10 rounded-xl bg-brand-500/20 text-brand-500 flex items-center justify-center font-bold border border-brand-500/30 flex-shrink-0">
+                  <i id="slipIcon" class="fa-solid fa-shield-halved text-sm sm:text-base"></i>
                 </div>
                 <div>
                   <h3 class="text-base sm:text-xl font-bold text-white" id="dailyTitle">Onítẹ́tẹ́ Daily 5-Odds Banker Slip</h3>
@@ -335,15 +370,15 @@ HTML_TEMPLATE = """<!DOCTYPE html>
               <div class="grid grid-cols-3 py-2.5 px-4 rounded-xl bg-dark-surface/80 border border-dark-border my-4 text-center">
                 <div>
                   <span class="text-[10px] sm:text-xs text-gray-400 block">Total Odds</span>
-                  <span class="text-base sm:text-xl font-extrabold text-brand-400" id="dailyTotalOdds">4.59x</span>
+                  <span class="text-base sm:text-xl font-extrabold text-brand-400" id="dailyTotalOdds">5.00x</span>
                 </div>
                 <div class="border-x border-dark-border">
                   <span class="text-[10px] sm:text-xs text-gray-400 block">Avg Confidence</span>
-                  <span class="text-base sm:text-xl font-extrabold text-white" id="dailyAvgConf">73.0%</span>
+                  <span class="text-base sm:text-xl font-extrabold text-white" id="dailyAvgConf">75.0%</span>
                 </div>
                 <div>
                   <span class="text-[10px] sm:text-xs text-gray-400 block">Total Legs</span>
-                  <span class="text-base sm:text-xl font-extrabold text-gray-200" id="dailyLegsCount">6</span>
+                  <span class="text-base sm:text-xl font-extrabold text-gray-200" id="dailyLegsCount">5</span>
                 </div>
               </div>
 
@@ -478,7 +513,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             <p class="text-[11px] sm:text-xs text-gray-400">Complete record of daily, weekly, and monthly performance</p>
           </div>
 
-          <!-- Timeframe Selector (Responsive Grid/Flex) -->
+          <!-- Timeframe Selector -->
           <div class="grid grid-cols-2 sm:flex items-center bg-dark-surface p-1 rounded-xl border border-dark-border gap-1 w-full sm:w-auto">
             <button id="tfSlipsBtn" onclick="switchTimeframe('slips')" class="px-3 py-1.5 rounded-lg text-xs font-bold text-white bg-brand-500 transition text-center">Detailed Slips</button>
             <button id="tfDailyBtn" onclick="switchTimeframe('daily')" class="px-3 py-1.5 rounded-lg text-xs font-bold text-gray-400 hover:text-white transition text-center">Daily</button>
@@ -488,9 +523,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         </div>
 
         <!-- Ledger Container -->
-        <div id="ledgerContainer" class="space-y-3 sm:space-y-4">
-          <!-- Dynamically populated depending on selected timeframe -->
-        </div>
+        <div id="ledgerContainer" class="space-y-3 sm:space-y-4"></div>
       </div>
     </div>
   </main>
@@ -504,7 +537,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         <span>Eighty-Two Limited AI Prediction Engine</span>
       </div>
       <div>
-        <span>Automated Daily Predictions • Real-Time Score Settlement • Multi-Timeframe Records</span>
+        <span>Daily 1.5x, 3x, 5x, 10x Odds • Real-Time Score Settlement • Multi-Timeframe Records</span>
       </div>
     </div>
   </footer>
@@ -522,8 +555,11 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     let rawAnalytics = null;
     let activeTab = 'predictions';
     let activeTimeframe = 'slips';
+    let selectedTier = '5'; // '1.5', '3', '5', '10'
+    let autoSyncEnabled = true;
+    let autoSyncTimer = null;
 
-    async function loadData() {
+    async function loadData(showToastAlert = false) {
       try {
         const [slipsRes, fixturesRes, analyticsRes] = await Promise.all([
           fetch('/api/slips'),
@@ -534,13 +570,18 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         rawFixtures = await fixturesRes.json();
         rawAnalytics = await analyticsRes.json();
 
-        renderSlips(rawSlips);
+        updateTierOverviews(rawSlips);
+        renderActiveSlip();
         renderFixtures(rawFixtures);
         renderAnalytics(rawAnalytics);
         updateStats();
+
+        if (showToastAlert) {
+          showToast("Live data synchronized!", "success");
+        }
       } catch (err) {
         console.error("Error loading data:", err);
-        showToast("Error loading daily data", "error");
+        if (showToastAlert) showToast("Error loading daily data", "error");
       }
     }
 
@@ -565,42 +606,92 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       }
     }
 
-    function switchTimeframe(tf) {
-      activeTimeframe = tf;
-      ['slips', 'daily', 'weekly', 'monthly'].forEach(key => {
-        const btn = document.getElementById(`tf${key.charAt(0).toUpperCase() + key.slice(1)}Btn`);
-        if (key === tf) {
-          btn.className = "px-3 py-1 rounded-lg text-xs font-bold text-white bg-brand-500 transition";
-        } else {
-          btn.className = "px-3 py-1 rounded-lg text-xs font-bold text-gray-400 hover:text-white transition";
-        }
-      });
-      renderTimeframeContent();
-    }
-
-    function renderSlips(data) {
+    function updateTierOverviews(data) {
       if (!data) return;
       
-      const slip = data.daily_ticket || data.banker_ticket;
-      if (slip) {
-        document.getElementById('dailyTitle').innerText = slip.name || 'Onítẹ́tẹ́ Daily 5-Odds Banker Slip';
-        document.getElementById('dailyDesc').innerText = slip.description || 'Ultra-conservative multi-market daily ticket.';
-        document.getElementById('dailyTotalOdds').innerText = `${slip.total_odds}x`;
-        document.getElementById('dailyAvgConf').innerText = `${slip.average_confidence}%`;
-        document.getElementById('dailyLegsCount').innerText = slip.legs_count;
-        document.getElementById('statDailyOdds').innerText = `${slip.total_odds}x`;
-        document.getElementById('statDailyConf').innerText = `${slip.average_confidence}%`;
-        document.getElementById('statDailyLegs').innerText = `${slip.legs_count} Ultra-Safe Legs`;
+      const t15 = data.slip_1_5odds;
+      const t3 = data.slip_3odds;
+      const t5 = data.slip_5odds || data.daily_ticket || data.banker_ticket;
+      const t10 = data.slip_10odds;
 
-        const list = document.getElementById('dailyLegsList');
-        list.innerHTML = slip.legs.map(leg => createLegCard(leg, 'brand')).join('');
+      if (t15) {
+        document.getElementById('tierOdds15').innerText = `${t15.total_odds}x`;
+        document.getElementById('tierConf15').innerText = `${t15.average_confidence}% Conf`;
+        document.getElementById('tierLegs15').innerText = `${t15.legs_count} Ultra-Safe Legs`;
       }
+      if (t3) {
+        document.getElementById('tierOdds3').innerText = `${t3.total_odds}x`;
+        document.getElementById('tierConf3').innerText = `${t3.average_confidence}% Conf`;
+        document.getElementById('tierLegs3').innerText = `${t3.legs_count} Balanced Legs`;
+      }
+      if (t5) {
+        document.getElementById('tierOdds5').innerText = `${t5.total_odds}x`;
+        document.getElementById('tierConf5').innerText = `${t5.average_confidence}% Conf`;
+        document.getElementById('tierLegs5').innerText = `${t5.legs_count} Conservative Legs`;
+      }
+      if (t10) {
+        document.getElementById('tierOdds10').innerText = `${t10.total_odds}x`;
+        document.getElementById('tierConf10').innerText = `${t10.average_confidence}% Conf`;
+        document.getElementById('tierLegs10').innerText = `${t10.legs_count} Safe Legs`;
+      }
+    }
+
+    function selectSlipTier(tier) {
+      selectedTier = tier;
+      ['15', '3', '5', '10'].forEach(t => {
+        const btn = document.getElementById(`btnTier${t}`);
+        const card = document.getElementById(`tierCard${t}`);
+        const cleanTier = t === '15' ? '1.5' : t;
+        
+        if (cleanTier === tier) {
+          if (btn) btn.className = "px-3 py-1.5 rounded-lg text-xs font-bold transition text-white bg-brand-500 shadow-md";
+          if (card) {
+            card.classList.add('border-brand-500', 'glow-orange');
+            card.classList.remove('border-dark-border');
+          }
+        } else {
+          if (btn) btn.className = "px-3 py-1.5 rounded-lg text-xs font-bold transition text-gray-400 hover:text-white";
+          if (card) {
+            card.classList.remove('border-brand-500', 'glow-orange');
+            card.classList.add('border-dark-border');
+          }
+        }
+      });
+
+      renderActiveSlip();
+    }
+
+    function getSelectedSlipObject() {
+      if (!rawSlips) return null;
+      if (selectedTier === '1.5') return rawSlips.slip_1_5odds;
+      if (selectedTier === '3') return rawSlips.slip_3odds;
+      if (selectedTier === '10') return rawSlips.slip_10odds;
+      return rawSlips.slip_5odds || rawSlips.daily_ticket || rawSlips.banker_ticket;
+    }
+
+    function renderActiveSlip() {
+      const slip = getSelectedSlipObject();
+      if (!slip) {
+        document.getElementById('dailyTitle').innerText = "No Slip Available";
+        document.getElementById('dailyDesc').innerText = "Run scrape or analysis to generate tickets.";
+        document.getElementById('dailyLegsList').innerHTML = `<div class="p-6 text-center text-gray-500">No predictions generated yet for this tier.</div>`;
+        return;
+      }
+
+      document.getElementById('dailyTitle').innerText = slip.name || `Onítẹ́tẹ́ ${selectedTier}-Odds Slip`;
+      document.getElementById('dailyDesc').innerText = slip.description || 'Ultra-conservative multi-market daily ticket.';
+      document.getElementById('dailyTotalOdds').innerText = `${slip.total_odds}x`;
+      document.getElementById('dailyAvgConf').innerText = `${slip.average_confidence}%`;
+      document.getElementById('dailyLegsCount').innerText = slip.legs_count;
+
+      const list = document.getElementById('dailyLegsList');
+      list.innerHTML = slip.legs.map(leg => createLegCard(leg, 'brand')).join('');
     }
 
     function createLegCard(leg, theme) {
       const isBrand = theme === 'brand';
       const badgeBg = isBrand ? 'bg-brand-500/15 text-brand-500 border-brand-500/30' : 'bg-accent-500/15 text-accent-400 border-accent-500/30';
-      const oddsColor = isBrand ? 'text-brand-500' : 'text-accent-400';
+      const oddsColor = isBrand ? 'text-brand-400' : 'text-accent-400';
 
       // Real live score status indicator
       let scoreBadge = '';
@@ -614,12 +705,13 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         } else if (isLost) {
           scoreBadge = `<span class="px-2 py-0.5 rounded-md font-mono font-bold text-[10px] sm:text-[11px] bg-rose-500/20 text-rose-400 border border-rose-500/30 flex items-center space-x-1 whitespace-nowrap"><i class="fa-solid fa-xmark text-[9px]"></i><span>${leg.home_goals} - ${leg.away_goals} (FT)</span></span>`;
         } else if (isLive) {
-          scoreBadge = `<span class="px-2 py-0.5 rounded-md font-mono font-bold text-[10px] sm:text-[11px] bg-amber-500/20 text-amber-400 border border-amber-500/30 flex items-center space-x-1 animate-pulse whitespace-nowrap"><i class="fa-solid fa-circle-dot text-[9px]"></i><span>${leg.home_goals} - ${leg.away_goals} (LIVE)</span></span>`;
+          const liveMin = leg.live_minute || 'LIVE';
+          scoreBadge = `<span class="px-2 py-0.5 rounded-md font-mono font-bold text-[10px] sm:text-[11px] bg-amber-500/20 text-amber-400 border border-amber-500/30 flex items-center space-x-1 animate-pulse whitespace-nowrap"><i class="fa-solid fa-circle-dot text-[9px]"></i><span>${leg.home_goals} - ${leg.away_goals} (${liveMin})</span></span>`;
         } else {
           scoreBadge = `<span class="px-2 py-0.5 rounded-md font-mono font-semibold text-[10px] sm:text-[11px] bg-gray-800 text-gray-300 border border-gray-700 whitespace-nowrap">${leg.home_goals} - ${leg.away_goals}</span>`;
         }
       } else {
-        scoreBadge = `<span class="px-2 py-0.5 rounded-md font-mono text-[10px] sm:text-[11px] bg-dark-bg text-gray-500 border border-dark-border/60 whitespace-nowrap">Scheduled</span>`;
+        scoreBadge = `<span class="px-2 py-0.5 rounded-md font-mono text-[10px] sm:text-[11px] bg-dark-bg text-gray-500 border border-dark-border/60 whitespace-nowrap">${leg.time || 'Scheduled'}</span>`;
       }
 
       return `
@@ -725,6 +817,21 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         `).join('');
       }
 
+      renderTimeframeContent();
+    }
+
+    function switchTimeframe(tf) {
+      activeTimeframe = tf;
+      ['slips', 'daily', 'weekly', 'monthly'].forEach(key => {
+        const btn = document.getElementById(`tf${key.charAt(0).toUpperCase() + key.slice(1)}Btn`);
+        if (btn) {
+          if (key === tf) {
+            btn.className = "px-3 py-1.5 rounded-lg text-xs font-bold text-white bg-brand-500 transition text-center";
+          } else {
+            btn.className = "px-3 py-1.5 rounded-lg text-xs font-bold text-gray-400 hover:text-white transition text-center";
+          }
+        }
+      });
       renderTimeframeContent();
     }
 
@@ -872,107 +979,168 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     }
 
     function updateStats() {
-      document.getElementById('statTotalFixtures').innerText = rawFixtures.length;
+      const el = document.getElementById('statTotalFixtures');
+      if (el) el.innerText = rawFixtures.length;
     }
 
     async function updateLiveScores() {
       const btn = document.getElementById('btnUpdateScores');
-      btn.disabled = true;
-      btn.innerHTML = `<i class="fa-solid fa-spinner fa-spin text-xs"></i> <span>Updating...</span>`;
-      showToast("Fetching live scores and settling bets...", "info");
+      if (btn) {
+        btn.disabled = true;
+        btn.innerHTML = `<i class="fa-solid fa-spinner fa-spin text-xs"></i> <span>Syncing...</span>`;
+      }
+      showToast("Fetching live match scores & settling slips...", "info");
 
       try {
         const res = await fetch('/api/update-scores', { method: 'POST' });
         const data = await res.json();
         if (data.success) {
-          showToast("Live scores updated & bets settled!", "success");
-          loadData();
+          const count = data.live_scores_count || 0;
+          showToast(`⚡ Synced ${count} match scores & settled tickets!`, "success");
+          loadData(true);
         } else {
           showToast(data.message || "Failed to update live scores", "error");
         }
       } catch (err) {
         showToast("Error updating live scores", "error");
       } finally {
-        btn.disabled = false;
-        btn.innerHTML = `<i class="fa-solid fa-arrows-rotate text-xs text-accent-500"></i> <span>Settle & Live Scores</span>`;
+        if (btn) {
+          btn.disabled = false;
+          btn.innerHTML = `<i class="fa-solid fa-arrows-rotate text-xs text-emerald-400"></i> <span>⚡ Sync Live Scores</span>`;
+        }
       }
     }
 
-    async function rebuildSlips() {
-      const btn = document.getElementById('btnRebuildSlips');
-      if (!btn) return;
-      btn.disabled = true;
-      btn.innerHTML = `<i class="fa-solid fa-spinner fa-spin text-xs"></i> <span>Analyzing...</span>`;
+    function toggleAutoSync() {
+      autoSyncEnabled = !autoSyncEnabled;
+      const dot = document.getElementById('autoSyncDot');
+      const text = document.getElementById('autoSyncText');
 
-      try {
-        const res = await fetch('/api/refresh-slips', { method: 'POST' });
-        const data = await res.json();
-        if (data.success) {
-          rawSlips = data.slips;
-          renderSlips(rawSlips);
-          showToast("Onítẹ́tẹ́ slips re-analyzed successfully!", "success");
-        } else {
-          showToast(data.message || "Failed to re-analyze slips", "error");
-        }
-      } catch (err) {
-        showToast("Network error re-analyzing slips", "error");
-      } finally {
-        btn.disabled = false;
-        btn.innerHTML = `<i class="fa-solid fa-rotate text-xs text-brand-500"></i> <span>Re-Analyze</span>`;
+      if (autoSyncEnabled) {
+        dot.className = "w-2 h-2 rounded-full bg-emerald-400 animate-pulse";
+        text.innerText = "Auto Live: ON (30s)";
+        startAutoSyncInterval();
+        showToast("Live auto-sync enabled (30s)", "success");
+      } else {
+        dot.className = "w-2 h-2 rounded-full bg-gray-500";
+        text.innerText = "Auto Live: OFF";
+        if (autoSyncTimer) clearInterval(autoSyncTimer);
+        showToast("Live auto-sync paused", "info");
       }
+    }
+
+    function startAutoSyncInterval() {
+      if (autoSyncTimer) clearInterval(autoSyncTimer);
+      autoSyncTimer = setInterval(() => {
+        if (autoSyncEnabled) {
+          fetch('/api/update-scores', { method: 'POST' })
+            .then(() => loadData(false))
+            .catch(() => {});
+        }
+      }, 30000);
     }
 
     async function triggerScrape() {
       const btn = document.getElementById('btnTriggerScrape');
+      if (!btn) return;
       btn.disabled = true;
-      btn.innerHTML = `<i class="fa-solid fa-spinner fa-spin"></i> <span>Scraping...</span>`;
-      showToast("Live scraper triggered in background...", "info");
+      btn.innerHTML = `<i class="fa-solid fa-spinner fa-spin"></i> <span>Initiating...</span>`;
+      showToast("Starting live scraper in background...", "info");
 
       try {
-        const res = await fetch('/api/scrape', { method: 'POST' });
+        const res = await fetch('/api/scrape', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({})
+        });
         const data = await res.json();
         if (data.success) {
-          showToast("Scrape initiated! Updating in background...", "success");
+          showToast("Scraper active! Monitoring live progress...", "success");
           pollScraperStatus();
         } else {
           showToast(data.message || "Scraper already running", "info");
+          pollScraperStatus();
         }
       } catch (err) {
         showToast("Error triggering scraper", "error");
-      } finally {
         btn.disabled = false;
         btn.innerHTML = `<i class="fa-solid fa-bolt"></i> <span>Scrape Today</span>`;
       }
     }
 
+    let pollScraperTimer = null;
     function pollScraperStatus() {
-      const interval = setInterval(async () => {
+      if (pollScraperTimer) clearInterval(pollScraperTimer);
+      const btn = document.getElementById('btnTriggerScrape');
+
+      pollScraperTimer = setInterval(async () => {
         try {
           const res = await fetch('/api/status');
           const status = await res.json();
-          if (!status.is_running) {
-            clearInterval(interval);
-            loadData();
-            showToast("Scraping completed! New predictions loaded.", "success");
+
+          if (btn) {
+            if (status.is_running) {
+              btn.disabled = true;
+              const pText = status.progress_pct > 0 ? `${status.progress_pct}%` : 'Running...';
+              btn.innerHTML = `<i class="fa-solid fa-spinner fa-spin text-accent-500"></i> <span>Scraping (${pText})</span>`;
+            } else {
+              clearInterval(pollScraperTimer);
+              btn.disabled = false;
+              btn.innerHTML = `<i class="fa-solid fa-bolt"></i> <span>Scrape Today</span>`;
+
+              if (status.error) {
+                showToast("Scraper error: " + status.error, "error");
+              } else if (status.last_run) {
+                loadData(true);
+                showToast(`Scrape completed! ${status.total_fixtures || 0} fixtures updated.`, "success");
+              }
+            }
           }
         } catch (err) {
-          clearInterval(interval);
+          // ignore transient poll error
         }
-      }, 3000);
+      }, 1500);
     }
 
-    function copySlipText() {
-      const slip = rawSlips && (rawSlips.daily_ticket || rawSlips.banker_ticket);
+    function copyCurrentSlip() {
+      const slip = getSelectedSlipObject();
       if (!slip) return;
-      let text = `⚽ ONÍTẸ́TẸ́ DAILY 5-ODDS BANKER TICKET (${slip.total_odds}x Odds)\n`;
+      let text = `⚽ ONÍTẸ́TẸ́ ${slip.name.toUpperCase()} (${slip.total_odds}x Odds)\n`;
       text += `Avg Confidence: ${slip.average_confidence}% | Legs: ${slip.legs_count}\n\n`;
       slip.legs.forEach(l => {
-        text += `• ${l.time} | ${l.home_team} vs ${l.away_team} -> [${l.selection}] @ ${l.estimated_odds}x\n`;
+        const score = (l.home_goals !== null && l.away_goals !== null) ? ` [${l.home_goals}-${l.away_goals} ${l.match_status}]` : '';
+        text += `• ${l.time} | ${l.home_team} vs ${l.away_team} -> ${l.selection} @ ${l.estimated_odds}x${score}\n`;
       });
       text += `\nGenerated by Onítẹ́tẹ́ AI Engine`;
 
       navigator.clipboard.writeText(text);
-      showToast("Onítẹ́tẹ́ Daily Banker ticket copied to clipboard!", "success");
+      showToast(`${slip.name} copied to clipboard!`, "success");
+    }
+
+    function copyAllSlips() {
+      if (!rawSlips) return;
+      const tiers = [
+        rawSlips.slip_1_5odds,
+        rawSlips.slip_3odds,
+        rawSlips.slip_5odds || rawSlips.daily_ticket,
+        rawSlips.slip_10odds,
+      ].filter(Boolean);
+
+      if (tiers.length === 0) return;
+
+      let text = `🛡️ ONÍTẸ́TẸ́ DAILY MULTI-TIER SLIPS (1.5x, 3x, 5x, 10x)\n`;
+      text += `==============================================\n`;
+
+      tiers.forEach(s => {
+        text += `\n>> ${s.name.toUpperCase()} (${s.total_odds}x Total Odds | ${s.average_confidence}% Conf)\n`;
+        s.legs.forEach(l => {
+          text += `  • ${l.time} | ${l.home_team} vs ${l.away_team} -> ${l.selection} @ ${l.estimated_odds}x\n`;
+        });
+      });
+
+      text += `\nGenerated by Onítẹ́tẹ́ AI Engine`;
+      navigator.clipboard.writeText(text);
+      showToast("All 4 daily slips copied to clipboard!", "success");
     }
 
     function showToast(msg, type = "success") {
@@ -998,7 +1166,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       }, 3500);
     }
 
-    window.addEventListener('DOMContentLoaded', loadData);
+    window.addEventListener('DOMContentLoaded', () => {
+      loadData();
+      startAutoSyncInterval();
+    });
   </script>
 </body>
 </html>
@@ -1090,20 +1261,30 @@ def refresh_slips():
         return jsonify({"success": False, "message": str(e)}), 500
 
 
-def _run_scraper_job():
-    """Background scraper execution job."""
+def _run_scraper_job(limit: Optional[int] = None):
+    """Background scraper execution job with real-time progress updates."""
     global SCRAPER_STATE
     SCRAPER_STATE["is_running"] = True
-    SCRAPER_STATE["status"] = "Scraping fixtures and H2H data..."
+    SCRAPER_STATE["progress_pct"] = 0
+    SCRAPER_STATE["progress_text"] = "Crawling fixture predictions list..."
+    SCRAPER_STATE["status"] = "Crawling fixture predictions..."
     SCRAPER_STATE["error"] = None
+
+    def on_progress(idx, total, title):
+        pct = round((idx / total) * 100) if total else 0
+        SCRAPER_STATE["progress_pct"] = pct
+        SCRAPER_STATE["progress_text"] = f"{idx}/{total}: {title}"
+        SCRAPER_STATE["status"] = f"Scraping ({pct}%): {title}"
 
     try:
         scraper = StatareaScraper(output_dir=OUTPUT_DIR)
-        results = scraper.run(export=True)
+        results = scraper.run(limit=limit, export=True, progress_callback=on_progress)
         SCRAPER_STATE["total_fixtures"] = len(results)
+        SCRAPER_STATE["progress_pct"] = 100
         SCRAPER_STATE["last_run"] = time.strftime("%Y-%m-%d %H:%M:%S")
-        SCRAPER_STATE["status"] = "Completed successfully"
+        SCRAPER_STATE["status"] = f"Completed successfully ({len(results)} matches)"
     except Exception as e:
+        logger.error(f"Scraper error: {e}")
         SCRAPER_STATE["error"] = str(e)
         SCRAPER_STATE["status"] = f"Failed: {e}"
     finally:
@@ -1117,7 +1298,10 @@ def trigger_scrape():
     if SCRAPER_STATE["is_running"]:
         return jsonify({"success": False, "message": "Scraper is already running."}), 400
 
-    thread = threading.Thread(target=_run_scraper_job, daemon=True)
+    data = request.get_json(silent=True) or {}
+    limit = data.get("limit")
+
+    thread = threading.Thread(target=_run_scraper_job, kwargs={"limit": limit}, daemon=True)
     thread.start()
     return jsonify({"success": True, "message": "Scraper job started in background."})
 

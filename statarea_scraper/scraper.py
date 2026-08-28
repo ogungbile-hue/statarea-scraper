@@ -1,7 +1,7 @@
 """Main orchestrator for two-stage crawling of Statarea soccer predictions and H2H statistics."""
 
 import logging
-from typing import List, Optional
+from typing import List, Optional, Callable
 from tqdm import tqdm
 
 from .config import PREDICTIONS_URL, DEFAULT_MIN_DELAY, DEFAULT_MAX_DELAY
@@ -93,6 +93,7 @@ class StatareaScraper:
         date_str: Optional[str] = None,
         limit: Optional[int] = None,
         export: bool = True,
+        progress_callback: Optional[Callable[[int, int, str], None]] = None,
     ) -> List[DeepMatchData]:
         """
         Run the complete two-stage crawl pipeline.
@@ -101,6 +102,7 @@ class StatareaScraper:
             date_str: Optional target date string (YYYY-MM-DD)
             limit: Maximum number of fixtures to process deeply (useful for test runs)
             export: Whether to automatically save output to JSON & CSV
+            progress_callback: Optional callback receiving (current_idx, total_matches, match_title)
             
         Returns:
             List of DeepMatchData objects
@@ -126,6 +128,7 @@ class StatareaScraper:
         # --- Stage 2: Deep Extraction ---
         print(f"\n[+] Stage 2: Deep scraping H2H & Team Stats ({len(fixtures)} matches)...")
         results: List[DeepMatchData] = []
+        total_count = len(fixtures)
 
         with tqdm(
             fixtures,
@@ -134,8 +137,13 @@ class StatareaScraper:
             ncols=80,
             bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}]",
         ) as pbar:
-            for fix in pbar:
+            for idx, fix in enumerate(pbar, start=1):
                 pbar.set_postfix_str(f"{fix.home_team[:12]} vs {fix.away_team[:12]}")
+                if progress_callback:
+                    try:
+                        progress_callback(idx, total_count, f"{fix.home_team} vs {fix.away_team}")
+                    except Exception:
+                        pass
                 deep_info = self.scrape_match_details(fix)
                 results.append(deep_info)
 

@@ -1,9 +1,9 @@
-# Onítẹ́tẹ́ - AI Soccer Prediction & 5-Odds Banker Engine
+# Onítẹ́tẹ́ - AI Soccer Prediction & Multi-Tier (1.5x, 3x, 5x, 10x) Odds Engine
 *Powered by Eighty-Two Limited AI*
 
 **Onítẹ́tẹ́** is an automated, resilient soccer prediction intelligence engine and web scraper designed to extract daily soccer match predictions, statistical probability coefficients, community user votes, and detailed head-to-head (H2H) comparison statistics from [Statarea](https://www.statarea.com/predictions).
 
-Featuring an **official animated Eighty-Two Limited element badge**, dynamic H2H recency filtering, safety-first market constraints, and an interactive modern web dashboard.
+Featuring an **official animated Eighty-Two Limited element badge**, dynamic H2H recency filtering, safety-first market constraints, real-time live score settlement, and a 4-tier daily accumulator strategy (**1.5 Odds Ultra Banker**, **3 Odds Banker**, **5 Odds Banker**, and **10 Odds Multiplier**).
 
 ---
 
@@ -14,14 +14,19 @@ Featuring an **official animated Eighty-Two Limited element badge**, dynamic H2H
 - **Two-Stage Crawling Architecture**:
   - **Stage 1 (Index / Fixtures List)**: Scrapes all daily fixture rows from `https://www.statarea.com/predictions` including kickoff time, competition, country, home/away teams, tip, 11 probability coefficients (1, X, 2, HT 1/X/2, Over/Under 1.5/2.5/3.5, BTS, OTS), and community voting statistics.
   - **Stage 2 (Deep Extraction)**: Visits each fixture's comparison endpoint (`/compare/teams/...`) to extract complete team profiles (founded date, country, website, world rank), historical H2H matches with scores and match events, recent form, and match statistics.
-- **High-Safety / Low-Risk 5-Odds Accumulator Engine (`statarea_scraper/accumulator_engine.py`)**:
+- **Multi-Tier Daily Accumulators (`1.5x`, `3x`, `5x`, `10x`) (`statarea_scraper/accumulator_engine.py`)**:
+  - **🛡️ 1.5-Odds Ultra Banker**: 2 to 3 highest-confidence banker selections (Over 1.5 $\ge 90\%$, Double Chance $\ge 88\%$) targeting $\sim 1.40\text{x} - 1.80\text{x}$ odds.
+  - **🎯 3-Odds Banker**: 3 to 4 balanced selections targeting $\sim 2.80\text{x} - 3.50\text{x}$ odds.
+  - **🚀 5-Odds Banker**: 4 to 6 ultra-conservative selections targeting $\sim 4.50\text{x} - 5.50\text{x}$ odds.
+  - **💎 10-Odds Multiplier**: 5 to 8 safe selections targeting $\sim 8.50\text{x} - 12.50\text{x}$ odds.
   - **Dynamic H2H Recency**: Filters historical records to matches from $\ge 2023$ only.
-  - **Conservative Market Constraints**: Over 1.5 goals ($\ge 88\%$), Double Chance ($\ge 85\%$ non-loss $+150$ rank superiority), Under 3.5 defensive locks, and dual 4/5 BTTS scoring requirements.
   - **Automatic Downgrades**: High-risk Straight Wins automatically downgraded to Double Chance.
   - **Cup Squad Rotation Penalty**: $-15\%$ confidence penalty applied to Cup and Friendly matches.
-  - **Slip Generation**: Multiplies 4 to 6 ultra-safe legs to target **$\sim 4.50\text{x} - 5.50\text{x}$ total odds** with explicit justifications.
+- **⚡ Real-Time Live Score Tracking & Auto-Settlement (`statarea_scraper/results_tracker.py`)**:
+  - Pure real-world live match scores and in-play status scraped from Statarea with 30s auto-refresh in the web dashboard.
+  - Automatic settlement across all 4 daily slips with realtime P&L and ROI tracking in `results_ledger.json`.
 - **Interactive Web Dashboard (`dashboard.py`)**:
-  - Real-time Tailwind CSS dark-mode dashboard at `http://localhost:5000` with searchable match tables and live scraper controls.
+  - Real-time Tailwind CSS dark-mode dashboard at `http://localhost:5000` with 4-tier slip selector, live score sync, searchable match tables, and P&L analytics.
 - **Automated OS Scheduling**:
   - Windows Task Scheduler task `StatareaDailyPredictions` configured to run `run_daily.bat` every morning at **07:00 AM**.
 

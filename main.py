@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Onítẹ́tẹ́ - AI Soccer Prediction & 5-Odds Banker Engine.
+Onítẹ́tẹ́ - AI Soccer Prediction & Multi-Tier (1.5x, 3x, 5x, 10x) Accumulator Engine.
 Powered by Eighty-Two AI Engine.
 
 Usage Examples:
@@ -13,8 +13,11 @@ Usage Examples:
     # Launch the interactive web dashboard on http://localhost:5000:
     python main.py --serve
 
-    # Re-generate 5-odds slips instantly from existing data:
+    # Re-generate 1.5x, 3x, 5x, 10x slips instantly from existing data:
     python main.py --slip-only
+
+    # Fetch live scores and settle today's slips:
+    python main.py --update-scores
 """
 
 import argparse
@@ -40,7 +43,7 @@ def setup_logging(verbose: bool = False) -> None:
 def parse_args() -> argparse.Namespace:
     """Parse command-line arguments."""
     parser = argparse.ArgumentParser(
-        description="Onítẹ́tẹ́: AI soccer predictions, dynamic H2H recency filtering, and 5-odds accumulator generator.",
+        description="Onítẹ́tẹ́: AI soccer predictions, dynamic H2H recency filtering, and 1.5x/3x/5x/10x accumulator engine.",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
     parser.add_argument(
@@ -81,7 +84,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--slip-only",
         action="store_true",
-        help="Re-generate and display the 5-odds accumulator ticket from existing analytical data without re-crawling.",
+        help="Re-generate and display 1.5x, 3x, 5x, and 10x accumulator tickets from existing analytical data without re-crawling.",
     )
     parser.add_argument(
         "--update-scores",

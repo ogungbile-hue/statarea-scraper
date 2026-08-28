@@ -437,31 +437,35 @@ class AccumulatorEngine:
         logger.info(f"Generated {len(candidates)} high-safety market candidates.")
         return candidates
 
-    def build_5odds_slips(
+    def _build_tier_slip(
         self,
         candidates: List[MarketCandidate],
-        min_total_odds: float = 4.50,
-        max_total_odds: float = 5.50,
-        target_odds: float = 5.00,
-        min_leg_odds: float = 1.18,
-        max_leg_odds: float = 1.45,
-    ) -> Dict[str, Optional[AccumulatorSlip]]:
-        """
-        Build 4 to 6 leg slips with individual leg odds between 1.18 and 1.45,
-        multiplying to between 4.50 and 5.50 total odds.
-        """
-        # Filter viable ultra-safe candidates
+        target_odds: float,
+        min_total_odds: float,
+        max_total_odds: float,
+        min_legs: int,
+        max_legs: int,
+        name: str,
+        description: str,
+        min_leg_odds: float = 1.10,
+        max_leg_odds: float = 1.65,
+    ) -> Optional[AccumulatorSlip]:
+        """Generic builder to generate an optimal accumulator slip for any odds tier."""
+        # Filter viable candidates
         safe_candidates = [
             c for c in candidates
             if min_leg_odds <= c.estimated_odds <= max_leg_odds
         ]
 
-        if len(safe_candidates) < 6:
-            # Fallback range to catch low odds picks (e.g. 1.12)
+        if len(safe_candidates) < min_legs:
+            # Widen range if scarce
             safe_candidates = [
                 c for c in candidates
-                if 1.10 <= c.estimated_odds <= 1.65
+                if 1.08 <= c.estimated_odds <= 2.20
             ]
+
+        if len(safe_candidates) < min_legs:
+            return None
 
         # Group by match_id
         match_map: Dict[str, List[MarketCandidate]] = {}
@@ -475,7 +479,7 @@ class AccumulatorEngine:
             reverse=True,
         )
 
-        distinct_matches = sorted_match_ids[:20]
+        distinct_matches = sorted_match_ids[:25]
 
         # For each match keep top candidate
         for m_id in distinct_matches:
@@ -487,10 +491,8 @@ class AccumulatorEngine:
 
         all_valid_combos: List[Tuple[float, float, List[MarketCandidate]]] = []
 
-        # Target 4, 5, and 6 legs
-        for leg_count in [4, 5, 6]:
-            if len(distinct_matches) < leg_count:
-                continue
+        # Target combinations between min_legs and max_legs
+        for leg_count in range(min_legs, min(max_legs + 1, len(distinct_matches) + 1)):
             for match_combo in itertools.combinations(distinct_matches, leg_count):
                 pick_options = [match_map[m_id] for m_id in match_combo]
                 for combo in itertools.product(*pick_options):
@@ -500,29 +502,28 @@ class AccumulatorEngine:
 
                     avg_conf = sum(leg.confidence_score for leg in combo) / len(combo)
 
-                    # Strict 4.50 - 5.50 target range
                     if min_total_odds <= tot_odds <= max_total_odds:
                         all_valid_combos.append((avg_conf, tot_odds, list(combo)))
 
-        # Fallback 1: Widen range to 4.20 - 6.00
+        # Fallback 1: Widen odds range slightly (+/- 25%)
         if not all_valid_combos:
-            for leg_count in [4, 5, 6]:
-                if len(distinct_matches) < leg_count:
-                    continue
+            wider_min = max(1.10, min_total_odds * 0.75)
+            wider_max = max_total_odds * 1.30
+            for leg_count in range(min_legs, min(max_legs + 1, len(distinct_matches) + 1)):
                 for match_combo in itertools.combinations(distinct_matches, leg_count):
                     pick_options = [match_map[m_id] for m_id in match_combo]
                     for combo in itertools.product(*pick_options):
                         tot_odds = 1.0
                         for leg in combo:
                             tot_odds *= leg.estimated_odds
-                        if 4.20 <= tot_odds <= 6.00:
+                        if wider_min <= tot_odds <= wider_max:
                             avg_conf = sum(leg.confidence_score for leg in combo) / len(combo)
                             all_valid_combos.append((avg_conf, tot_odds, list(combo)))
 
-        # Fallback 2: Closest to target odds (any viable leg count >= 2)
+        # Fallback 2: Pick closest combination to target odds
         if not all_valid_combos:
             candidate_combos = []
-            for leg_count in range(2, min(7, len(distinct_matches) + 1)):
+            for leg_count in range(max(1, min_legs - 1), min(max_legs + 2, len(distinct_matches) + 1)):
                 for match_combo in itertools.combinations(distinct_matches, leg_count):
                     pick_options = [match_map[m_id] for m_id in match_combo]
                     for combo in itertools.product(*pick_options):
@@ -537,26 +538,103 @@ class AccumulatorEngine:
                 all_valid_combos = candidate_combos[:20]
 
         if not all_valid_combos:
-            logger.warning("No accumulator combinations matched.")
-            return {"daily_ticket": None, "banker_ticket": None}
+            logger.warning(f"No accumulator combinations matched for {name}.")
+            return None
 
-        # Select the single best slip: highest confidence score closest to ~5.00x odds
+        # Sort by highest confidence and minimum deviation from target odds
         all_valid_combos.sort(key=lambda x: (-x[0], abs(x[1] - target_odds)))
         best_conf, best_odds, best_legs = all_valid_combos[0]
 
-        daily_slip = AccumulatorSlip(
-            name="Onítẹ́tẹ́ Daily 5-Odds Banker Slip",
-            description="Ultra-conservative multi-market daily ticket with strict risk constraints, dynamic H2H recency, and safety verification.",
+        return AccumulatorSlip(
+            name=name,
+            description=description,
             legs_count=len(best_legs),
-            total_odds=best_odds,
-            average_confidence=best_conf,
+            total_odds=round(best_odds, 2),
+            average_confidence=round(best_conf, 1),
             legs=best_legs,
         )
 
+    def build_all_slips(self, candidates: List[MarketCandidate]) -> Dict[str, Optional[AccumulatorSlip]]:
+        """
+        Generate all four daily accumulator tiers (1.5 Odds, 3 Odds, 5 Odds, 10 Odds).
+        """
+        # Tier 1: 1.5 Odds Ultra Banker (2-3 legs)
+        slip_1_5 = self._build_tier_slip(
+            candidates=candidates,
+            target_odds=1.50,
+            min_total_odds=1.35,
+            max_total_odds=1.85,
+            min_legs=2,
+            max_legs=3,
+            name="Onítẹ́tẹ́ 1.5-Odds Ultra Banker Slip",
+            description="Ultra-conservative 2-3 leg banker ticket with the highest probability ratings.",
+            min_leg_odds=1.12,
+            max_leg_odds=1.35,
+        )
+
+        # Tier 2: 3 Odds Banker (3-4 legs)
+        slip_3 = self._build_tier_slip(
+            candidates=candidates,
+            target_odds=3.00,
+            min_total_odds=2.70,
+            max_total_odds=3.50,
+            min_legs=3,
+            max_legs=4,
+            name="Onítẹ́tẹ́ 3-Odds Banker Slip",
+            description="High-probability 3-4 leg slip with balanced safety-first market picks.",
+            min_leg_odds=1.15,
+            max_leg_odds=1.45,
+        )
+
+        # Tier 3: 5 Odds Banker (4-6 legs)
+        slip_5 = self._build_tier_slip(
+            candidates=candidates,
+            target_odds=5.00,
+            min_total_odds=4.50,
+            max_total_odds=5.50,
+            min_legs=4,
+            max_legs=6,
+            name="Onítẹ́tẹ́ 5-Odds Banker Slip",
+            description="Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.",
+            min_leg_odds=1.18,
+            max_leg_odds=1.45,
+        )
+
+        # Tier 4: 10 Odds Multiplier (5-8 legs)
+        slip_10 = self._build_tier_slip(
+            candidates=candidates,
+            target_odds=10.00,
+            min_total_odds=8.50,
+            max_total_odds=12.50,
+            min_legs=5,
+            max_legs=8,
+            name="Onítẹ́tẹ́ 10-Odds Multiplier Slip",
+            description="High-yield 5-8 leg accumulator constructed solely with vetted safe selections.",
+            min_leg_odds=1.18,
+            max_leg_odds=1.55,
+        )
+
         return {
-            "daily_ticket": daily_slip,
-            "banker_ticket": daily_slip,  # Backwards-compatible alias
+            "slip_1_5odds": slip_1_5,
+            "slip_3odds": slip_3,
+            "slip_5odds": slip_5,
+            "slip_10odds": slip_10,
+            # Backwards compatibility aliases
+            "daily_ticket": slip_5 or slip_3 or slip_1_5,
+            "banker_ticket": slip_5 or slip_3 or slip_1_5,
         }
+
+    def build_5odds_slips(
+        self,
+        candidates: List[MarketCandidate],
+        min_total_odds: float = 4.50,
+        max_total_odds: float = 5.50,
+        target_odds: float = 5.00,
+        min_leg_odds: float = 1.18,
+        max_leg_odds: float = 1.45,
+    ) -> Dict[str, Optional[AccumulatorSlip]]:
+        """Backwards compatibility wrapper returning all slips."""
+        return self.build_all_slips(candidates)
 
     def generate_and_save(
         self,
@@ -564,54 +642,53 @@ class AccumulatorEngine:
         metrics_path: Optional[str] = None,
         h2h_path: Optional[str] = None,
     ) -> Dict[str, Any]:
-        """Run full high-safety evaluation pipeline and persist outputs."""
+        """Run full high-safety evaluation pipeline and persist all 4 tiers (1.5x, 3x, 5x, 10x)."""
         fixtures_df, metrics_df, h2h_df = self.load_data(fixtures_path, metrics_path, h2h_path)
         candidates = self.evaluate_markets(fixtures_df, metrics_df, h2h_df)
-        slips = self.build_5odds_slips(candidates)
+        slips = self.build_all_slips(candidates)
 
         json_path = os.path.join(self.output_dir, "daily_5odds_slip.json")
         txt_path = os.path.join(self.output_dir, "daily_5odds_slip.txt")
 
-        daily_slip = slips.get("daily_ticket") or slips.get("banker_ticket")
         payload = {
-            "strategy": "High-Safety / Low-Risk Daily 5-Odds Banker Accumulator",
+            "strategy": "Multi-Tier High-Safety Daily Accumulator Slips (1.5x, 3x, 5x, 10x)",
             "generated_at": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            "daily_ticket": daily_slip.to_dict() if daily_slip else None,
-            "banker_ticket": daily_slip.to_dict() if daily_slip else None,  # Backwards-compatible alias
+            "slip_1_5odds": slips["slip_1_5odds"].to_dict() if slips.get("slip_1_5odds") else None,
+            "slip_3odds": slips["slip_3odds"].to_dict() if slips.get("slip_3odds") else None,
+            "slip_5odds": slips["slip_5odds"].to_dict() if slips.get("slip_5odds") else None,
+            "slip_10odds": slips["slip_10odds"].to_dict() if slips.get("slip_10odds") else None,
+            "daily_ticket": slips["daily_ticket"].to_dict() if slips.get("daily_ticket") else None,
+            "banker_ticket": slips["banker_ticket"].to_dict() if slips.get("banker_ticket") else None,
         }
 
         with open(json_path, "w", encoding="utf-8") as f:
             json.dump(payload, f, indent=2, ensure_ascii=False)
 
-        # Save Formatted TXT
-        txt_report = self._format_txt_report(daily_slip)
+        # Save Formatted Multi-Tier TXT Report
+        txt_report = self._format_txt_report(slips)
         with open(txt_path, "w", encoding="utf-8") as f:
             f.write(txt_report)
 
-        logger.info(f"Saved refined daily slip JSON: {json_path}")
-        logger.info(f"Saved refined daily slip TXT: {txt_path}")
+        logger.info(f"Saved refined multi-tier daily slips JSON: {json_path}")
+        logger.info(f"Saved refined multi-tier daily slips TXT: {txt_path}")
 
         return {
             "json_file": json_path,
             "txt_file": txt_path,
-            "daily_ticket": daily_slip,
-            "banker_ticket": daily_slip,
+            "slips": slips,
+            "daily_ticket": slips.get("daily_ticket"),
+            "banker_ticket": slips.get("banker_ticket"),
             "text_report": txt_report,
         }
 
-    def _format_txt_report(self, slip: Optional[AccumulatorSlip]) -> str:
-        """Format generated daily ticket with individual risk justifications into an ASCII table."""
+    def _format_single_slip_txt(self, slip: Optional[AccumulatorSlip]) -> List[str]:
+        """Format an individual slip into ASCII table lines."""
         lines = []
-        lines.append("=" * 86)
-        lines.append("             🛡️ ONÍTẸ́TẸ́ HIGH-SAFETY / LOW-RISK DAILY 5-ODDS SLIP             ")
-        lines.append("=" * 86)
-
         if not slip:
-            lines.append("\n  [!] No valid daily slip generated matching the safety criteria.")
-            lines.append("=" * 86)
-            return "\n".join(lines)
+            lines.append("  [!] No valid ticket generated matching the safety criteria.")
+            return lines
 
-        lines.append(f"\n>> {slip.name.upper()}")
+        lines.append(f">> {slip.name.upper()}")
         lines.append(f"   {slip.description}")
         lines.append(f"   Total Odds: {slip.total_odds:.2f}x  |  Avg Confidence: {slip.average_confidence:.1f}%  |  Legs: {slip.legs_count}")
         lines.append("-" * 86)
@@ -625,8 +702,36 @@ class AccumulatorEngine:
             )
             lines.append(f"       ↳ Justification: {leg.justification}")
 
+        return lines
+
+    def _format_txt_report(self, slips: Any) -> str:
+        """Format all 4 daily tickets (1.5x, 3x, 5x, 10x) with individual justifications into an ASCII report."""
+        lines = []
+        lines.append("=" * 86)
+        lines.append("        🛡️ ONÍTẸ́TẸ́ MULTI-TIER DAILY ACCUMULATORS (1.5x, 3x, 5x, 10x)        ")
+        lines.append("=" * 86)
+
+        slips_dict: Dict[str, Optional[AccumulatorSlip]] = {}
+        if isinstance(slips, dict):
+            slips_dict = slips
+        elif isinstance(slips, AccumulatorSlip):
+            slips_dict = {"slip_5odds": slips}
+
+        tiers = [
+            ("1.5-ODDS ULTRA BANKER", slips_dict.get("slip_1_5odds")),
+            ("3-ODDS BANKER", slips_dict.get("slip_3odds")),
+            ("5-ODDS BANKER", slips_dict.get("slip_5odds") or slips_dict.get("daily_ticket")),
+            ("10-ODDS MULTIPLIER", slips_dict.get("slip_10odds")),
+        ]
+
+        for title, slip_obj in tiers:
+            lines.append("")
+            lines.append(f"--- [ {title} ] ---")
+            lines.extend(self._format_single_slip_txt(slip_obj))
+
+        lines.append("")
         lines.append("-" * 86)
-        lines.append("\n💡 Execution Strategy: Place 1-unit flat stake on the single daily banker ticket.")
+        lines.append("💡 Execution Strategy: Select your preferred risk profile (1.5x, 3x, 5x, 10x).")
         lines.append("=" * 86)
         return "\n".join(lines)
 
@@ -636,3 +741,4 @@ if __name__ == "__main__":
     engine = AccumulatorEngine()
     res = engine.generate_and_save()
     print("\n" + res["text_report"])
+

@@ -1,3 +1,7 @@
 ﻿slip_id,date,slip_name,total_odds,legs_count,average_confidence,status,stake,payout,profit,winning_legs_count,lost_legs_count
+2026-08-28-10odds,2026-08-28,Onítẹ́tẹ́ Slip,8.51,8,76.2,PENDING,1.0,0.0,0.0,0,0
+2026-08-28-5odds,2026-08-28,Onítẹ́tẹ́ Slip,4.52,6,76.8,PENDING,1.0,0.0,0.0,0,0
+2026-08-28-3odds,2026-08-28,Onítẹ́tẹ́ Slip,2.72,4,77.0,PENDING,1.0,0.0,0.0,0,0
+2026-08-28-1.5odds,2026-08-28,Onítẹ́tẹ́ Slip,1.4,3,94.5,PENDING,1.0,0.0,0.0,0,0
 2026-08-27-daily,2026-08-27,Onítẹ́tẹ́ Daily 5-Odds Banker Slip,1.86,5,88.0,PENDING,1.0,0.0,0.0,0,0
 2026-08-26-daily,2026-08-26,Onítẹ́tẹ́ Daily 5-Odds Banker Slip,4.59,6,73.0,LOST,1.0,0.0,-1.0,2,2

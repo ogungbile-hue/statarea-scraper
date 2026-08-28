@@ -138,6 +138,14 @@ class ResultsTracker:
             json.dump(ledger_data, f, indent=2, ensure_ascii=False)
         self._export_ledger_csv(ledger_data)
 
+    def _normalize_team_name(self, name: str) -> str:
+        """Normalize team name for fuzzy matching."""
+        if not name:
+            return ""
+        cleaned = re.sub(r"\(.*?\)", "", str(name)).lower()
+        cleaned = re.sub(r"[^\w\s]", "", cleaned)
+        return " ".join(cleaned.split())
+
     def evaluate_market_result(
         self,
         market: str,
@@ -147,8 +155,11 @@ class ResultsTracker:
         match_status: str,
     ) -> str:
         """
-        Evaluate whether an individual market selection WON, LOST, or is PENDING.
+        Evaluate whether an individual market selection WON, LOST, VOID, or is PENDING.
         """
+        if match_status in ["POSTPONED", "CANCELLED", "VOID", "ABANDONED"]:
+            return "VOID"
+
         if home_goals is None or away_goals is None:
             return "PENDING"
         if match_status not in ["FT", "AET", "Final"]:
@@ -194,21 +205,25 @@ class ResultsTracker:
 
         return "PENDING"
 
-    def fetch_live_scores_from_statarea(self, date_str: Optional[str] = None) -> Dict[str, Dict[str, Any]]:
+    def fetch_live_scores_from_statarea(self, target_dates: Optional[List[str]] = None) -> Dict[str, Dict[str, Any]]:
         """
-        Fetch real match scores and status from Statarea.
-        Checks both target date and main prediction endpoints.
+        Fetch real match scores and status from Statarea across target dates and main endpoint.
+        Returns a dictionary keyed both by match_id and normalized 'home_vs_away'.
         """
         from statarea_scraper.client import StatareaClient
         from bs4 import BeautifulSoup
 
-        target_date = date_str or datetime.date.today().strftime("%Y-%m-%d")
-        urls = [
-            f"https://www.statarea.com/predictions/date/{target_date}",
-            "https://www.statarea.com/predictions",
-            "https://www.statarea.com/predictions/date/2026-08-26",
-        ]
-        
+        today = datetime.date.today()
+        dates_to_query = set(target_dates or [])
+        dates_to_query.add(today.strftime("%Y-%m-%d"))
+        dates_to_query.add((today - datetime.timedelta(days=1)).strftime("%Y-%m-%d"))
+
+        urls = ["https://www.statarea.com/predictions"]
+        for d in sorted(dates_to_query):
+            url_date = f"https://www.statarea.com/predictions/date/{d}"
+            if url_date not in urls:
+                urls.append(url_date)
+
         scores_map: Dict[str, Dict[str, Any]] = {}
         client = StatareaClient()
 
@@ -222,17 +237,47 @@ class ResultsTracker:
                 rows = soup.select("div.match")
 
                 for r in rows:
-                    match_id = str(r.get("id", "")).replace("match_", "").strip()
+                    raw_id = str(r.get("id", "")).replace("match_", "").strip()
+                    match_id = raw_id
                     if not match_id:
-                        continue
+                        host_a = r.select_one("div.hostteam a, div.guestteam a, div.info a")
+                        if host_a and host_a.get("href"):
+                            m = re.search(r"/match/(\d+)", host_a.get("href", ""))
+                            if m:
+                                match_id = m.group(1)
 
-                    host_goals_el = r.select_one("div.hostteam a.goals, div.hostteam .goals")
-                    guest_goals_el = r.select_one("div.guestteam a.goals, div.guestteam .goals")
-                    ht_el = r.select_one("div.htres")
+                    host_el = r.select_one("div.hostteam")
+                    guest_el = r.select_one("div.guestteam")
+
+                    host_name = ""
+                    guest_name = ""
+                    if host_el:
+                        h_name_el = host_el.select_one(".name") or host_el
+                        host_name = h_name_el.get_text(strip=True)
+                    if guest_el:
+                        g_name_el = guest_el.select_one(".name") or guest_el
+                        guest_name = g_name_el.get_text(strip=True)
+
+                    host_goals_el = r.select_one("div.hostteam a.goals, div.hostteam .goals, div.hostteam span.goals")
+                    guest_goals_el = r.select_one("div.guestteam a.goals, div.guestteam .goals, div.guestteam span.goals")
+                    result_el = r.select_one("div.result, div.score, div.ftres, div.htres")
 
                     home_goals = None
                     away_goals = None
                     match_status = "SCHEDULED"
+                    live_minute = ""
+
+                    # Check for in-play / postponed / status indicator
+                    status_el = r.select_one("div.date, div.time, div.status, div.live")
+                    st_txt = status_el.get_text(strip=True).upper() if status_el else ""
+
+                    if "POST" in st_txt or "CANC" in st_txt or "ABND" in st_txt or "SUSP" in st_txt:
+                        match_status = "POSTPONED"
+                    elif "'" in st_txt or "HT" in st_txt or "LIVE" in st_txt or "IN PLAY" in st_txt:
+                        match_status = "LIVE"
+                        live_minute = st_txt
+                    elif "FT" in st_txt or "FIN" in st_txt or "FINAL" in st_txt or "AET" in st_txt:
+                        match_status = "FT"
 
                     if host_goals_el and guest_goals_el:
                         hg_txt = host_goals_el.get_text(strip=True)
@@ -240,34 +285,44 @@ class ResultsTracker:
                         if hg_txt.isdigit() and ag_txt.isdigit():
                             home_goals = int(hg_txt)
                             away_goals = int(ag_txt)
-                            match_status = "FT"
+                            if match_status == "SCHEDULED":
+                                match_status = "FT"
+                    elif result_el:
+                        res_txt = result_el.get_text(strip=True)
+                        m = re.search(r"(\d+)\s*[-:]\s*(\d+)", res_txt)
+                        if m:
+                            home_goals = int(m.group(1))
+                            away_goals = int(m.group(2))
+                            if match_status == "SCHEDULED":
+                                match_status = "FT"
 
-                    # Check for in-play status indicator
-                    status_el = r.select_one("div.date, div.time, div.status")
-                    if status_el:
-                        st_txt = status_el.get_text(strip=True).upper()
-                        if "'" in st_txt or "HT" in st_txt or "LIVE" in st_txt:
-                            match_status = "LIVE"
-                        elif "FT" in st_txt or "FIN" in st_txt:
-                            match_status = "FT"
-
-                    scores_map[match_id] = {
+                    entry = {
                         "match_id": match_id,
+                        "home_team": host_name,
+                        "away_team": guest_name,
                         "home_goals": home_goals,
                         "away_goals": away_goals,
                         "match_status": match_status,
+                        "live_minute": live_minute,
                     }
+
+                    if match_id:
+                        scores_map[match_id] = entry
+
+                    if host_name and guest_name:
+                        key_name = f"{self._normalize_team_name(host_name)}_vs_{self._normalize_team_name(guest_name)}"
+                        scores_map[key_name] = entry
 
             except Exception as e:
                 logger.warning(f"Error fetching scores from {url}: {e}")
 
-        logger.info(f"Loaded live/FT scores for {len(scores_map)} matches from Statarea.")
+        logger.info(f"Loaded live/FT scores for {len(scores_map)} match mappings from Statarea.")
         return scores_map
 
     def settle_today_slips(self) -> Dict[str, Any]:
         """
-        Settle today's slips against latest real live scores, update Daily Slips JSON,
-        and record strictly real data into the ledger.
+        Settle all 4 daily slips (1.5x, 3x, 5x, 10x) against latest real live scores,
+        update Daily Slips JSON, and record strictly real data into the ledger.
         """
         slips_path = os.path.join(self.output_dir, "daily_5odds_slip.json")
         if not os.path.exists(slips_path):
@@ -276,32 +331,59 @@ class ResultsTracker:
         with open(slips_path, "r", encoding="utf-8") as f:
             daily_data = json.load(f)
 
-        live_scores = self.fetch_live_scores_from_statarea()
+        # Collect all dates in active slips to ensure they are fetched
+        slip_dates = set()
+        for k in ["slip_1_5odds", "slip_3odds", "slip_5odds", "slip_10odds", "daily_ticket", "banker_ticket"]:
+            s = daily_data.get(k)
+            if s and isinstance(s, dict):
+                for leg in s.get("legs", []):
+                    if leg.get("date"):
+                        slip_dates.add(leg.get("date"))
+
+        live_scores = self.fetch_live_scores_from_statarea(target_dates=list(slip_dates))
         ledger = self.load_ledger()
         today_str = datetime.date.today().strftime("%Y-%m-%d")
 
-        daily_slip_data = daily_data.get("daily_ticket") or daily_data.get("banker_ticket")
-        settled_daily = self._settle_single_slip(daily_slip_data, live_scores, today_str, "daily")
+        settled_results: Dict[str, Optional[Dict[str, Any]]] = {}
 
-        # 1. Update Daily Slips JSON so "Daily Slips" view displays live scores directly
-        daily_data["daily_ticket"] = settled_daily
-        daily_data["banker_ticket"] = settled_daily  # Backwards-compatible alias
+        tier_keys = [
+            ("slip_1_5odds", "1.5odds"),
+            ("slip_3odds", "3odds"),
+            ("slip_5odds", "5odds"),
+            ("slip_10odds", "10odds"),
+        ]
+
+        # Settle each tier
+        for key, slip_type in tier_keys:
+            raw_slip = daily_data.get(key)
+            if not raw_slip and key == "slip_5odds":
+                raw_slip = daily_data.get("daily_ticket") or daily_data.get("banker_ticket")
+            
+            if raw_slip:
+                settled_slip = self._settle_single_slip(raw_slip, live_scores, today_str, slip_type)
+                settled_results[key] = settled_slip
+                daily_data[key] = settled_slip
+
+                if settled_slip:
+                    idx = next((i for i, s in enumerate(ledger) if s["slip_id"] == settled_slip["slip_id"]), None)
+                    if idx is not None:
+                        ledger[idx] = settled_slip
+                    else:
+                        ledger.insert(0, settled_slip)
+
+        # Backwards-compatible aliases
+        daily_data["daily_ticket"] = settled_results.get("slip_5odds") or settled_results.get("slip_3odds") or settled_results.get("slip_1_5odds")
+        daily_data["banker_ticket"] = daily_data["daily_ticket"]
+
         with open(slips_path, "w", encoding="utf-8") as f:
             json.dump(daily_data, f, indent=2, ensure_ascii=False)
-
-        # 2. Update real ledger with single daily record
-        if settled_daily:
-            idx = next((i for i, s in enumerate(ledger) if s["slip_id"] == settled_daily["slip_id"]), None)
-            if idx is not None:
-                ledger[idx] = settled_daily
-            else:
-                ledger.insert(0, settled_daily)
 
         self.save_ledger(ledger)
         return {
             "success": True,
-            "settled_daily": settled_daily,
+            "settled_slips": {k: bool(v) for k, v in settled_results.items()},
             "total_records": len(ledger),
+            "live_scores_count": len(live_scores),
         }
 
     def _settle_single_slip(
@@ -311,7 +393,7 @@ class ResultsTracker:
         date_str: str,
         slip_type: str,
     ) -> Optional[Dict[str, Any]]:
-        """Settle a single slip object."""
+        """Settle a single slip object with both ID and Team Name lookup."""
         if not slip_data or not slip_data.get("legs"):
             return None
 
@@ -328,11 +410,17 @@ class ResultsTracker:
 
         for leg in slip_data.get("legs", []):
             m_id = str(leg.get("match_id", ""))
-            score_info = live_scores.get(m_id, {})
+            home = leg.get("home_team", "")
+            away = leg.get("away_team", "")
+            key_name = f"{self._normalize_team_name(home)}_vs_{self._normalize_team_name(away)}"
+
+            # Lookup by ID first, then by normalized team names
+            score_info = live_scores.get(m_id) or live_scores.get(key_name, {})
 
             hg = score_info.get("home_goals")
             ag = score_info.get("away_goals")
             m_status = score_info.get("match_status", "SCHEDULED")
+            live_min = score_info.get("live_minute", "")
 
             leg_status = self.evaluate_market_result(
                 market=leg.get("market", ""),
@@ -348,6 +436,9 @@ class ResultsTracker:
             elif leg_status in ["PENDING", "LIVE"]:
                 has_pending = True
                 all_won = False
+            elif leg_status == "VOID":
+                # Void match does not lose the accumulator
+                pass
 
             settled_legs.append(LegSettlement(
                 match_id=m_id,
