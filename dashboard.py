@@ -685,24 +685,24 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       const t10 = data.slip_10odds;
 
       if (t15) {
-        document.getElementById('tierOdds15').innerText = `${t15.total_odds}x`;
-        document.getElementById('tierConf15').innerText = `${t15.average_confidence}% Conf`;
-        document.getElementById('tierLegs15').innerText = `${t15.legs_count} Ultra-Safe Legs`;
+        const elO = document.getElementById('tierOdds15'); if (elO) elO.innerText = `${t15.total_odds}x`;
+        const elC = document.getElementById('tierConf15'); if (elC) elC.innerText = `${t15.average_confidence}% Conf`;
+        const elL = document.getElementById('tierLegs15'); if (elL) elL.innerText = `${t15.legs_count} Ultra-Safe Legs`;
       }
       if (t3) {
-        document.getElementById('tierOdds3').innerText = `${t3.total_odds}x`;
-        document.getElementById('tierConf3').innerText = `${t3.average_confidence}% Conf`;
-        document.getElementById('tierLegs3').innerText = `${t3.legs_count} Balanced Legs`;
+        const elO = document.getElementById('tierOdds3'); if (elO) elO.innerText = `${t3.total_odds}x`;
+        const elC = document.getElementById('tierConf3'); if (elC) elC.innerText = `${t3.average_confidence}% Conf`;
+        const elL = document.getElementById('tierLegs3'); if (elL) elL.innerText = `${t3.legs_count} Balanced Legs`;
       }
       if (t5) {
-        document.getElementById('tierOdds5').innerText = `${t5.total_odds}x`;
-        document.getElementById('tierConf5').innerText = `${t5.average_confidence}% Conf`;
-        document.getElementById('tierLegs5').innerText = `${t5.legs_count} Conservative Legs`;
+        const elO = document.getElementById('tierOdds5'); if (elO) elO.innerText = `${t5.total_odds}x`;
+        const elC = document.getElementById('tierConf5'); if (elC) elC.innerText = `${t5.average_confidence}% Conf`;
+        const elL = document.getElementById('tierLegs5'); if (elL) elL.innerText = `${t5.legs_count} Conservative Legs`;
       }
       if (t10) {
-        document.getElementById('tierOdds10').innerText = `${t10.total_odds}x`;
-        document.getElementById('tierConf10').innerText = `${t10.average_confidence}% Conf`;
-        document.getElementById('tierLegs10').innerText = `${t10.legs_count} Safe Legs`;
+        const elO = document.getElementById('tierOdds10'); if (elO) elO.innerText = `${t10.total_odds}x`;
+        const elC = document.getElementById('tierConf10'); if (elC) elC.innerText = `${t10.average_confidence}% Conf`;
+        const elL = document.getElementById('tierLegs10'); if (elL) elL.innerText = `${t10.legs_count} Safe Legs`;
       }
     }
 
