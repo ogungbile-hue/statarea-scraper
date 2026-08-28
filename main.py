@@ -24,7 +24,7 @@ import argparse
 import logging
 import sys
 from statarea_scraper import StatareaScraper
-from statarea_scraper.config import DEFAULT_MIN_DELAY, DEFAULT_MAX_DELAY
+from statarea_scraper.config import DEFAULT_MIN_DELAY, DEFAULT_MAX_DELAY, DEFAULT_MAX_WORKERS
 
 
 def setup_logging(verbose: bool = False) -> None:
@@ -56,6 +56,12 @@ def parse_args() -> argparse.Namespace:
         type=int,
         default=None,
         help="Limit the number of fixtures to process deeply.",
+    )
+    parser.add_argument(
+        "-w", "--workers",
+        type=int,
+        default=DEFAULT_MAX_WORKERS,
+        help="Number of concurrent worker threads for deep match extraction.",
     )
     parser.add_argument(
         "--date",
@@ -176,14 +182,15 @@ def main() -> int:
             logging.error(f"Error generating accumulator slip: {e}")
             return 1
 
-    limit = args.limit
+    # Scrape execution (Test or Full run)
+    limit = 3 if args.test else args.limit
     if args.test:
-        limit = 3
         print("\n[i] Test Mode Active: Will scrape the first 3 fixtures.")
 
     scraper = StatareaScraper(
         min_delay=args.min_delay,
         max_delay=args.max_delay,
+        max_workers=args.workers,
         output_dir=args.output_dir,
     )
 

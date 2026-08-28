@@ -1,10 +1,12 @@
 """Main orchestrator for two-stage crawling of Statarea soccer predictions and H2H statistics."""
 
+import concurrent.futures
 import logging
+import threading
 from typing import List, Optional, Callable
 from tqdm import tqdm
 
-from .config import PREDICTIONS_URL, DEFAULT_MIN_DELAY, DEFAULT_MAX_DELAY
+from .config import PREDICTIONS_URL, DEFAULT_MIN_DELAY, DEFAULT_MAX_DELAY, DEFAULT_MAX_WORKERS
 from .client import StatareaClient
 from .parser import StatareaParser
 from .exporter import StatareaExporter
@@ -22,10 +24,12 @@ class StatareaScraper:
         self,
         min_delay: float = DEFAULT_MIN_DELAY,
         max_delay: float = DEFAULT_MAX_DELAY,
+        max_workers: int = DEFAULT_MAX_WORKERS,
         output_dir: str = "output",
     ):
         self.min_delay = min_delay
         self.max_delay = max_delay
+        self.max_workers = max_workers
         self.output_dir = output_dir
         self.client = StatareaClient(min_delay=min_delay, max_delay=max_delay)
         self.parser = StatareaParser()
@@ -96,7 +100,7 @@ class StatareaScraper:
         progress_callback: Optional[Callable[[int, int, str], None]] = None,
     ) -> List[DeepMatchData]:
         """
-        Run the complete two-stage crawl pipeline.
+        Run the complete two-stage crawl pipeline with high-speed concurrency.
         
         Args:
             date_str: Optional target date string (YYYY-MM-DD)
@@ -125,27 +129,48 @@ class StatareaScraper:
             fixtures = fixtures[:limit]
             print(f"[*] Processing limit applied: crawling first {len(fixtures)} fixtures...")
 
-        # --- Stage 2: Deep Extraction ---
-        print(f"\n[+] Stage 2: Deep scraping H2H & Team Stats ({len(fixtures)} matches)...")
-        results: List[DeepMatchData] = []
+        # --- Stage 2: Deep Extraction (Concurrent Worker Pool) ---
+        workers = min(self.max_workers, max(1, len(fixtures)))
+        print(f"\n[+] Stage 2: Concurrent deep scraping H2H & Team Stats ({len(fixtures)} matches with {workers} workers)...")
+        results: List[DeepMatchData] = [None] * len(fixtures)
         total_count = len(fixtures)
+        completed_count = 0
+        lock = threading.Lock()
 
-        with tqdm(
-            fixtures,
-            desc="Deep Crawl Progress",
-            unit="match",
-            ncols=80,
-            bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}]",
-        ) as pbar:
-            for idx, fix in enumerate(pbar, start=1):
-                pbar.set_postfix_str(f"{fix.home_team[:12]} vs {fix.away_team[:12]}")
-                if progress_callback:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:
+            future_to_idx = {
+                executor.submit(self.scrape_match_details, fix): i
+                for i, fix in enumerate(fixtures)
+            }
+
+            with tqdm(
+                total=total_count,
+                desc="Deep Crawl Progress",
+                unit="match",
+                ncols=80,
+                bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}]",
+            ) as pbar:
+                for future in concurrent.futures.as_completed(future_to_idx):
+                    i = future_to_idx[future]
+                    fix = fixtures[i]
                     try:
-                        progress_callback(idx, total_count, f"{fix.home_team} vs {fix.away_team}")
-                    except Exception:
-                        pass
-                deep_info = self.scrape_match_details(fix)
-                results.append(deep_info)
+                        deep_info = future.result()
+                    except Exception as e:
+                        logger.error(f"Error scraping match {fix.home_team} vs {fix.away_team}: {e}")
+                        deep_info = DeepMatchData(fixture=fix)
+
+                    results[i] = deep_info
+                    with lock:
+                        completed_count += 1
+                        done_now = completed_count
+
+                    pbar.update(1)
+                    pbar.set_postfix_str(f"{fix.home_team[:12]} vs {fix.away_team[:12]}")
+                    if progress_callback:
+                        try:
+                            progress_callback(done_now, total_count, f"{fix.home_team} vs {fix.away_team}")
+                        except Exception:
+                            pass
 
         print(f"\n[OK] Stage 2 Complete: Successfully processed {len(results)} matches.")
 

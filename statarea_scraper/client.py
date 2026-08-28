@@ -12,6 +12,7 @@ from .config import (
     DEFAULT_HEADERS,
     DEFAULT_MIN_DELAY,
     DEFAULT_MAX_DELAY,
+    DEFAULT_POOL_SIZE,
     MAX_RETRIES,
     BACKOFF_FACTOR,
     RETRY_STATUS_CODES,
@@ -39,7 +40,7 @@ class StatareaClient:
         self.session = requests.Session()
         self.session.headers.update(self.headers)
 
-        # Setup standard urllib3 retry strategy as first line of defense
+        # Setup standard urllib3 retry strategy with high concurrency connection pooling
         retry_strategy = Retry(
             total=MAX_RETRIES,
             backoff_factor=BACKOFF_FACTOR,
@@ -47,7 +48,11 @@ class StatareaClient:
             allowed_methods=["HEAD", "GET", "OPTIONS"],
             raise_on_status=False,
         )
-        adapter = HTTPAdapter(max_retries=retry_strategy)
+        adapter = HTTPAdapter(
+            max_retries=retry_strategy,
+            pool_connections=DEFAULT_POOL_SIZE,
+            pool_maxsize=DEFAULT_POOL_SIZE,
+        )
         self.session.mount("http://", adapter)
         self.session.mount("https://", adapter)
 
