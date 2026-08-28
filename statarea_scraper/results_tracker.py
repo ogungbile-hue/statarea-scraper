@@ -79,8 +79,23 @@ class ResultsTracker:
     """Real Data Live Results Tracking and Settlement Engine."""
 
     def __init__(self, output_dir: str = "output"):
-        self.output_dir = output_dir
-        os.makedirs(self.output_dir, exist_ok=True)
+        is_serverless = bool(
+            os.environ.get("VERCEL") or 
+            os.environ.get("AWS_LAMBDA_FUNCTION_NAME") or 
+            os.environ.get("LAMBDA_TASK_ROOT") or 
+            not os.access(os.path.dirname(os.path.abspath(output_dir)), os.W_OK)
+        )
+        if is_serverless:
+            self.output_dir = os.path.join("/tmp", "output")
+        else:
+            self.output_dir = output_dir
+
+        try:
+            os.makedirs(self.output_dir, exist_ok=True)
+        except OSError:
+            self.output_dir = os.path.join("/tmp", "output")
+            os.makedirs(self.output_dir, exist_ok=True)
+
         self.ledger_json_path = os.path.join(self.output_dir, "results_ledger.json")
         self.ledger_csv_path = os.path.join(self.output_dir, "results_ledger.csv")
         self._ensure_ledger_initialized()
@@ -88,9 +103,12 @@ class ResultsTracker:
     def _ensure_ledger_initialized(self) -> None:
         """Initialize empty ledger if not present (real data only)."""
         if not os.path.exists(self.ledger_json_path):
-            with open(self.ledger_json_path, "w", encoding="utf-8") as f:
-                json.dump([], f, indent=2, ensure_ascii=False)
-            self._export_ledger_csv([])
+            try:
+                with open(self.ledger_json_path, "w", encoding="utf-8") as f:
+                    json.dump([], f, indent=2, ensure_ascii=False)
+                self._export_ledger_csv([])
+            except OSError as e:
+                logger.warning(f"Could not initialize ledger on disk: {e}")
 
     def _export_ledger_csv(self, ledger_data: List[Dict[str, Any]]) -> None:
         """Export flat ledger summary to CSV."""
@@ -99,31 +117,42 @@ class ResultsTracker:
             "average_confidence", "status", "stake", "payout", "profit",
             "winning_legs_count", "lost_legs_count",
         ]
-        with open(self.ledger_csv_path, "w", newline="", encoding="utf-8-sig") as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
-            writer.writeheader()
-            for s in ledger_data:
-                legs = s.get("legs", [])
-                won_count = sum(1 for l in legs if l.get("status") == "WON")
-                lost_count = sum(1 for l in legs if l.get("status") == "LOST")
-                writer.writerow({
-                    "slip_id": s.get("slip_id", ""),
-                    "date": s.get("date", ""),
-                    "slip_name": s.get("slip_name", ""),
-                    "total_odds": s.get("total_odds", 0.0),
-                    "legs_count": s.get("legs_count", 0),
-                    "average_confidence": s.get("average_confidence", 0.0),
-                    "status": s.get("status", "PENDING"),
-                    "stake": s.get("stake", 1.0),
-                    "payout": s.get("payout", 0.0),
-                    "profit": s.get("profit", 0.0),
-                    "winning_legs_count": won_count,
-                    "lost_legs_count": lost_count,
-                })
+        try:
+            with open(self.ledger_csv_path, "w", newline="", encoding="utf-8-sig") as f:
+                writer = csv.DictWriter(f, fieldnames=fieldnames)
+                writer.writeheader()
+                for s in ledger_data:
+                    legs = s.get("legs", [])
+                    won_count = sum(1 for l in legs if l.get("status") == "WON")
+                    lost_count = sum(1 for l in legs if l.get("status") == "LOST")
+                    writer.writerow({
+                        "slip_id": s.get("slip_id", ""),
+                        "date": s.get("date", ""),
+                        "slip_name": s.get("slip_name", ""),
+                        "total_odds": s.get("total_odds", 0.0),
+                        "legs_count": s.get("legs_count", 0),
+                        "average_confidence": s.get("average_confidence", 0.0),
+                        "status": s.get("status", "PENDING"),
+                        "stake": s.get("stake", 1.0),
+                        "payout": s.get("payout", 0.0),
+                        "profit": s.get("profit", 0.0),
+                        "winning_legs_count": won_count,
+                        "lost_legs_count": lost_count,
+                    })
+        except OSError as e:
+            logger.warning(f"Could not export ledger CSV: {e}")
 
     def load_ledger(self) -> List[Dict[str, Any]]:
         """Load all real historical slips from ledger."""
         if not os.path.exists(self.ledger_json_path):
+            # Fallback to bundled ledger if in serverless
+            bundled = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "output", "results_ledger.json")
+            if os.path.exists(bundled):
+                try:
+                    with open(bundled, "r", encoding="utf-8") as f:
+                        return json.load(f)
+                except Exception:
+                    pass
             return []
         try:
             with open(self.ledger_json_path, "r", encoding="utf-8") as f:
@@ -134,9 +163,12 @@ class ResultsTracker:
 
     def save_ledger(self, ledger_data: List[Dict[str, Any]]) -> None:
         """Persist updated ledger to JSON and CSV."""
-        with open(self.ledger_json_path, "w", encoding="utf-8") as f:
-            json.dump(ledger_data, f, indent=2, ensure_ascii=False)
-        self._export_ledger_csv(ledger_data)
+        try:
+            with open(self.ledger_json_path, "w", encoding="utf-8") as f:
+                json.dump(ledger_data, f, indent=2, ensure_ascii=False)
+            self._export_ledger_csv(ledger_data)
+        except OSError as e:
+            logger.warning(f"Could not save ledger to disk: {e}")
 
     def _normalize_team_name(self, name: str) -> str:
         """Normalize team name for fuzzy matching."""

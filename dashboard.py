@@ -28,17 +28,64 @@ SCRAPER_STATE = {
 }
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-OUTPUT_DIR = os.path.join(BASE_DIR, "output")
+BUNDLED_OUTPUT_DIR = os.path.join(BASE_DIR, "output")
+
+
+def _resolve_output_dir() -> str:
+    """Resolve writable directory for data storage, supporting Vercel and local environments."""
+    is_serverless = bool(
+        os.environ.get("VERCEL") or 
+        os.environ.get("AWS_LAMBDA_FUNCTION_NAME") or 
+        os.environ.get("LAMBDA_TASK_ROOT") or
+        not os.access(BASE_DIR, os.W_OK)
+    )
+    if is_serverless:
+        target_dir = os.path.join("/tmp", "output")
+        try:
+            os.makedirs(target_dir, exist_ok=True)
+            if os.path.exists(BUNDLED_OUTPUT_DIR):
+                import shutil
+                for fname in os.listdir(BUNDLED_OUTPUT_DIR):
+                    src = os.path.join(BUNDLED_OUTPUT_DIR, fname)
+                    dst = os.path.join(target_dir, fname)
+                    if os.path.isfile(src) and not os.path.exists(dst):
+                        try:
+                            shutil.copy2(src, dst)
+                        except Exception:
+                            pass
+        except Exception as e:
+            logger.warning(f"Could not prepare serverless /tmp/output: {e}")
+        return target_dir
+    return BUNDLED_OUTPUT_DIR
+
+
+OUTPUT_DIR = _resolve_output_dir()
 
 
 def get_data_paths():
-    return {
+    """Retrieve verified file paths for slips, fixtures, metrics, and ledger."""
+    global OUTPUT_DIR
+    OUTPUT_DIR = _resolve_output_dir()
+    paths = {
         "slips_json": os.path.join(OUTPUT_DIR, "daily_5odds_slip.json"),
         "fixtures_csv": os.path.join(OUTPUT_DIR, "analysis_fixtures_today.csv"),
         "metrics_csv": os.path.join(OUTPUT_DIR, "analysis_team_metrics.csv"),
         "h2h_csv": os.path.join(OUTPUT_DIR, "analysis_h2h_records.csv"),
         "ledger_json": os.path.join(OUTPUT_DIR, "results_ledger.json"),
     }
+    # Ensure all files exist, falling back to bundled read-only assets if needed
+    for key, target_path in paths.items():
+        if not os.path.exists(target_path):
+            fname = os.path.basename(target_path)
+            bundled_path = os.path.join(BUNDLED_OUTPUT_DIR, fname)
+            if os.path.exists(bundled_path):
+                try:
+                    import shutil
+                    os.makedirs(os.path.dirname(target_path), exist_ok=True)
+                    shutil.copy2(bundled_path, target_path)
+                except Exception:
+                    paths[key] = bundled_path
+    return paths
 
 
 HTML_TEMPLATE = """<!DOCTYPE html>
@@ -110,11 +157,29 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     body {
       background-color: #07090f;
       color: #f3f4f6;
+      overflow-x: hidden;
     }
     .glass-card {
-      background: rgba(20, 28, 46, 0.75);
-      backdrop-filter: blur(12px);
-      border: 1px solid rgba(255, 107, 53, 0.12);
+      background: #0f172a;
+      border: 1px solid rgba(255, 107, 53, 0.15);
+    }
+    @supports (backdrop-filter: blur(12px)) or (-webkit-backdrop-filter: blur(12px)) {
+      .glass-card {
+        background: rgba(15, 23, 42, 0.94);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+      }
+    }
+    .nav-header {
+      background-color: #07090f;
+      border-bottom: 1px solid #1e293b;
+    }
+    @supports (backdrop-filter: blur(16px)) or (-webkit-backdrop-filter: blur(16px)) {
+      .nav-header {
+        background-color: rgba(7, 9, 15, 0.98);
+        -webkit-backdrop-filter: blur(16px);
+        backdrop-filter: blur(16px);
+      }
     }
     .glow-orange {
       box-shadow: 0 0 30px -5px rgba(255, 107, 53, 0.25);
@@ -135,7 +200,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <body class="min-h-screen flex flex-col antialiased selection:bg-brand-500 selection:text-white">
 
   <!-- TOP NAVIGATION BAR WITH ANIMATING EIGHTY-TWO LOGO -->
-  <header class="sticky top-0 z-50 glass-card border-b border-dark-border px-3.5 sm:px-6 py-3">
+  <header class="sticky top-0 z-50 nav-header px-3.5 sm:px-6 py-2.5 sm:py-3 shadow-xl shadow-black/50">
     <div class="max-w-7xl mx-auto flex flex-col md:flex-row md:items-center justify-between gap-3">
       <div class="flex items-center justify-between w-full md:w-auto">
         <div class="flex items-center space-x-3">
@@ -543,9 +608,14 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   </footer>
 
   <!-- TOAST NOTIFICATION -->
-  <div id="toast" class="fixed bottom-6 right-6 px-4 py-3 rounded-xl bg-dark-surface border border-dark-border text-white text-sm font-semibold shadow-2xl transition transform translate-y-20 opacity-0 flex items-center space-x-2 z-50">
-    <i id="toastIcon" class="fa-solid fa-circle-check text-brand-500"></i>
-    <span id="toastMsg">Action completed</span>
+  <div id="toast" class="fixed bottom-4 left-4 right-4 sm:left-auto sm:right-6 sm:bottom-6 max-w-md px-4 py-3 rounded-2xl bg-dark-card/98 border border-dark-border text-white text-xs sm:text-sm font-semibold shadow-2xl transition-all duration-300 transform translate-y-28 opacity-0 flex items-center justify-between gap-3 z-[9999] pointer-events-auto">
+    <div class="flex items-center space-x-2.5 min-w-0">
+      <i id="toastIcon" class="fa-solid fa-circle-check text-brand-500 text-sm flex-shrink-0"></i>
+      <span id="toastMsg" class="truncate font-medium">Action completed</span>
+    </div>
+    <button onclick="hideToast()" class="text-gray-400 hover:text-white p-1 flex-shrink-0" aria-label="Close notification">
+      <i class="fa-solid fa-xmark text-xs"></i>
+    </button>
   </div>
 
   <!-- JAVASCRIPT LOGIC -->
@@ -1143,27 +1213,42 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       showToast("All 4 daily slips copied to clipboard!", "success");
     }
 
+    let toastTimeout = null;
+    function hideToast() {
+      const toast = document.getElementById('toast');
+      if (toast) {
+        toast.classList.remove('translate-y-0', 'opacity-100');
+        toast.classList.add('translate-y-28', 'opacity-0');
+      }
+      if (toastTimeout) clearTimeout(toastTimeout);
+    }
+
     function showToast(msg, type = "success") {
       const toast = document.getElementById('toast');
       const toastMsg = document.getElementById('toastMsg');
       const toastIcon = document.getElementById('toastIcon');
 
-      toastMsg.innerText = msg;
-      if (type === 'error') {
-        toastIcon.className = "fa-solid fa-circle-exclamation text-rose-500";
-      } else if (type === 'info') {
-        toastIcon.className = "fa-solid fa-circle-info text-blue-500";
-      } else {
-        toastIcon.className = "fa-solid fa-circle-check text-brand-500";
+      let cleanMsg = String(msg || '');
+      if (cleanMsg.length > 140) {
+        cleanMsg = cleanMsg.substring(0, 137) + '...';
       }
 
-      toast.classList.remove('translate-y-20', 'opacity-0');
+      toastMsg.innerText = cleanMsg;
+      if (type === 'error') {
+        toastIcon.className = "fa-solid fa-circle-exclamation text-rose-500 text-sm flex-shrink-0";
+      } else if (type === 'info') {
+        toastIcon.className = "fa-solid fa-circle-info text-blue-400 text-sm flex-shrink-0";
+      } else {
+        toastIcon.className = "fa-solid fa-circle-check text-brand-500 text-sm flex-shrink-0";
+      }
+
+      toast.classList.remove('translate-y-28', 'opacity-0');
       toast.classList.add('translate-y-0', 'opacity-100');
 
-      setTimeout(() => {
-        toast.classList.remove('translate-y-0', 'opacity-100');
-        toast.classList.add('translate-y-20', 'opacity-0');
-      }, 3500);
+      if (toastTimeout) clearTimeout(toastTimeout);
+      toastTimeout = setTimeout(() => {
+        hideToast();
+      }, 4000);
     }
 
     window.addEventListener('DOMContentLoaded', () => {

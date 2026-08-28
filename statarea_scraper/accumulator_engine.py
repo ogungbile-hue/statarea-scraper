@@ -84,17 +84,33 @@ class AccumulatorEngine:
         metrics_path: Optional[str] = None,
         h2h_path: Optional[str] = None,
     ) -> Tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
-        """Ingest all three relational datasets."""
+        """Ingest all three relational datasets with bundled fallback."""
         f_path = fixtures_path or os.path.join(self.output_dir, "analysis_fixtures_today.csv")
         m_path = metrics_path or os.path.join(self.output_dir, "analysis_team_metrics.csv")
         h_path = h2h_path or os.path.join(self.output_dir, "analysis_h2h_records.csv")
 
+        bundled_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "output")
+
         if not os.path.exists(f_path):
-            raise FileNotFoundError(f"Missing fixtures file: {f_path}")
+            bundled_f = os.path.join(bundled_dir, "analysis_fixtures_today.csv")
+            if os.path.exists(bundled_f):
+                f_path = bundled_f
+            else:
+                raise FileNotFoundError(f"Missing fixtures file: {f_path}")
+
         if not os.path.exists(m_path):
-            raise FileNotFoundError(f"Missing metrics file: {m_path}")
+            bundled_m = os.path.join(bundled_dir, "analysis_team_metrics.csv")
+            if os.path.exists(bundled_m):
+                m_path = bundled_m
+            else:
+                raise FileNotFoundError(f"Missing metrics file: {m_path}")
+
         if not os.path.exists(h_path):
-            raise FileNotFoundError(f"Missing H2H file: {h_path}")
+            bundled_h = os.path.join(bundled_dir, "analysis_h2h_records.csv")
+            if os.path.exists(bundled_h):
+                h_path = bundled_h
+            else:
+                raise FileNotFoundError(f"Missing H2H file: {h_path}")
 
         fixtures_df = pd.read_csv(f_path)
         metrics_df = pd.read_csv(m_path)
@@ -661,16 +677,21 @@ class AccumulatorEngine:
             "banker_ticket": slips["banker_ticket"].to_dict() if slips.get("banker_ticket") else None,
         }
 
-        with open(json_path, "w", encoding="utf-8") as f:
-            json.dump(payload, f, indent=2, ensure_ascii=False)
+        try:
+            with open(json_path, "w", encoding="utf-8") as f:
+                json.dump(payload, f, indent=2, ensure_ascii=False)
+            logger.info(f"Saved refined multi-tier daily slips JSON: {json_path}")
+        except OSError as e:
+            logger.warning(f"Could not save JSON to {json_path}: {e}")
 
         # Save Formatted Multi-Tier TXT Report
         txt_report = self._format_txt_report(slips)
-        with open(txt_path, "w", encoding="utf-8") as f:
-            f.write(txt_report)
-
-        logger.info(f"Saved refined multi-tier daily slips JSON: {json_path}")
-        logger.info(f"Saved refined multi-tier daily slips TXT: {txt_path}")
+        try:
+            with open(txt_path, "w", encoding="utf-8") as f:
+                f.write(txt_report)
+            logger.info(f"Saved refined multi-tier daily slips TXT: {txt_path}")
+        except OSError as e:
+            logger.warning(f"Could not save TXT to {txt_path}: {e}")
 
         return {
             "json_file": json_path,
