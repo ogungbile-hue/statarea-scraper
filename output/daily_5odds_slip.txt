@@ -5,28 +5,28 @@
 --- [ 1.5-ODDS ULTRA BANKER ] ---
 >> ONÍTẸ́TẸ́ 1.5-ODDS ULTRA BANKER SLIP
    Ultra-conservative 2-3 leg banker ticket with top-tier statistical safety.
-   Total Odds: 1.25x  |  Avg Confidence: 94.3%  |  Legs: 2
+   Total Odds: 1.25x  |  Avg Confidence: 94.0%  |  Legs: 2
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-17:00  | Viking vs Aalesund           | Goals          | Over 1.5 Goals             | 1.12x | 94.7%
-       ↳ Justification: Over 1.5 Goals: 94% model rating + 3.6 avg recent match goals.
 17:30  | Borussia Dort vs Hamburger SV | Goals          | Over 1.5 Goals             | 1.12x | 94.0%
        ↳ Justification: Over 1.5 Goals: 93% model rating + 3.2 avg recent match goals.
+19:30  | BSC Young Boy vs FC Basel 1893 | Goals          | Over 1.5 Goals             | 1.12x | 94.0%
+       ↳ Justification: Over 1.5 Goals: 93% model rating + 3.8 avg recent match goals.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.12x  |  Avg Confidence: 84.0%  |  Legs: 4
+   Total Odds: 2.12x  |  Avg Confidence: 84.2%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
 19:30  | Gaziantep FK vs Rizespor     | Double Chance  | Gaziantep FK or Draw (1X)  | 1.19x | 86.8%
        ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 7/10 recent matches.
+16:30  | Wisla Krakow vs Wieczysta Kra | Double Chance  | Wisla Krakow or Draw (1X)  | 1.19x | 83.8%
+       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 9/10 recent matches.
 14:00  | Deportivo San vs Atletico Temb | Double Chance  | Deportivo Santani or Draw  | 1.19x | 83.5%
        ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 4/10 recent matches.
-16:30  | Wisla Krakow vs Wieczysta Kra | Double Chance  | Wisla Krakow or Draw (1X)  | 1.19x | 83.0%
-       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 9/10 recent matches.
 15:00  | Celtic vs Falkirk            | 1X2            | Celtic To Win              | 1.26x | 82.7%
        ↳ Justification: Straight Home Win: 74% model prob + 100% crowd consensus + strong home form.
 
@@ -41,7 +41,7 @@ Time   | Fixture                      | Market         | Selection              
        ↳ Justification: Straight Home Win: 74% model prob + 100% crowd consensus + strong home form.
 15:00  | Afturelding vs Vestri        | 1X2            | Afturelding To Win         | 1.26x | 82.7%
        ↳ Justification: Straight Home Win: 74% model prob + 100% crowd consensus + strong home form.
-17:00  | Viking vs Aalesund           | 1X2            | Viking To Win              | 1.31x | 81.1%
+16:00  | Ordabasy vs FC Kyzyl-Zhar    | 1X2            | Ordabasy To Win            | 1.31x | 81.1%
        ↳ Justification: Straight Home Win: 71% model prob + 100% crowd consensus + strong home form.
 14:30  | SV Elversberg vs Bayer Leverku | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
        ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.5 combined goals/game.
@@ -53,26 +53,26 @@ Time   | Fixture                      | Market         | Selection              
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 6.40x  |  Avg Confidence: 79.9%  |  Legs: 8
+   Total Odds: 6.38x  |  Avg Confidence: 79.9%  |  Legs: 8
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
 15:00  | Celtic vs Falkirk            | 1X2            | Celtic To Win              | 1.26x | 82.7%
        ↳ Justification: Straight Home Win: 74% model prob + 100% crowd consensus + strong home form.
-15:00  | Afturelding vs Vestri        | 1X2            | Afturelding To Win         | 1.26x | 82.7%
-       ↳ Justification: Straight Home Win: 74% model prob + 100% crowd consensus + strong home form.
-13:00  | Bryne vs Haugesund           | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.9 combined goals/game.
+16:00  | Ordabasy vs FC Kyzyl-Zhar    | 1X2            | Ordabasy To Win            | 1.31x | 81.1%
+       ↳ Justification: Straight Home Win: 71% model prob + 100% crowd consensus + strong home form.
+19:00  | C.A. Mannucci vs Academia Cant | 1X2            | C.A. Mannucci To Win       | 1.33x | 80.5%
+       ↳ Justification: Straight Home Win: 70% model prob + 100% crowd consensus + strong home form.
 16:30  | Wisla Krakow vs Wieczysta Kra | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
        ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.6 combined goals/game.
 13:45  | Nyiregyhaza vs Paks          | BTS            | Both Teams To Score (Yes)  | 1.24x | 79.0%
        ↳ Justification: Both Teams To Score (Yes): 75% model prob, verified dual scoring consistency in recent form.
 13:00  | IFK Karlshamn vs Nosaby IF   | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
        ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.9 combined goals/game.
+15:30  | Jaroslaw vs Star Staracho    | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.2 combined goals/game.
 18:00  | Boston River vs CA Cerro     | Half Time      | 1st Half Under 1.5 Goals   | 1.23x | 78.6%
        ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
-19:30  | Mardinspor vs Van Spor FK    | 1X2            | Mardinspor To Win          | 1.41x | 78.3%
-       ↳ Justification: Straight Home Win: 66% model prob + 100% crowd consensus + strong home form.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.

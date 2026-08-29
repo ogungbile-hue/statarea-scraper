@@ -125,9 +125,10 @@ class StatareaParser:
         """Parse an individual match div."""
         match_id = match_el.get("id", "")
         
-        # Match Kickoff Time
+        # Match Kickoff Time & Exact Date
         date_el = match_el.find("div", class_="date")
         match_time = _clean_text(date_el)
+        match_date = page_date
 
         # Teams
         teams_row = match_el.find("div", class_="teams")
@@ -136,6 +137,16 @@ class StatareaParser:
         comparison_url = ""
 
         if teams_row:
+            ownheader = teams_row.find("div", class_="ownheader")
+            if ownheader:
+                header_text = _clean_text(ownheader)
+                d_match = re.search(r"(\d{4}-\d{2}-\d{2})", header_text)
+                if d_match:
+                    match_date = d_match.group(1)
+                t_match = re.search(r"(\d{1,2}:\d{2})", header_text)
+                if t_match and not match_time:
+                    match_time = t_match.group(1)
+
             host_el = teams_row.find("div", class_="hostteam")
             guest_el = teams_row.find("div", class_="guestteam")
             if host_el:
@@ -214,7 +225,7 @@ class StatareaParser:
 
         return MatchFixture(
             match_id=match_id,
-            date=page_date,
+            date=match_date,
             time=match_time,
             competition=comp_title,
             country=country,

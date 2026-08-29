@@ -24,11 +24,11 @@
         "coef_ots": 41
       },
       "user_votes": {
-        "vote_1": 13,
+        "vote_1": 15,
         "vote_x": 2,
-        "vote_2": 0,
-        "likes": 22,
-        "dislikes": 0
+        "vote_2": 1,
+        "likes": 28,
+        "dislikes": 1
       }
     },
     "home_team_info": {
@@ -1137,11 +1137,11 @@
         "coef_ots": 44
       },
       "user_votes": {
-        "vote_1": 13,
+        "vote_1": 16,
         "vote_x": 0,
         "vote_2": 3,
-        "likes": 28,
-        "dislikes": 6
+        "likes": 34,
+        "dislikes": 7
       }
     },
     "home_team_info": {
@@ -2185,10 +2185,10 @@
         "coef_ots": 45
       },
       "user_votes": {
-        "vote_1": 8,
+        "vote_1": 9,
         "vote_x": 4,
-        "vote_2": 2,
-        "likes": 10,
+        "vote_2": 3,
+        "likes": 14,
         "dislikes": 2
       }
     },
@@ -2487,8 +2487,8 @@
       "user_votes": {
         "vote_1": 3,
         "vote_x": 3,
-        "vote_2": 5,
-        "likes": 5,
+        "vote_2": 6,
+        "likes": 6,
         "dislikes": 3
       }
     },
@@ -3258,10 +3258,10 @@
         "coef_ots": 38
       },
       "user_votes": {
-        "vote_1": 2,
+        "vote_1": 3,
         "vote_x": 3,
-        "vote_2": 9,
-        "likes": 19,
+        "vote_2": 10,
+        "likes": 23,
         "dislikes": 2
       }
     },
@@ -3488,7 +3488,7 @@
         "coef_ots": 39
       },
       "user_votes": {
-        "vote_1": 4,
+        "vote_1": 6,
         "vote_x": 10,
         "vote_2": 5,
         "likes": 11,
@@ -4979,7 +4979,7 @@
       "user_votes": {
         "vote_1": 0,
         "vote_x": 8,
-        "vote_2": 9,
+        "vote_2": 10,
         "likes": 11,
         "dislikes": 4
       }
@@ -5710,8 +5710,8 @@
         "vote_1": 5,
         "vote_x": 8,
         "vote_2": 0,
-        "likes": 12,
-        "dislikes": 5
+        "likes": 13,
+        "dislikes": 7
       }
     },
     "home_team_info": {
@@ -6782,10 +6782,10 @@
         "coef_ots": 38
       },
       "user_votes": {
-        "vote_1": 11,
+        "vote_1": 12,
         "vote_x": 6,
         "vote_2": 1,
-        "likes": 8,
+        "likes": 9,
         "dislikes": 2
       }
     },
@@ -7085,7 +7085,7 @@
         "vote_1": 15,
         "vote_x": 4,
         "vote_2": 2,
-        "likes": 25,
+        "likes": 30,
         "dislikes": 3
       }
     },
@@ -8122,8 +8122,8 @@
       "user_votes": {
         "vote_1": 5,
         "vote_x": 7,
-        "vote_2": 0,
-        "likes": 11,
+        "vote_2": 1,
+        "likes": 13,
         "dislikes": 1
       }
     },
@@ -13792,11 +13792,11 @@
         "coef_ots": 54
       },
       "user_votes": {
-        "vote_1": 3,
+        "vote_1": 4,
         "vote_x": 0,
         "vote_2": 0,
-        "likes": 7,
-        "dislikes": 1
+        "likes": 9,
+        "dislikes": 2
       }
     },
     "home_team_info": {
@@ -15452,10 +15452,10 @@
         "coef_ots": 50
       },
       "user_votes": {
-        "vote_1": 2,
+        "vote_1": 3,
         "vote_x": 0,
         "vote_2": 0,
-        "likes": 11,
+        "likes": 12,
         "dislikes": 0
       }
     },
@@ -16472,7 +16472,7 @@
         "vote_1": 1,
         "vote_x": 0,
         "vote_2": 1,
-        "likes": 1,
+        "likes": 2,
         "dislikes": 1
       }
     },
@@ -17007,8 +17007,8 @@
       "user_votes": {
         "vote_1": 0,
         "vote_x": 0,
-        "vote_2": 2,
-        "likes": 9,
+        "vote_2": 3,
+        "likes": 11,
         "dislikes": 0
       }
     },
@@ -17478,7 +17478,7 @@
         "vote_1": 4,
         "vote_x": 0,
         "vote_2": 1,
-        "likes": 3,
+        "likes": 4,
         "dislikes": 0
       }
     },
@@ -19651,8 +19651,8 @@
         "vote_1": 4,
         "vote_x": 0,
         "vote_2": 0,
-        "likes": 1,
-        "dislikes": 2
+        "likes": 3,
+        "dislikes": 3
       }
     },
     "home_team_info": {
@@ -20908,10 +20908,10 @@
       },
       "user_votes": {
         "vote_1": 3,
-        "vote_x": 1,
+        "vote_x": 2,
         "vote_2": 0,
-        "likes": 1,
-        "dislikes": 1
+        "likes": 2,
+        "dislikes": 2
       }
     },
     "home_team_info": {
@@ -22070,9 +22070,9 @@
         "coef_ots": 49
       },
       "user_votes": {
-        "vote_1": 2,
-        "vote_x": 2,
-        "vote_2": 0,
+        "vote_1": 3,
+        "vote_x": 3,
+        "vote_2": 2,
         "likes": 1,
         "dislikes": 2
       }
@@ -23009,11 +23009,11 @@
         "coef_ots": 46
       },
       "user_votes": {
-        "vote_1": 3,
-        "vote_x": 1,
-        "vote_2": 0,
-        "likes": 3,
-        "dislikes": 1
+        "vote_1": 4,
+        "vote_x": 2,
+        "vote_2": 2,
+        "likes": 5,
+        "dislikes": 2
       }
     },
     "home_team_info": {
@@ -23723,7 +23723,7 @@
       "user_votes": {
         "vote_1": 2,
         "vote_x": 3,
-        "vote_2": 3,
+        "vote_2": 4,
         "likes": 1,
         "dislikes": 0
       }
@@ -24737,10 +24737,10 @@
         "coef_ots": 44
       },
       "user_votes": {
-        "vote_1": 4,
-        "vote_x": 0,
-        "vote_2": 0,
-        "likes": 3,
+        "vote_1": 6,
+        "vote_x": 1,
+        "vote_2": 1,
+        "likes": 4,
         "dislikes": 2
       }
     },
@@ -25183,9 +25183,9 @@
         "coef_ots": 43
       },
       "user_votes": {
-        "vote_1": 3,
-        "vote_x": 2,
-        "vote_2": 2,
+        "vote_1": 4,
+        "vote_x": 3,
+        "vote_2": 4,
         "likes": 2,
         "dislikes": 0
       }
@@ -25879,9 +25879,9 @@
         "coef_ots": 40
       },
       "user_votes": {
-        "vote_1": 0,
-        "vote_x": 1,
-        "vote_2": 0,
+        "vote_1": 1,
+        "vote_x": 2,
+        "vote_2": 1,
         "likes": 1,
         "dislikes": 0
       }
@@ -26121,9 +26121,9 @@
         "coef_ots": 48
       },
       "user_votes": {
-        "vote_1": 0,
-        "vote_x": 0,
-        "vote_2": 1,
+        "vote_1": 1,
+        "vote_x": 1,
+        "vote_2": 2,
         "likes": 0,
         "dislikes": 2
       }
@@ -26775,9 +26775,9 @@
         "coef_ots": 53
       },
       "user_votes": {
-        "vote_1": 1,
-        "vote_x": 0,
-        "vote_2": 2,
+        "vote_1": 2,
+        "vote_x": 1,
+        "vote_2": 3,
         "likes": 1,
         "dislikes": 0
       }
@@ -27131,9 +27131,9 @@
         "coef_ots": 40
       },
       "user_votes": {
-        "vote_1": 1,
-        "vote_x": 0,
-        "vote_2": 0,
+        "vote_1": 2,
+        "vote_x": 1,
+        "vote_2": 1,
         "likes": 0,
         "dislikes": 1
       }
@@ -27932,10 +27932,10 @@
         "coef_ots": 47
       },
       "user_votes": {
-        "vote_1": 7,
+        "vote_1": 8,
         "vote_x": 0,
         "vote_2": 0,
-        "likes": 7,
+        "likes": 9,
         "dislikes": 0
       }
     },
@@ -28650,7 +28650,7 @@
         "vote_1": 4,
         "vote_x": 0,
         "vote_2": 1,
-        "likes": 1,
+        "likes": 3,
         "dislikes": 1
       }
     },
@@ -31565,1892 +31565,6 @@
   },
   {
     "fixture": {
-      "match_id": "1714959",
-      "date": "2026-08-29",
-      "time": "15:00",
-      "competition": "ELITESERIEN",
-      "country": "Norway",
-      "home_team": "Valerenga",
-      "away_team": "Molde",
-      "tip": "X2",
-      "comparison_url": "https://www.statarea.com/compare/teams/Valerenga (Norway)/Molde (Norway)",
-      "odds": {
-        "coef_1": 29,
-        "coef_x": 31,
-        "coef_2": 40,
-        "coef_ht1": 28,
-        "coef_htx": 37,
-        "coef_ht2": 35,
-        "coef_o15": 93,
-        "coef_o25": 73,
-        "coef_o35": 47,
-        "coef_bts": 72,
-        "coef_ots": 28
-      },
-      "user_votes": {
-        "vote_1": 0,
-        "vote_x": 1,
-        "vote_2": 0,
-        "likes": 1,
-        "dislikes": 1
-      }
-    },
-    "home_team_info": {
-      "name": "Valerenga",
-      "official_name": "Vålerenga Fotball",
-      "found": "29 July 1913",
-      "country": "Norway",
-      "website": "http://www.vif-fotball.no",
-      "world_rank": null
-    },
-    "away_team_info": {
-      "name": "Molde",
-      "official_name": "Molde Fotballklubb",
-      "found": "19 June 1911",
-      "country": "Norway",
-      "website": "http://www.moldefk.no",
-      "world_rank": 241
-    },
-    "h2h_matches": [
-      {
-        "date": "2026-04-26",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "5",
-        "away_goals": "1",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 21' Fredrik Gulbrandsen",
-          "[ycard] 38' Fredrik Gulbrandsen",
-          "[goal] 45' Lucas Haren",
-          "[ycard] 48' Hakon Sjatil",
-          "[goal] 51' Emil Breivik",
-          "[goal] 55' Fredrik Gulbrandsen",
-          "[goal] 57' Eirik Hestad",
-          "[goal] 86' Sondre Granaas"
-        ]
-      },
-      {
-        "date": "2025-09-28",
-        "competition": "Norway - Eliteserien 2024/2025",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "4",
-        "away_goals": "1",
-        "half_time_score": "2-2",
-        "events": [
-          "[goal] 11' Eirik Hestad",
-          "[goal] 36' Fidel Brice Ambina",
-          "[goal] 45' Magnus Wolff Eikrem",
-          "[goal] 52' Jalal Abdullai",
-          "[penalty] 87' Halldor Stenevik",
-          "[ycard] 90' Kevin Tshiembe",
-          "[ycard] 90' Neraysho Kasanwirjo"
-        ]
-      },
-      {
-        "date": "2022-11-13",
-        "competition": "Norway - Eliteserien 2021/2022",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "1",
-        "away_goals": "2",
-        "half_time_score": "0-1",
-        "events": [
-          "[goal] 11' Boerven Torgeir",
-          "[ycard] 37' Roervik Bjoerdal Henrik",
-          "[ycard] 48' Oldrup Jensen Fredrik",
-          "[goal] 80' Brynhildsen Ola",
-          "[penalty] 83' Datro Fofana David"
-        ]
-      },
-      {
-        "date": "2022-04-02",
-        "competition": "Norway - Eliteserien 2021/2022",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "1",
-        "away_goals": "0",
-        "half_time_score": "0-0",
-        "events": [
-          "[ycard] 17' Brynhildsen Ola",
-          "[ycard] 45' Doennum Aron",
-          "[goal] 57' Linnes Martin",
-          "[ycard] 86' Tollaas Nation Jonatan",
-          "[dycard] 90' Doennum Aron"
-        ]
-      },
-      {
-        "date": "2021-09-19",
-        "competition": "Norway - Eliteserien 2020/2021",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "1",
-        "away_goals": "1",
-        "half_time_score": "1-1",
-        "events": [
-          "[ycard] 18' Layouni Amor",
-          "[penalty] 31' Roervik Bjoerdal Henrik",
-          "[ycard] 42' Ulland Andersen Eirik",
-          "[penalty] 44' Ellingsen Martin",
-          "[ycard] 51' Hussain Etzaz"
-        ]
-      },
-      {
-        "date": "2021-05-27",
-        "competition": "Norway - Eliteserien 2020/2021",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "2",
-        "away_goals": "3",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 2' Dahle Borchgrevink Christian",
-          "[ycard] 30' Roervik Bjoerdal Henrik",
-          "[goal] 39' Haugen Kristoffer",
-          "[goal] 47' Haugen Kristoffer",
-          "[goal] 62' Layouni Amor",
-          "[goal] 81' Doennum Aron",
-          "[ycard] 84' Haugen Kristoffer"
-        ]
-      },
-      {
-        "date": "2020-09-19",
-        "competition": "Norway - 1. Divisjon (women) 2019/2020",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "2",
-        "away_goals": "1",
-        "half_time_score": "0-1",
-        "events": [
-          "[goal] 21' Oern Kjartansson",
-          "[ycard] 23' Ulland Andersen",
-          "[rcard] 47' Kitolano",
-          "[ycard] 57' Dahle Borchgrevink",
-          "[goal] 83' Doennum",
-          "[goal] 90' Wingo"
-        ]
-      },
-      {
-        "date": "2020-07-29",
-        "competition": "Norway - 1. Divisjon (women) 2019/2020",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "4",
-        "away_goals": "1",
-        "half_time_score": "0-1",
-        "events": [
-          "[ycard] 7' Thiago Holm",
-          "[goal] 28' Aursnes",
-          "[ycard] 45' Bjoernbak",
-          "[goal] 56' Christensen",
-          "[ycard] 58' Christensen",
-          "[goal] 78' Anthony Omoijuanfo",
-          "[goal] 86' Finne",
-          "[goal] 90' Hussain"
-        ]
-      },
-      {
-        "date": "2019-11-24",
-        "competition": "Norway - Eliteserien 2018/2019",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "2",
-        "away_goals": "4",
-        "half_time_score": "2-1",
-        "events": [
-          "[goal] 11' Finne Bard",
-          "[goal] 23' Hestad Eirik",
-          "[ycard] 24' Omoijuanfo Ohi",
-          "[goal] 31' Bolly Mathis",
-          "[ycard] 55' Hussain Etzaz",
-          "[goal] 56' George Mayron",
-          "[goal] 59' Christensen Tobias",
-          "[goal] 82' Hussain Etzaz",
-          "[ycard] 90' Eikrem Magnus"
-        ]
-      },
-      {
-        "date": "2019-04-10",
-        "competition": "Norway - Ts Relegation P.Off 2018/2019",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "4",
-        "away_goals": "1",
-        "half_time_score": "0-1",
-        "events": [
-          "[goal] 6' Omoijuanfo Ohi",
-          "[ycard] 14' Hestad Eirik",
-          "[ycard] 35' Bjornbak Martin",
-          "[ycard] 36' Bjordal Johan",
-          "[goal] 50' Eikrem Magnus",
-          "[ycard] 52' Adekugbe Sam",
-          "[penalty] 53' Andersen Eirik",
-          "[goal] 60' Nakkim Markus",
-          "[ycard] 62' Linde Andreas",
-          "[ycard] 74' Eikrem Magnus",
-          "[goal] 81' Ellingsen Martin"
-        ]
-      },
-      {
-        "date": "2018-07-08",
-        "competition": "Norway - Eliteserien 2017/2018",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "5",
-        "away_goals": "1",
-        "half_time_score": "1-3",
-        "events": [
-          "[goal] 5' Mostrom Mattias",
-          "[goal] 21' Haland Erling",
-          "[goal] 27' Sarr Babacar",
-          "[ycard] 28' Sarr Babacar",
-          "[goal] 31' Finne Bard",
-          "[ycard] 45' Ibrahim Abdisalam",
-          "[ycard] 52' Nation Jonatan",
-          "[goal] 57' Haland Erling",
-          "[goal] 71' Chukwu Daniel",
-          "[dycard] 80' Ibrahim Abdisalam"
-        ]
-      },
-      {
-        "date": "2018-04-22",
-        "competition": "Norway - Eliteserien 2017/2018",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "0",
-        "away_goals": "0",
-        "half_time_score": "0-0",
-        "events": [
-          "[ycard] 25' Mostrom Mattias",
-          "[ycard] 49' Lekven Mangus",
-          "[ycard] 58' Hestad Eirik",
-          "[ycard] 75' Aursnes Fredrik"
-        ]
-      },
-      {
-        "date": "2018-02-22",
-        "competition": "Friendly Games - Friendly 2017/2018",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "1",
-        "away_goals": "1",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 26' Hussain Etzaz",
-          "[goal] 69' Grodem Magnus"
-        ]
-      },
-      {
-        "date": "2017-10-29",
-        "competition": "Norway - TS Relegation P.Off 2016/2017",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "1",
-        "away_goals": "2",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 8' Stengel Herman",
-          "[goal] 38' Sigurdarson Bjorn",
-          "[ycard] 85' Nasberg Ivan",
-          "[goal] 90' Gabrielsen Ruben"
-        ]
-      },
-      {
-        "date": "2017-04-17",
-        "competition": "Norway - TS Relegation P.Off 2016/2017",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "4",
-        "away_goals": "0",
-        "half_time_score": "0-3",
-        "events": [
-          "[goal] 7' Svendsen Sander",
-          "[own] 11' Nasberg Ivan",
-          "[goal] 28' Svendsen Sander",
-          "[goal] 46' Sigurdarson Bjorn",
-          "[ycard] 63' Nasberg Ivan",
-          "[ycard] 84' Berntsen Daniel"
-        ]
-      },
-      {
-        "date": "2016-08-01",
-        "competition": "Norway - Tippeligaen 2015/2016",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "3",
-        "away_goals": "0",
-        "half_time_score": "0-2",
-        "events": [
-          "[goal] 9' Abdellaoue Mohammed",
-          "[goal] 16' Larsen Simon",
-          "[ycard] 30' Sakor Vajeba",
-          "[goal] 76' Zahid Ghayas"
-        ]
-      },
-      {
-        "date": "2016-04-21",
-        "competition": "Norway - Tippeligaen 2015/2016",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "4",
-        "away_goals": "0",
-        "half_time_score": "0-2",
-        "events": [
-          "[ycard] 9' Sakor Vajeba",
-          "[goal] 15' Svendsen Sander",
-          "[ycard] 29' Waehler Kjetil",
-          "[goal] 34' Bakenga Mushaga",
-          "[ycard] 45' Ssewankambo Isak",
-          "[own] 64' Larsen Simon",
-          "[goal] 88' Toivio Joona",
-          "[ycard] 90' Larsen Simon"
-        ]
-      },
-      {
-        "date": "2015-08-23",
-        "competition": "Norway - Tippeligaen 2014/2015",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "0",
-        "away_goals": "1",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 13' Flo Per",
-          "[ycard] 33' Waehler Kjetil",
-          "[ycard] 80' Nasberg Ivan",
-          "[ycard] 81' Holm Daniel"
-        ]
-      },
-      {
-        "date": "2015-06-20",
-        "competition": "Norway - Tippeligaen 2014/2015",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "0",
-        "away_goals": "0",
-        "half_time_score": "0-0",
-        "events": [
-          "[ycard] 26' Hussain E.",
-          "[ycard] 51' Waehler K.",
-          "[ycard] 62' Zahid G.",
-          "[ycard] 66' Stengel H."
-        ]
-      },
-      {
-        "date": "2014-09-20",
-        "competition": "Norway - Tippeligaen 2013/2014",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "0",
-        "away_goals": "2",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 23' Chima D.",
-          "[ycard] 43' Forren V.",
-          "[goal] 69' Gulbrandsen F."
-        ]
-      },
-      {
-        "date": "2014-03-28",
-        "competition": "Norway - Tippeligaen 2013/2014",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "2",
-        "away_goals": "0",
-        "half_time_score": "0-2",
-        "events": [
-          "[ycard] 13' Gunnarsson N.",
-          "[goal] 22' Forren V.",
-          "[goal] 29' Sigurdarson B.",
-          "[ycard] 68' Hestad D."
-        ]
-      },
-      {
-        "date": "2013-09-01",
-        "competition": "Norway - Tippeligaen 2012/2013",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "4",
-        "away_goals": "0",
-        "half_time_score": "0-3",
-        "events": [
-          "[goal] 12' Gulbrandsen F.",
-          "[goal] 14' Berget J.",
-          "[goal] 25' Gulbrandsen F.",
-          "[ycard] 41' Wawrzynkiewicz M.",
-          "[ycard] 54' Fredheim D.",
-          "[ycard] 64' Benmoussa M.",
-          "[goal] 85' Linnes M."
-        ]
-      },
-      {
-        "date": "2013-06-22",
-        "competition": "Norway - Tippeligaen 2012/2013",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "3",
-        "away_goals": "3",
-        "half_time_score": "2-1",
-        "events": [
-          "[goal] 10' Berre M.",
-          "[goal] 28' Berget J.",
-          "[goal] 40' Linnes M.",
-          "[goal] 57' Solli J.",
-          "[goal] 59' Berre M.",
-          "[ycard] 61' Eikrem M.",
-          "[ycard] 62' Calvo D.",
-          "[goal] 90' Agnaldo Jr."
-        ]
-      },
-      {
-        "date": "2012-08-26",
-        "competition": "Norway - Tippeligaen 2011/2012",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "2",
-        "away_goals": "0",
-        "half_time_score": "0-2",
-        "events": [
-          "[goal] 3' Gatt J.",
-          "[goal] 12' Angan D.",
-          "[ycard] 38' Zajic B.",
-          "[ycard] 39' Nordvik A.",
-          "[ycard] 44' Haestad K.",
-          "[ycard] 69' Eikrem M."
-        ]
-      },
-      {
-        "date": "2012-07-14",
-        "competition": "Norway - Tippeligaen 2011/2012",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "1",
-        "away_goals": "2",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 26' Gatt J.",
-          "[ycard] 39' Eikrem M.",
-          "[goal] 69' Pedersen M.",
-          "[goal] 87' Angan D."
-        ]
-      },
-      {
-        "date": "2011-07-30",
-        "competition": "Norway - Tippeligaen 2010/2011",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "2",
-        "away_goals": "1",
-        "half_time_score": "0-1",
-        "events": [
-          "[ycard] 23' Fellah",
-          "[goal] 43' Hoseth",
-          "[goal] 61' Gatt",
-          "[ycard] 76' Simonsen",
-          "[goal] 86' Singh",
-          "[ycard] 90' Santos"
-        ]
-      },
-      {
-        "date": "2011-06-29",
-        "competition": "Norway - Tippeligaen 2010/2011",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "1",
-        "away_goals": "2",
-        "half_time_score": "2-1",
-        "events": [
-          "[goal] 4' Angan",
-          "[goal] 43' Angan",
-          "[goal] 45' Ogude",
-          "[ycard] 58' Ogude",
-          "[ycard] 70' Haestad",
-          "[ycard] 83' Simonsen"
-        ]
-      },
-      {
-        "date": "2010-08-29",
-        "competition": "Norway - Division 1 2009/2010",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "0",
-        "away_goals": "1",
-        "half_time_score": "1-0",
-        "events": [
-          "[own] 4' Andreasson",
-          "[ycard] 42' Diouf P.",
-          "[ycard] 43' Diouf P.",
-          "[ycard] 47' Brix",
-          "[ycard] 72' Strandberg",
-          "[ycard] 82' Mostrom"
-        ]
-      },
-      {
-        "date": "2010-04-12",
-        "competition": "Norway - Division 1 2009/2010",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "2",
-        "away_goals": "1",
-        "half_time_score": "1-1",
-        "events": [
-          "[ycard] 16' Strandberg",
-          "[goal] 19' Fellah",
-          "[goal] 34' Fall",
-          "[goal] 68' Berre",
-          "[ycard] 70' Forren",
-          "[ycard] 90' Madsen"
-        ]
-      },
-      {
-        "date": "2009-09-23",
-        "competition": "Norway - FA Cup 2008/2009",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "6",
-        "away_goals": "3",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 45' Singh",
-          "[rcard] 77' Nordvik",
-          "[penalty] 79' Hoseth",
-          "[goal] 82' Abdellaoue",
-          "[goal] 83' Diouf P.",
-          "[goal] 95' Diouf P.",
-          "[goal] 105' Thioune",
-          "[goal] 117' Abdellaoue",
-          "[goal] 119' Thioune",
-          "[goal] 120' Mostrom"
-        ]
-      },
-      {
-        "date": "2009-08-29",
-        "competition": "Norway - Division 1 2008/2009",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "2",
-        "away_goals": "1",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 18' Diouf M.",
-          "[goal] 39' Shelton",
-          "[goal] 71' Storbaek"
-        ]
-      },
-      {
-        "date": "2009-05-06",
-        "competition": "Norway - Division 1 2008/2009",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "0",
-        "away_goals": "3",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 26' Leigh",
-          "[goal] 49' Dos Santos",
-          "[goal] 79' Zajic"
-        ]
-      },
-      {
-        "date": "2008-07-19",
-        "competition": "Norway - Division 1 2007/2008",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "5",
-        "away_goals": "1",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 13' Abdellaoue",
-          "[goal] 45' Mota",
-          "[goal] 49' Hestad",
-          "[goal] 61' Diouf",
-          "[goal] 64' Hestad",
-          "[goal] 76' Mota"
-        ]
-      },
-      {
-        "date": "2008-05-04",
-        "competition": "Norway - Division 1 2007/2008",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "1",
-        "away_goals": "2",
-        "half_time_score": "2-0",
-        "events": [
-          "[goal] 14' Berg Hestad",
-          "[goal] 22' Berg Hestad",
-          "[goal] 57' Holm"
-        ]
-      },
-      {
-        "date": "2006-10-15",
-        "competition": "Norway - Division 1 2005/2006",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "0",
-        "away_goals": "3",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 45' Holm",
-          "[goal] 51' Sorensen",
-          "[goal] 66' Holm"
-        ]
-      },
-      {
-        "date": "2006-05-28",
-        "competition": "Norway - Division 1 2005/2006",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "2",
-        "away_goals": "0",
-        "half_time_score": "0-2",
-        "events": [
-          "[goal] 11' Dos Santos",
-          "[goal] 23' Dos Santos"
-        ]
-      },
-      {
-        "date": "2005-09-10",
-        "competition": "Norway - Division 1 2004/2005",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "3",
-        "away_goals": "1",
-        "half_time_score": "0-2",
-        "events": [
-          "[goal] 26' Grindheim",
-          "[goal] 35' Brocken",
-          "[goal] 56' Ohr",
-          "[goal] 64' Gashi"
-        ]
-      },
-      {
-        "date": "2005-04-24",
-        "competition": "Norway - Division 1 2004/2005",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "1",
-        "away_goals": "3",
-        "half_time_score": "0-1",
-        "events": [
-          "[goal] 42' Kihlberg",
-          "[goal] 63' Berre",
-          "[goal] 71' Holm",
-          "[goal] 73' Johnsen"
-        ]
-      },
-      {
-        "date": "2004-09-19",
-        "competition": "Norway - Division 1 2003/2004",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "4",
-        "away_goals": "1",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 6' Kallio",
-          "[own] 32' Kallio",
-          "[own] 49' Mavric",
-          "[goal] 51' Gashi",
-          "[goal] 68' Iversen"
-        ]
-      },
-      {
-        "date": "2004-05-24",
-        "competition": "Norway - Division 1 2003/2004",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "1",
-        "away_goals": "1",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 33' Hulsker",
-          "[penalty] 44' Dos Santos"
-        ]
-      },
-      {
-        "date": "2003-09-21",
-        "competition": "Norway - Division 1 2002/2003",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "1",
-        "away_goals": "0",
-        "half_time_score": "0-1",
-        "events": [
-          "[goal] 14' Roberg"
-        ]
-      },
-      {
-        "date": "2003-05-29",
-        "competition": "Norway - Division 1 2002/2003",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "2",
-        "away_goals": "0",
-        "half_time_score": "0-1",
-        "events": [
-          "[goal] 38' Dos Santos",
-          "[goal] 51' Kah"
-        ]
-      },
-      {
-        "date": "2002-09-29",
-        "competition": "Norway - Division 1 2001/2002",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "0",
-        "away_goals": "3",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 45' Carlsson T.",
-          "[goal] 50' Lindbaek",
-          "[goal] 61' Hestad"
-        ]
-      },
-      {
-        "date": "2002-06-02",
-        "competition": "Norway - Division 1 2001/2002",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "2",
-        "away_goals": "0",
-        "half_time_score": "0-0",
-        "events": [
-          "[goal] 47' Lindbaek",
-          "[goal] 54' Lindbaek"
-        ]
-      },
-      {
-        "date": "2000-09-10",
-        "competition": "Norway - Division 1 1999/2000",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "1",
-        "away_goals": "5",
-        "half_time_score": "2-0",
-        "events": [
-          "[goal] 19' Olsen O.",
-          "[goal] 41' Hestad Daniel Berg",
-          "[goal] 47' Hestad Daniel Berg",
-          "[goal] 69' Hoset M.",
-          "[goal] 76' Hoset M.",
-          "[goal] 89' Musaeus E."
-        ]
-      },
-      {
-        "date": "2000-05-16",
-        "competition": "Norway - Division 1 1999/2000",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "2",
-        "away_goals": "1",
-        "half_time_score": "1-0",
-        "events": [
-          "[ycard] 10' Fostervold K.",
-          "[ycard] 20' Rekdal K.",
-          "[ycard] 30' Viljugrein B.",
-          "[goal] 35' Viljugrein B.",
-          "[goal] 76' Hoset M.",
-          "[goal] 90' Lindbaek A."
-        ]
-      },
-      {
-        "date": "1999-08-01",
-        "competition": "Norway - Division 1 1998/1999",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "4",
-        "away_goals": "3",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 8' Sundgot O.",
-          "[ycard] 10' Walltin J.",
-          "[goal] 28' Musaeus E.",
-          "[goal] 51' Hestad Berg",
-          "[goal] 54' Walltin J.",
-          "[goal] 78' Lydersen P.",
-          "[goal] 79' Thorsen F.",
-          "[goal] 89' Tessem J."
-        ]
-      },
-      {
-        "date": "1999-05-03",
-        "competition": "Norway - Division 1 1998/1999",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "2",
-        "away_goals": "0",
-        "half_time_score": "0-1",
-        "events": [
-          "[goal] 25' Levernes B.",
-          "[goal] 60' Simpson P."
-        ]
-      },
-      {
-        "date": "1998-09-20",
-        "competition": "Norway - Division 1 1997/1998",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "3",
-        "away_goals": "1",
-        "half_time_score": "0-0",
-        "events": [
-          "[ycard] 10' Walltin J.",
-          "[ycard] 20' Fjortoft K.",
-          "[goal] 49' Carew J.",
-          "[goal] 71' Tessem J.",
-          "[goal] 87' Viljugrein B.",
-          "[goal] 90' Odegard J."
-        ]
-      },
-      {
-        "date": "1998-06-07",
-        "competition": "Norway - Division 1 1997/1998",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "4",
-        "away_goals": "1",
-        "half_time_score": "0-1",
-        "events": [
-          "[ycard] 10' Sundgot O.",
-          "[goal] 19' Tessem J.",
-          "[ycard] 20' Fjortoft K.",
-          "[ycard] 30' Kjolner F.",
-          "[goal] 55' Gunnlaugsson B.",
-          "[goal] 79' Kaasa K.",
-          "[goal] 90' Olsen O.",
-          "[goal] 90' Rekdal S."
-        ]
-      },
-      {
-        "date": "1996-09-28",
-        "competition": "Norway - Division 1 1995/1996",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "0",
-        "away_goals": "0",
-        "half_time_score": "0-0",
-        "events": []
-      },
-      {
-        "date": "1996-06-05",
-        "competition": "Norway - Division 1 1995/1996",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "2",
-        "away_goals": "0",
-        "half_time_score": "0-2",
-        "events": [
-          "[goal] 0' noname",
-          "[goal] 0' noname"
-        ]
-      },
-      {
-        "date": "1995-08-27",
-        "competition": "Norway - Division 1 1994/1995",
-        "home_team": "Valerenga",
-        "away_team": "Molde",
-        "home_goals": "2",
-        "away_goals": "2",
-        "half_time_score": "2-2",
-        "events": [
-          "[goal] 0' noname",
-          "[goal] 0' noname",
-          "[goal] 0' noname",
-          "[goal] 0' noname"
-        ]
-      },
-      {
-        "date": "1995-05-28",
-        "competition": "Norway - Division 1 1994/1995",
-        "home_team": "Molde",
-        "away_team": "Valerenga",
-        "home_goals": "0",
-        "away_goals": "1",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 0' noname"
-        ]
-      }
-    ],
-    "recent_form_home": [
-      {
-        "date": "2026-08-23",
-        "competition": "Norway - Cup 2026/2027",
-        "home_team": "Christiania Ballklubb",
-        "away_team": "Valerenga",
-        "score": "2-7"
-      },
-      {
-        "date": "2026-08-16",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Aalesund",
-        "away_team": "Valerenga",
-        "score": "5-5"
-      },
-      {
-        "date": "2026-08-08",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Valerenga",
-        "away_team": "Bodo/Glimt",
-        "score": "1-2"
-      },
-      {
-        "date": "2026-07-31",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Valerenga",
-        "away_team": "Ham-Kam",
-        "score": "0-3"
-      },
-      {
-        "date": "2026-07-26",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Brann",
-        "away_team": "Valerenga",
-        "score": "2-3"
-      },
-      {
-        "date": "2026-07-16",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Valerenga",
-        "away_team": "Aalesund",
-        "score": "6-1"
-      },
-      {
-        "date": "2026-07-11",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Tromso",
-        "away_team": "Valerenga",
-        "score": "4-0"
-      },
-      {
-        "date": "2026-07-04",
-        "competition": "International - Club Friendlies 2026/2026",
-        "home_team": "Valerenga",
-        "away_team": "Fredrikstad",
-        "score": "3-1"
-      },
-      {
-        "date": "2026-06-27",
-        "competition": "International - Club Friendlies 2026/2026",
-        "home_team": "Valerenga",
-        "away_team": "GAIS",
-        "score": "1-2"
-      },
-      {
-        "date": "2026-06-18",
-        "competition": "International - Club Friendlies 2026/2026",
-        "home_team": "IFK Goteborg",
-        "away_team": "Valerenga",
-        "score": "1-1"
-      }
-    ],
-    "recent_form_away": [
-      {
-        "date": "2026-08-16",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Molde",
-        "away_team": "Tromso",
-        "score": "3-2"
-      },
-      {
-        "date": "2026-08-09",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Kristiansund BK",
-        "away_team": "Molde",
-        "score": "2-1"
-      },
-      {
-        "date": "2026-08-02",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Molde",
-        "away_team": "Sarpsborg 08 FF",
-        "score": "3-3"
-      },
-      {
-        "date": "2026-07-26",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "KFUM Oslo",
-        "away_team": "Molde",
-        "score": "2-4"
-      },
-      {
-        "date": "2026-07-18",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Molde",
-        "away_team": "Brann",
-        "score": "1-2"
-      },
-      {
-        "date": "2026-07-11",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Aalesund",
-        "away_team": "Molde",
-        "score": "2-2"
-      },
-      {
-        "date": "2026-07-05",
-        "competition": "International - Club Friendlies 2026/2026",
-        "home_team": "Rosenborg",
-        "away_team": "Molde",
-        "score": "2-1"
-      },
-      {
-        "date": "2026-06-28",
-        "competition": "International - Club Friendlies 2026/2026",
-        "home_team": "Molde",
-        "away_team": "Bodo/Glimt",
-        "score": "1-4"
-      },
-      {
-        "date": "2026-06-21",
-        "competition": "International - Club Friendlies 2026/2026",
-        "home_team": "Molde",
-        "away_team": "KFUM Oslo",
-        "score": "5-1"
-      },
-      {
-        "date": "2026-05-30",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Molde",
-        "away_team": "Sandefjord",
-        "score": "2-1"
-      }
-    ],
-    "match_facts": []
-  },
-  {
-    "fixture": {
-      "match_id": "1714960",
-      "date": "2026-08-29",
-      "time": "17:00",
-      "competition": "ELITESERIEN",
-      "country": "Norway",
-      "home_team": "Viking",
-      "away_team": "Aalesund",
-      "tip": "1",
-      "comparison_url": "https://www.statarea.com/compare/teams/Viking (Norway)/Aalesund (Norway)",
-      "odds": {
-        "coef_1": 71,
-        "coef_x": 18,
-        "coef_2": 11,
-        "coef_ht1": 56,
-        "coef_htx": 27,
-        "coef_ht2": 17,
-        "coef_o15": 94,
-        "coef_o25": 82,
-        "coef_o35": 50,
-        "coef_bts": 68,
-        "coef_ots": 32
-      },
-      "user_votes": {
-        "vote_1": 6,
-        "vote_x": 0,
-        "vote_2": 0,
-        "likes": 5,
-        "dislikes": 0
-      }
-    },
-    "home_team_info": {
-      "name": "Viking",
-      "official_name": "Viking Fotballklubb",
-      "found": "August 10, 1899",
-      "country": "Norway",
-      "website": "http://www.viking-fk.no",
-      "world_rank": 401
-    },
-    "away_team_info": {
-      "name": "Aalesund",
-      "official_name": "Aalesunds Fotballklubb",
-      "found": "25 June 1914",
-      "country": "Norway",
-      "website": "http://www.aafk.no",
-      "world_rank": null
-    },
-    "h2h_matches": [
-      {
-        "date": "2026-07-26",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "1",
-        "away_goals": "1",
-        "half_time_score": "1-0",
-        "events": [
-          "[ycard] 25' Advin Austbo",
-          "[goal] 45' Kristoffer Askildsen",
-          "[goal] 46' Mathias Christensen",
-          "[ycard] 76' Mathias Christensen",
-          "[ycard] 78' Gianni Stensness",
-          "[ycard] 86' Olafur Gudmundsson",
-          "[ycard] 87' Tobias Saliou Moi Sene",
-          "[ycard] 90' Kristoffer Askildsen",
-          "[ycard] 90' Henrik Molvaer Melland"
-        ]
-      },
-      {
-        "date": "2026-03-18",
-        "competition": "Norway - Cup 2025/2026",
-        "home_team": "Viking",
-        "away_team": "Aalesund",
-        "home_goals": "1",
-        "away_goals": "2",
-        "half_time_score": "0-1",
-        "events": [
-          "[goal] 15' Ola Visted",
-          "[goal] 65' Marius Andresen",
-          "[goal] 75' Mathias Christensen"
-        ]
-      },
-      {
-        "date": "2025-06-25",
-        "competition": "Norway - Fa Cup 2025 2024/2025",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "0",
-        "away_goals": "1",
-        "half_time_score": "0-0",
-        "events": [
-          "[ycard] 44' Vevatne Viljar",
-          "[ycard] 60' Nessoe Kristoffer",
-          "[ycard] 69' Bjoershol Sondre",
-          "[goal] 82' Christiansen Peter",
-          "[ycard] 90' Roseth Martin",
-          "[ycard] 90' Hammer Kjelsen Aleksander"
-        ]
-      },
-      {
-        "date": "2022-10-02",
-        "competition": "Norway - Eliteserien 2021/2022",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "2",
-        "away_goals": "1",
-        "half_time_score": "0-0",
-        "events": [
-          "[ycard] 28' Golubovic Petar",
-          "[ycard] 54' De Lanlay Yann-erik",
-          "[goal] 57' Tripic Zlatko",
-          "[goal] 62' Rafn Simen",
-          "[goal] 73' Golubovic Petar"
-        ]
-      },
-      {
-        "date": "2022-04-10",
-        "competition": "Norway - Eliteserien 2021/2022",
-        "home_team": "Viking",
-        "away_team": "Aalesund",
-        "home_goals": "1",
-        "away_goals": "0",
-        "half_time_score": "0-0",
-        "events": [
-          "[ycard] 51' Lima Erikson",
-          "[ycard] 56' Faellman David",
-          "[goal] 72' Tripic Zlatko",
-          "[ycard] 89' Serbecic Besim"
-        ]
-      },
-      {
-        "date": "2020-09-20",
-        "competition": "Norway - 1. Divisjon (women) 2019/2020",
-        "home_team": "Viking",
-        "away_team": "Aalesund",
-        "home_goals": "5",
-        "away_goals": "2",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 5' Bytyqi",
-          "[penalty] 26' Bolkan Nordli",
-          "[ycard] 32' Daniel Vikstoel",
-          "[ycard] 49' Heggheim",
-          "[ycard] 57' Bytyqi",
-          "[penalty] 65' Berisha",
-          "[ycard] 66' Lima",
-          "[goal] 73' Bytyqi",
-          "[ycard] 74' Haugen",
-          "[goal] 75' Daniel Vikstoel",
-          "[ycard] 81' Ibrahimaj",
-          "[penalty] 82' Haugen",
-          "[goal] 90' Bell"
-        ]
-      },
-      {
-        "date": "2020-08-09",
-        "competition": "Norway - 1. Divisjon (women) 2019/2020",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "2",
-        "away_goals": "2",
-        "half_time_score": "2-1",
-        "events": [
-          "[goal] 6' Orry Larsen",
-          "[goal] 24' Berisha",
-          "[ycard] 37' Bizoza",
-          "[ycard] 40' Sno",
-          "[penalty] 41' Berisha",
-          "[ycard] 75' Loekberg",
-          "[ycard] 78' Berisha",
-          "[ycard] 79' Torsteinboe",
-          "[penalty] 80' Castro",
-          "[ycard] 85' Bell"
-        ]
-      },
-      {
-        "date": "2019-09-26",
-        "competition": "Norway - FA Cup 2018/2019",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "3",
-        "away_goals": "5",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 11' Castro Niklas",
-          "[ycard] 23' Fridjonsson Holmbert",
-          "[goal] 40' Torsteinbo Fredrik",
-          "[ycard] 52' Hatlehol Jorgen",
-          "[ycard] 59' Pereira Adrian",
-          "[ycard] 68' Thorstvedt Kristian",
-          "[ycard] 71' Castro Niklas",
-          "[ycard] 90' Gronner Jones",
-          "[penalty] 121' Hoiland Tommy",
-          "[penalty] 121' Castro Niklas",
-          "[penalty] 122' Lie Andreas",
-          "[penalty] 122' Ostensen Even",
-          "[penalty] 123' Pereira Adrian",
-          "[penalty] 124' Azofeifa Wilmer",
-          "[penalty] 124' Fridjonsson Samuel",
-          "[penalty] 125' Tripic Zlatko"
-        ]
-      },
-      {
-        "date": "2019-03-09",
-        "competition": "Friendly Games - Friendly Clubs 2018/2019",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "2",
-        "away_goals": "2",
-        "half_time_score": "0-2",
-        "events": [
-          "[goal] 14' Fridjonsson Holmbert",
-          "[goal] 43' Gueye Pape",
-          "[goal] 78' Unknown",
-          "[penalty] 90' Unknown"
-        ]
-      },
-      {
-        "date": "2018-10-23",
-        "competition": "Norway - 1. Divisjon 2017/2018",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "1",
-        "away_goals": "3",
-        "half_time_score": "0-0",
-        "events": [
-          "[goal] 53' Hoiland Tommy",
-          "[goal] 61' Hoiland Tommy",
-          "[goal] 74' Ramsteijn Kaj",
-          "[goal] 83' Ostensen Even"
-        ]
-      },
-      {
-        "date": "2018-05-22",
-        "competition": "Norway - 1. Divisjon 2017/2018",
-        "home_team": "Viking",
-        "away_team": "Aalesund",
-        "home_goals": "0",
-        "away_goals": "2",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 37' Fridjonsson Holmbert",
-          "[goal] 64' Fet Sondre"
-        ]
-      },
-      {
-        "date": "2017-08-13",
-        "competition": "Norway - TS Relegation P.Off 2016/2017",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "1",
-        "away_goals": "1",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 13' Hoiland Tommy",
-          "[ycard] 31' Jenkins Aden",
-          "[ycard] 51' Martinsen Rasmus",
-          "[ycard] 56' Unknown",
-          "[ycard] 80' Gretarsson Daniel",
-          "[goal] 90' Papazoglou Thanasis"
-        ]
-      },
-      {
-        "date": "2017-05-16",
-        "competition": "Norway - TS Relegation P.Off 2016/2017",
-        "home_team": "Viking",
-        "away_team": "Aalesund",
-        "home_goals": "1",
-        "away_goals": "2",
-        "half_time_score": "1-1",
-        "events": [
-          "[own] 11' Hoff Vebjorn",
-          "[penalty] 28' Abdellaoue Mustafa",
-          "[ycard] 30' Veldwijk Lars",
-          "[goal] 87' Gyasi Edwin",
-          "[ycard] 90' Lie Andreas"
-        ]
-      },
-      {
-        "date": "2016-10-21",
-        "competition": "Norway - Tippeligaen 2015/2016",
-        "home_team": "Viking",
-        "away_team": "Aalesund",
-        "home_goals": "2",
-        "away_goals": "3",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 26' Pedersen Patrick",
-          "[goal] 35' Abdellaoue Mustafa",
-          "[ycard] 56' Mets Karol",
-          "[rcard] 57' Mets Karol",
-          "[penalty] 57' Abdellaoue Mustafa",
-          "[ycard] 59' Dawson Chris",
-          "[ycard] 68' Haugen Kristoffer",
-          "[goal] 70' Kirkeskov Mikkel",
-          "[ycard] 78' Ibrahim Abdisalam",
-          "[ycard] 86' Sale Usmani",
-          "[ycard] 90' Abdellaoue Mustafa",
-          "[goal] 90' Bringaker Mathias"
-        ]
-      },
-      {
-        "date": "2016-04-17",
-        "competition": "Norway - Tippeligaen 2015/2016",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "1",
-        "away_goals": "2",
-        "half_time_score": "1-1",
-        "events": [
-          "[ycard] 3' Adegbenro Samuel",
-          "[goal] 11' Boli Franck",
-          "[ycard] 12' Larsen Peter",
-          "[ycard] 23' Carlsen Fredrik",
-          "[goal] 42' Bringaker Mathias",
-          "[goal] 56' Abdullahi Suleiman",
-          "[ycard] 70' Kirkeskov Mikkel",
-          "[ycard] 89' Riise Bjorn"
-        ]
-      },
-      {
-        "date": "2015-07-11",
-        "competition": "Norway - Tippeligaen 2014/2015",
-        "home_team": "Viking",
-        "away_team": "Aalesund",
-        "home_goals": "4",
-        "away_goals": "1",
-        "half_time_score": "0-3",
-        "events": [
-          "[goal] 4' Abdullahi S.",
-          "[ycard] 11' Adegbenro S.",
-          "[goal] 29' Bodvarsson J.",
-          "[goal] 43' Bodvarsson J.",
-          "[goal] 61' Abdellaoue M.",
-          "[goal] 65' Sigurdsson I."
-        ]
-      },
-      {
-        "date": "2015-05-25",
-        "competition": "Norway - Tippeligaen 2014/2015",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "0",
-        "away_goals": "4",
-        "half_time_score": "1-0",
-        "events": [
-          "[ycard] 35' Larsen P.",
-          "[goal] 44' Abdullahi S.",
-          "[goal] 70' Berisha V.",
-          "[goal] 72' Berisha V.",
-          "[ycard] 75' Mets K.",
-          "[goal] 85' Bodvarsson J."
-        ]
-      },
-      {
-        "date": "2014-10-26",
-        "competition": "Norway - Tippeligaen 2013/2014",
-        "home_team": "Viking",
-        "away_team": "Aalesund",
-        "home_goals": "1",
-        "away_goals": "2",
-        "half_time_score": "2-0",
-        "events": [
-          "[goal] 20' James L.",
-          "[goal] 25' James L.",
-          "[ycard] 30' Mattila S.",
-          "[ycard] 43' Arnefjord D.",
-          "[ycard] 74' Latifu A.",
-          "[goal] 80' Ingason S."
-        ]
-      },
-      {
-        "date": "2014-05-01",
-        "competition": "Norway - Tippeligaen 2013/2014",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "1",
-        "away_goals": "2",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 35' Ingason S.",
-          "[goal] 56' Sverrisson B.",
-          "[ycard] 60' Arnefjord D.",
-          "[ycard] 62' Danielsen A.",
-          "[goal] 76' Grytten T."
-        ]
-      },
-      {
-        "date": "2013-10-25",
-        "competition": "Norway - Tippeligaen 2012/2013",
-        "home_team": "Viking",
-        "away_team": "Aalesund",
-        "home_goals": "1",
-        "away_goals": "3",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 24' Hamdallah A.",
-          "[goal] 51' Hamdallah A.",
-          "[goal] 53' Hamdallah A.",
-          "[ycard] 57' Matland J.",
-          "[ycard] 62' Thioune M.",
-          "[goal] 67' Sigurdsson I.",
-          "[ycard] 71' De Lanlay Y-e.",
-          "[ycard] 72' Skagestad E.",
-          "[ycard] 83' Sulimani B."
-        ]
-      },
-      {
-        "date": "2013-06-23",
-        "competition": "Norway - Tippeligaen 2012/2013",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "2",
-        "away_goals": "1",
-        "half_time_score": "0-1",
-        "events": [
-          "[goal] 20' James L.",
-          "[goal] 57' Fuhre L.",
-          "[ycard] 69' Edmundsson J.",
-          "[goal] 90' Ingelsten P."
-        ]
-      },
-      {
-        "date": "2012-10-06",
-        "competition": "Norway - Tippeligaen 2011/2012",
-        "home_team": "Viking",
-        "away_team": "Aalesund",
-        "home_goals": "1",
-        "away_goals": "1",
-        "half_time_score": "0-1",
-        "events": [
-          "[goal] 30' Berisha V.",
-          "[goal] 52' Matland J.",
-          "[ycard] 90' Matland J."
-        ]
-      },
-      {
-        "date": "2012-07-08",
-        "competition": "Norway - Tippeligaen 2011/2012",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "1",
-        "away_goals": "1",
-        "half_time_score": "0-0",
-        "events": [
-          "[ycard] 60' Danielsen A.",
-          "[ycard] 68' Post S.",
-          "[goal] 88' Olsen T.",
-          "[goal] 90' Arnefjord D."
-        ]
-      },
-      {
-        "date": "2012-03-04",
-        "competition": "Friendly Games - Friendly 2011/2012",
-        "home_team": "Viking",
-        "away_team": "Aalesund",
-        "home_goals": "2",
-        "away_goals": "2",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 14' James",
-          "[goal] 26' De Lanlay",
-          "[goal] 52' Ornskov",
-          "[goal] 78' Jalasto"
-        ]
-      },
-      {
-        "date": "2011-07-17",
-        "competition": "Norway - Tippeligaen 2010/2011",
-        "home_team": "Viking",
-        "away_team": "Aalesund",
-        "home_goals": "1",
-        "away_goals": "0",
-        "half_time_score": "0-0",
-        "events": [
-          "[ycard] 50' Gyan",
-          "[goal] 58' Berisha"
-        ]
-      },
-      {
-        "date": "2011-05-29",
-        "competition": "Norway - Tippeligaen 2010/2011",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "2",
-        "away_goals": "0",
-        "half_time_score": "0-1",
-        "events": [
-          "[goal] 11' Olsen",
-          "[ycard] 38' Arnefjord",
-          "[ycard] 45' Olsen",
-          "[goal] 58' Rojas",
-          "[ycard] 88' Rojas",
-          "[ycard] 88' Sigurdsson",
-          "[ycard] 90' Danielsen"
-        ]
-      },
-      {
-        "date": "2010-10-24",
-        "competition": "Norway - Division 1 2009/2010",
-        "home_team": "Viking",
-        "away_team": "Aalesund",
-        "home_goals": "1",
-        "away_goals": "3",
-        "half_time_score": "1-0",
-        "events": [
-          "[ycard] 19' Larsen",
-          "[goal] 36' Aaroy",
-          "[goal] 56' Rojas",
-          "[goal] 84' Aaroy",
-          "[ycard] 88' Fredriksen",
-          "[goal] 90' Nevland"
-        ]
-      },
-      {
-        "date": "2010-04-11",
-        "competition": "Norway - Division 1 2009/2010",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "3",
-        "away_goals": "1",
-        "half_time_score": "0-3",
-        "events": [
-          "[goal] 20' Aaroy",
-          "[goal] 24' Aaroy",
-          "[penalty] 41' Herrera",
-          "[goal] 51' Ingelsten",
-          "[ycard] 81' Hoiland"
-        ]
-      },
-      {
-        "date": "2010-02-28",
-        "competition": "Friendly Games - Friendly 2009/2010",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "1",
-        "away_goals": "1",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 36' Fillo",
-          "[goal] 45' Silva"
-        ]
-      },
-      {
-        "date": "2009-09-27",
-        "competition": "Norway - Division 1 2008/2009",
-        "home_team": "Viking",
-        "away_team": "Aalesund",
-        "home_goals": "1",
-        "away_goals": "1",
-        "half_time_score": "0-1",
-        "events": [
-          "[goal] 19' Steenslid",
-          "[goal] 78' Stephenson"
-        ]
-      },
-      {
-        "date": "2009-06-14",
-        "competition": "Norway - Division 1 2008/2009",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "0",
-        "away_goals": "1",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 17' Fillo"
-        ]
-      },
-      {
-        "date": "2008-07-27",
-        "competition": "Norway - Division 1 2007/2008",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "1",
-        "away_goals": "2",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 33' Gaarde",
-          "[goal] 54' Steenslid",
-          "[goal] 64' Silva"
-        ]
-      },
-      {
-        "date": "2008-04-13",
-        "competition": "Norway - Division 1 2007/2008",
-        "home_team": "Viking",
-        "away_team": "Aalesund",
-        "home_goals": "2",
-        "away_goals": "1",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 43' Holm",
-          "[goal] 56' Stokholm",
-          "[goal] 71' Velicka"
-        ]
-      },
-      {
-        "date": "2007-09-22",
-        "competition": "Norway - Division 1 2006/2007",
-        "home_team": "Viking",
-        "away_team": "Aalesund",
-        "home_goals": "3",
-        "away_goals": "0",
-        "half_time_score": "0-2",
-        "events": [
-          "[goal] 29' Odegaard",
-          "[goal] 41' Ijeh",
-          "[goal] 67' Gaarde"
-        ]
-      },
-      {
-        "date": "2007-05-28",
-        "competition": "Norway - Division 1 2006/2007",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "0",
-        "away_goals": "2",
-        "half_time_score": "0-0",
-        "events": [
-          "[goal] 81' Soma",
-          "[goal] 83' Pimpong"
-        ]
-      },
-      {
-        "date": "2005-10-29",
-        "competition": "Norway - Division 1 2004/2005",
-        "home_team": "Viking",
-        "away_team": "Aalesund",
-        "home_goals": "3",
-        "away_goals": "0",
-        "half_time_score": "0-2",
-        "events": [
-          "[goal] 20' Gaarde",
-          "[goal] 34' Mambo-mumba",
-          "[goal] 90' Ostenstad"
-        ]
-      },
-      {
-        "date": "2005-07-03",
-        "competition": "Norway - Division 1 2004/2005",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "1",
-        "away_goals": "2",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 21' Gudmundsson",
-          "[goal] 25' Nygaard",
-          "[goal] 69' Gaarde"
-        ]
-      },
-      {
-        "date": "2003-08-31",
-        "competition": "Norway - Division 1 2002/2003",
-        "home_team": "Viking",
-        "away_team": "Aalesund",
-        "home_goals": "4",
-        "away_goals": "0",
-        "half_time_score": "0-2",
-        "events": [
-          "[penalty] 37' Sheilindbzk",
-          "[goal] 43' Sanne T.",
-          "[rcard] 55' Steen",
-          "[rcard] 57' Dos Santos",
-          "[goal] 77' Nevland",
-          "[goal] 90' Sorli"
-        ]
-      },
-      {
-        "date": "2003-05-16",
-        "competition": "Norway - Division 1 2002/2003",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "home_goals": "1",
-        "away_goals": "1",
-        "half_time_score": "0-1",
-        "events": [
-          "[goal] 31' Sando"
-        ]
-      }
-    ],
-    "recent_form_home": [
-      {
-        "date": "2026-08-26",
-        "competition": "International - Champions League Playoff Round 2026/2027",
-        "home_team": "Viking",
-        "away_team": "NK Dinamo Zagreb",
-        "score": "3-1"
-      },
-      {
-        "date": "2026-08-18",
-        "competition": "International - Champions League Playoff Round 2026/2027",
-        "home_team": "NK Dinamo Zagreb",
-        "away_team": "Viking",
-        "score": "2-2"
-      },
-      {
-        "date": "2026-08-14",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Rosenborg",
-        "away_team": "Viking",
-        "score": "2-1"
-      },
-      {
-        "date": "2026-08-08",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Viking",
-        "away_team": "Sarpsborg 08 FF",
-        "score": "2-1"
-      },
-      {
-        "date": "2026-08-01",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Start",
-        "away_team": "Viking",
-        "score": "0-3"
-      },
-      {
-        "date": "2026-07-26",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "score": "1-1"
-      },
-      {
-        "date": "2026-07-22",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Lillestrom",
-        "away_team": "Viking",
-        "score": "1-2"
-      },
-      {
-        "date": "2026-07-18",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Viking",
-        "away_team": "Sandefjord",
-        "score": "2-1"
-      },
-      {
-        "date": "2026-07-12",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Sarpsborg 08 FF",
-        "away_team": "Viking",
-        "score": "1-0"
-      },
-      {
-        "date": "2026-07-03",
-        "competition": "International - Club Friendlies 2026/2026",
-        "home_team": "SonderjyskE",
-        "away_team": "Viking",
-        "score": "1-1"
-      }
-    ],
-    "recent_form_away": [
-      {
-        "date": "2026-08-16",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Aalesund",
-        "away_team": "Valerenga",
-        "score": "5-5"
-      },
-      {
-        "date": "2026-08-09",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Ham-Kam",
-        "away_team": "Aalesund",
-        "score": "1-1"
-      },
-      {
-        "date": "2026-08-02",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Aalesund",
-        "away_team": "Tromso",
-        "score": "2-6"
-      },
-      {
-        "date": "2026-07-26",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Aalesund",
-        "away_team": "Viking",
-        "score": "1-1"
-      },
-      {
-        "date": "2026-07-16",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Valerenga",
-        "away_team": "Aalesund",
-        "score": "6-1"
-      },
-      {
-        "date": "2026-07-11",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Aalesund",
-        "away_team": "Molde",
-        "score": "2-2"
-      },
-      {
-        "date": "2026-06-27",
-        "competition": "International - Club Friendlies 2026/2026",
-        "home_team": "Kristiansund BK",
-        "away_team": "Aalesund",
-        "score": "0-3"
-      },
-      {
-        "date": "2026-05-29",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Aalesund",
-        "away_team": "Ham-Kam",
-        "score": "2-2"
-      },
-      {
-        "date": "2026-05-25",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Tromso",
-        "away_team": "Aalesund",
-        "score": "1-1"
-      },
-      {
-        "date": "2026-05-20",
-        "competition": "Norway - Eliteserien 2026/2026",
-        "home_team": "Aalesund",
-        "away_team": "Brann",
-        "score": "2-1"
-      }
-    ],
-    "match_facts": []
-  },
-  {
-    "fixture": {
       "match_id": "1719407",
       "date": "2026-08-29",
       "time": "16:30",
@@ -34949,7 +33063,7 @@
         "vote_1": 0,
         "vote_x": 0,
         "vote_2": 0,
-        "likes": 2,
+        "likes": 3,
         "dislikes": 0
       }
     },
@@ -35216,7 +33330,7 @@
         "vote_1": 1,
         "vote_x": 0,
         "vote_2": 0,
-        "likes": 0,
+        "likes": 1,
         "dislikes": 1
       }
     },
@@ -36123,9 +34237,9 @@
         "coef_ots": 39
       },
       "user_votes": {
-        "vote_1": 3,
-        "vote_x": 0,
-        "vote_2": 0,
+        "vote_1": 4,
+        "vote_x": 1,
+        "vote_2": 2,
         "likes": 4,
         "dislikes": 3
       }
@@ -36893,11 +35007,11 @@
         "coef_ots": 49
       },
       "user_votes": {
-        "vote_1": 1,
-        "vote_x": 1,
-        "vote_2": 0,
+        "vote_1": 3,
+        "vote_x": 2,
+        "vote_2": 1,
         "likes": 2,
-        "dislikes": 0
+        "dislikes": 1
       }
     },
     "home_team_info": {
@@ -39630,7 +37744,7 @@
         "vote_1": 1,
         "vote_x": 0,
         "vote_2": 0,
-        "likes": 2,
+        "likes": 3,
         "dislikes": 0
       }
     },
@@ -40080,7 +38194,7 @@
         "vote_1": 1,
         "vote_x": 0,
         "vote_2": 7,
-        "likes": 8,
+        "likes": 11,
         "dislikes": 0
       }
     },
@@ -40358,9 +38472,9 @@
       },
       "user_votes": {
         "vote_1": 1,
-        "vote_x": 3,
+        "vote_x": 4,
         "vote_2": 1,
-        "likes": 2,
+        "likes": 4,
         "dislikes": 0
       }
     },
@@ -40674,8 +38788,8 @@
         "vote_1": 0,
         "vote_x": 0,
         "vote_2": 0,
-        "likes": 0,
-        "dislikes": 0
+        "likes": 1,
+        "dislikes": 1
       }
     },
     "home_team_info": {
@@ -42577,9 +40691,9 @@
         "coef_ots": 38
       },
       "user_votes": {
-        "vote_1": 0,
-        "vote_x": 1,
-        "vote_2": 1,
+        "vote_1": 1,
+        "vote_x": 2,
+        "vote_2": 2,
         "likes": 1,
         "dislikes": 0
       }
@@ -42993,7 +41107,7 @@
         "vote_x": 0,
         "vote_2": 1,
         "likes": 0,
-        "dislikes": 0
+        "dislikes": 1
       }
     },
     "home_team_info": {
@@ -43286,7 +41400,7 @@
         "coef_ots": 37
       },
       "user_votes": {
-        "vote_1": 3,
+        "vote_1": 4,
         "vote_x": 0,
         "vote_2": 1,
         "likes": 0,
@@ -44592,8 +42706,8 @@
         "vote_1": 3,
         "vote_x": 1,
         "vote_2": 0,
-        "likes": 4,
-        "dislikes": 0
+        "likes": 5,
+        "dislikes": 1
       }
     },
     "home_team_info": {
@@ -45062,7 +43176,7 @@
         "vote_x": 1,
         "vote_2": 2,
         "likes": 0,
-        "dislikes": 0
+        "dislikes": 1
       }
     },
     "home_team_info": {
@@ -49521,7 +47635,7 @@
       },
       "user_votes": {
         "vote_1": 1,
-        "vote_x": 3,
+        "vote_x": 4,
         "vote_2": 0,
         "likes": 2,
         "dislikes": 0
@@ -49902,7 +48016,7 @@
         "vote_x": 3,
         "vote_2": 1,
         "likes": 0,
-        "dislikes": 1
+        "dislikes": 2
       }
     },
     "home_team_info": {
@@ -50231,7 +48345,7 @@
       },
       "user_votes": {
         "vote_1": 0,
-        "vote_x": 1,
+        "vote_x": 2,
         "vote_2": 1,
         "likes": 2,
         "dislikes": 0
@@ -52837,7 +50951,7 @@
         "coef_ots": 39
       },
       "user_votes": {
-        "vote_1": 1,
+        "vote_1": 2,
         "vote_x": 2,
         "vote_2": 0,
         "likes": 2,
@@ -53295,10 +51409,10 @@
         "coef_ots": 44
       },
       "user_votes": {
-        "vote_1": 7,
+        "vote_1": 8,
         "vote_x": 1,
         "vote_2": 0,
-        "likes": 8,
+        "likes": 11,
         "dislikes": 1
       }
     },
@@ -54688,9 +52802,9 @@
         "coef_ots": 39
       },
       "user_votes": {
-        "vote_1": 0,
-        "vote_x": 1,
-        "vote_2": 0,
+        "vote_1": 1,
+        "vote_x": 2,
+        "vote_2": 1,
         "likes": 1,
         "dislikes": 0
       }
@@ -55678,10 +53792,10 @@
         "coef_ots": 58
       },
       "user_votes": {
-        "vote_1": 2,
+        "vote_1": 3,
         "vote_x": 0,
         "vote_2": 0,
-        "likes": 0,
+        "likes": 1,
         "dislikes": 0
       }
     },
@@ -58650,7 +56764,7 @@
         "vote_x": 2,
         "vote_2": 0,
         "likes": 0,
-        "dislikes": 0
+        "dislikes": 1
       }
     },
     "home_team_info": {
@@ -59012,7 +57126,7 @@
         "vote_1": 2,
         "vote_x": 0,
         "vote_2": 0,
-        "likes": 0,
+        "likes": 1,
         "dislikes": 0
       }
     },
@@ -59428,7 +57542,7 @@
       "user_votes": {
         "vote_1": 3,
         "vote_x": 1,
-        "vote_2": 0,
+        "vote_2": 1,
         "likes": 1,
         "dislikes": 0
       }
@@ -60322,10 +58436,10 @@
         "coef_ots": 56
       },
       "user_votes": {
-        "vote_1": 2,
+        "vote_1": 3,
         "vote_x": 0,
         "vote_2": 0,
-        "likes": 4,
+        "likes": 5,
         "dislikes": 0
       }
     },
@@ -61437,10 +59551,10 @@
         "coef_ots": 58
       },
       "user_votes": {
-        "vote_1": 0,
+        "vote_1": 1,
         "vote_x": 0,
         "vote_2": 0,
-        "likes": 2,
+        "likes": 3,
         "dislikes": 0
       }
     },
@@ -61792,10 +59906,10 @@
         "coef_ots": 50
       },
       "user_votes": {
-        "vote_1": 2,
-        "vote_x": 0,
-        "vote_2": 0,
-        "likes": 1,
+        "vote_1": 3,
+        "vote_x": 1,
+        "vote_2": 1,
+        "likes": 2,
         "dislikes": 0
       }
     },
@@ -62215,9 +60329,9 @@
         "coef_ots": 64
       },
       "user_votes": {
-        "vote_1": 2,
-        "vote_x": 0,
-        "vote_2": 0,
+        "vote_1": 3,
+        "vote_x": 1,
+        "vote_2": 1,
         "likes": 0,
         "dislikes": 0
       }
@@ -62760,9 +60874,9 @@
         "coef_ots": 39
       },
       "user_votes": {
-        "vote_1": 0,
-        "vote_x": 1,
-        "vote_2": 0,
+        "vote_1": 1,
+        "vote_x": 2,
+        "vote_2": 1,
         "likes": 0,
         "dislikes": 0
       }
@@ -62994,9 +61108,9 @@
         "coef_ots": 50
       },
       "user_votes": {
-        "vote_1": 3,
-        "vote_x": 1,
-        "vote_2": 0,
+        "vote_1": 4,
+        "vote_x": 2,
+        "vote_2": 1,
         "likes": 0,
         "dislikes": 1
       }
@@ -66052,8 +64166,8 @@
         "coef_ots": 53
       },
       "user_votes": {
-        "vote_1": 0,
-        "vote_x": 0,
+        "vote_1": 1,
+        "vote_x": 1,
         "vote_2": 0,
         "likes": 1,
         "dislikes": 1
@@ -66643,7 +64757,7 @@
         "coef_ots": 66
       },
       "user_votes": {
-        "vote_1": 0,
+        "vote_1": 1,
         "vote_x": 0,
         "vote_2": 0,
         "likes": 1,
@@ -66965,7 +65079,7 @@
       },
       "user_votes": {
         "vote_1": 0,
-        "vote_x": 0,
+        "vote_x": 1,
         "vote_2": 0,
         "likes": 1,
         "dislikes": 0
@@ -67281,9 +65395,9 @@
         "coef_ots": 51
       },
       "user_votes": {
-        "vote_1": 2,
+        "vote_1": 3,
         "vote_x": 2,
-        "vote_2": 1,
+        "vote_2": 2,
         "likes": 2,
         "dislikes": 0
       }
@@ -68670,9 +66784,9 @@
       "user_votes": {
         "vote_1": 0,
         "vote_x": 0,
-        "vote_2": 1,
+        "vote_2": 2,
         "likes": 1,
-        "dislikes": 0
+        "dislikes": 1
       }
     },
     "home_team_info": {
@@ -69801,7 +67915,7 @@
       },
       "user_votes": {
         "vote_1": 0,
-        "vote_x": 0,
+        "vote_x": 1,
         "vote_2": 0,
         "likes": 0,
         "dislikes": 0
@@ -70812,9 +68926,9 @@
         "coef_ots": 39
       },
       "user_votes": {
-        "vote_1": 0,
-        "vote_x": 0,
-        "vote_2": 1,
+        "vote_1": 1,
+        "vote_x": 1,
+        "vote_2": 2,
         "likes": 0,
         "dislikes": 0
       }
@@ -71342,9 +69456,9 @@
         "coef_ots": 44
       },
       "user_votes": {
-        "vote_1": 0,
-        "vote_x": 0,
-        "vote_2": 1,
+        "vote_1": 1,
+        "vote_x": 1,
+        "vote_2": 3,
         "likes": 1,
         "dislikes": 1
       }
@@ -71786,9 +69900,9 @@
         "coef_ots": 39
       },
       "user_votes": {
-        "vote_1": 0,
-        "vote_x": 1,
-        "vote_2": 1,
+        "vote_1": 1,
+        "vote_x": 2,
+        "vote_2": 2,
         "likes": 0,
         "dislikes": 0
       }
@@ -72121,7 +70235,7 @@
       },
       "user_votes": {
         "vote_1": 0,
-        "vote_x": 0,
+        "vote_x": 1,
         "vote_2": 1,
         "likes": 0,
         "dislikes": 0
@@ -73611,7 +71725,7 @@
         "coef_ots": 57
       },
       "user_votes": {
-        "vote_1": 0,
+        "vote_1": 1,
         "vote_x": 0,
         "vote_2": 0,
         "likes": 0,
@@ -73910,7 +72024,7 @@
       "user_votes": {
         "vote_1": 1,
         "vote_x": 0,
-        "vote_2": 0,
+        "vote_2": 1,
         "likes": 0,
         "dislikes": 2
       }
@@ -76383,583 +74497,6 @@
   },
   {
     "fixture": {
-      "match_id": "1715145",
-      "date": "2026-08-29",
-      "time": "13:00",
-      "competition": "1. DIVISION",
-      "country": "Norway",
-      "home_team": "Bryne",
-      "away_team": "Haugesund",
-      "tip": "X2",
-      "comparison_url": "https://www.statarea.com/compare/teams/Bryne (Norway)/Haugesund (Norway)",
-      "odds": {
-        "coef_1": 31,
-        "coef_x": 31,
-        "coef_2": 38,
-        "coef_ht1": 32,
-        "coef_htx": 36,
-        "coef_ht2": 32,
-        "coef_o15": 93,
-        "coef_o25": 76,
-        "coef_o35": 55,
-        "coef_bts": 71,
-        "coef_ots": 29
-      },
-      "user_votes": {
-        "vote_1": 0,
-        "vote_x": 0,
-        "vote_2": 0,
-        "likes": 2,
-        "dislikes": 0
-      }
-    },
-    "home_team_info": {
-      "name": "Bryne",
-      "official_name": "Bryne Fotballklubb",
-      "found": "10 April 1926",
-      "country": "Norway",
-      "website": "http://www.brynefk.no",
-      "world_rank": null
-    },
-    "away_team_info": {
-      "name": "Haugesund",
-      "official_name": "Fotballklubben Haugesund",
-      "found": "October 28, 1993",
-      "country": "Norway",
-      "website": "http://www.fkh.no",
-      "world_rank": null
-    },
-    "h2h_matches": [
-      {
-        "date": "2026-07-25",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Haugesund",
-        "away_team": "Bryne",
-        "home_goals": "1",
-        "away_goals": "2",
-        "half_time_score": "0-1",
-        "events": [
-          "[ycard] 7' Jacob Haahr",
-          "[goal] 30' Vegard Solheim",
-          "[ycard] 34' Anders Bondhus",
-          "[ycard] 57' Duarte Miguel Ramos Moreira",
-          "[goal] 76' Nicklas Strunck",
-          "[goal] 90' Sjur Torgersen Jonassen"
-        ]
-      },
-      {
-        "date": "2025-11-30",
-        "competition": "Norway - Eliteserien 2024/2025",
-        "home_team": "Haugesund",
-        "away_team": "Bryne",
-        "home_goals": "1",
-        "away_goals": "4",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 3' Heine Aasen Larsen",
-          "[goal] 6' Heine Aasen Larsen",
-          "[goal] 8' Sory Diarra",
-          "[goal] 73' Kristian Skurve Haaland",
-          "[goal] 80' Jaran Eike Oestrem"
-        ]
-      },
-      {
-        "date": "2025-03-07",
-        "competition": "Friendly Games - Friendly Clubs 2024/2025",
-        "home_team": "Haugesund",
-        "away_team": "Bryne",
-        "home_goals": "3",
-        "away_goals": "0",
-        "half_time_score": "0-1",
-        "events": [
-          "[goal] 45' Unknown",
-          "[goal] 89' Unknown",
-          "[goal] 90' Unknown"
-        ]
-      },
-      {
-        "date": "2024-02-24",
-        "competition": "Friendly Games - Club Friendlies 2023/2024",
-        "home_team": "Haugesund",
-        "away_team": "Bryne",
-        "home_goals": "3",
-        "away_goals": "1",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 25' Nyhammer Troy",
-          "[goal] 34' Arsvoll Elias",
-          "[goal] 65' Nyhammer Troy",
-          "[goal] 78' Innvaer Sander"
-        ]
-      },
-      {
-        "date": "2023-02-11",
-        "competition": "Friendly Games - Club Friendlies 2022/2023",
-        "home_team": "Haugesund",
-        "away_team": "Bryne",
-        "home_goals": "2",
-        "away_goals": "0",
-        "half_time_score": "0-0",
-        "events": [
-          "[goal] 55' Njie Bilal",
-          "[goal] 90' Holtan Joacim"
-        ]
-      },
-      {
-        "date": "2019-06-19",
-        "competition": "Norway - FA Cup 2018/2019",
-        "home_team": "Bryne",
-        "away_team": "Haugesund",
-        "home_goals": "2",
-        "away_goals": "6",
-        "half_time_score": "4-0",
-        "events": [
-          "[goal] 3' Velde Kristoffer",
-          "[goal] 5' Samuelsen Martin",
-          "[goal] 16' Samuelsen Martin",
-          "[goal] 38' Sandberg Niklas",
-          "[goal] 64' Velde Kristoffer",
-          "[goal] 65' El Ghaouti Omar",
-          "[goal] 67' El Ghaouti Omar",
-          "[goal] 90' Kallevag Torbjorn"
-        ]
-      },
-      {
-        "date": "2013-01-27",
-        "competition": "Friendly Games - Friendly 2012/2013",
-        "home_team": "Bryne",
-        "away_team": "Haugesund",
-        "home_goals": "1",
-        "away_goals": "2",
-        "half_time_score": "2-1",
-        "events": [
-          "[goal] 23' Skartun O.",
-          "[goal] 35' Soderlund A.",
-          "[goal] 39' Andreassen T."
-        ]
-      },
-      {
-        "date": "2011-03-27",
-        "competition": "Friendly Games - Friendly 2017/2018",
-        "home_team": "Bryne",
-        "away_team": "Haugesund",
-        "home_goals": "2",
-        "away_goals": "0",
-        "half_time_score": "0-0",
-        "events": [
-          "[goal] 48' Helle M.",
-          "[goal] 88' Helle M."
-        ]
-      },
-      {
-        "date": "2010-06-09",
-        "competition": "Norway - FA Cup 2009/2010",
-        "home_team": "Haugesund",
-        "away_team": "Bryne",
-        "home_goals": "6",
-        "away_goals": "1",
-        "half_time_score": "1-3",
-        "events": [
-          "[goal] 7' Djurdjic",
-          "[goal] 9' Sorum",
-          "[goal] 34' Bala",
-          "[goal] 42' Sorensen",
-          "[goal] 49' Skjerve",
-          "[goal] 58' Djurdjic",
-          "[goal] 89' Skjerve"
-        ]
-      },
-      {
-        "date": "2009-10-11",
-        "competition": "Norway - Division 2 2008/2009",
-        "home_team": "Bryne",
-        "away_team": "Haugesund",
-        "home_goals": "0",
-        "away_goals": "1",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 23' Sorum"
-        ]
-      },
-      {
-        "date": "2009-05-16",
-        "competition": "Norway - Division 2 2008/2009",
-        "home_team": "Haugesund",
-        "away_team": "Bryne",
-        "home_goals": "2",
-        "away_goals": "0",
-        "half_time_score": "0-0",
-        "events": [
-          "[goal] 88' Sorum",
-          "[goal] 90' Victorien"
-        ]
-      },
-      {
-        "date": "2008-10-12",
-        "competition": "Norway - Division 2 2007/2008",
-        "home_team": "Bryne",
-        "away_team": "Haugesund",
-        "home_goals": "2",
-        "away_goals": "2",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 36' Rodriguez",
-          "[goal] 51' Andreassen",
-          "[goal] 54' Helle",
-          "[goal] 84' Hansen"
-        ]
-      },
-      {
-        "date": "2008-07-05",
-        "competition": "Norway - Division 2 2007/2008",
-        "home_team": "Haugesund",
-        "away_team": "Bryne",
-        "home_goals": "1",
-        "away_goals": "1",
-        "half_time_score": "0-0",
-        "events": [
-          "[rcard] 57' Johnson",
-          "[goal] 73' Borgvardt",
-          "[rcard] 84' Torres",
-          "[penalty] 90' Harman"
-        ]
-      },
-      {
-        "date": "2007-10-14",
-        "competition": "Norway - Division 2 2006/2007",
-        "home_team": "Haugesund",
-        "away_team": "Bryne",
-        "home_goals": "2",
-        "away_goals": "2",
-        "half_time_score": "0-1",
-        "events": [
-          "[goal] 2' Weaver",
-          "[goal] 60' Oyuga",
-          "[goal] 65' Weaver",
-          "[goal] 73' Lunde"
-        ]
-      },
-      {
-        "date": "2007-06-20",
-        "competition": "Norway - Division 2 2006/2007",
-        "home_team": "Bryne",
-        "away_team": "Haugesund",
-        "home_goals": "4",
-        "away_goals": "2",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 26' Borgvardt",
-          "[goal] 44' Curier",
-          "[goal] 55' Borgvardt",
-          "[goal] 62' Sakariassen",
-          "[goal] 80' Curier",
-          "[goal] 90' Helle"
-        ]
-      },
-      {
-        "date": "2006-09-10",
-        "competition": "Norway - Division 2 2005/2006",
-        "home_team": "Bryne",
-        "away_team": "Haugesund",
-        "home_goals": "0",
-        "away_goals": "2",
-        "half_time_score": "0-0",
-        "events": [
-          "[goal] 75' Johansen",
-          "[goal] 90' Johansen"
-        ]
-      },
-      {
-        "date": "2006-05-16",
-        "competition": "Norway - Division 2 2005/2006",
-        "home_team": "Haugesund",
-        "away_team": "Bryne",
-        "home_goals": "1",
-        "away_goals": "2",
-        "half_time_score": "1-0",
-        "events": [
-          "[goal] 11' Oyuga",
-          "[goal] 80' Skogland",
-          "[goal] 86' Borgvardt"
-        ]
-      },
-      {
-        "date": "2004-10-20",
-        "competition": "Norway - Division 2 2003/2004",
-        "home_team": "Haugesund",
-        "away_team": "Bryne",
-        "home_goals": "2",
-        "away_goals": "2",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 15' Andersen",
-          "[goal] 43' Wiken",
-          "[penalty] 83' Sandal",
-          "[goal] 84' Pozniak"
-        ]
-      },
-      {
-        "date": "2004-06-16",
-        "competition": "Norway - Division 2 2003/2004",
-        "home_team": "Bryne",
-        "away_team": "Haugesund",
-        "home_goals": "2",
-        "away_goals": "1",
-        "half_time_score": "1-1",
-        "events": [
-          "[goal] 17' Oyuga",
-          "[goal] 27' Kojic",
-          "[goal] 62' Sola"
-        ]
-      },
-      {
-        "date": "2003-06-26",
-        "competition": "Norway - FA Cup 2002/2003",
-        "home_team": "Haugesund",
-        "away_team": "Bryne",
-        "home_goals": "3",
-        "away_goals": "2",
-        "half_time_score": "1-2",
-        "events": [
-          "[goal] 10' Kojic",
-          "[goal] 17' Andreasson M.",
-          "[goal] 42' Rodahl",
-          "[penalty] 53' Bygnes",
-          "[goal] 90' Andreasson M."
-        ]
-      },
-      {
-        "date": "2000-08-06",
-        "competition": "Norway - Division 1 1999/2000",
-        "home_team": "Bryne",
-        "away_team": "Haugesund",
-        "home_goals": "1",
-        "away_goals": "0",
-        "half_time_score": "0-0",
-        "events": [
-          "[ycard] 10' Stokkeland K.",
-          "[goal] 51' Medalen R."
-        ]
-      },
-      {
-        "date": "2000-05-03",
-        "competition": "Norway - Division 1 1999/2000",
-        "home_team": "Haugesund",
-        "away_team": "Bryne",
-        "home_goals": "3",
-        "away_goals": "1",
-        "half_time_score": "0-1",
-        "events": [
-          "[ycard] 10' Andersen",
-          "[ycard] 20' Berggren H.",
-          "[goal] 25' Berggren H.",
-          "[ycard] 30' Hapnes P.",
-          "[ycard] 40' Apneseth B.",
-          "[goal] 60' Blomquist A.",
-          "[goal] 67' Bjornsen T.",
-          "[goal] 74' Garba B."
-        ]
-      },
-      {
-        "date": "1999-08-22",
-        "competition": "Norway - Division 2 1998/1999",
-        "home_team": "Bryne",
-        "away_team": "Haugesund",
-        "home_goals": "0",
-        "away_goals": "0",
-        "half_time_score": "0-0",
-        "events": []
-      },
-      {
-        "date": "1999-05-16",
-        "competition": "Norway - Division 2 1998/1999",
-        "home_team": "Haugesund",
-        "away_team": "Bryne",
-        "home_goals": "0",
-        "away_goals": "0",
-        "half_time_score": "0-0",
-        "events": []
-      },
-      {
-        "date": "1996-09-22",
-        "competition": "Norway - Division 2 Group 2 1995/1996",
-        "home_team": "Bryne",
-        "away_team": "Haugesund",
-        "home_goals": "2",
-        "away_goals": "4",
-        "half_time_score": "4-2",
-        "events": [
-          "[goal] 0' noname",
-          "[goal] 0' noname",
-          "[goal] 0' noname",
-          "[goal] 0' noname",
-          "[goal] 0' noname",
-          "[goal] 0' noname"
-        ]
-      },
-      {
-        "date": "1996-06-30",
-        "competition": "Norway - Division 2 Group 2 1995/1996",
-        "home_team": "Haugesund",
-        "away_team": "Bryne",
-        "home_goals": "2",
-        "away_goals": "1",
-        "half_time_score": "1-2",
-        "events": [
-          "[goal] 0' noname",
-          "[goal] 0' noname",
-          "[goal] 0' noname"
-        ]
-      }
-    ],
-    "recent_form_home": [
-      {
-        "date": "2026-08-26",
-        "competition": "Norway - Cup 2026/2027",
-        "home_team": "Rosseland",
-        "away_team": "Bryne",
-        "score": "0-3"
-      },
-      {
-        "date": "2026-08-22",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Sandnes ULF",
-        "away_team": "Bryne",
-        "score": "0-1"
-      },
-      {
-        "date": "2026-08-15",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Bryne",
-        "away_team": "Moss",
-        "score": "2-1"
-      },
-      {
-        "date": "2026-08-09",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Sogndal",
-        "away_team": "Bryne",
-        "score": "0-2"
-      },
-      {
-        "date": "2026-08-01",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Bryne",
-        "away_team": "Stromsgodset",
-        "score": "0-2"
-      },
-      {
-        "date": "2026-07-25",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Haugesund",
-        "away_team": "Bryne",
-        "score": "1-2"
-      },
-      {
-        "date": "2026-07-04",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Bryne",
-        "away_team": "Sandnes ULF",
-        "score": "1-1"
-      },
-      {
-        "date": "2026-06-27",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Stabaek",
-        "away_team": "Bryne",
-        "score": "2-0"
-      },
-      {
-        "date": "2026-06-21",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Bryne",
-        "away_team": "Asane",
-        "score": "1-0"
-      },
-      {
-        "date": "2026-06-14",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Lyn",
-        "away_team": "Bryne",
-        "score": "0-3"
-      }
-    ],
-    "recent_form_away": [
-      {
-        "date": "2026-08-26",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Haugesund",
-        "away_team": "Egersund",
-        "score": "3-0"
-      },
-      {
-        "date": "2026-08-22",
-        "competition": "Norway - Cup 2026/2027",
-        "home_team": "Vard Haugesund",
-        "away_team": "Haugesund",
-        "score": "3-4"
-      },
-      {
-        "date": "2026-08-16",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Kongsvinger",
-        "away_team": "Haugesund",
-        "score": "3-2"
-      },
-      {
-        "date": "2026-08-09",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Haugesund",
-        "away_team": "Raufoss",
-        "score": "7-2"
-      },
-      {
-        "date": "2026-08-03",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Ranheim",
-        "away_team": "Haugesund",
-        "score": "3-4"
-      },
-      {
-        "date": "2026-07-25",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Haugesund",
-        "away_team": "Bryne",
-        "score": "1-2"
-      },
-      {
-        "date": "2026-07-05",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Odd Ballklubb",
-        "away_team": "Haugesund",
-        "score": "1-3"
-      },
-      {
-        "date": "2026-06-27",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Haugesund",
-        "away_team": "Kongsvinger",
-        "score": "4-2"
-      },
-      {
-        "date": "2026-06-21",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Egersund",
-        "away_team": "Haugesund",
-        "score": "5-2"
-      },
-      {
-        "date": "2026-06-14",
-        "competition": "Norway - 1. Division 2026/2026",
-        "home_team": "Haugesund",
-        "away_team": "Ranheim",
-        "score": "4-1"
-      }
-    ],
-    "match_facts": []
-  },
-  {
-    "fixture": {
       "match_id": "1715509",
       "date": "2026-08-29",
       "time": "02:00",
@@ -77835,7 +75372,7 @@
         "vote_1": 0,
         "vote_x": 0,
         "vote_2": 0,
-        "likes": 0,
+        "likes": 1,
         "dislikes": 0
       }
     },
@@ -80424,7 +77961,7 @@
         "vote_x": 0,
         "vote_2": 0,
         "likes": 1,
-        "dislikes": 0
+        "dislikes": 1
       }
     },
     "home_team_info": {
@@ -82101,7 +79638,7 @@
       },
       "user_votes": {
         "vote_1": 1,
-        "vote_x": 0,
+        "vote_x": 1,
         "vote_2": 0,
         "likes": 0,
         "dislikes": 1
@@ -83568,7 +81105,7 @@
       "user_votes": {
         "vote_1": 1,
         "vote_x": 0,
-        "vote_2": 0,
+        "vote_2": 1,
         "likes": 3,
         "dislikes": 0
       }
@@ -86260,7 +83797,7 @@
         "coef_ots": 35
       },
       "user_votes": {
-        "vote_1": 0,
+        "vote_1": 1,
         "vote_x": 0,
         "vote_2": 1,
         "likes": 2,
@@ -87001,7 +84538,7 @@
         "vote_1": 0,
         "vote_x": 0,
         "vote_2": 0,
-        "likes": 0,
+        "likes": 1,
         "dislikes": 2
       }
     },
@@ -87751,7 +85288,7 @@
         "vote_1": 2,
         "vote_x": 0,
         "vote_2": 1,
-        "likes": 0,
+        "likes": 2,
         "dislikes": 0
       }
     },
@@ -88693,7 +86230,7 @@
         "vote_1": 0,
         "vote_x": 0,
         "vote_2": 0,
-        "likes": 1,
+        "likes": 2,
         "dislikes": 0
       }
     },
@@ -89204,7 +86741,7 @@
         "vote_x": 0,
         "vote_2": 0,
         "likes": 0,
-        "dislikes": 0
+        "dislikes": 1
       }
     },
     "home_team_info": {
@@ -89557,7 +87094,7 @@
         "vote_x": 0,
         "vote_2": 0,
         "likes": 0,
-        "dislikes": 0
+        "dislikes": 1
       }
     },
     "home_team_info": {
@@ -89798,7 +87335,7 @@
         "coef_ots": 53
       },
       "user_votes": {
-        "vote_1": 0,
+        "vote_1": 1,
         "vote_x": 0,
         "vote_2": 0,
         "likes": 0,
@@ -90336,7 +87873,7 @@
         "vote_x": 0,
         "vote_2": 0,
         "likes": 0,
-        "dislikes": 0
+        "dislikes": 1
       }
     },
     "home_team_info": {
@@ -90835,7 +88372,7 @@
       "user_votes": {
         "vote_1": 0,
         "vote_x": 0,
-        "vote_2": 0,
+        "vote_2": 1,
         "likes": 0,
         "dislikes": 1
       }
@@ -91624,7 +89161,7 @@
         "vote_1": 0,
         "vote_x": 0,
         "vote_2": 0,
-        "likes": 0,
+        "likes": 1,
         "dislikes": 0
       }
     },
@@ -95457,7 +92994,7 @@
         "coef_ots": 36
       },
       "user_votes": {
-        "vote_1": 1,
+        "vote_1": 2,
         "vote_x": 0,
         "vote_2": 0,
         "likes": 1,
@@ -96993,7 +94530,7 @@
       },
       "user_votes": {
         "vote_1": 0,
-        "vote_x": 1,
+        "vote_x": 2,
         "vote_2": 0,
         "likes": 2,
         "dislikes": 0

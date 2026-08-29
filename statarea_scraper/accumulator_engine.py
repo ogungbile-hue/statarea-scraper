@@ -252,14 +252,20 @@ class AccumulatorEngine:
             how="inner",
         )
 
+        today_str = datetime.datetime.now().strftime("%Y-%m-%d")
+
         for _, row in merged.iterrows():
             match_id = str(row.get("match_id", ""))
-            date_val = str(row.get("date", ""))
-            time_val = str(row.get("time", ""))
+            date_val = str(row.get("date", "")).strip()
+            time_val = str(row.get("time", "")).strip()
             comp = str(row.get("competition", ""))
             country = str(row.get("country", ""))
             home = str(row.get("home_team", ""))
             away = str(row.get("away_team", ""))
+
+            # Strict Daily Filter: Ensure matches belong strictly to today's date
+            if date_val and date_val != today_str:
+                continue
 
             def _num(key, default=0.0):
                 val = row.get(key)
