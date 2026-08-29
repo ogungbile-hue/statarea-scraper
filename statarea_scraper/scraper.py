@@ -42,23 +42,25 @@ class StatareaScraper:
         Stage 1: Fetch and parse the main predictions list for today or a specific date.
         
         Args:
-            date_str: Optional date in YYYY-MM-DD format
+            date_str: Optional date in YYYY-MM-DD format (defaults to today's local date)
             
         Returns:
             List of MatchFixture objects
         """
-        if date_str:
-            url = f"{PREDICTIONS_URL}/date/{date_str}/competition"
-        else:
-            url = PREDICTIONS_URL
+        import datetime
+        target_date = date_str or datetime.date.today().strftime("%Y-%m-%d")
+        url = f"{PREDICTIONS_URL}/date/{target_date}/competition"
 
-        logger.info(f"Stage 1: Fetching predictions list from {url}...")
+        logger.info(f"Stage 1: Fetching predictions list for date {target_date} from {url}...")
         html = self.client.get(url, apply_delay=False)
         if not html:
-            logger.error("Failed to retrieve predictions index page.")
-            return []
+            logger.warning(f"Date-specific URL {url} returned empty. Falling back to default {PREDICTIONS_URL}...")
+            html = self.client.get(PREDICTIONS_URL, apply_delay=False)
+            if not html:
+                logger.error("Failed to retrieve predictions index page.")
+                return []
 
-        fixtures = self.parser.parse_predictions_page(html, default_date=date_str or "")
+        fixtures = self.parser.parse_predictions_page(html, default_date=target_date)
         return fixtures
 
     def scrape_match_details(self, fixture: MatchFixture) -> DeepMatchData:
