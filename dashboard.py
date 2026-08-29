@@ -284,11 +284,12 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
         <!-- Mobile Action Buttons -->
         <div class="flex items-center space-x-2 md:hidden">
+          <div class="flex items-center space-x-1 px-2.5 py-2 rounded-xl bg-dark-surface border border-brand-500/30 text-[10px] text-gray-300" title="Auto-scrapes at 12:00 AM Midnight">
+            <i class="fa-regular fa-clock text-brand-500 text-xs"></i>
+            <span>12:00 AM</span>
+          </div>
           <button id="btnUpdateScoresMob" onclick="updateLiveScores()" class="p-2.5 rounded-xl bg-dark-surface hover:bg-gray-800 border border-dark-border text-xs text-gray-200 transition" title="Settle & Live Scores">
             <i class="fa-solid fa-arrows-rotate text-xs text-emerald-400"></i>
-          </button>
-          <button id="btnTriggerScrapeMob" onclick="triggerScrape()" class="p-2.5 rounded-xl bg-gradient-to-r from-brand-500 to-orange-600 text-white text-xs shadow-md shadow-brand-500/20 transition" title="Scrape Today">
-            <i class="fa-solid fa-bolt text-xs"></i>
           </button>
         </div>
       </div>
@@ -306,9 +307,9 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       <!-- Desktop Action Buttons -->
       <div class="hidden md:flex items-center space-x-3">
         <!-- Midnight Auto-Scheduler Badge -->
-        <div class="hidden xl:flex items-center space-x-2 px-3 py-2 rounded-xl bg-dark-surface border border-dark-border text-xs text-gray-300 shadow-inner" title="Auto-scrapes Statarea and rebuilds all slips everyday at 12:00 AM Midnight">
+        <div class="flex items-center space-x-2 px-3.5 py-2 rounded-xl bg-dark-surface border border-brand-500/30 text-xs text-gray-200 shadow-inner" title="Auto-scrapes Statarea and rebuilds all slips everyday at 12:00 AM Midnight">
           <i class="fa-regular fa-clock text-brand-500 animate-pulse"></i>
-          <span>Auto: <strong class="text-white font-semibold">12:00 AM Daily</strong></span>
+          <span>Auto-Scrape: <strong class="text-white font-semibold">12:00 AM Daily</strong></span>
         </div>
 
         <!-- Live Auto-Sync Toggle -->
@@ -317,14 +318,9 @@ HTML_TEMPLATE = """<!DOCTYPE html>
           <span id="autoSyncText">Auto Live: ON (30s)</span>
         </button>
 
-        <button id="btnUpdateScores" onclick="updateLiveScores()" class="px-3.5 py-2 rounded-xl bg-dark-surface hover:bg-gray-800 border border-dark-border text-xs font-semibold transition flex items-center space-x-2 text-gray-200 hover:text-white">
+        <button id="btnUpdateScores" onclick="updateLiveScores()" class="px-3.5 py-2 rounded-xl bg-gradient-to-r from-dark-surface to-dark-card hover:bg-gray-800 border border-dark-border text-xs font-semibold transition flex items-center space-x-2 text-gray-200 hover:text-white shadow-sm">
           <i class="fa-solid fa-arrows-rotate text-xs text-emerald-400"></i>
           <span>⚡ Sync Live Scores</span>
-        </button>
-
-        <button id="btnTriggerScrape" onclick="triggerScrape()" class="px-4 py-2 rounded-xl bg-gradient-to-r from-brand-500 to-orange-600 hover:from-brand-600 hover:to-orange-700 text-white text-xs font-bold shadow-lg shadow-brand-500/25 transition flex items-center space-x-2">
-          <i class="fa-solid fa-bolt"></i>
-          <span>Scrape Today</span>
         </button>
       </div>
     </div>

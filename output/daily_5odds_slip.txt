@@ -5,75 +5,75 @@
 --- [ 1.5-ODDS ULTRA BANKER ] ---
 >> ONÍTẸ́TẸ́ 1.5-ODDS ULTRA BANKER SLIP
    Ultra-conservative 2-3 leg banker ticket with the highest probability ratings.
-   Total Odds: 1.40x  |  Avg Confidence: 94.5%  |  Legs: 3
+   Total Odds: 1.40x  |  Avg Confidence: 93.8%  |  Legs: 3
 --------------------------------------------------------------------------------------
 Time   | Fixture                      | Selection              | Odds  | Risk      | Conf
 --------------------------------------------------------------------------------------
-18:00  | Stenungsunds  vs Herrestads Ai | Over 1.5 Goals         | 1.12x | Ultra-Low | 95.0%
-       ↳ Justification: Over 1.5 Goal Pace: 95% model prob + 3.5 combined recent goals/game.
-19:30  | Bayern Munich vs VfB Stuttgart | Over 1.5 Goals         | 1.12x | Ultra-Low | 94.3%
-       ↳ Justification: Over 1.5 Goal Pace: 94% model prob + 4.6 combined recent goals/game.
-19:45  | Holywell Town vs Caernarfon To | Over 1.5 Goals         | 1.12x | Ultra-Low | 94.3%
+17:00  | Viking vs Aalesund           | Over 1.5 Goals         | 1.12x | Ultra-Low | 94.3%
        ↳ Justification: Over 1.5 Goal Pace: 94% model prob + 3.6 combined recent goals/game.
+17:30  | Borussia Dort vs Hamburger SV | Over 1.5 Goals         | 1.12x | Ultra-Low | 93.6%
+       ↳ Justification: Over 1.5 Goal Pace: 93% model prob + 3.2 combined recent goals/game.
+19:30  | BSC Young Boy vs FC Basel 1893 | Over 1.5 Goals         | 1.12x | Ultra-Low | 93.6%
+       ↳ Justification: Over 1.5 Goal Pace: 93% model prob + 3.8 combined recent goals/game.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced safety-first market picks.
-   Total Odds: 2.72x  |  Avg Confidence: 77.0%  |  Legs: 4
+   Total Odds: 2.73x  |  Avg Confidence: 77.1%  |  Legs: 4
 --------------------------------------------------------------------------------------
 Time   | Fixture                      | Selection              | Odds  | Risk      | Conf
 --------------------------------------------------------------------------------------
-19:45  | Trethomas Blu vs Afan Lido   | Both Teams To Score (Y | 1.23x | Moderate  | 79.0%
+15:00  | Valerenga vs Molde           | Both Teams To Score (Y | 1.28x | Moderate  | 77.2%
        ↳ Justification: BTTS Approved: Verified dual 4/5 recent match scoring consistency.
-17:15  | Pogon Grodzis vs Termalica Nie | Both Teams To Score (Y | 1.30x | Moderate  | 76.6%
+15:00  | Skiljebo SK vs Sunnersta Aif | Both Teams To Score (Y | 1.28x | Moderate  | 77.2%
        ↳ Justification: BTTS Approved: Verified dual 4/5 recent match scoring consistency.
-20:15  | Throttur Reyk vs Aegir       | Both Teams To Score (Y | 1.30x | Moderate  | 76.6%
+12:00  | Onsala BK vs Dalstorps IF    | Both Teams To Score (Y | 1.28x | Moderate  | 77.2%
        ↳ Justification: BTTS Approved: Verified dual 4/5 recent match scoring consistency.
-18:00  | Racing Santan vs Elche       | Both Teams To Score (Y | 1.31x | Moderate  | 76.0%
+13:00  | Bryne vs Haugesund           | Both Teams To Score (Y | 1.30x | Moderate  | 76.6%
        ↳ Justification: BTTS Approved: Verified dual 4/5 recent match scoring consistency.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 4.52x  |  Avg Confidence: 76.8%  |  Legs: 6
+   Total Odds: 4.53x  |  Avg Confidence: 77.0%  |  Legs: 6
 --------------------------------------------------------------------------------------
 Time   | Fixture                      | Selection              | Odds  | Risk      | Conf
 --------------------------------------------------------------------------------------
-19:45  | Trethomas Blu vs Afan Lido   | Both Teams To Score (Y | 1.23x | Moderate  | 79.0%
+13:45  | Nyiregyhaza vs Paks          | Both Teams To Score (Y | 1.23x | Moderate  | 79.0%
        ↳ Justification: BTTS Approved: Verified dual 4/5 recent match scoring consistency.
-17:30  | FK Neftekhimi vs FC Ufa      | Under 3.5 Goals        | 1.23x | Low       | 78.0%
-       ↳ Justification: Defensive Lock: 75% Under 3.5 model + low attacking output.
-17:15  | Pogon Grodzis vs Termalica Nie | Both Teams To Score (Y | 1.30x | Moderate  | 76.6%
+15:00  | Valerenga vs Molde           | Both Teams To Score (Y | 1.28x | Moderate  | 77.2%
        ↳ Justification: BTTS Approved: Verified dual 4/5 recent match scoring consistency.
-20:15  | Throttur Reyk vs Aegir       | Both Teams To Score (Y | 1.30x | Moderate  | 76.6%
+15:00  | Skiljebo SK vs Sunnersta Aif | Both Teams To Score (Y | 1.28x | Moderate  | 77.2%
        ↳ Justification: BTTS Approved: Verified dual 4/5 recent match scoring consistency.
-19:30  | Bayern Munich vs VfB Stuttgart | Both Teams To Score (Y | 1.33x | Moderate  | 75.4%
+12:00  | Onsala BK vs Dalstorps IF    | Both Teams To Score (Y | 1.28x | Moderate  | 77.2%
        ↳ Justification: BTTS Approved: Verified dual 4/5 recent match scoring consistency.
-18:00  | Lindome GIF vs Vastra Frolun | Both Teams To Score (Y | 1.33x | Moderate  | 75.4%
+13:00  | Bryne vs Haugesund           | Both Teams To Score (Y | 1.30x | Moderate  | 76.6%
+       ↳ Justification: BTTS Approved: Verified dual 4/5 recent match scoring consistency.
+17:00  | Viking vs Aalesund           | Both Teams To Score (Y | 1.35x | Moderate  | 74.8%
        ↳ Justification: BTTS Approved: Verified dual 4/5 recent match scoring consistency.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator constructed solely with vetted safe selections.
-   Total Odds: 8.51x  |  Avg Confidence: 76.2%  |  Legs: 8
+   Total Odds: 8.55x  |  Avg Confidence: 76.3%  |  Legs: 8
 --------------------------------------------------------------------------------------
 Time   | Fixture                      | Selection              | Odds  | Risk      | Conf
 --------------------------------------------------------------------------------------
-19:45  | Trethomas Blu vs Afan Lido   | Both Teams To Score (Y | 1.23x | Moderate  | 79.0%
+13:45  | Nyiregyhaza vs Paks          | Both Teams To Score (Y | 1.23x | Moderate  | 79.0%
        ↳ Justification: BTTS Approved: Verified dual 4/5 recent match scoring consistency.
-17:15  | Pogon Grodzis vs Termalica Nie | Both Teams To Score (Y | 1.30x | Moderate  | 76.6%
+15:00  | Valerenga vs Molde           | Both Teams To Score (Y | 1.28x | Moderate  | 77.2%
        ↳ Justification: BTTS Approved: Verified dual 4/5 recent match scoring consistency.
-20:15  | Throttur Reyk vs Aegir       | Both Teams To Score (Y | 1.30x | Moderate  | 76.6%
+15:00  | Skiljebo SK vs Sunnersta Aif | Both Teams To Score (Y | 1.28x | Moderate  | 77.2%
        ↳ Justification: BTTS Approved: Verified dual 4/5 recent match scoring consistency.
-18:00  | Racing Santan vs Elche       | Both Teams To Score (Y | 1.31x | Moderate  | 76.0%
+12:00  | Onsala BK vs Dalstorps IF    | Both Teams To Score (Y | 1.28x | Moderate  | 77.2%
        ↳ Justification: BTTS Approved: Verified dual 4/5 recent match scoring consistency.
-17:30  | Qatar SC vs Al-Sadd          | Both Teams To Score (Y | 1.31x | Moderate  | 76.0%
+13:00  | Bryne vs Haugesund           | Both Teams To Score (Y | 1.30x | Moderate  | 76.6%
        ↳ Justification: BTTS Approved: Verified dual 4/5 recent match scoring consistency.
-18:30  | FC Winterthur vs FC Stade LS O | Both Teams To Score (Y | 1.31x | Moderate  | 76.0%
+21:30  | Seattle Sound vs Chicago Fire | Both Teams To Score (Y | 1.31x | Moderate  | 76.0%
        ↳ Justification: BTTS Approved: Verified dual 4/5 recent match scoring consistency.
-19:30  | Bayern Munich vs VfB Stuttgart | Both Teams To Score (Y | 1.33x | Moderate  | 75.4%
+14:00  | Hacken vs Vaesteraas IK      | Both Teams To Score (Y | 1.37x | Moderate  | 74.2%
        ↳ Justification: BTTS Approved: Verified dual 4/5 recent match scoring consistency.
-19:15  | FC Aarau vs Neuchatel Xam    | Both Teams To Score (Y | 1.37x | Moderate  | 74.2%
+18:30  | Beitar Jerusa vs Maccabi Netan | Both Teams To Score (Y | 1.42x | Moderate  | 73.0%
        ↳ Justification: BTTS Approved: Verified dual 4/5 recent match scoring consistency.
 
 --------------------------------------------------------------------------------------
