@@ -187,6 +187,20 @@ python main.py --output-dir my_data -v
 Columns:
 `match_id, date, time, country, competition, home_team, away_team, tip, coef_1, coef_x, coef_2, coef_ht1, coef_htx, coef_ht2, coef_o15, coef_o25, coef_o35, coef_bts, coef_ots, vote_1, vote_x, vote_2, likes, dislikes, home_country, home_world_rank, away_country, away_world_rank, h2h_matches_count, latest_h2h_date, latest_h2h_score, comparison_url`
 
+## ⏰ Automated Midnight Updates (12:00 AM Daily)
+
+Onítẹ́tẹ́ features two zero-maintenance methods to automatically scrape today's matches and regenerate **1.5x, 3x, 5x, and 10x slips** every day at **12:00 AM Midnight**:
+
+### 1. Dashboard Embedded Auto-Scheduler (`dashboard.py`)
+- If the web dashboard is running on your machine (`python main.py --serve`), a lightweight background daemon automatically detects the clock turning **00:00 (12:00 AM)**.
+- It settles previous scores into the results ledger, crawls all fresh fixtures for the new calendar day, recalculates the multi-tier accumulator tickets, and auto-refreshes the dashboard in realtime.
+- An animated status badge in the header shows: `Auto: 12:00 AM Daily`.
+
+### 2. GitHub Actions Cloud Cron (`.github/workflows/daily_scrape.yml`)
+- Runs automatically in the cloud every day at **00:00 UTC (12:00 AM)** even if your local computer is powered off.
+- Automatically settles scores, runs `python main.py`, and commits the freshly generated JSON/CSV datasets directly back to your repository with `[skip ci]`.
+- Can also be triggered manually anytime via GitHub's **Actions** tab (`workflow_dispatch`).
+
 ---
 
 ## 🧪 Running Unit Tests
@@ -194,3 +208,4 @@ Columns:
 ```bash
 python -m unittest discover tests
 ```
+

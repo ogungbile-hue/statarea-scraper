@@ -8,6 +8,7 @@ import os
 import threading
 import time
 import webbrowser
+from datetime import datetime, timedelta
 from typing import Dict, Any, Optional, List
 from flask import Flask, jsonify, render_template_string, request
 import pandas as pd
@@ -17,6 +18,19 @@ from statarea_scraper import StatareaScraper, AccumulatorEngine, ResultsTracker
 app = Flask(__name__)
 logger = logging.getLogger(__name__)
 
+def _calculate_next_midnight() -> str:
+    now = datetime.now()
+    next_midnight = (now + timedelta(days=1)).replace(hour=0, minute=0, second=0, microsecond=0)
+    return next_midnight.strftime("%Y-%m-%d 00:00:00")
+
+AUTO_SCHEDULER = {
+    "enabled": True,
+    "target_time": "12:00 AM (00:00) Daily",
+    "last_auto_scrape_date": None,
+    "last_auto_settle_hour": None,
+    "next_run": _calculate_next_midnight(),
+}
+
 SCRAPER_STATE = {
     "is_running": False,
     "status": "Idle",
@@ -25,6 +39,7 @@ SCRAPER_STATE = {
     "last_run": None,
     "total_fixtures": 0,
     "error": None,
+    "scheduler": AUTO_SCHEDULER,
 }
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -290,6 +305,12 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
       <!-- Desktop Action Buttons -->
       <div class="hidden md:flex items-center space-x-3">
+        <!-- Midnight Auto-Scheduler Badge -->
+        <div class="hidden xl:flex items-center space-x-2 px-3 py-2 rounded-xl bg-dark-surface border border-dark-border text-xs text-gray-300 shadow-inner" title="Auto-scrapes Statarea and rebuilds all slips everyday at 12:00 AM Midnight">
+          <i class="fa-regular fa-clock text-brand-500 animate-pulse"></i>
+          <span>Auto: <strong class="text-white font-semibold">12:00 AM Daily</strong></span>
+        </div>
+
         <!-- Live Auto-Sync Toggle -->
         <button id="btnAutoSync" onclick="toggleAutoSync()" class="px-3 py-2 rounded-xl bg-dark-surface border border-dark-border text-xs font-semibold transition flex items-center space-x-2 text-gray-300 hover:text-white" title="Toggle 30s auto-refresh for live scores">
           <span id="autoSyncDot" class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
@@ -1391,6 +1412,58 @@ def trigger_scrape():
     return jsonify({"success": True, "message": "Scraper job started in background."})
 
 
+def _auto_scheduler_loop():
+    """Background daemon loop that automatically triggers at 12:00 AM (00:00) every day."""
+    logger.info("Auto-Scheduler daemon initialized: monitoring for 12:00 AM midnight daily trigger.")
+    while True:
+        try:
+            now = datetime.now()
+            today_str = now.strftime("%Y-%m-%d")
+            AUTO_SCHEDULER["next_run"] = _calculate_next_midnight()
+
+            # Trigger at 00:00 (12:00 AM midnight) if not yet run for today
+            if now.hour == 0 and AUTO_SCHEDULER["last_auto_scrape_date"] != today_str:
+                if not SCRAPER_STATE["is_running"]:
+                    logger.info(f"⏰ [Midnight Auto-Scheduler Triggered] Starting daily scrape for {today_str}...")
+                    AUTO_SCHEDULER["last_auto_scrape_date"] = today_str
+                    AUTO_SCHEDULER["next_run"] = _calculate_next_midnight()
+
+                    # 1. Settle yesterday's final match scores
+                    try:
+                        tracker = ResultsTracker(output_dir=OUTPUT_DIR)
+                        tracker.settle_today_slips()
+                    except Exception as err:
+                        logger.warning(f"Midnight auto-settlement warning: {err}")
+
+                    # 2. Scrape today's fixtures and rebuild multi-tier accumulator slips
+                    _run_scraper_job()
+
+            # Automatic score settlement check every 2 hours during match windows (12:00 - 23:00)
+            if now.hour in [14, 16, 18, 20, 22] and now.minute == 10 and AUTO_SCHEDULER["last_auto_settle_hour"] != now.hour:
+                AUTO_SCHEDULER["last_auto_settle_hour"] = now.hour
+                try:
+                    logger.info("⚡ [Auto-Sync] Running scheduled match score settlement...")
+                    tracker = ResultsTracker(output_dir=OUTPUT_DIR)
+                    tracker.settle_today_slips()
+                except Exception as err:
+                    logger.debug(f"Auto-sync score settlement skip: {err}")
+
+        except Exception as e:
+            logger.error(f"Scheduler daemon error: {e}")
+
+        time.sleep(30)
+
+
+_scheduler_started = False
+def _start_background_scheduler():
+    """Ensure the scheduler thread starts exactly once."""
+    global _scheduler_started
+    if not _scheduler_started and not os.environ.get("VERCEL"):
+        _scheduler_started = True
+        thread = threading.Thread(target=_auto_scheduler_loop, daemon=True, name="OniteteMidnightScheduler")
+        thread.start()
+
+
 def start_server(port: int = 5000, open_browser: bool = True):
     """Start the dashboard server and optionally open the browser."""
     import sys
@@ -1401,10 +1474,13 @@ def start_server(port: int = 5000, open_browser: bool = True):
         except Exception:
             pass
 
+    _start_background_scheduler()
+
     url = f"http://localhost:{port}"
     print("\n" + "=" * 60)
     print(f"  [+] Onitete (Eighty-Two AI) Dashboard Live at:")
     print(f"      {url}")
+    print(f"  [+] Auto-Scheduler: Active (Runs at 12:00 AM Midnight daily)")
     print("=" * 60 + "\n")
 
     if open_browser:
@@ -1415,3 +1491,4 @@ def start_server(port: int = 5000, open_browser: bool = True):
 
 if __name__ == "__main__":
     start_server(port=5000, open_browser=False)
+
