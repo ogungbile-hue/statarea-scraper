@@ -63,9 +63,11 @@ def _resolve_output_dir() -> str:
                 for fname in os.listdir(BUNDLED_OUTPUT_DIR):
                     src = os.path.join(BUNDLED_OUTPUT_DIR, fname)
                     dst = os.path.join(target_dir, fname)
-                    if os.path.isfile(src) and not os.path.exists(dst):
+                    if os.path.isfile(src):
                         try:
-                            shutil.copy2(src, dst)
+                            # Always copy or update if src is newer or dst doesn't exist
+                            if not os.path.exists(dst) or os.path.getmtime(src) > os.path.getmtime(dst):
+                                shutil.copy2(src, dst)
                         except Exception:
                             pass
         except Exception as e:
@@ -90,17 +92,25 @@ def get_data_paths():
     }
     # Ensure all files exist, falling back to bundled read-only assets if needed
     for key, target_path in paths.items():
-        if not os.path.exists(target_path):
-            fname = os.path.basename(target_path)
-            bundled_path = os.path.join(BUNDLED_OUTPUT_DIR, fname)
-            if os.path.exists(bundled_path):
-                try:
-                    import shutil
-                    os.makedirs(os.path.dirname(target_path), exist_ok=True)
-                    shutil.copy2(bundled_path, target_path)
-                except Exception:
-                    paths[key] = bundled_path
+        fname = os.path.basename(target_path)
+        bundled_path = os.path.join(BUNDLED_OUTPUT_DIR, fname)
+        if not os.path.exists(target_path) and os.path.exists(bundled_path):
+            try:
+                import shutil
+                os.makedirs(os.path.dirname(target_path), exist_ok=True)
+                shutil.copy2(bundled_path, target_path)
+            except Exception:
+                paths[key] = bundled_path
     return paths
+
+
+@app.after_request
+def add_cache_headers(response):
+    """Ensure dynamic endpoints and tickets are never cached by intermediate CDN/browser."""
+    response.headers["Cache-Control"] = "no-cache, no-store, must-revalidate, max-age=0"
+    response.headers["Pragma"] = "no-cache"
+    response.headers["Expires"] = "0"
+    return response
 
 
 HTML_TEMPLATE = """<!DOCTYPE html>
@@ -648,10 +658,11 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
     async function loadData(showToastAlert = false) {
       try {
+        const ts = Date.now();
         const [slipsRes, fixturesRes, analyticsRes] = await Promise.all([
-          fetch('/api/slips'),
-          fetch('/api/fixtures'),
-          fetch('/api/analytics')
+          fetch(`/api/slips?_t=${ts}`),
+          fetch(`/api/fixtures?_t=${ts}`),
+          fetch(`/api/analytics?_t=${ts}`)
         ]);
         rawSlips = await slipsRes.json();
         rawFixtures = await fixturesRes.json();
