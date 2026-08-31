@@ -5,74 +5,74 @@
 --- [ 1.5-ODDS ULTRA BANKER ] ---
 >> ONÍTẸ́TẸ́ 1.5-ODDS ULTRA BANKER SLIP
    Ultra-conservative 2-3 leg banker ticket with top-tier statistical safety.
-   Total Odds: 1.25x  |  Avg Confidence: 95.8%  |  Legs: 2
+   Total Odds: 1.25x  |  Avg Confidence: 95.0%  |  Legs: 2
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-05:00  | Eintracht Fra vs Nuernberg (w) | Double Chance  | Eintracht Frankfurt (w) or | 1.12x | 96.2%
-       ↳ Justification: Double Chance 1X: 95% non-loss probability, Home won/drew 9/10 recent matches.
-08:00  | Sogndal vs Stromsgodset      | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.5 avg recent match goals.
+14:15  | Breidablik vs Stjarnan       | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.6 avg recent match goals.
+08:30  | Airbus UK Bro vs Holywell Town | Goals          | Over 1.5 Goals             | 1.12x | 94.7%
+       ↳ Justification: Over 1.5 Goals: 94% model rating + 3.5 avg recent match goals.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.25x  |  Avg Confidence: 84.0%  |  Legs: 4
+   Total Odds: 2.19x  |  Avg Confidence: 82.3%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-06:00  | Leeds vs Brentford           | Double Chance  | Leeds or Draw (1X)         | 1.18x | 87.4%
-       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 6/10 recent matches.
-14:45  | Club America  vs Club Tijuana  | 1X2            | Club America (w) To Win    | 1.19x | 84.9%
-       ↳ Justification: Straight Home Win: 78% model prob + 100% crowd consensus + strong home form.
-08:00  | Real Madrid vs Malaga        | 1X2            | Real Madrid To Win         | 1.24x | 81.9%
-       ↳ Justification: Straight Home Win: 75% model prob + 94% crowd consensus + strong home form.
-17:00  | Toluca vs FC Juarez          | 1X2            | Toluca To Win              | 1.29x | 81.6%
-       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
+09:00  | Yeovil vs Tamworth           | Double Chance  | Yeovil or Draw (1X)        | 1.18x | 84.2%
+       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 7/10 recent matches.
+09:00  | Macclesfield vs Hebburn Town | Double Chance  | Macclesfield or Draw (1X)  | 1.19x | 83.5%
+       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 7/10 recent matches.
+12:00  | Omonia vs Omonia Aradip      | 1X2            | Omonia To Win              | 1.31x | 81.1%
+       ↳ Justification: Straight Home Win: 71% model prob + 100% crowd consensus + strong home form.
+11:00  | Hapoel Afula vs Hapoel Raanan | Half Time      | 1st Half Under 1.5 Goals   | 1.19x | 80.4%
+       ↳ Justification: First Half Under 1.5 Goals: 78% model rating, disciplined early match pace.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 3.68x  |  Avg Confidence: 80.8%  |  Legs: 6
+   Total Odds: 3.48x  |  Avg Confidence: 80.1%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-08:00  | Real Madrid vs Malaga        | 1X2            | Real Madrid To Win         | 1.24x | 81.9%
-       ↳ Justification: Straight Home Win: 75% model prob + 94% crowd consensus + strong home form.
-17:00  | Toluca vs FC Juarez          | 1X2            | Toluca To Win              | 1.29x | 81.6%
-       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
-08:00  | Viking vs Aalesund           | 1X2            | Viking To Win              | 1.31x | 81.1%
+12:00  | Omonia vs Omonia Aradip      | 1X2            | Omonia To Win              | 1.31x | 81.1%
        ↳ Justification: Straight Home Win: 71% model prob + 100% crowd consensus + strong home form.
-10:00  | Fram Reykjavi vs KA Akureyri | BTS            | Both Teams To Score (Yes)  | 1.21x | 80.2%
-       ↳ Justification: Both Teams To Score (Yes): 77% model prob, verified dual scoring consistency in recent form.
-12:15  | Valur Reykjav vs IA Akranes  | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 4.0 combined goals/game.
-10:00  | Mantova vs Empoli            | DNB            | Mantova (Draw No Bet)      | 1.20x | 80.0%
+08:30  | Airbus UK Bro vs Holywell Town | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.5 combined goals/game.
+14:15  | Benfica vs Estoril           | 1X2            | Benfica To Win             | 1.24x | 80.1%
+       ↳ Justification: Straight Home Win: 75% model prob + 88% crowd consensus + strong home form.
+12:00  | Burgos vs Real Sociedad      | DNB            | Burgos (Draw No Bet)       | 1.20x | 80.0%
        ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (84% non-loss).
+14:15  | Breidablik vs Stjarnan       | BTS            | Both Teams To Score (Yes)  | 1.22x | 79.6%
+       ↳ Justification: Both Teams To Score (Yes): 76% model prob, verified dual scoring consistency in recent form.
+13:30  | Racing Montev vs Albion FC   | Half Time      | 1st Half Under 1.5 Goals   | 1.21x | 79.4%
+       ↳ Justification: First Half Under 1.5 Goals: 77% model rating, disciplined early match pace.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 6.38x  |  Avg Confidence: 79.6%  |  Legs: 8
+   Total Odds: 6.38x  |  Avg Confidence: 78.6%  |  Legs: 8
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-17:00  | Toluca vs FC Juarez          | 1X2            | Toluca To Win              | 1.29x | 81.6%
-       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
-08:00  | Viking vs Aalesund           | 1X2            | Viking To Win              | 1.31x | 81.1%
+12:00  | Omonia vs Omonia Aradip      | 1X2            | Omonia To Win              | 1.31x | 81.1%
        ↳ Justification: Straight Home Win: 71% model prob + 100% crowd consensus + strong home form.
-07:00  | Ogre United vs Rigas Futbola | 1X2            | Rigas Futbola Skola To Win | 1.33x | 80.5%
-       ↳ Justification: Straight Away Win: 70% model prob + 100% crowd consensus + away form.
-08:00  | Bryne vs Haugesund           | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.9 combined goals/game.
-08:00  | Hodd vs Stabaek              | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 4.3 combined goals/game.
-05:00  | Eintracht Fra vs Nuernberg (w) | Goals          | Over 2.5 Goals             | 1.26x | 78.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (74% model) with 3.9 combined goals/game.
-07:30  | FC St. Gallen vs FC Thun     | DNB            | FC St. Gallen (Draw No Bet | 1.22x | 78.3%
+14:15  | Benfica vs Estoril           | 1X2            | Benfica To Win             | 1.24x | 80.1%
+       ↳ Justification: Straight Home Win: 75% model prob + 88% crowd consensus + strong home form.
+14:15  | Breidablik vs Stjarnan       | BTS            | Both Teams To Score (Yes)  | 1.22x | 79.6%
+       ↳ Justification: Both Teams To Score (Yes): 76% model prob, verified dual scoring consistency in recent form.
+14:00  | AlbinoLeffe vs Ospitaletto   | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 78.7%
+       ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
+12:00  | GAIS vs IF Brommapojk        | DNB            | GAIS (Draw No Bet)         | 1.23x | 77.9%
        ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (82% non-loss).
-10:00  | Sporting CP B vs Farense     | Half Time      | 1st Half Under 1.5 Goals   | 1.24x | 78.0%
-       ↳ Justification: First Half Under 1.5 Goals: 75% model rating, disciplined early match pace.
+13:15  | FC Wil 1900 vs FC Aarau      | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.9 combined goals/game.
+09:00  | Buxton vs Merthyr            | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.0 combined goals/game.
+09:00  | Real Bedford vs Leighton Town | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 4.6 combined goals/game.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
