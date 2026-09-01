@@ -5,74 +5,76 @@
 --- [ 1.5-ODDS ULTRA BANKER ] ---
 >> ONÍTẸ́TẸ́ 1.5-ODDS ULTRA BANKER SLIP
    Ultra-conservative 2-3 leg banker ticket with top-tier statistical safety.
-   Total Odds: 1.25x  |  Avg Confidence: 95.0%  |  Legs: 2
+   Total Odds: 1.44x  |  Avg Confidence: 92.1%  |  Legs: 3
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-14:15  | Breidablik vs Stjarnan       | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.6 avg recent match goals.
-08:30  | Airbus UK Bro vs Holywell Town | Goals          | Over 1.5 Goals             | 1.12x | 94.7%
-       ↳ Justification: Over 1.5 Goals: 94% model rating + 3.5 avg recent match goals.
+13:30  | KR Reykjavik vs Vikingur Reyk | Goals          | Over 1.5 Goals             | 1.12x | 94.7%
+       ↳ Justification: Over 1.5 Goals: 94% model rating + 4.8 avg recent match goals.
+13:00  | Gjovik-Lyn vs Brumunddal     | DNB            | Gjovik-Lyn (Draw No Bet)   | 1.12x | 93.1%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (95% non-loss).
+14:45  | Chesterfield vs Gillingham   | Double Chance  | Chesterfield or Draw (1X)  | 1.15x | 88.6%
+       ↳ Justification: Double Chance 1X: 81% non-loss probability, Home won/drew 5/10 recent matches.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.19x  |  Avg Confidence: 82.3%  |  Legs: 4
+   Total Odds: 2.74x  |  Avg Confidence: 77.3%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-09:00  | Yeovil vs Tamworth           | Double Chance  | Yeovil or Draw (1X)        | 1.18x | 84.2%
-       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 7/10 recent matches.
-09:00  | Macclesfield vs Hebburn Town | Double Chance  | Macclesfield or Draw (1X)  | 1.19x | 83.5%
-       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 7/10 recent matches.
-12:00  | Omonia vs Omonia Aradip      | 1X2            | Omonia To Win              | 1.31x | 81.1%
-       ↳ Justification: Straight Home Win: 71% model prob + 100% crowd consensus + strong home form.
-11:00  | Hapoel Afula vs Hapoel Raanan | Half Time      | 1st Half Under 1.5 Goals   | 1.19x | 80.4%
-       ↳ Justification: First Half Under 1.5 Goals: 78% model rating, disciplined early match pace.
+14:30  | FC Zurich vs BSC Young Boy   | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 4.0 combined goals/game.
+13:30  | KR Reykjavik vs Vikingur Reyk | BTS            | Both Teams To Score (Yes)  | 1.27x | 77.8%
+       ↳ Justification: Both Teams To Score (Yes): 73% model prob, verified dual scoring consistency in recent form.
+14:45  | FC Halifax To vs Hartlepool  | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.1 combined goals/game.
+13:30  | Stade Nyonnai vs FC Winterthur | BTS            | Both Teams To Score (Yes)  | 1.33x | 76.0%
+       ↳ Justification: Both Teams To Score (Yes): 70% model prob, verified dual scoring consistency in recent form.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 3.48x  |  Avg Confidence: 80.1%  |  Legs: 6
+   Total Odds: 4.53x  |  Avg Confidence: 76.7%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-12:00  | Omonia vs Omonia Aradip      | 1X2            | Omonia To Win              | 1.31x | 81.1%
-       ↳ Justification: Straight Home Win: 71% model prob + 100% crowd consensus + strong home form.
-08:30  | Airbus UK Bro vs Holywell Town | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.5 combined goals/game.
-14:15  | Benfica vs Estoril           | 1X2            | Benfica To Win             | 1.24x | 80.1%
-       ↳ Justification: Straight Home Win: 75% model prob + 88% crowd consensus + strong home form.
-12:00  | Burgos vs Real Sociedad      | DNB            | Burgos (Draw No Bet)       | 1.20x | 80.0%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (84% non-loss).
-14:15  | Breidablik vs Stjarnan       | BTS            | Both Teams To Score (Yes)  | 1.22x | 79.6%
-       ↳ Justification: Both Teams To Score (Yes): 76% model prob, verified dual scoring consistency in recent form.
-13:30  | Racing Montev vs Albion FC   | Half Time      | 1st Half Under 1.5 Goals   | 1.21x | 79.4%
-       ↳ Justification: First Half Under 1.5 Goals: 77% model rating, disciplined early match pace.
+13:30  | Durban City vs Stellenbosch  | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 79.0%
+       ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
+13:30  | KR Reykjavik vs Vikingur Reyk | BTS            | Both Teams To Score (Yes)  | 1.27x | 77.8%
+       ↳ Justification: Both Teams To Score (Yes): 73% model prob, verified dual scoring consistency in recent form.
+14:45  | FC Halifax To vs Hartlepool  | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.1 combined goals/game.
+13:30  | Stade Nyonnai vs FC Winterthur | BTS            | Both Teams To Score (Yes)  | 1.33x | 76.0%
+       ↳ Justification: Both Teams To Score (Yes): 70% model prob, verified dual scoring consistency in recent form.
+11:30  | Gol Gohar vs Aluminium Ara   | DNB            | Gol Gohar (Draw No Bet)    | 1.28x | 75.7%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
+14:45  | Sheffield Utd vs Bolton      | Goals          | Under 3.5 Goals            | 1.31x | 75.2%
+       ↳ Justification: Defensive Lock: 71% Under 3.5 model + disciplined low scoring pace.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 6.38x  |  Avg Confidence: 78.6%  |  Legs: 8
+   Total Odds: 6.54x  |  Avg Confidence: 77.3%  |  Legs: 8
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-12:00  | Omonia vs Omonia Aradip      | 1X2            | Omonia To Win              | 1.31x | 81.1%
-       ↳ Justification: Straight Home Win: 71% model prob + 100% crowd consensus + strong home form.
-14:15  | Benfica vs Estoril           | 1X2            | Benfica To Win             | 1.24x | 80.1%
-       ↳ Justification: Straight Home Win: 75% model prob + 88% crowd consensus + strong home form.
-14:15  | Breidablik vs Stjarnan       | BTS            | Both Teams To Score (Yes)  | 1.22x | 79.6%
-       ↳ Justification: Both Teams To Score (Yes): 76% model prob, verified dual scoring consistency in recent form.
-14:00  | AlbinoLeffe vs Ospitaletto   | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 78.7%
+13:30  | Durban City vs Stellenbosch  | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 79.0%
        ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
-12:00  | GAIS vs IF Brommapojk        | DNB            | GAIS (Draw No Bet)         | 1.23x | 77.9%
+14:30  | FC Zurich vs BSC Young Boy   | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 4.0 combined goals/game.
+13:30  | KR Reykjavik vs Vikingur Reyk | BTS            | Both Teams To Score (Yes)  | 1.27x | 77.8%
+       ↳ Justification: Both Teams To Score (Yes): 73% model prob, verified dual scoring consistency in recent form.
+14:45  | Swansea vs Watford           | DNB            | Swansea (Draw No Bet)      | 1.25x | 77.0%
        ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (82% non-loss).
-13:15  | FC Wil 1900 vs FC Aarau      | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.9 combined goals/game.
-09:00  | Buxton vs Merthyr            | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.0 combined goals/game.
-09:00  | Real Bedford vs Leighton Town | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 4.6 combined goals/game.
+11:45  | Shams Azar Qa vs Tractor Sazi | BTS            | Both Teams To Score (No)   | 1.24x | 76.8%
+       ↳ Justification: Both Teams To Score (No) / OTS: 75% clean sheet / one team score probability.
+14:45  | FC Halifax To vs Hartlepool  | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.1 combined goals/game.
+14:45  | Chesterfield vs Gillingham   | DNB            | Chesterfield (Draw No Bet) | 1.26x | 76.4%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
+13:30  | Stade Nyonnai vs FC Winterthur | BTS            | Both Teams To Score (Yes)  | 1.33x | 76.0%
+       ↳ Justification: Both Teams To Score (Yes): 70% model prob, verified dual scoring consistency in recent form.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
