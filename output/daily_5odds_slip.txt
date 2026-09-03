@@ -5,74 +5,74 @@
 --- [ 1.5-ODDS ULTRA BANKER ] ---
 >> ONÍTẸ́TẸ́ 1.5-ODDS ULTRA BANKER SLIP
    Ultra-conservative 2-3 leg banker ticket with top-tier statistical safety.
-   Total Odds: 1.25x  |  Avg Confidence: 95.3%  |  Legs: 2
+   Total Odds: 1.40x  |  Avg Confidence: 89.8%  |  Legs: 3
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-15:30  | EPS vs Honka                 | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.0 avg recent match goals.
-15:30  | VPS Akatemia vs GBK          | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.6 avg recent match goals.
+09:00  | HIFK vs Hps                  | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.8 avg recent match goals.
+10:00  | Al Ahly Cairo vs Smouha SC   | DNB            | Al Ahly Cairo (Draw No Bet | 1.12x | 89.3%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (91% non-loss).
+09:30  | Dinamo Moscow vs Akhmat Grozny | Double Chance  | Dinamo Moscow or Draw (1X) | 1.12x | 84.8%
+       ↳ Justification: Double Chance 1X: 84% non-loss probability, Home won/drew 7/10 recent matches.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.70x  |  Avg Confidence: 79.8%  |  Legs: 4
+   Total Odds: 2.76x  |  Avg Confidence: 77.5%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-18:45  | Celtic vs Aberdeen           | 1X2            | Celtic To Win              | 1.19x | 84.9%
-       ↳ Justification: Straight Home Win: 78% model prob + 100% crowd consensus + strong home form.
-23:30  | Charlotte Ind vs Portland Hear | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.6 combined goals/game.
-15:30  | Zenit vs FK Makhachkal       | 1X2            | Zenit To Win               | 1.39x | 78.8%
-       ↳ Justification: Straight Home Win: 67% model prob + 100% crowd consensus + strong home form.
-18:30  | Grasshopper-C vs FC St. Gallen | Goals          | Over 2.5 Goals             | 1.35x | 75.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (69% model) with 4.2 combined goals/game.
+06:30  | Haras El Hodo vs El Entag El H | Half Time      | 1st Half Under 1.5 Goals   | 1.19x | 80.2%
+       ↳ Justification: First Half Under 1.5 Goals: 78% model rating, disciplined early match pace.
+09:00  | HIFK vs Hps                  | BTS            | Both Teams To Score (Yes)  | 1.29x | 77.2%
+       ↳ Justification: Both Teams To Score (Yes): 72% model prob, verified dual scoring consistency in recent form.
+07:00  | Al-Ahli Doha vs Qatar SC     | BTS            | Both Teams To Score (Yes)  | 1.31x | 76.6%
+       ↳ Justification: Both Teams To Score (Yes): 71% model prob, verified dual scoring consistency in recent form.
+10:00  | Al Ahly Cairo vs Smouha SC   | 1X2            | Al Ahly Cairo To Win       | 1.37x | 75.8%
+       ↳ Justification: Straight Home Win: 68% model prob + 86% crowd consensus + strong home form.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 4.54x  |  Avg Confidence: 78.2%  |  Legs: 6
+   Total Odds: 4.77x  |  Avg Confidence: 76.9%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-16:00  | Flora Tallinn vs Tammeka Tartu | 1X2            | Flora Tallinn To Win       | 1.22x | 81.7%
-       ↳ Justification: Straight Home Win: 76% model prob + 92% crowd consensus + strong home form.
-15:30  | Zenit vs FK Makhachkal       | 1X2            | Zenit To Win               | 1.39x | 78.8%
-       ↳ Justification: Straight Home Win: 67% model prob + 100% crowd consensus + strong home form.
-14:00  | El Gouna FC vs Al Mokawloon  | Half Time      | 1st Half Under 1.5 Goals   | 1.24x | 78.0%
-       ↳ Justification: First Half Under 1.5 Goals: 75% model rating, disciplined early match pace.
-18:45  | Burton Albion vs AFC Wimbledon | Half Time      | 1st Half Under 1.5 Goals   | 1.24x | 78.0%
-       ↳ Justification: First Half Under 1.5 Goals: 75% model rating, disciplined early match pace.
-18:45  | Luton vs Stockport           | Goals          | Over 2.5 Goals             | 1.27x | 77.8%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (73% model) with 3.8 combined goals/game.
-18:30  | FC Thun vs FC Lausanne-S     | Goals          | Over 2.5 Goals             | 1.37x | 74.8%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (68% model) with 4.2 combined goals/game.
+09:30  | Dinamo Moscow vs Akhmat Grozny | DNB            | Dinamo Moscow (Draw No Bet | 1.22x | 78.9%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (84% non-loss).
+09:00  | HIFK vs Hps                  | BTS            | Both Teams To Score (Yes)  | 1.29x | 77.2%
+       ↳ Justification: Both Teams To Score (Yes): 72% model prob, verified dual scoring consistency in recent form.
+10:00  | BB Bodrumspor vs Esenler Eroks | Goals          | Under 3.5 Goals            | 1.27x | 76.6%
+       ↳ Justification: Defensive Lock: 73% Under 3.5 model + disciplined low scoring pace.
+07:00  | Al-Ahli Doha vs Qatar SC     | BTS            | Both Teams To Score (Yes)  | 1.31x | 76.6%
+       ↳ Justification: Both Teams To Score (Yes): 71% model prob, verified dual scoring consistency in recent form.
+11:00  | FC Copenhagen vs FC Nordsjaell | Goals          | Over 2.5 Goals             | 1.33x | 76.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (70% model) with 3.1 combined goals/game.
+10:00  | Al Ahly Cairo vs Smouha SC   | 1X2            | Al Ahly Cairo To Win       | 1.37x | 75.8%
+       ↳ Justification: Straight Home Win: 68% model prob + 86% crowd consensus + strong home form.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 6.39x  |  Avg Confidence: 78.7%  |  Legs: 8
+   Total Odds: 8.64x  |  Avg Confidence: 73.2%  |  Legs: 7
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-16:00  | Flora Tallinn vs Tammeka Tartu | 1X2            | Flora Tallinn To Win       | 1.22x | 81.7%
-       ↳ Justification: Straight Home Win: 76% model prob + 92% crowd consensus + strong home form.
-17:45  | Spartak Mosco vs Rodina      | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.3 combined goals/game.
-18:30  | FC Luzern vs FC Vaduz        | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.8 combined goals/game.
-15:30  | Zenit vs FK Makhachkal       | 1X2            | Zenit To Win               | 1.39x | 78.8%
-       ↳ Justification: Straight Home Win: 67% model prob + 100% crowd consensus + strong home form.
-19:00  | Sportivo Amel vs Sportivo Trin | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 78.7%
-       ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
-14:00  | El Gouna FC vs Al Mokawloon  | Half Time      | 1st Half Under 1.5 Goals   | 1.24x | 78.0%
-       ↳ Justification: First Half Under 1.5 Goals: 75% model rating, disciplined early match pace.
-18:45  | Burton Albion vs AFC Wimbledon | Half Time      | 1st Half Under 1.5 Goals   | 1.24x | 78.0%
-       ↳ Justification: First Half Under 1.5 Goals: 75% model rating, disciplined early match pace.
-18:30  | Grasshopper-C vs FC St. Gallen | Goals          | Over 2.5 Goals             | 1.35x | 75.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (69% model) with 4.2 combined goals/game.
+09:30  | Dinamo Moscow vs Akhmat Grozny | DNB            | Dinamo Moscow (Draw No Bet | 1.22x | 78.9%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (84% non-loss).
+11:00  | FC Copenhagen vs FC Nordsjaell | Goals          | Over 2.5 Goals             | 1.33x | 76.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (70% model) with 3.1 combined goals/game.
+11:30  | FC Basel 1893 vs FC Sion     | Goals          | Over 2.5 Goals             | 1.33x | 76.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (70% model) with 4.3 combined goals/game.
+10:00  | Al Ahly Cairo vs Smouha SC   | 1X2            | Al Ahly Cairo To Win       | 1.37x | 75.8%
+       ↳ Justification: Straight Home Win: 68% model prob + 86% crowd consensus + strong home form.
+11:45  | Rouen vs Valenciennes        | DNB            | Rouen (Draw No Bet)        | 1.30x | 74.4%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (80% non-loss).
+11:45  | Hibernian vs Hearts          | BTS            | Both Teams To Score (Yes)  | 1.45x | 72.4%
+       ↳ Justification: Both Teams To Score (Yes): 64% model prob, verified dual scoring consistency in recent form.
+11:00  | Panathinaikos vs Niki Volou  | BTS            | Both Teams To Score (No)   | 1.55x | 59.0%
+       ↳ Justification: Both Teams To Score (No) / OTS: 60% clean sheet / one team score probability.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
