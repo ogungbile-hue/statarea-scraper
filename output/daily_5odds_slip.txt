@@ -9,70 +9,70 @@
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-17:00  | BSC Young Boy vs FC Luzern   | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.0 avg recent match goals.
-19:00  | Stabaek vs Moss              | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+10:00  | Molde vs KFUM Oslo           | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
        ↳ Justification: Over 1.5 Goals: 95% model rating + 3.9 avg recent match goals.
+06:30  | Viking 2 vs Stabaek 2        | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.0 avg recent match goals.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.07x  |  Avg Confidence: 86.2%  |  Legs: 4
+   Total Odds: 2.04x  |  Avg Confidence: 85.4%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-15:00  | Brighton vs Leeds            | Double Chance  | Brighton or Draw (1X)      | 1.18x | 87.4%
-       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 9/10 recent matches.
-15:00  | West Brom vs Watford         | Double Chance  | West Brom or Draw (1X)     | 1.18x | 87.4%
-       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 5/10 recent matches.
-18:00  | Pendikspor vs Umraniyespor   | Double Chance  | Pendikspor or Draw (1X)    | 1.18x | 87.4%
-       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 9/10 recent matches.
-17:00  | NK Dinamo Zag vs HNK Gorica  | 1X2            | NK Dinamo Zagreb To Win    | 1.26x | 82.7%
-       ↳ Justification: Straight Home Win: 74% model prob + 100% crowd consensus + strong home form.
+11:15  | Murcia vs Teruel             | Double Chance  | Murcia or Draw (1X)        | 1.18x | 87.4%
+       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 2/10 recent matches.
+08:00  | IFK Trellebor vs Linero If   | Double Chance  | IFK Trelleborg FK or Draw  | 1.18x | 87.4%
+       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 6/10 recent matches.
+08:00  | Modena vs Avellino           | Double Chance  | Modena or Draw (1X)        | 1.18x | 83.7%
+       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 6/10 recent matches.
+09:00  | Skara FC vs Vanersborgs I    | 1X2            | Skara FC To Win            | 1.24x | 83.2%
+       ↳ Justification: Straight Home Win: 75% model prob + 100% crowd consensus + strong home form.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 3.77x  |  Avg Confidence: 80.8%  |  Legs: 6
+   Total Odds: 3.71x  |  Avg Confidence: 80.8%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-17:00  | NK Dinamo Zag vs HNK Gorica  | 1X2            | NK Dinamo Zagreb To Win    | 1.26x | 82.7%
-       ↳ Justification: Straight Home Win: 74% model prob + 100% crowd consensus + strong home form.
-15:00  | Kongsvinger vs Raufoss       | 1X2            | Kongsvinger To Win         | 1.29x | 81.6%
+09:00  | Skara FC vs Vanersborgs I    | 1X2            | Skara FC To Win            | 1.24x | 83.2%
+       ↳ Justification: Straight Home Win: 75% model prob + 100% crowd consensus + strong home form.
+07:00  | Persib Bandun vs PSM Makassar | 1X2            | Persib Bandung To Win      | 1.29x | 81.6%
        ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
-14:00  | Bandirmaspor vs Boluspor     | 1X2            | Bandirmaspor To Win        | 1.33x | 80.5%
+10:45  | Ferencvarosi  vs Ujpest      | 1X2            | Ferencvarosi TC To Win     | 1.33x | 80.5%
        ↳ Justification: Straight Home Win: 70% model prob + 100% crowd consensus + strong home form.
-17:00  | MSK Zilina vs Zeleziarne Po  | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.5 combined goals/game.
-13:00  | Reims vs Guingamp            | DNB            | Reims (Draw No Bet)        | 1.20x | 80.0%
+11:30  | Castellon vs Albacete        | DNB            | Castellon (Draw No Bet)    | 1.20x | 80.0%
        ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (84% non-loss).
-13:45  | La Roche vs Quevilly         | DNB            | La Roche (Draw No Bet)     | 1.20x | 80.0%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (84% non-loss).
+08:00  | Juve Stabia vs Pisa          | Half Time      | 1st Half Under 1.5 Goals   | 1.20x | 80.0%
+       ↳ Justification: First Half Under 1.5 Goals: 78% model rating, disciplined early match pace.
+14:00  | Cittadella vs Lumezzane      | DNB            | Cittadella (Draw No Bet)   | 1.21x | 79.7%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (85% non-loss).
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 6.42x  |  Avg Confidence: 79.8%  |  Legs: 8
+   Total Odds: 6.40x  |  Avg Confidence: 79.7%  |  Legs: 8
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-17:00  | NK Dinamo Zag vs HNK Gorica  | 1X2            | NK Dinamo Zagreb To Win    | 1.26x | 82.7%
-       ↳ Justification: Straight Home Win: 74% model prob + 100% crowd consensus + strong home form.
-14:00  | Bandirmaspor vs Boluspor     | 1X2            | Bandirmaspor To Win        | 1.33x | 80.5%
-       ↳ Justification: Straight Home Win: 70% model prob + 100% crowd consensus + strong home form.
-18:30  | Maccabi Haifa vs Hapoel Petah  | 1X2            | Maccabi Haifa To Win       | 1.35x | 80.0%
+09:00  | Skara FC vs Vanersborgs I    | 1X2            | Skara FC To Win            | 1.24x | 83.2%
+       ↳ Justification: Straight Home Win: 75% model prob + 100% crowd consensus + strong home form.
+10:30  | Maribor vs NS Mura           | 1X2            | Maribor To Win             | 1.35x | 80.0%
        ↳ Justification: Straight Home Win: 69% model prob + 100% crowd consensus + strong home form.
-12:00  | Follo vs Tromsdalen UI       | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.2 combined goals/game.
-20:30  | Sporting CP vs Nacional      | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.2 combined goals/game.
-17:00  | BSC Young Boy vs FC Luzern   | BTS            | Both Teams To Score (Yes)  | 1.24x | 79.0%
-       ↳ Justification: Both Teams To Score (Yes): 75% model prob, verified dual scoring consistency in recent form.
-14:00  | Mjondalen vs Jerv            | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+09:00  | IA Akranes vs KR Reykjavik   | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 4.8 combined goals/game.
+10:00  | Molde vs KFUM Oslo           | 1X2            | Molde To Win               | 1.37x | 79.4%
+       ↳ Justification: Straight Home Win: 68% model prob + 100% crowd consensus + strong home form.
+06:00  | Tamaraceite vs Sevilla Atlet | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 79.0%
+       ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
+06:00  | Grorud vs Rana FK            | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.8 combined goals/game.
+06:00  | BK Astrio vs Astorps FF      | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
        ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.0 combined goals/game.
-17:00  | Inter vs Napoli              | DNB            | Inter (Draw No Bet)        | 1.22x | 78.7%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (83% non-loss).
+08:00  | CA Cerro vs Racing Montev    | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 78.7%
+       ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
