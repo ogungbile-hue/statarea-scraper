@@ -9,70 +9,70 @@
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-14:00  | Bayern Munich vs Bodo/Glimt  | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.5 avg recent match goals.
-11:15  | Al-Sailiya vs Al-Sadd        | Goals          | Over 1.5 Goals             | 1.12x | 94.7%
-       ↳ Justification: Over 1.5 Goals: 94% model rating + 3.5 avg recent match goals.
+13:00  | Johor Darul T vs Negeri Sembil | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.2 avg recent match goals.
+18:45  | Caerau Ely vs Llanelli Town  | Goals          | Over 1.5 Goals             | 1.12x | 94.7%
+       ↳ Justification: Over 1.5 Goals: 94% model rating + 4.2 avg recent match goals.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.71x  |  Avg Confidence: 80.2%  |  Legs: 4
+   Total Odds: 2.07x  |  Avg Confidence: 84.7%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-17:30  | Sao Bernardo vs Londrina     | Double Chance  | Sao Bernardo or Draw (1X)  | 1.18x | 82.4%
-       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 6/10 recent matches.
-10:00  | Dinamo Tbilis vs FC Meshakhte  | 1X2            | Dinamo Tbilisi To Win      | 1.35x | 80.0%
-       ↳ Justification: Straight Home Win: 69% model prob + 100% crowd consensus + strong home form.
-11:15  | Al-Sailiya vs Al-Sadd        | 1X2            | Al-Sadd To Win             | 1.37x | 79.4%
-       ↳ Justification: Straight Away Win: 68% model prob + 100% crowd consensus + away form.
-14:00  | Como vs RB Leipzig           | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.3 combined goals/game.
+18:45  | Drogheda Unit vs Sligo Rovers | Double Chance  | Drogheda United or Draw (1 | 1.18x | 87.4%
+       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 4/10 recent matches.
+13:00  | Johor Darul T vs Negeri Sembil | 1X2            | Johor Darul Takzim To Win  | 1.19x | 84.9%
+       ↳ Justification: Straight Home Win: 78% model prob + 100% crowd consensus + strong home form.
+16:30  | FC Nurnberg vs Hannover 96   | Double Chance  | FC Nurnberg or Draw (1X)   | 1.19x | 83.2%
+       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 7/10 recent matches.
+18:00  | NK Tabor Seza vs Dravinja Kost | 1X2            | NK Tabor Sezana To Win     | 1.24x | 83.2%
+       ↳ Justification: Straight Home Win: 75% model prob + 100% crowd consensus + strong home form.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 4.51x  |  Avg Confidence: 78.7%  |  Legs: 6
+   Total Odds: 3.86x  |  Avg Confidence: 80.8%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-10:00  | Dinamo Tbilis vs FC Meshakhte  | 1X2            | Dinamo Tbilisi To Win      | 1.35x | 80.0%
+18:00  | NK Tabor Seza vs Dravinja Kost | 1X2            | NK Tabor Sezana To Win     | 1.24x | 83.2%
+       ↳ Justification: Straight Home Win: 75% model prob + 100% crowd consensus + strong home form.
+18:00  | Al-Ahli Jedda vs Al Hazem    | 1X2            | Al-Ahli Jeddah To Win      | 1.29x | 81.6%
+       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
+18:45  | Denbigh Town vs Bala Town    | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.4 combined goals/game.
+17:00  | SC Freiburg I vs SV Sandhausen | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.8 combined goals/game.
+11:30  | Tampines Rove vs Balestier Kha | 1X2            | Tampines Rovers FC To Win  | 1.35x | 80.0%
        ↳ Justification: Straight Home Win: 69% model prob + 100% crowd consensus + strong home form.
-11:15  | Al-Sailiya vs Al-Sadd        | 1X2            | Al-Sadd To Win             | 1.37x | 79.4%
-       ↳ Justification: Straight Away Win: 68% model prob + 100% crowd consensus + away form.
-11:00  | Al-Jazeera Am vs Shabab Al-Ord | Half Time      | 1st Half Under 1.5 Goals   | 1.21x | 79.1%
-       ↳ Justification: First Half Under 1.5 Goals: 77% model rating, disciplined early match pace.
-14:00  | Como vs RB Leipzig           | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.3 combined goals/game.
-17:00  | Orsomarso vs Tigres FC       | Half Time      | 1st Half Under 1.5 Goals   | 1.24x | 78.0%
-       ↳ Justification: First Half Under 1.5 Goals: 75% model rating, disciplined early match pace.
-14:00  | Slavia Praha vs Lens         | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.2 combined goals/game.
+18:45  | Airbus UK Bro vs The New Saint | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 2.8 combined goals/game.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 8.73x  |  Avg Confidence: 77.2%  |  Legs: 8
+   Total Odds: 6.40x  |  Avg Confidence: 79.6%  |  Legs: 8
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-10:00  | Dinamo Tbilis vs FC Meshakhte  | 1X2            | Dinamo Tbilisi To Win      | 1.35x | 80.0%
+18:00  | NK Tabor Seza vs Dravinja Kost | 1X2            | NK Tabor Sezana To Win     | 1.24x | 83.2%
+       ↳ Justification: Straight Home Win: 75% model prob + 100% crowd consensus + strong home form.
+11:30  | Tampines Rove vs Balestier Kha | 1X2            | Tampines Rovers FC To Win  | 1.35x | 80.0%
        ↳ Justification: Straight Home Win: 69% model prob + 100% crowd consensus + strong home form.
-11:15  | Al-Sailiya vs Al-Sadd        | 1X2            | Al-Sadd To Win             | 1.37x | 79.4%
-       ↳ Justification: Straight Away Win: 68% model prob + 100% crowd consensus + away form.
-14:00  | Como vs RB Leipzig           | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.3 combined goals/game.
-17:00  | Orsomarso vs Tigres FC       | Half Time      | 1st Half Under 1.5 Goals   | 1.24x | 78.0%
+18:45  | Airbus UK Bro vs The New Saint | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 2.8 combined goals/game.
+17:00  | FC Copenhagen vs AC Horsens  | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.9 combined goals/game.
+18:45  | Caerau Ely vs Llanelli Town  | 1X2            | Caerau Ely To Win          | 1.37x | 79.4%
+       ↳ Justification: Straight Home Win: 68% model prob + 100% crowd consensus + strong home form.
+16:00  | Rakow Czestoc vs Motor Lublin | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.5 combined goals/game.
+19:00  | Audace Cerign vs Giugliano   | Half Time      | 1st Half Under 1.5 Goals   | 1.24x | 78.1%
        ↳ Justification: First Half Under 1.5 Goals: 75% model rating, disciplined early match pace.
-08:30  | Kahrbaa Alasm vs El Dakhleya | Goals          | Under 3.5 Goals            | 1.26x | 77.3%
-       ↳ Justification: Defensive Lock: 74% Under 3.5 model + disciplined low scoring pace.
-11:00  | Ironi Modiin vs Bnei Yehuda T | DNB            | Bnei Yehuda Tel Aviv (Draw | 1.28x | 75.2%
-       ↳ Justification: Away Draw No Bet (2 DNB): High away edge with draw refund protection (80% non-loss).
-14:00  | Bayern Munich vs Bodo/Glimt  | BTS            | Both Teams To Score (Yes)  | 1.37x | 74.8%
-       ↳ Justification: Both Teams To Score (Yes): 68% model prob, verified dual scoring consistency in recent form.
-11:00  | Maccabi Kabil vs Hapoel Raanan | BTS            | Both Teams To Score (Yes)  | 1.39x | 74.2%
-       ↳ Justification: Both Teams To Score (Yes): 67% model prob, verified dual scoring consistency in recent form.
+17:30  | FC Stade LS O vs FC Wil 1900 | DNB            | FC Stade LS Ouchy (Draw No | 1.22x | 77.7%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
