@@ -9,68 +9,68 @@
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-15:30  | SV Elversberg vs Bayern Munich | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.7 avg recent match goals.
-15:00  | Raufoss vs Odd Ballklubb     | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.4 avg recent match goals.
+17:00  | Bodo/Glimt vs Sandefjord     | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.0 avg recent match goals.
+18:00  | IFK Haninge vs Syrianska FC  | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.2 avg recent match goals.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.19x  |  Avg Confidence: 83.8%  |  Legs: 4
+   Total Odds: 2.07x  |  Avg Confidence: 81.8%  |  Legs: 3
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-11:30  | FC Heidenheim vs Holstein Kiel | Double Chance  | FC Heidenheim or Draw (1X) | 1.19x | 86.8%
+18:00  | FCSB vs Petrolul Ploi        | Double Chance  | FCSB or Draw (1X)          | 1.19x | 83.7%
        ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 7/10 recent matches.
-18:00  | Sport Boys vs Deportivo Gar  | Double Chance  | Sport Boys or Draw (1X)    | 1.18x | 83.8%
-       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 9/10 recent matches.
-19:00  | Mirassol vs Vitoria          | Double Chance  | Mirassol or Draw (1X)      | 1.19x | 83.5%
-       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 8/10 recent matches.
-12:30  | Viking vs Kristiansund       | 1X2            | Viking To Win              | 1.31x | 81.1%
+18:45  | Inter vs Udinese             | 1X2            | Inter To Win               | 1.31x | 81.1%
        ↳ Justification: Straight Home Win: 71% model prob + 100% crowd consensus + strong home form.
+18:00  | IFK Haninge vs Syrianska FC  | 1X2            | IFK Haninge To Win         | 1.33x | 80.5%
+       ↳ Justification: Straight Home Win: 70% model prob + 100% crowd consensus + strong home form.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 3.39x  |  Avg Confidence: 80.5%  |  Legs: 5
+   Total Odds: 4.59x  |  Avg Confidence: 78.8%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-12:30  | Viking vs Kristiansund       | 1X2            | Viking To Win              | 1.31x | 81.1%
+18:45  | Inter vs Udinese             | 1X2            | Inter To Win               | 1.31x | 81.1%
        ↳ Justification: Straight Home Win: 71% model prob + 100% crowd consensus + strong home form.
-22:30  | Vancouver Whi vs Austin FC   | 1X2            | Vancouver Whitecaps To Win | 1.33x | 80.5%
+18:00  | IFK Haninge vs Syrianska FC  | 1X2            | IFK Haninge To Win         | 1.33x | 80.5%
        ↳ Justification: Straight Home Win: 70% model prob + 100% crowd consensus + strong home form.
-18:00  | HNK Hajduk Sp vs NK Slaven Bel | 1X2            | HNK Hajduk Split To Win    | 1.33x | 80.5%
-       ↳ Justification: Straight Home Win: 70% model prob + 100% crowd consensus + strong home form.
-17:00  | Benfica vs Gil Vicente       | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.0 combined goals/game.
-12:00  | FC Zurich vs FC Vaduz        | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 4.0 combined goals/game.
+16:00  | Skjetten vs Tromso 2         | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 4.6 combined goals/game.
+17:00  | Stal Mielec vs Termalica Nie | BTS            | Both Teams To Score (Yes)  | 1.27x | 77.8%
+       ↳ Justification: Both Teams To Score (Yes): 73% model prob, verified dual scoring consistency in recent form.
+23:30  | Union La Cale vs Deportes Lima | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 2.9 combined goals/game.
+19:15  | Vikingur Reyk vs Keflavik    | BTS            | Both Teams To Score (Yes)  | 1.31x | 76.6%
+       ↳ Justification: Both Teams To Score (Yes): 71% model prob, verified dual scoring consistency in recent form.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 6.58x  |  Avg Confidence: 79.6%  |  Legs: 8
+   Total Odds: 8.53x  |  Avg Confidence: 77.3%  |  Legs: 8
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-12:30  | Viking vs Kristiansund       | 1X2            | Viking To Win              | 1.31x | 81.1%
-       ↳ Justification: Straight Home Win: 71% model prob + 100% crowd consensus + strong home form.
-22:30  | Vancouver Whi vs Austin FC   | 1X2            | Vancouver Whitecaps To Win | 1.33x | 80.5%
+18:00  | IFK Haninge vs Syrianska FC  | 1X2            | IFK Haninge To Win         | 1.33x | 80.5%
        ↳ Justification: Straight Home Win: 70% model prob + 100% crowd consensus + strong home form.
-18:00  | HNK Hajduk Sp vs NK Slaven Bel | 1X2            | HNK Hajduk Split To Win    | 1.33x | 80.5%
-       ↳ Justification: Straight Home Win: 70% model prob + 100% crowd consensus + strong home form.
-17:00  | Amedspor vs Istanbul Basa    | DNB            | Amedspor (Draw No Bet)     | 1.22x | 79.1%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (84% non-loss).
-18:45  | Stade Brestoi vs Paris Saint G | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.4 combined goals/game.
-15:00  | Ham-Kam vs Molde             | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.8 combined goals/game.
-08:15  | Slavia Praha  vs Viktoria Zizk | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.7 combined goals/game.
-15:00  | CF Talavera R vs Real Madrid C | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 78.8%
+15:50  | Al Bukayriyah vs Dhamk       | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 79.0%
        ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
+01:07  | Guadalajara-C vs U.N.A.M. - Pu | DNB            | Guadalajara-Chivas (Draw N | 1.23x | 77.7%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (82% non-loss).
+23:30  | Union La Cale vs Deportes Lima | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 2.9 combined goals/game.
+19:15  | Vikingur Reyk vs Keflavik    | BTS            | Both Teams To Score (Yes)  | 1.31x | 76.6%
+       ↳ Justification: Both Teams To Score (Yes): 71% model prob, verified dual scoring consistency in recent form.
+02:30  | San Jose Eart vs Real Monarchs | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.2 combined goals/game.
+21:00  | Deportes Sant vs Deportes Reco | BTS            | Both Teams To Score (Yes)  | 1.33x | 76.0%
+       ↳ Justification: Both Teams To Score (Yes): 70% model prob, verified dual scoring consistency in recent form.
+16:30  | Como vs Parma                | 1X2            | Como To Win                | 1.43x | 75.8%
+       ↳ Justification: Straight Home Win: 65% model prob + 92% crowd consensus + strong home form.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
