@@ -5,74 +5,76 @@
 --- [ 1.5-ODDS ULTRA BANKER ] ---
 >> ONÍTẸ́TẸ́ 1.5-ODDS ULTRA BANKER SLIP
    Ultra-conservative 2-3 leg banker ticket with top-tier statistical safety.
-   Total Odds: 1.25x  |  Avg Confidence: 94.7%  |  Legs: 2
+   Total Odds: 1.40x  |  Avg Confidence: 92.7%  |  Legs: 3
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-11:45  | Leatherhead vs Afc Whyteleaf | Goals          | Over 1.5 Goals             | 1.12x | 94.7%
-       ↳ Justification: Over 1.5 Goals: 94% model rating + 3.6 avg recent match goals.
-10:00  | MSV Duisburg vs TSV Havelse  | Double Chance  | MSV Duisburg or Draw (1X)  | 1.12x | 94.6%
-       ↳ Justification: Double Chance 1X: 91% non-loss probability, Home won/drew 5/10 recent matches.
+14:00  | Bayer Leverku vs NK Celje    | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.2 avg recent match goals.
+10:00  | Rivers United vs Warri Wolves  | DNB            | Rivers United (Draw No Bet | 1.12x | 91.9%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (93% non-loss).
+11:00  | FK Auda vs Ogre United       | Double Chance  | FK Auda or Draw (1X)       | 1.12x | 90.8%
+       ↳ Justification: Double Chance 1X: 91% non-loss probability, Home won/drew 9/10 recent matches.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.19x  |  Avg Confidence: 80.8%  |  Legs: 4
+   Total Odds: 2.12x  |  Avg Confidence: 81.8%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-11:45  | The New Saint vs Flint Town Un | 1X2            | The New Saints To Win      | 1.27x | 82.2%
+14:30  | Barcelona vs Racing Santan   | 1X2            | Barcelona To Win           | 1.18x | 83.4%
+       ↳ Justification: Straight Home Win: 79% model prob + 92% crowd consensus + strong home form.
+11:00  | Paide Lm vs Parnu JK Vapr    | 1X2            | Paide Lm To Win            | 1.27x | 82.2%
        ↳ Justification: Straight Home Win: 73% model prob + 100% crowd consensus + strong home form.
-12:30  | Elche vs Real Madrid         | DNB            | Real Madrid (Draw No Bet)  | 1.18x | 80.4%
-       ↳ Justification: Away Draw No Bet (2 DNB): High away edge with draw refund protection (83% non-loss).
-11:45  | Ross County vs Queen Of The  | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.2 combined goals/game.
-12:15  | Fram Reykjavi vs Breidablik  | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.6 combined goals/game.
+14:00  | Sunderland vs AZ Alkmaar     | Double Chance  | Sunderland or Draw (1X)    | 1.19x | 81.8%
+       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 8/10 recent matches.
+12:00  | Lunds BK vs Angelholms FF    | DNB            | Lunds BK (Draw No Bet)     | 1.19x | 79.9%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (83% non-loss).
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 4.57x  |  Avg Confidence: 78.8%  |  Legs: 6
+   Total Odds: 4.53x  |  Avg Confidence: 77.8%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-11:45  | The New Saint vs Flint Town Un | 1X2            | The New Saints To Win      | 1.27x | 82.2%
+11:00  | Paide Lm vs Parnu JK Vapr    | 1X2            | Paide Lm To Win            | 1.27x | 82.2%
        ↳ Justification: Straight Home Win: 73% model prob + 100% crowd consensus + strong home form.
-10:00  | MSV Duisburg vs TSV Havelse  | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.9 combined goals/game.
-07:00  | Asyut Petrole vs FUTURE FC   | Half Time      | 1st Half Under 1.5 Goals   | 1.23x | 78.6%
-       ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
-10:00  | FC Wurzburger vs Alemannia Aac | Goals          | Over 2.5 Goals             | 1.26x | 78.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (74% model) with 4.2 combined goals/game.
-11:45  | Harrogate Tow vs AFC Fylde   | BTS            | Both Teams To Score (Yes)  | 1.29x | 77.2%
-       ↳ Justification: Both Teams To Score (Yes): 72% model prob, verified dual scoring consistency in recent form.
-12:30  | Elche vs Real Madrid         | 1X2            | Real Madrid To Win         | 1.45x | 77.2%
-       ↳ Justification: Straight Away Win: 64% model prob + 100% crowd consensus + away form.
+12:00  | Preussen Muns vs FC Saarbrucke | BTS            | Both Teams To Score (Yes)  | 1.27x | 77.8%
+       ↳ Justification: Both Teams To Score (Yes): 73% model prob, verified dual scoring consistency in recent form.
+14:00  | Olympiakos Pi vs Jagiellonia | DNB            | Olympiakos Piraeus (Draw N | 1.25x | 76.7%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
+14:00  | Sturm Graz vs Rennes         | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.1 combined goals/game.
+12:30  | Gefle IF vs FC Arlanda       | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.2 combined goals/game.
+05:00  | Hamburger SV  vs FC St. Pauli  | BTS            | Both Teams To Score (Yes)  | 1.31x | 76.6%
+       ↳ Justification: Both Teams To Score (Yes): 71% model prob, verified dual scoring consistency in recent form.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 8.53x  |  Avg Confidence: 77.6%  |  Legs: 8
+   Total Odds: 6.55x  |  Avg Confidence: 78.6%  |  Legs: 8
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-11:45  | The New Saint vs Flint Town Un | 1X2            | The New Saints To Win      | 1.27x | 82.2%
+11:00  | Paide Lm vs Parnu JK Vapr    | 1X2            | Paide Lm To Win            | 1.27x | 82.2%
        ↳ Justification: Straight Home Win: 73% model prob + 100% crowd consensus + strong home form.
-07:00  | Asyut Petrole vs FUTURE FC   | Half Time      | 1st Half Under 1.5 Goals   | 1.23x | 78.6%
+10:00  | Telavi vs Shturmi            | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 79.0%
        ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
-11:45  | Harrogate Tow vs AFC Fylde   | BTS            | Both Teams To Score (Yes)  | 1.29x | 77.2%
-       ↳ Justification: Both Teams To Score (Yes): 72% model prob, verified dual scoring consistency in recent form.
-12:30  | Elche vs Real Madrid         | 1X2            | Real Madrid To Win         | 1.45x | 77.2%
-       ↳ Justification: Straight Away Win: 64% model prob + 100% crowd consensus + away form.
-09:30  | Casertana vs Team Altamura   | DNB            | Casertana (Draw No Bet)    | 1.26x | 76.7%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (82% non-loss).
-11:45  | Billericay vs Braintree      | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.2 combined goals/game.
-10:00  | Jahn Regensbu vs Fortuna Dusse | Goals          | Over 2.5 Goals             | 1.33x | 76.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (70% model) with 3.6 combined goals/game.
-11:45  | Enfield Town vs Dartford     | BTS            | Both Teams To Score (Yes)  | 1.33x | 76.0%
-       ↳ Justification: Both Teams To Score (Yes): 70% model prob, verified dual scoring consistency in recent form.
+10:00  | Rivers United vs Warri Wolves  | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.0 combined goals/game.
+12:00  | Hansa Rostock vs VfB Stuttgart | Goals          | Over 2.5 Goals             | 1.26x | 78.4%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (74% model) with 4.8 combined goals/game.
+11:00  | Schoeningen vs Weiche Flensb | BTS            | Both Teams To Score (Yes)  | 1.26x | 78.4%
+       ↳ Justification: Both Teams To Score (Yes): 74% model prob, verified dual scoring consistency in recent form.
+12:00  | Preussen Muns vs FC Saarbrucke | BTS            | Both Teams To Score (Yes)  | 1.27x | 77.8%
+       ↳ Justification: Both Teams To Score (Yes): 73% model prob, verified dual scoring consistency in recent form.
+12:00  | FC Ingolstadt vs 1899 Hoffenhe | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 2.8 combined goals/game.
+05:00  | Hamburger SV  vs FC St. Pauli  | BTS            | Both Teams To Score (Yes)  | 1.31x | 76.6%
+       ↳ Justification: Both Teams To Score (Yes): 71% model prob, verified dual scoring consistency in recent form.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
