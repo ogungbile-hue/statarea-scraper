@@ -9,68 +9,70 @@
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-19:30  | Bayern Munich vs Union Berlin | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.9 avg recent match goals.
-18:30  | Neuchatel Xam vs Rapperswil  | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.5 avg recent match goals.
+10:00  | Molde vs Aalesund            | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.8 avg recent match goals.
+05:00  | Ullern vs Valerenga 2        | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 5.5 avg recent match goals.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.04x  |  Avg Confidence: 84.8%  |  Legs: 4
+   Total Odds: 2.17x  |  Avg Confidence: 84.2%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-18:30  | Puskas Academ vs Budapest Honv | Double Chance  | Puskas Academy or Draw (1X | 1.18x | 87.4%
-       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 3/10 recent matches.
-22:30  | Club Nacional vs 2 De Mayo   | Double Chance  | Club Nacional or Draw (1X) | 1.18x | 87.4%
-       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 7/10 recent matches.
-19:00  | Manchester Ci vs Liverpool (w) | 1X2            | Manchester City (w) To Win | 1.21x | 84.3%
-       ↳ Justification: Straight Home Win: 77% model prob + 100% crowd consensus + strong home form.
-19:45  | Haverfordwest vs Holywell Town | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.8 combined goals/game.
+03:30  | Urawa vs Tokyo Verdy         | Double Chance  | Urawa or Draw (1X)         | 1.19x | 86.8%
+       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 5/10 recent matches.
+08:00  | Bromley vs Huddersfield      | Double Chance  | Draw or Huddersfield (X2)  | 1.18x | 84.9%
+       ↳ Justification: Double Chance X2: 79% non-loss probability, Away side unbeaten in 8/10 recent outings.
+08:00  | Burnley vs Derby             | Double Chance  | Burnley or Draw (1X)       | 1.18x | 84.2%
+       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 8/10 recent matches.
+08:00  | Hamilton Acad vs Queen Of The  | 1X2            | Hamilton Academical To Win | 1.31x | 81.1%
+       ↳ Justification: Straight Home Win: 71% model prob + 100% crowd consensus + strong home form.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 4.55x  |  Avg Confidence: 78.9%  |  Legs: 6
+   Total Odds: 3.76x  |  Avg Confidence: 80.3%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-19:45  | Haverfordwest vs Holywell Town | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.8 combined goals/game.
-18:30  | Neuchatel Xam vs Rapperswil  | BTS            | Both Teams To Score (Yes)  | 1.22x | 79.6%
-       ↳ Justification: Both Teams To Score (Yes): 76% model prob, verified dual scoring consistency in recent form.
-13:00  | Ayutthaya Uni vs Uthai Thani | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 79.0%
-       ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
-19:45  | Cork City vs UCD             | 1X2            | Cork City To Win           | 1.41x | 78.3%
-       ↳ Justification: Straight Home Win: 66% model prob + 100% crowd consensus + strong home form.
-09:30  | Arema FC vs Persik Kediri    | 1X2            | Arema FC To Win            | 1.41x | 78.3%
-       ↳ Justification: Straight Home Win: 66% model prob + 100% crowd consensus + strong home form.
-20:00  | Brentford vs Chelsea         | Goals          | Over 2.5 Goals             | 1.27x | 77.8%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (73% model) with 4.2 combined goals/game.
+08:00  | Hamilton Acad vs Queen Of The  | 1X2            | Hamilton Academical To Win | 1.31x | 81.1%
+       ↳ Justification: Straight Home Win: 71% model prob + 100% crowd consensus + strong home form.
+18:30  | Minnesota Uni vs Los Angeles G | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.3 combined goals/game.
+12:30  | Dynamo Dresde vs Hertha Berlin | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 4.7 combined goals/game.
+06:00  | 1899 Hoffenhe vs SV Meppen   | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.3 combined goals/game.
+12:30  | Salernitana vs Giugliano     | DNB            | Salernitana (Draw No Bet)  | 1.20x | 80.0%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (84% non-loss).
+10:00  | Molde vs Aalesund            | 1X2            | Molde To Win               | 1.35x | 80.0%
+       ↳ Justification: Straight Home Win: 69% model prob + 100% crowd consensus + strong home form.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 6.40x  |  Avg Confidence: 78.8%  |  Legs: 7
+   Total Odds: 6.86x  |  Avg Confidence: 79.6%  |  Legs: 8
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-18:30  | Neuchatel Xam vs Rapperswil  | BTS            | Both Teams To Score (Yes)  | 1.22x | 79.6%
+08:00  | Hamilton Acad vs Queen Of The  | 1X2            | Hamilton Academical To Win | 1.31x | 81.1%
+       ↳ Justification: Straight Home Win: 71% model prob + 100% crowd consensus + strong home form.
+10:00  | Molde vs Aalesund            | 1X2            | Molde To Win               | 1.35x | 80.0%
+       ↳ Justification: Straight Home Win: 69% model prob + 100% crowd consensus + strong home form.
+13:00  | Sevilla vs Barcelona         | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.8 combined goals/game.
+08:00  | Cove Rangers vs Ross County  | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.6 combined goals/game.
+08:00  | KR Reykjavik vs Vikingur Reyk | BTS            | Both Teams To Score (Yes)  | 1.22x | 79.6%
        ↳ Justification: Both Teams To Score (Yes): 76% model prob, verified dual scoring consistency in recent form.
-15:00  | FC Sochi vs SKA-Energiya     | 1X2            | FC Sochi To Win            | 1.37x | 79.4%
-       ↳ Justification: Straight Home Win: 68% model prob + 100% crowd consensus + strong home form.
-13:00  | Ayutthaya Uni vs Uthai Thani | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 79.0%
-       ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
-13:45  | Hapoel Tel Av vs Hapoel Petah  | 1X2            | Hapoel Tel Aviv To Win     | 1.39x | 78.8%
+11:00  | Maccabi Haifa vs Ironi Tiberia | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.3 combined goals/game.
+20:30  | Portland Timb vs Atlanta Unite | BTS            | Both Teams To Score (Yes)  | 1.24x | 79.0%
+       ↳ Justification: Both Teams To Score (Yes): 75% model prob, verified dual scoring consistency in recent form.
+11:15  | Hapoel Beer S vs Irony Kiryat  | 1X2            | Hapoel Beer Sheva To Win   | 1.39x | 78.8%
        ↳ Justification: Straight Home Win: 67% model prob + 100% crowd consensus + strong home form.
-17:00  | Karvina vs Kromeriz          | Goals          | Over 2.5 Goals             | 1.26x | 78.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (74% model) with 3.0 combined goals/game.
-19:45  | Cork City vs UCD             | 1X2            | Cork City To Win           | 1.41x | 78.3%
-       ↳ Justification: Straight Home Win: 66% model prob + 100% crowd consensus + strong home form.
-20:00  | Brentford vs Chelsea         | Goals          | Over 2.5 Goals             | 1.27x | 77.8%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (73% model) with 4.2 combined goals/game.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
