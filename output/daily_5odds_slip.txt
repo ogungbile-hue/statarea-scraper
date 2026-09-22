@@ -5,76 +5,76 @@
 --- [ 1.5-ODDS ULTRA BANKER ] ---
 >> ONÍTẸ́TẸ́ 1.5-ODDS ULTRA BANKER SLIP
    Ultra-conservative 2-3 leg banker ticket with top-tier statistical safety.
-   Total Odds: 1.44x  |  Avg Confidence: 90.9%  |  Legs: 3
+   Total Odds: 1.40x  |  Avg Confidence: 88.6%  |  Legs: 3
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-13:00  | Amkar vs Dinamo Moscow       | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.8 avg recent match goals.
-00:00  | Toluca vs Santos Laguna      | DNB            | Toluca (Draw No Bet)       | 1.12x | 88.8%
+14:45  | Brentwood Tow vs Maldon & Tipt | Goals          | Over 1.5 Goals             | 1.12x | 93.4%
+       ↳ Justification: Over 1.5 Goals: 92% model rating + 3.7 avg recent match goals.
+19:00  | Independiente vs Jaguares    | DNB            | Independiente Medellin (Dr | 1.12x | 87.9%
        ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (90% non-loss).
-18:00  | Petrolul Ploi vs Csikszereda | Double Chance  | Petrolul Ploiesti or Draw  | 1.15x | 88.6%
-       ↳ Justification: Double Chance 1X: 81% non-loss probability, Home won/drew 6/10 recent matches.
+09:00  | SKCF Sevastop vs Rubin Yalta | Double Chance  | SKCF Sevastopol or Draw (1 | 1.12x | 84.5%
+       ↳ Justification: Double Chance 1X: 86% non-loss probability, Home won/drew 5/10 recent matches.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.74x  |  Avg Confidence: 78.2%  |  Legs: 4
+   Total Odds: 2.75x  |  Avg Confidence: 77.0%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-18:30  | Spezia vs Vis Pesaro         | 1X2            | Spezia To Win              | 1.29x | 81.6%
-       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
-18:30  | Pianese vs Sambenedettes     | Half Time      | 1st Half Under 1.5 Goals   | 1.18x | 80.7%
-       ↳ Justification: First Half Under 1.5 Goals: 79% model rating, disciplined early match pace.
-13:30  | Mashuk-KMV vs Volgar Astrak  | Half Time      | 1st Half Under 1.5 Goals   | 1.24x | 78.1%
-       ↳ Justification: First Half Under 1.5 Goals: 75% model rating, disciplined early match pace.
-02:10  | Queretaro FC vs Leon         | BTS            | Both Teams To Score (Yes)  | 1.45x | 72.4%
-       ↳ Justification: Both Teams To Score (Yes): 64% model prob, verified dual scoring consistency in recent form.
+12:00  | US Biskra vs JS Saoura       | Half Time      | 1st Half Under 1.5 Goals   | 1.21x | 79.1%
+       ↳ Justification: First Half Under 1.5 Goals: 77% model rating, disciplined early match pace.
+14:45  | Chippenham vs Sholing FC     | Half Time      | 1st Half Under 1.5 Goals   | 1.21x | 79.1%
+       ↳ Justification: First Half Under 1.5 Goals: 77% model rating, disciplined early match pace.
+14:45  | Taunton Town vs Bath City    | Goals          | Over 2.5 Goals             | 1.35x | 75.4%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (69% model) with 3.5 combined goals/game.
+14:45  | Stourbridge vs Real Bedford  | BTS            | Both Teams To Score (Yes)  | 1.39x | 74.2%
+       ↳ Justification: Both Teams To Score (Yes): 67% model prob, verified dual scoring consistency in recent form.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 4.55x  |  Avg Confidence: 77.7%  |  Legs: 6
+   Total Odds: 4.91x  |  Avg Confidence: 76.5%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-18:30  | Spezia vs Vis Pesaro         | 1X2            | Spezia To Win              | 1.29x | 81.6%
-       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
-14:00  | Paok B vs Nestos Chriso      | DNB            | Paok B (Draw No Bet)       | 1.20x | 80.2%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (85% non-loss).
-13:00  | Amkar vs Dinamo Moscow       | DNB            | Amkar (Draw No Bet)        | 1.21x | 78.3%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
-13:30  | Mashuk-KMV vs Volgar Astrak  | Half Time      | 1st Half Under 1.5 Goals   | 1.24x | 78.1%
-       ↳ Justification: First Half Under 1.5 Goals: 75% model rating, disciplined early match pace.
-17:00  | Angelholms FF vs Eskilsminne I | Goals          | Over 2.5 Goals             | 1.35x | 75.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (69% model) with 3.3 combined goals/game.
-02:10  | Queretaro FC vs Leon         | BTS            | Both Teams To Score (Yes)  | 1.45x | 72.4%
+12:00  | US Biskra vs JS Saoura       | Half Time      | 1st Half Under 1.5 Goals   | 1.21x | 79.1%
+       ↳ Justification: First Half Under 1.5 Goals: 77% model rating, disciplined early match pace.
+14:45  | Chippenham vs Sholing FC     | Half Time      | 1st Half Under 1.5 Goals   | 1.21x | 79.1%
+       ↳ Justification: First Half Under 1.5 Goals: 77% model rating, disciplined early match pace.
+14:45  | Brentwood Tow vs Maldon & Tipt | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.7 combined goals/game.
+14:45  | Three Bridges vs Leatherhead | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.7 combined goals/game.
+14:45  | Stourbridge vs Real Bedford  | BTS            | Both Teams To Score (Yes)  | 1.39x | 74.2%
+       ↳ Justification: Both Teams To Score (Yes): 67% model prob, verified dual scoring consistency in recent form.
+14:45  | Leiston FC vs Peterborough   | BTS            | Both Teams To Score (Yes)  | 1.45x | 72.4%
        ↳ Justification: Both Teams To Score (Yes): 64% model prob, verified dual scoring consistency in recent form.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 8.59x  |  Avg Confidence: 76.6%  |  Legs: 8
+   Total Odds: 9.18x  |  Avg Confidence: 74.3%  |  Legs: 8
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-18:30  | Spezia vs Vis Pesaro         | 1X2            | Spezia To Win              | 1.29x | 81.6%
+14:45  | Worcester vs Banbury Unite   | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 78.7%
+       ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
+14:45  | Brentwood Tow vs Maldon & Tipt | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.7 combined goals/game.
+14:45  | Three Bridges vs Leatherhead | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.7 combined goals/game.
+14:45  | Stourbridge vs Real Bedford  | BTS            | Both Teams To Score (Yes)  | 1.39x | 74.2%
+       ↳ Justification: Both Teams To Score (Yes): 67% model prob, verified dual scoring consistency in recent form.
+14:45  | East Kilbride vs Celtic B    | 1X2            | East Kilbride To Win       | 1.26x | 72.8%
+       ↳ Justification: Straight Home Win: 74% model prob + 100% crowd consensus + strong home form.
+14:45  | Leiston FC vs Peterborough   | BTS            | Both Teams To Score (Yes)  | 1.45x | 72.4%
+       ↳ Justification: Both Teams To Score (Yes): 64% model prob, verified dual scoring consistency in recent form.
+14:45  | Edinburgh Cit vs Dundee United | 1X2            | Edinburgh City To Win      | 1.29x | 71.8%
        ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
-13:30  | Mashuk-KMV vs Volgar Astrak  | Half Time      | 1st Half Under 1.5 Goals   | 1.24x | 78.1%
-       ↳ Justification: First Half Under 1.5 Goals: 75% model rating, disciplined early match pace.
-18:30  | Dolomiti Bell vs Lumezzane   | Goals          | Under 3.5 Goals            | 1.24x | 78.0%
-       ↳ Justification: Defensive Lock: 75% Under 3.5 model + disciplined low scoring pace.
-00:00  | Toluca vs Santos Laguna      | Team Goals     | Toluca Over 1.5 Goals      | 1.22x | 77.6%
-       ↳ Justification: Toluca Over 1.5 Team Goals: Strong home attack averaging 1.9 goals/game.
-15:00  | Otelul Galati vs Corvinul Hune | DNB            | Otelul Galati (Draw No Bet | 1.25x | 77.0%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (82% non-loss).
-17:00  | Angelholms FF vs Eskilsminne I | Goals          | Over 2.5 Goals             | 1.35x | 75.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (69% model) with 3.3 combined goals/game.
-02:10  | Queretaro FC vs Leon         | BTS            | Both Teams To Score (Yes)  | 1.45x | 72.4%
-       ↳ Justification: Both Teams To Score (Yes): 64% model prob, verified dual scoring consistency in recent form.
-13:00  | Amkar vs Dinamo Moscow       | BTS            | Both Teams To Score (Yes)  | 1.45x | 72.4%
-       ↳ Justification: Both Teams To Score (Yes): 64% model prob, verified dual scoring consistency in recent form.
+14:45  | Yate Town vs Evesham Unite   | DNB            | Yate Town (Draw No Bet)    | 1.38x | 70.5%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (76% non-loss).
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
