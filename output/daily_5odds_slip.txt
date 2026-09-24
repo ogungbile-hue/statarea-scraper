@@ -5,76 +5,76 @@
 --- [ 1.5-ODDS ULTRA BANKER ] ---
 >> ONÍTẸ́TẸ́ 1.5-ODDS ULTRA BANKER SLIP
    Ultra-conservative 2-3 leg banker ticket with top-tier statistical safety.
-   Total Odds: 1.40x  |  Avg Confidence: 93.5%  |  Legs: 3
+   Total Odds: 1.40x  |  Avg Confidence: 92.9%  |  Legs: 3
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-15:00  | Barcelona (w) vs Paris FC (w) | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.3 avg recent match goals.
-11:00  | Shooting Star vs Katsina Unite | Double Chance  | Shooting Stars or Draw (1X | 1.12x | 95.2%
-       ↳ Justification: Double Chance 1X: 92% non-loss probability, Home won/drew 9/10 recent matches.
-11:00  | Enugu Rangers vs Ranchers Bees | DNB            | Enugu Rangers (Draw No Bet | 1.12x | 90.0%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (92% non-loss).
+13:45  | Netherlands vs Germany       | Goals          | Over 1.5 Goals             | 1.12x | 93.4%
+       ↳ Justification: Over 1.5 Goals: 92% model rating + 3.1 avg recent match goals.
+10:00  | Rivers United vs Kun Khalifat | DNB            | Rivers United (Draw No Bet | 1.12x | 93.1%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (95% non-loss).
+13:45  | Portugal vs Wales            | Double Chance  | Portugal or Draw (1X)      | 1.12x | 92.3%
+       ↳ Justification: Double Chance 1X: 91% non-loss probability, Home won/drew 8/10 recent matches.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.71x  |  Avg Confidence: 77.6%  |  Legs: 4
+   Total Odds: 3.01x  |  Avg Confidence: 78.6%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-12:00  | Gibraltar vs Sao Tome and    | DNB            | Gibraltar (Draw No Bet)    | 1.21x | 78.3%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
-11:00  | Shooting Star vs Katsina Unite | 1X2            | Shooting Stars To Win      | 1.41x | 78.3%
+06:00  | South Korea vs Ecuador       | Double Chance  | South Korea or Draw (1X)   | 1.19x | 81.3%
+       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 9/10 recent matches.
+13:45  | Austria vs Israel            | 1X2            | Austria To Win             | 1.41x | 78.3%
        ↳ Justification: Straight Home Win: 66% model prob + 100% crowd consensus + strong home form.
-15:00  | Barcelona (w) vs Paris FC (w) | 1X2            | Barcelona (w) To Win       | 1.26x | 77.7%
-       ↳ Justification: Straight Home Win: 74% model prob + 80% crowd consensus + strong home form.
-21:30  | Seattle Sound vs Real Salt Lak | DNB            | Seattle Sounders (Draw No  | 1.26x | 76.2%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
+13:45  | Portugal vs Wales            | 1X2            | Portugal To Win            | 1.39x | 77.5%
+       ↳ Justification: Straight Home Win: 67% model prob + 94% crowd consensus + strong home form.
+13:45  | Norway vs Denmark            | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.5 combined goals/game.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 4.51x  |  Avg Confidence: 77.2%  |  Legs: 6
+   Total Odds: 4.78x  |  Avg Confidence: 77.5%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-20:30  | America De Ca vs Rionegro FC | DNB            | America De Cali (Draw No B | 1.20x | 79.8%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (84% non-loss).
-12:00  | Gibraltar vs Sao Tome and    | DNB            | Gibraltar (Draw No Bet)    | 1.21x | 78.3%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
-11:00  | Shooting Star vs Katsina Unite | 1X2            | Shooting Stars To Win      | 1.41x | 78.3%
+06:00  | South Korea vs Ecuador       | Goals          | Under 3.5 Goals            | 1.21x | 79.4%
+       ↳ Justification: Defensive Lock: 77% Under 3.5 model + disciplined low scoring pace.
+13:45  | Austria vs Israel            | 1X2            | Austria To Win             | 1.41x | 78.3%
        ↳ Justification: Straight Home Win: 66% model prob + 100% crowd consensus + strong home form.
-11:00  | Barau vs Abia Warriors       | Goals          | Under 3.5 Goals            | 1.24x | 78.0%
-       ↳ Justification: Defensive Lock: 75% Under 3.5 model + disciplined low scoring pace.
-15:00  | Barcelona (w) vs Paris FC (w) | 1X2            | Barcelona (w) To Win       | 1.26x | 77.7%
-       ↳ Justification: Straight Home Win: 74% model prob + 80% crowd consensus + strong home form.
-11:00  | Enyimba vs Sporting Lago     | BTS            | Both Teams To Score (No)   | 1.41x | 70.9%
-       ↳ Justification: Both Teams To Score (No) / OTS: 66% clean sheet / one team score probability.
+13:45  | Portugal vs Wales            | 1X2            | Portugal To Win            | 1.39x | 77.5%
+       ↳ Justification: Straight Home Win: 67% model prob + 94% crowd consensus + strong home form.
+13:45  | Norway vs Denmark            | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.5 combined goals/game.
+13:45  | Liechtenstein vs Lithuania   | BTS            | Both Teams To Score (No)   | 1.24x | 76.8%
+       ↳ Justification: Both Teams To Score (No) / OTS: 75% clean sheet / one team score probability.
+19:30  | Atletico Naci vs Millonarios | DNB            | Atletico Nacional (Draw No | 1.26x | 75.9%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (80% non-loss).
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 8.96x  |  Avg Confidence: 75.8%  |  Legs: 8
+   Total Odds: 9.49x  |  Avg Confidence: 76.1%  |  Legs: 8
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-11:00  | Shooting Star vs Katsina Unite | 1X2            | Shooting Stars To Win      | 1.41x | 78.3%
+13:45  | Austria vs Israel            | 1X2            | Austria To Win             | 1.41x | 78.3%
        ↳ Justification: Straight Home Win: 66% model prob + 100% crowd consensus + strong home form.
-11:00  | Barau vs Abia Warriors       | Goals          | Under 3.5 Goals            | 1.24x | 78.0%
-       ↳ Justification: Defensive Lock: 75% Under 3.5 model + disciplined low scoring pace.
-12:00  | Azerbaijan vs Tajikistan     | DNB            | Azerbaijan (Draw No Bet)   | 1.22x | 77.7%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
-15:00  | Barcelona (w) vs Paris FC (w) | 1X2            | Barcelona (w) To Win       | 1.26x | 77.7%
-       ↳ Justification: Straight Home Win: 74% model prob + 80% crowd consensus + strong home form.
-21:30  | Seattle Sound vs Real Salt Lak | DNB            | Seattle Sounders (Draw No  | 1.26x | 76.2%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
-12:00  | Gibraltar vs Sao Tome and    | Goals          | Over 2.5 Goals             | 1.35x | 75.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (69% model) with 3.6 combined goals/game.
-21:00  | Alianza vs Fuerte San Fr     | Team Goals     | Alianza Over 1.5 Goals     | 1.39x | 72.2%
-       ↳ Justification: Alianza Over 1.5 Team Goals: Strong home attack averaging 2.4 goals/game.
-11:00  | Enyimba vs Sporting Lago     | BTS            | Both Teams To Score (No)   | 1.41x | 70.9%
-       ↳ Justification: Both Teams To Score (No) / OTS: 66% clean sheet / one team score probability.
+13:45  | Portugal vs Wales            | 1X2            | Portugal To Win            | 1.39x | 77.5%
+       ↳ Justification: Straight Home Win: 67% model prob + 94% crowd consensus + strong home form.
+13:45  | Norway vs Denmark            | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.5 combined goals/game.
+13:45  | Liechtenstein vs Lithuania   | BTS            | Both Teams To Score (No)   | 1.24x | 76.8%
+       ↳ Justification: Both Teams To Score (No) / OTS: 75% clean sheet / one team score probability.
+19:30  | Atletico Naci vs Millonarios | DNB            | Atletico Nacional (Draw No | 1.26x | 75.9%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (80% non-loss).
+11:00  | Andorra vs Malta             | BTS            | Both Teams To Score (No)   | 1.29x | 74.8%
+       ↳ Justification: Both Teams To Score (No) / OTS: 72% clean sheet / one team score probability.
+13:45  | Netherlands vs Germany       | Goals          | Over 2.5 Goals             | 1.39x | 74.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (67% model) with 3.1 combined goals/game.
+10:00  | Rivers United vs Kun Khalifat | Team Goals     | Rivers United Over 1.5 Goa | 1.34x | 73.7%
+       ↳ Justification: Rivers United Over 1.5 Team Goals: Strong home attack averaging 2.1 goals/game.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
