@@ -9,70 +9,72 @@
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-18:00  | HIK vs Roskilde              | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.5 avg recent match goals.
-17:00  | Aalesund 2 vs Rosenborg 2    | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.9 avg recent match goals.
+05:00  | Dynamo Stavro vs Amkar       | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.2 avg recent match goals.
+04:00  | Tulevik Vilja vs Tartu Kalev | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.8 avg recent match goals.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.72x  |  Avg Confidence: 79.8%  |  Legs: 4
+   Total Odds: 2.10x  |  Avg Confidence: 83.4%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-18:00  | Hammarby Tala vs IFK Stocksund | 1X2            | Hammarby Talang FF To Win  | 1.29x | 81.6%
-       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
-17:00  | Aalesund 2 vs Rosenborg 2    | BTS            | Both Teams To Score (Yes)  | 1.21x | 80.2%
-       ↳ Justification: Both Teams To Score (Yes): 77% model prob, verified dual scoring consistency in recent form.
-16:30  | KTP vs Mikkelin Pall         | 1X2            | KTP To Win                 | 1.37x | 79.4%
-       ↳ Justification: Straight Home Win: 68% model prob + 100% crowd consensus + strong home form.
-15:30  | VfB Stuttgart vs FC Heidenheim | Goals          | Over 2.5 Goals             | 1.27x | 77.8%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (73% model) with 4.4 combined goals/game.
+16:00  | Pachuca (w) vs Santos Laguna | 1X2            | Pachuca (w) To Win         | 1.19x | 84.9%
+       ↳ Justification: Straight Home Win: 78% model prob + 100% crowd consensus + strong home form.
+16:07  | Guadalajara-C vs Queretaro FC | Double Chance  | Guadalajara-Chivas or Draw | 1.18x | 84.2%
+       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 6/10 recent matches.
+09:45  | Gimnastic Tar vs Sant Andreu | Double Chance  | Gimnastic Tarragona or Dra | 1.18x | 82.2%
+       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 8/10 recent matches.
+09:00  | San Marino vs Finland        | 1X2            | Finland To Win             | 1.27x | 82.2%
+       ↳ Justification: Straight Away Win: 73% model prob + 100% crowd consensus + away form.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 4.51x  |  Avg Confidence: 78.9%  |  Legs: 6
+   Total Odds: 3.38x  |  Avg Confidence: 80.2%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-18:00  | Hammarby Tala vs IFK Stocksund | 1X2            | Hammarby Talang FF To Win  | 1.29x | 81.6%
-       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
-17:00  | Aalesund 2 vs Rosenborg 2    | BTS            | Both Teams To Score (Yes)  | 1.21x | 80.2%
-       ↳ Justification: Both Teams To Score (Yes): 77% model prob, verified dual scoring consistency in recent form.
-16:30  | KTP vs Mikkelin Pall         | 1X2            | KTP To Win                 | 1.37x | 79.4%
-       ↳ Justification: Straight Home Win: 68% model prob + 100% crowd consensus + strong home form.
-19:45  | Poland vs Bosnia and He      | DNB            | Poland (Draw No Bet)       | 1.21x | 79.3%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (84% non-loss).
-19:45  | Italy vs Belgium             | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.2 combined goals/game.
-18:00  | TSV Havelse vs Fortuna Koln  | Goals          | Over 2.5 Goals             | 1.33x | 76.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (70% model) with 3.3 combined goals/game.
+09:00  | San Marino vs Finland        | 1X2            | Finland To Win             | 1.27x | 82.2%
+       ↳ Justification: Straight Away Win: 73% model prob + 100% crowd consensus + away form.
+06:30  | Trefelin Bgc vs The New Saint | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 2.9 combined goals/game.
+05:00  | Skelleftea FF vs Gottne      | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.5 combined goals/game.
+06:30  | Cardiff Metro vs Caernarfon To | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.9 combined goals/game.
+05:00  | FC St. Pauli  vs Kickers Emden | BTS            | Both Teams To Score (Yes)  | 1.22x | 79.6%
+       ↳ Justification: Both Teams To Score (Yes): 76% model prob, verified dual scoring consistency in recent form.
+07:00  | Junkeren vs Rana FK          | BTS            | Both Teams To Score (Yes)  | 1.22x | 79.6%
+       ↳ Justification: Both Teams To Score (Yes): 76% model prob, verified dual scoring consistency in recent form.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 8.56x  |  Avg Confidence: 77.5%  |  Legs: 8
+   Total Odds: 6.76x  |  Avg Confidence: 79.6%  |  Legs: 9
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-18:00  | Hammarby Tala vs IFK Stocksund | 1X2            | Hammarby Talang FF To Win  | 1.29x | 81.6%
-       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
-16:30  | KTP vs Mikkelin Pall         | 1X2            | KTP To Win                 | 1.37x | 79.4%
-       ↳ Justification: Straight Home Win: 68% model prob + 100% crowd consensus + strong home form.
-19:30  | Girona vs Albacete           | DNB            | Girona (Draw No Bet)       | 1.23x | 78.3%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (83% non-loss).
-19:45  | Treaty United vs Finn Harps  | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.0 combined goals/game.
-23:00  | Club Nacional vs Sportivo Amel | DNB            | Club Nacional (Draw No Bet | 1.26x | 76.7%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (82% non-loss).
-19:45  | Italy vs Belgium             | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.2 combined goals/game.
-18:00  | HIK vs Roskilde              | BTS            | Both Teams To Score (Yes)  | 1.33x | 76.0%
-       ↳ Justification: Both Teams To Score (Yes): 70% model prob, verified dual scoring consistency in recent form.
-19:45  | UCD vs Bray Wanderer         | BTS            | Both Teams To Score (Yes)  | 1.39x | 74.2%
-       ↳ Justification: Both Teams To Score (Yes): 67% model prob, verified dual scoring consistency in recent form.
+09:00  | San Marino vs Finland        | 1X2            | Finland To Win             | 1.27x | 82.2%
+       ↳ Justification: Straight Away Win: 73% model prob + 100% crowd consensus + away form.
+06:30  | Cardiff Metro vs Caernarfon To | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.9 combined goals/game.
+05:00  | FC St. Pauli  vs Kickers Emden | BTS            | Both Teams To Score (Yes)  | 1.22x | 79.6%
+       ↳ Justification: Both Teams To Score (Yes): 76% model prob, verified dual scoring consistency in recent form.
+07:00  | Junkeren vs Rana FK          | BTS            | Both Teams To Score (Yes)  | 1.22x | 79.6%
+       ↳ Justification: Both Teams To Score (Yes): 76% model prob, verified dual scoring consistency in recent form.
+05:00  | Dynamo Stavro vs Amkar       | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.2 combined goals/game.
+08:15  | RoPS vs SalPa                | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 4.0 combined goals/game.
+04:30  | OLS vs PK Keski-Uusi         | BTS            | Both Teams To Score (Yes)  | 1.24x | 79.0%
+       ↳ Justification: Both Teams To Score (Yes): 75% model prob, verified dual scoring consistency in recent form.
+05:00  | VfL Bochum II vs FC Schalke 04 | BTS            | Both Teams To Score (Yes)  | 1.24x | 79.0%
+       ↳ Justification: Both Teams To Score (Yes): 75% model prob, verified dual scoring consistency in recent form.
+07:00  | Skiljebo SK vs Taby FK       | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.5 combined goals/game.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
