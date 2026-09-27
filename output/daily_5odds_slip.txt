@@ -5,76 +5,76 @@
 --- [ 1.5-ODDS ULTRA BANKER ] ---
 >> ONÍTẸ́TẸ́ 1.5-ODDS ULTRA BANKER SLIP
    Ultra-conservative 2-3 leg banker ticket with top-tier statistical safety.
-   Total Odds: 1.25x  |  Avg Confidence: 95.3%  |  Legs: 2
+   Total Odds: 1.25x  |  Avg Confidence: 95.0%  |  Legs: 2
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-05:00  | Dynamo Stavro vs Amkar       | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.2 avg recent match goals.
-04:00  | Tulevik Vilja vs Tartu Kalev | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.8 avg recent match goals.
+13:00  | Puebla (w) vs Monterrey (w)  | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 5.2 avg recent match goals.
+10:30  | Honefoss vs Tromsdalen UI    | Goals          | Over 1.5 Goals             | 1.12x | 94.7%
+       ↳ Justification: Over 1.5 Goals: 94% model rating + 4.0 avg recent match goals.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.10x  |  Avg Confidence: 83.4%  |  Legs: 4
+   Total Odds: 2.09x  |  Avg Confidence: 84.5%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-16:00  | Pachuca (w) vs Santos Laguna | 1X2            | Pachuca (w) To Win         | 1.19x | 84.9%
-       ↳ Justification: Straight Home Win: 78% model prob + 100% crowd consensus + strong home form.
-16:07  | Guadalajara-C vs Queretaro FC | Double Chance  | Guadalajara-Chivas or Draw | 1.18x | 84.2%
-       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 6/10 recent matches.
-09:45  | Gimnastic Tar vs Sant Andreu | Double Chance  | Gimnastic Tarragona or Dra | 1.18x | 82.2%
+06:00  | Linero If vs Torns IF        | Double Chance  | Linero If or Draw (1X)     | 1.19x | 86.8%
+       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 7/10 recent matches.
+14:00  | Coban Imperia vs Aurora FC   | Double Chance  | Coban Imperial or Draw (1X | 1.18x | 84.2%
        ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 8/10 recent matches.
-09:00  | San Marino vs Finland        | 1X2            | Finland To Win             | 1.27x | 82.2%
-       ↳ Justification: Straight Away Win: 73% model prob + 100% crowd consensus + away form.
+16:30  | Brusque vs Ferroviaria       | Double Chance  | Brusque or Draw (1X)       | 1.18x | 84.2%
+       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 9/10 recent matches.
+13:00  | Puebla (w) vs Monterrey (w)  | 1X2            | Monterrey (w) To Win       | 1.26x | 82.7%
+       ↳ Justification: Straight Away Win: 74% model prob + 100% crowd consensus + away form.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 3.38x  |  Avg Confidence: 80.2%  |  Legs: 6
+   Total Odds: 3.80x  |  Avg Confidence: 80.9%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-09:00  | San Marino vs Finland        | 1X2            | Finland To Win             | 1.27x | 82.2%
-       ↳ Justification: Straight Away Win: 73% model prob + 100% crowd consensus + away form.
-06:30  | Trefelin Bgc vs The New Saint | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 2.9 combined goals/game.
-05:00  | Skelleftea FF vs Gottne      | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.5 combined goals/game.
-06:30  | Cardiff Metro vs Caernarfon To | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.9 combined goals/game.
-05:00  | FC St. Pauli  vs Kickers Emden | BTS            | Both Teams To Score (Yes)  | 1.22x | 79.6%
-       ↳ Justification: Both Teams To Score (Yes): 76% model prob, verified dual scoring consistency in recent form.
-07:00  | Junkeren vs Rana FK          | BTS            | Both Teams To Score (Yes)  | 1.22x | 79.6%
-       ↳ Justification: Both Teams To Score (Yes): 76% model prob, verified dual scoring consistency in recent form.
+13:00  | Puebla (w) vs Monterrey (w)  | 1X2            | Monterrey (w) To Win       | 1.26x | 82.7%
+       ↳ Justification: Straight Away Win: 74% model prob + 100% crowd consensus + away form.
+19:06  | U.A.N.L. - Ti vs Atletico San  | 1X2            | U.A.N.L. - Tigres (w) To W | 1.27x | 82.2%
+       ↳ Justification: Straight Home Win: 73% model prob + 100% crowd consensus + strong home form.
+08:00  | Pavia vs Arconatese          | DNB            | Pavia (Draw No Bet)        | 1.20x | 80.2%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (85% non-loss).
+13:45  | Germany vs Greece            | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 2.8 combined goals/game.
+13:45  | Norway vs Portugal           | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.2 combined goals/game.
+20:00  | Leon vs FC Juarez            | 1X2            | Leon To Win                | 1.35x | 80.0%
+       ↳ Justification: Straight Home Win: 69% model prob + 100% crowd consensus + strong home form.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 6.76x  |  Avg Confidence: 79.6%  |  Legs: 9
+   Total Odds: 7.48x  |  Avg Confidence: 79.8%  |  Legs: 9
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-09:00  | San Marino vs Finland        | 1X2            | Finland To Win             | 1.27x | 82.2%
-       ↳ Justification: Straight Away Win: 73% model prob + 100% crowd consensus + away form.
-06:30  | Cardiff Metro vs Caernarfon To | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.9 combined goals/game.
-05:00  | FC St. Pauli  vs Kickers Emden | BTS            | Both Teams To Score (Yes)  | 1.22x | 79.6%
-       ↳ Justification: Both Teams To Score (Yes): 76% model prob, verified dual scoring consistency in recent form.
-07:00  | Junkeren vs Rana FK          | BTS            | Both Teams To Score (Yes)  | 1.22x | 79.6%
-       ↳ Justification: Both Teams To Score (Yes): 76% model prob, verified dual scoring consistency in recent form.
-05:00  | Dynamo Stavro vs Amkar       | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.2 combined goals/game.
-08:15  | RoPS vs SalPa                | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+13:00  | Puebla (w) vs Monterrey (w)  | 1X2            | Monterrey (w) To Win       | 1.26x | 82.7%
+       ↳ Justification: Straight Away Win: 74% model prob + 100% crowd consensus + away form.
+19:06  | U.A.N.L. - Ti vs Atletico San  | 1X2            | U.A.N.L. - Tigres (w) To W | 1.27x | 82.2%
+       ↳ Justification: Straight Home Win: 73% model prob + 100% crowd consensus + strong home form.
+20:00  | Leon vs FC Juarez            | 1X2            | Leon To Win                | 1.35x | 80.0%
+       ↳ Justification: Straight Home Win: 69% model prob + 100% crowd consensus + strong home form.
+18:00  | Columbus Crew vs Inter Miami | BTS            | Both Teams To Score (Yes)  | 1.24x | 79.0%
+       ↳ Justification: Both Teams To Score (Yes): 75% model prob, verified dual scoring consistency in recent form.
+06:00  | Linero If vs Torns IF        | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
        ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 4.0 combined goals/game.
-04:30  | OLS vs PK Keski-Uusi         | BTS            | Both Teams To Score (Yes)  | 1.24x | 79.0%
-       ↳ Justification: Both Teams To Score (Yes): 75% model prob, verified dual scoring consistency in recent form.
-05:00  | VfL Bochum II vs FC Schalke 04 | BTS            | Both Teams To Score (Yes)  | 1.24x | 79.0%
-       ↳ Justification: Both Teams To Score (Yes): 75% model prob, verified dual scoring consistency in recent form.
-07:00  | Skiljebo SK vs Taby FK       | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.5 combined goals/game.
+06:00  | Vastra Frolun vs Astorps FF  | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.1 combined goals/game.
+11:00  | Moghreb Tetou vs Renaissance B | Goals          | Under 3.5 Goals            | 1.22x | 78.7%
+       ↳ Justification: Defensive Lock: 76% Under 3.5 model + disciplined low scoring pace.
+15:00  | Kawkab A.C. M vs Hassania Agad | Goals          | Under 3.5 Goals            | 1.22x | 78.7%
+       ↳ Justification: Defensive Lock: 76% Under 3.5 model + disciplined low scoring pace.
+12:00  | Teruel vs Huesca             | Goals          | Under 3.5 Goals            | 1.22x | 78.7%
+       ↳ Justification: Defensive Lock: 76% Under 3.5 model + disciplined low scoring pace.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
