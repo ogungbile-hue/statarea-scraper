@@ -1,325 +1,311 @@
 ﻿fixture_id,parent_match_date,parent_competition,h2h_date,h2h_competition,h2h_home_team,h2h_away_team,home_goals,away_goals,score_ft,score_ht,total_goals,bts_result,outcome,events_count
-1737084,2026-09-29,UEFA NATIONS LEAGUE A GRP. 3,2024-06-15,Europe (UEFA) - Group Stage 2023/2024,Spain,Croatia,3,0,3-0,0-3,3,0,1,4
-1737084,2026-09-29,UEFA NATIONS LEAGUE A GRP. 3,2023-06-18,Europe (uefa) - Uefa Nations League 2022/2023,Croatia,Spain,4,5,4-5,0-0,9,1,2,13
-1737084,2026-09-29,UEFA NATIONS LEAGUE A GRP. 3,2021-06-28,Europe (UEFA) - Euro 2020 2019/2020,Croatia,Spain,3,5,3-5,1-1,8,1,2,10
-1737084,2026-09-29,UEFA NATIONS LEAGUE A GRP. 3,2018-11-15,Europe (UEFA) - UEFA Nations League 2018/2019,Croatia,Spain,3,2,3-2,0-0,5,1,1,9
-1737084,2026-09-29,UEFA NATIONS LEAGUE A GRP. 3,2018-09-11,Europe (UEFA) - UEFA Nations League 2018/2019,Spain,Croatia,6,0,6-0,0-3,6,0,1,8
-1737084,2026-09-29,UEFA NATIONS LEAGUE A GRP. 3,2016-06-21,Europe (UEFA) - Euro 2016 France 2015/2016,Croatia,Spain,2,1,2-1,1-1,3,1,1,7
-1737084,2026-09-29,UEFA NATIONS LEAGUE A GRP. 3,2012-06-18,Europe (UEFA) - Euro 2012 Poland-Ukraine 2011/2012,Croatia,Spain,0,1,0-1,0-0,1,0,2,7
-1737084,2026-09-29,UEFA NATIONS LEAGUE A GRP. 3,2006-06-07,Friendly Games - Friendly International 2005/2006,Croatia,Spain,1,2,1-2,0-1,3,1,2,3
-1737083,2026-09-29,UEFA NATIONS LEAGUE A GRP. 3,2021-06-22,Europe (UEFA) - Euro 2020 2019/2020,Czech Republic,England,0,1,0-1,1-0,1,0,2,2
-1737083,2026-09-29,UEFA NATIONS LEAGUE A GRP. 3,2019-10-11,Europe (UEFA) - Euro 2020 2019/2020,Czech Republic,England,2,1,2-1,1-1,3,1,1,7
-1737083,2026-09-29,UEFA NATIONS LEAGUE A GRP. 3,2019-03-22,Europe (UEFA) - Euro 2020 2019/2020,England,Czech Republic,5,0,5-0,0-2,5,0,1,7
-1737083,2026-09-29,UEFA NATIONS LEAGUE A GRP. 3,2008-08-20,Friendly Games - Friendly International 2008/2009,England,Czech Republic,2,2,2-2,1-1,4,1,X,4
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2026-02-02,Colombia - Primera A Apertura 2026/2026,Millonarios,Independiente Medellin,0,0,0-0,0-0,0,0,X,1
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2025-08-03,Colombia - Primera A Clausura 2025/2025,Independiente Medellin,Millonarios,1,0,1-0,0-1,1,0,1,2
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2025-02-15,Colombia - Primera A Apertura 2024/2025,Millonarios,Independiente Medellin,0,1,0-1,1-0,1,0,2,1
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2024-07-18,Colombia - Primera A Clausura 2023/2024,Independiente Medellin,Millonarios,1,1,1-1,0-1,2,1,X,2
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2024-01-21,Colombia - Primera B Clausura Playoff Group B 2023/2024,Millonarios,Independiente Medellin,5,0,5-0,0-3,5,0,1,5
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2023-11-30,Colombia - Primera A Clausura Playoff Group B 2022/2023,Independiente Medellin,Millonarios,2,1,2-1,0-2,3,1,1,3
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2023-11-26,Colombia - Primera A Clausura Playoff Group B 2022/2023,Millonarios,Independiente Medellin,1,0,1-0,0-1,1,0,1,1
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2023-09-18,Colombia - Primera A Clausura 2022/2023,Independiente Medellin,Millonarios,1,1,1-1,1-0,2,1,X,2
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2023-06-17,Colombia - Primera A Apertura Playoff Group B 2022/2023,Millonarios,Independiente Medellin,2,1,2-1,0-0,3,1,1,4
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2023-05-20,Colombia - Primera A Apertura Playoff Group B 2022/2023,Independiente Medellin,Millonarios,2,2,2-2,1-0,4,1,X,4
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2023-04-08,Colombia - Primera A Apertura 2022/2023,Millonarios,Independiente Medellin,2,1,2-1,1-0,3,1,1,4
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2022-10-26,Colombia - Primera A Clausura 2021/2022,Millonarios,Independiente Medellin,1,2,1-2,1-0,3,1,2,3
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2022-09-07,Colombia - FA Cup 2021/2022,Millonarios,Independiente Medellin,2,2,2-2,2-0,4,1,X,4
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2022-08-24,Colombia - FA Cup 2021/2022,Independiente Medellin,Millonarios,0,2,0-2,2-0,2,0,2,2
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2022-03-23,Colombia - Primera B Apertura Final Stage 2021/2022,Independiente Medellin,Millonarios,1,0,1-0,0-1,1,0,1,2
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2021-08-21,Colombia - Primera A Clausura 2020/2021,Millonarios,Independiente Medellin,2,0,2-0,0-1,2,0,1,2
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2021-02-04,Colombia - Primera A Apertura 2020/2021,Independiente Medellin,Millonarios,0,0,0-0,0-0,0,0,X,0
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2020-03-07,Colombia - Primera A 2021/2022,Independiente Medellin,Millonarios,1,0,1-0,0-1,1,0,1,1
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2019-09-21,Colombia - Clausura 2018/2019,Independiente Medellin,Millonarios,1,2,1-2,1-0,3,1,2,3
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2019-08-14,Colombia - FA Cup 2018/2019,Millonarios,Independiente Medellin,2,2,2-2,1-2,4,1,X,4
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2019-08-07,Colombia - FA Cup 2018/2019,Independiente Medellin,Millonarios,2,1,2-1,0-1,3,1,1,3
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2019-03-31,Colombia - PB Rpomotion P.Off Final 2018/2019,Millonarios,Independiente Medellin,3,2,3-2,0-2,5,1,1,6
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2018-08-04,Colombia - Clausura 2017/2018,Millonarios,Independiente Medellin,0,1,0-1,0-0,1,0,2,1
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2018-02-14,Colombia - Apertura 2017/2018,Independiente Medellin,Millonarios,1,0,1-0,0-1,1,0,1,1
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2017-07-08,Colombia - Clausura 2016/2017,Independiente Medellin,Millonarios,1,1,1-1,1-1,2,1,X,2
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2017-02-05,Colombia - PB Rpomotion P.Off Final 2016/2017,Millonarios,Independiente Medellin,1,2,1-2,0-1,3,1,2,4
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2016-11-20,Colombia - Clausura 2015/2016,Millonarios,Independiente Medellin,3,1,3-1,1-1,4,1,1,4
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2016-05-28,Colombia - Apertura 2015/2016,Independiente Medellin,Millonarios,1,0,1-0,0-0,1,0,1,1
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2015-11-07,Colombia - Clausura 2014/2015,Independiente Medellin,Millonarios,2,0,2-0,0-0,2,0,1,3
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2015-05-09,Colombia - Apertura 2014/2015,Millonarios,Independiente Medellin,3,1,3-1,0-1,4,1,1,4
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2014-10-11,Colombia - Clausura 2013/2014,Millonarios,Independiente Medellin,1,4,1-4,2-1,5,1,2,5
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2014-04-01,Colombia - Apertura 2013/2014,Independiente Medellin,Millonarios,2,1,2-1,0-0,3,1,1,3
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2013-08-04,Colombia - Clausura 2012/2013,Millonarios,Independiente Medellin,2,2,2-2,2-1,4,1,X,4
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2013-02-10,Colombia - Apertura 2012/2013,Independiente Medellin,Millonarios,0,0,0-0,0-0,0,0,X,0
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2012-12-16,Colombia - CL-Play Offs 2011/2012,Millonarios,Independiente Medellin,5,4,5-4,0-1,9,1,1,12
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2012-12-12,Colombia - CL-Play Offs 2011/2012,Independiente Medellin,Millonarios,0,0,0-0,0-0,0,0,X,1
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2012-10-14,Colombia - Clausura 2011/2012,Independiente Medellin,Millonarios,1,1,1-1,0-1,2,1,X,2
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2012-04-28,Colombia - Apertura 2011/2012,Millonarios,Independiente Medellin,2,1,2-1,1-0,3,1,1,3
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2011-09-11,Colombia - Clausura 2010/2011,Millonarios,Independiente Medellin,1,1,1-1,1-0,2,1,X,2
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2011-02-26,Colombia - Apertura 2010/2011,Independiente Medellin,Millonarios,3,3,3-3,1-0,6,1,X,7
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2010-11-14,Colombia - Clausura 2009/2010,Independiente Medellin,Millonarios,3,2,3-2,0-0,5,1,1,7
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2010-05-15,Colombia - Apertura 2009/2010,Millonarios,Independiente Medellin,3,1,3-1,0-2,4,1,1,5
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2009-10-24,Colombia - Clausura 2008/2009,Millonarios,Independiente Medellin,3,0,3-0,0-1,3,0,1,3
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2009-05-02,Colombia - Apertura 2008/2009,Independiente Medellin,Millonarios,1,1,1-1,0-0,2,1,X,2
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2008-07-19,Colombia - Clausura 2007/2008,Independiente Medellin,Millonarios,0,1,0-1,1-0,1,0,2,1
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2008-02-02,Colombia - Apertura 2007/2008,Millonarios,Independiente Medellin,1,2,1-2,1-1,3,1,2,4
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2007-07-29,Colombia - Clausura 2006/2007,Independiente Medellin,Millonarios,2,1,2-1,0-2,3,1,1,3
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2007-06-03,Colombia - AP-Play Offs 2006/2007,Millonarios,Independiente Medellin,1,0,1-0,0-0,1,0,1,5
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2007-05-20,Colombia - AP-Play Offs 2006/2007,Independiente Medellin,Millonarios,2,3,2-3,1-1,5,1,2,5
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2007-03-21,Colombia - Apertura 2006/2007,Millonarios,Independiente Medellin,5,1,5-1,1-3,6,1,1,7
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2006-12-13,Colombia - CL-Play Offs 2005/2006,Independiente Medellin,Millonarios,4,0,4-0,0-2,4,0,1,5
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2006-11-19,Colombia - CL-Play Offs 2005/2006,Millonarios,Independiente Medellin,1,0,1-0,0-1,1,0,1,2
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2006-08-06,Colombia - Clausura 2005/2006,Independiente Medellin,Millonarios,1,0,1-0,0-0,1,0,1,1
-1704946,2026-09-29,PRIMERA A APERTURA FINALIZACION,2006-02-26,Colombia - Apertura 2005/2006,Millonarios,Independiente Medellin,3,0,3-0,0-2,3,0,1,3
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2026-01-28,Colombia - Primera A Apertura 2026/2026,Santa Fe,Pereira,2,2,2-2,1-0,4,1,X,6
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2025-07-13,Colombia - Primera A Clausura 2025/2025,Pereira,Santa Fe,2,2,2-2,2-0,4,1,X,5
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2025-01-26,Colombia - Primera A Apertura 2024/2025,Santa Fe,Pereira,2,1,2-1,1-2,3,1,1,3
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2024-10-03,Colombia - Primera A Clausura 2023/2024,Santa Fe,Pereira,1,1,1-1,1-1,2,1,X,2
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2024-02-17,Colombia - Primera B Clausura Playoff Group B 2023/2024,Pereira,Santa Fe,1,0,1-0,0-0,1,0,1,1
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2023-10-04,Colombia - Fa Cup 2022/2023,Pereira,Santa Fe,2,0,2-0,0-0,2,0,1,2
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2023-09-27,Colombia - Fa Cup 2022/2023,Santa Fe,Pereira,0,0,0-0,0-0,0,0,X,0
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2023-09-24,Colombia - Primera A Clausura 2022/2023,Santa Fe,Pereira,1,0,1-0,0-0,1,0,1,1
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2023-04-15,Colombia - Primera A Apertura 2022/2023,Pereira,Santa Fe,2,2,2-2,2-2,4,1,X,4
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2022-11-27,Colombia - Primera A Clausura Playoff Group A 2021/2022,Pereira,Santa Fe,5,1,5-1,0-4,6,1,1,6
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2022-11-09,Colombia - Primera A Clausura Playoff Group A 2021/2022,Santa Fe,Pereira,2,0,2-0,0-0,2,0,1,3
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2022-08-07,Colombia - Primera A Clausura 2021/2022,Pereira,Santa Fe,0,1,0-1,0-0,1,0,2,1
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2022-02-13,Colombia - Primera B Apertura Final Stage 2021/2022,Santa Fe,Pereira,1,2,1-2,1-0,3,1,2,3
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2021-08-21,Colombia - Primera A Clausura 2020/2021,Pereira,Santa Fe,1,1,1-1,0-0,2,1,X,2
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2021-04-02,Colombia - Primera A Apertura 2020/2021,Santa Fe,Pereira,1,1,1-1,1-0,2,1,X,2
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2020-09-19,Colombia - Primera A 2021/2022,Pereira,Santa Fe,1,2,1-2,1-1,3,1,2,3
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2011-09-03,Colombia - Clausura 2010/2011,Santa Fe,Pereira,0,0,0-0,0-0,0,0,X,0
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2011-02-20,Colombia - Apertura 2010/2011,Pereira,Santa Fe,1,1,1-1,0-1,2,1,X,3
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2010-08-22,Colombia - Clausura 2009/2010,Pereira,Santa Fe,0,1,0-1,0-0,1,0,2,3
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2010-02-28,Colombia - Apertura 2009/2010,Santa Fe,Pereira,0,2,0-2,0-0,2,0,2,2
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2009-08-16,Colombia - Clausura 2008/2009,Pereira,Santa Fe,0,0,0-0,0-0,0,0,X,0
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2009-03-08,Colombia - Apertura 2008/2009,Santa Fe,Pereira,2,1,2-1,0-1,3,1,1,3
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2008-11-02,Colombia - Clausura 2007/2008,Pereira,Santa Fe,2,0,2-0,0-1,2,0,1,4
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2008-05-04,Colombia - Apertura 2007/2008,Santa Fe,Pereira,1,1,1-1,1-0,2,1,X,2
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2007-08-31,Colombia - Clausura 2006/2007,Pereira,Santa Fe,2,2,2-2,1-2,4,1,X,4
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2007-03-18,Colombia - Apertura 2006/2007,Santa Fe,Pereira,2,0,2-0,0-1,2,0,1,3
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2006-09-03,Colombia - Clausura 2005/2006,Santa Fe,Pereira,1,4,1-4,2-0,5,1,2,7
-1701581,2026-09-29,PRIMERA A APERTURA FINALIZACION,2006-03-19,Colombia - Apertura 2005/2006,Pereira,Santa Fe,1,1,1-1,0-0,2,1,X,2
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2026-01-28,Colombia - Primera A Apertura 2026/2026,Santa Fe,Pereira,2,2,2-2,1-0,4,1,X,6
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2025-07-13,Colombia - Primera A Clausura 2025/2025,Pereira,Santa Fe,2,2,2-2,2-0,4,1,X,5
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2025-01-26,Colombia - Primera A Apertura 2024/2025,Santa Fe,Pereira,2,1,2-1,1-2,3,1,1,3
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2024-10-03,Colombia - Primera A Clausura 2023/2024,Santa Fe,Pereira,1,1,1-1,1-1,2,1,X,2
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2024-02-17,Colombia - Primera B Clausura Playoff Group B 2023/2024,Pereira,Santa Fe,1,0,1-0,0-0,1,0,1,1
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2023-10-04,Colombia - Fa Cup 2022/2023,Pereira,Santa Fe,2,0,2-0,0-0,2,0,1,2
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2023-09-27,Colombia - Fa Cup 2022/2023,Santa Fe,Pereira,0,0,0-0,0-0,0,0,X,0
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2023-09-24,Colombia - Primera A Clausura 2022/2023,Santa Fe,Pereira,1,0,1-0,0-0,1,0,1,1
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2023-04-15,Colombia - Primera A Apertura 2022/2023,Pereira,Santa Fe,2,2,2-2,2-2,4,1,X,4
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2022-11-27,Colombia - Primera A Clausura Playoff Group A 2021/2022,Pereira,Santa Fe,5,1,5-1,0-4,6,1,1,6
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2022-11-09,Colombia - Primera A Clausura Playoff Group A 2021/2022,Santa Fe,Pereira,2,0,2-0,0-0,2,0,1,3
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2022-08-07,Colombia - Primera A Clausura 2021/2022,Pereira,Santa Fe,0,1,0-1,0-0,1,0,2,1
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2022-02-13,Colombia - Primera B Apertura Final Stage 2021/2022,Santa Fe,Pereira,1,2,1-2,1-0,3,1,2,3
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2021-08-21,Colombia - Primera A Clausura 2020/2021,Pereira,Santa Fe,1,1,1-1,0-0,2,1,X,2
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2021-04-02,Colombia - Primera A Apertura 2020/2021,Santa Fe,Pereira,1,1,1-1,1-0,2,1,X,2
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2020-09-19,Colombia - Primera A 2021/2022,Pereira,Santa Fe,1,2,1-2,1-1,3,1,2,3
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2011-09-03,Colombia - Clausura 2010/2011,Santa Fe,Pereira,0,0,0-0,0-0,0,0,X,0
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2011-02-20,Colombia - Apertura 2010/2011,Pereira,Santa Fe,1,1,1-1,0-1,2,1,X,3
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2010-08-22,Colombia - Clausura 2009/2010,Pereira,Santa Fe,0,1,0-1,0-0,1,0,2,3
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2010-02-28,Colombia - Apertura 2009/2010,Santa Fe,Pereira,0,2,0-2,0-0,2,0,2,2
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2009-08-16,Colombia - Clausura 2008/2009,Pereira,Santa Fe,0,0,0-0,0-0,0,0,X,0
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2009-03-08,Colombia - Apertura 2008/2009,Santa Fe,Pereira,2,1,2-1,0-1,3,1,1,3
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2008-11-02,Colombia - Clausura 2007/2008,Pereira,Santa Fe,2,0,2-0,0-1,2,0,1,4
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2008-05-04,Colombia - Apertura 2007/2008,Santa Fe,Pereira,1,1,1-1,1-0,2,1,X,2
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2007-08-31,Colombia - Clausura 2006/2007,Pereira,Santa Fe,2,2,2-2,1-2,4,1,X,4
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2007-03-18,Colombia - Apertura 2006/2007,Santa Fe,Pereira,2,0,2-0,0-1,2,0,1,3
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2006-09-03,Colombia - Clausura 2005/2006,Santa Fe,Pereira,1,4,1-4,2-0,5,1,2,7
-1737470,2026-09-29,PRIMERA A APERTURA FINALIZACION,2006-03-19,Colombia - Apertura 2005/2006,Pereira,Santa Fe,1,1,1-1,0-0,2,1,X,2
-1737550,2026-09-29,FRIENDLIES,2019-03-26,Friendly Games - Friendly International 2018/2019,USA,Chile,1,1,1-1,1-1,2,1,X,2
-1737550,2026-09-29,FRIENDLIES,2015-01-28,Friendly Games - Friendly International 2014/2015,Chile,USA,3,2,3-2,2-1,5,1,1,5
-1737550,2026-09-29,FRIENDLIES,2011-01-23,Friendly Games - Friendly International 2010/2011,USA,Chile,1,1,1-1,0-0,2,1,X,2
-1737550,2026-09-29,FRIENDLIES,1950-06-02,World (FIFA) - World Cup Brazil 1950 Finals,Chile,USA,5,2,5-2,0-2,7,1,1,7
-1741657,2026-09-29,FRIENDLIES,2025-10-10,International - Friendlies 2025/2025,Russia,Iran,2,1,2-1,1-1,3,1,1,3
-1741657,2026-09-29,FRIENDLIES,2023-03-23,Friendly Games - Friendlies 2022/2023,Iran,Russia,1,1,1-1,1-0,2,1,X,2
-1741657,2026-09-29,FRIENDLIES,2017-10-10,Friendly Games - Friendly International 2017/2018,Russia,Iran,1,1,1-1,0-0,2,1,X,2
-1741657,2026-09-29,FRIENDLIES,2011-02-09,Friendly Games - Friendly International 2010/2011,Iran,Russia,1,0,1-0,0-0,1,0,1,2
-1737085,2026-09-29,UEFA NATIONS LEAGUE B GRP. 1,2024-06-19,Europe (UEFA) - Group Stage 2023/2024,Scotland,Switzerland,1,1,1-1,1-1,2,1,X,7
-1737085,2026-09-29,UEFA NATIONS LEAGUE B GRP. 1,2006-03-01,Friendly Games - Friendly International 2005/2006,Scotland,Switzerland,1,3,1-3,2-0,4,1,2,4
-1737085,2026-09-29,UEFA NATIONS LEAGUE B GRP. 1,1996-06-18,Europe (UEFA) - Euro 1996 England 1995/1996,Scotland,Switzerland,1,0,1-0,0-1,1,0,1,8
-1737086,2026-09-29,UEFA NATIONS LEAGUE B GRP. 1,2021-06-01,Friendly Games - Friendlies 2020/2021,North Macedonia,Slovenia,1,1,1-1,0-0,2,1,X,2
-1737086,2026-09-29,UEFA NATIONS LEAGUE B GRP. 1,2019-10-10,Europe (UEFA) - Euro 2020 2019/2020,North Macedonia,Slovenia,2,1,2-1,0-0,3,1,1,8
-1737086,2026-09-29,UEFA NATIONS LEAGUE B GRP. 1,2019-03-24,Europe (UEFA) - Euro 2020 2019/2020,Slovenia,North Macedonia,1,1,1-1,0-1,2,1,X,8
-1737086,2026-09-29,UEFA NATIONS LEAGUE B GRP. 1,2016-03-23,Friendly Games - Friendly International 2015/2016,Slovenia,North Macedonia,1,0,1-0,0-0,1,0,1,1
-1737086,2026-09-29,UEFA NATIONS LEAGUE B GRP. 1,2012-11-14,Friendly Games - Friendly International 2012/2013,North Macedonia,Slovenia,3,2,3-2,0-2,5,1,1,5
-1737408,2026-09-29,SERIE B,2026-06-01,Brazil - Serie B 2025/2025,Ponte Preta,Botafogo SP,0,0,0-0,0-0,0,0,X,7
-1737408,2026-09-29,SERIE B,2025-02-15,Brazil - Paulista A1 2024/2025,Ponte Preta,Botafogo SP,0,0,0-0,0-0,0,0,X,0
-1737408,2026-09-29,SERIE B,2024-10-05,Brazil - Serie B 2023/2024,Ponte Preta,Botafogo SP,1,0,1-0,0-1,1,0,1,2
-1737408,2026-09-29,SERIE B,2024-06-19,Brazil - Serie B 2023/2024,Botafogo SP,Ponte Preta,2,0,2-0,0-0,2,0,1,2
-1737408,2026-09-29,SERIE B,2024-02-07,Brazil - Paulista A1 2023/2024,Botafogo SP,Ponte Preta,0,3,0-3,2-0,3,0,2,3
-1737408,2026-09-29,SERIE B,2023-08-12,Brazil - Serie B 2022/2023,Botafogo SP,Ponte Preta,0,0,0-0,0-0,0,0,X,0
-1737408,2026-09-29,SERIE B,2023-05-02,Brazil - Serie B 2022/2023,Ponte Preta,Botafogo SP,2,0,2-0,0-0,2,0,1,3
-1737408,2026-09-29,SERIE B,2022-02-16,Brazil - Paulista A1 2021/2022,Ponte Preta,Botafogo SP,0,1,0-1,0-0,1,0,2,1
-1737408,2026-09-29,SERIE B,2021-05-13,Brazil - Paulista A1 Trophy Interior PlayOff Quarter Finals 2020/2021,Ponte Preta,Botafogo SP,14,13,14-13,0-0,27,1,1,27
-1737408,2026-09-29,SERIE B,2021-03-13,Brazil - Paulista A1 2020/2021,Botafogo SP,Ponte Preta,0,1,0-1,1-0,1,0,2,1
-1737408,2026-09-29,SERIE B,2020-12-08,Brazil - Serie B 2019/2020,Botafogo SP,Ponte Preta,2,1,2-1,0-1,3,1,1,3
-1737408,2026-09-29,SERIE B,2020-09-04,Brazil - Serie B 2019/2020,Ponte Preta,Botafogo SP,1,0,1-0,0-0,1,0,1,3
-1737408,2026-09-29,SERIE B,2020-01-26,Brazil - Paulista A1 2019/2020,Botafogo SP,Ponte Preta,0,1,0-1,0-0,1,0,2,1
-1737408,2026-09-29,SERIE B,2019-10-05,Brazil - Serie B 2018/2019,Botafogo SP,Ponte Preta,4,1,4-1,0-3,5,1,1,5
-1737408,2026-09-29,SERIE B,2019-06-07,Brazil - Serie B 2018/2019,Ponte Preta,Botafogo SP,0,0,0-0,0-0,0,0,X,0
-1737408,2026-09-29,SERIE B,2019-03-04,Brazil - Paulista 2018/2019,Ponte Preta,Botafogo SP,2,1,2-1,0-1,3,1,1,3
-1737408,2026-09-29,SERIE B,2018-02-14,Brazil - Paulista 2017/2018,Botafogo SP,Ponte Preta,1,1,1-1,1-0,2,1,X,2
-1737408,2026-09-29,SERIE B,2017-02-15,Brazil - Paulista 2016/2017,Botafogo SP,Ponte Preta,1,2,1-2,0-1,3,1,2,4
-1737408,2026-09-29,SERIE B,2016-02-14,Brazil - Paulista 2015/2016,Ponte Preta,Botafogo SP,1,1,1-1,0-0,2,1,X,2
-1737408,2026-09-29,SERIE B,2015-02-08,Brazil - Paulista 2014/2015,Botafogo SP,Ponte Preta,1,1,1-1,0-0,2,1,X,2
-1737408,2026-09-29,SERIE B,2014-01-22,Brazil - Paulista 2013/2014,Botafogo SP,Ponte Preta,1,0,1-0,0-1,1,0,1,1
-1737408,2026-09-29,SERIE B,2013-03-27,Brazil - Paulista 2012/2013,Ponte Preta,Botafogo SP,1,0,1-0,0-0,1,0,1,1
-1737408,2026-09-29,SERIE B,2012-03-01,Brazil - Paulista 2011/2012,Botafogo SP,Ponte Preta,1,2,1-2,2-1,3,1,2,4
-1737408,2026-09-29,SERIE B,2011-02-20,Brazil - Paulista 2010/2011,Ponte Preta,Botafogo SP,3,1,3-1,1-2,4,1,1,5
-1737408,2026-09-29,SERIE B,2010-01-28,Brazil - Paulista 2009/2010,Botafogo SP,Ponte Preta,1,0,1-0,0-0,1,0,1,1
-1737408,2026-09-29,SERIE B,2009-04-02,Brazil - Paulista 2008/2009,Botafogo SP,Ponte Preta,1,3,1-3,2-0,4,1,2,4
-1737090,2026-09-29,UEFA NATIONS LEAGUE C GRP. 3,2022-06-13,Europe (uefa) - League C 2022/2023,Kazakhstan,Slovakia,2,1,2-1,0-2,3,1,1,9
-1737090,2026-09-29,UEFA NATIONS LEAGUE C GRP. 3,2022-06-06,Europe (uefa) - League C 2022/2023,Slovakia,Kazakhstan,0,1,0-1,1-0,1,0,2,11
-1737089,2026-09-29,UEFA NATIONS LEAGUE C GRP. 3,2023-09-10,Europe (uefa) - Qualification Round 2023/2024,Faroe Islands,Moldova,0,1,0-1,0-0,1,0,2,4
-1737089,2026-09-29,UEFA NATIONS LEAGUE C GRP. 3,2023-03-24,Europe (uefa) - Qualification Round 2023/2024,Moldova,Faroe Islands,1,1,1-1,1-0,2,1,X,9
-1737089,2026-09-29,UEFA NATIONS LEAGUE C GRP. 3,2021-09-07,World (FIFA) - World Cup Qatar 2022 2021/2022,Faroe Islands,Moldova,2,1,2-1,0-0,3,1,1,5
-1737089,2026-09-29,UEFA NATIONS LEAGUE C GRP. 3,2021-03-25,World (FIFA) - World Cup Qatar 2022 2021/2022,Moldova,Faroe Islands,1,1,1-1,0-1,2,1,X,8
-1737088,2026-09-29,UEFA NATIONS LEAGUE C GRP. 1,2021-09-08,World (FIFA) - World Cup Qatar 2022 2021/2022,Albania,San Marino,5,0,5-0,0-1,5,0,1,7
-1737088,2026-09-29,UEFA NATIONS LEAGUE C GRP. 1,2021-03-31,World (FIFA) - World Cup Qatar 2022 2021/2022,San Marino,Albania,0,2,0-2,0-0,2,0,2,4
-1737088,2026-09-29,UEFA NATIONS LEAGUE C GRP. 1,2014-06-08,Friendly Games - Friendly International 2013/2014,San Marino,Albania,0,3,0-3,2-0,3,0,2,3
-1737087,2026-09-29,UEFA NATIONS LEAGUE C GRP. 1,2018-06-09,Friendly Games - Friendly International 2017/2018,Finland,Belarus,2,0,2-0,0-1,2,0,1,2
-1737087,2026-09-29,UEFA NATIONS LEAGUE C GRP. 1,2013-06-11,World (FIFA) - World Cup Brazil 2014 2013/2014,Belarus,Finland,1,1,1-1,1-0,2,1,X,8
-1737087,2026-09-29,UEFA NATIONS LEAGUE C GRP. 1,2013-06-07,World (FIFA) - World Cup Brazil 2014 2013/2014,Finland,Belarus,1,0,1-0,0-0,1,0,1,5
-1737087,2026-09-29,UEFA NATIONS LEAGUE C GRP. 1,2008-06-02,Friendly Games - Friendly International 2007/2008,Finland,Belarus,1,1,1-1,0-0,2,1,X,2
-1737087,2026-09-29,UEFA NATIONS LEAGUE C GRP. 1,2006-03-01,Friendly Games - Friendly International 2005/2006,Finland,Belarus,5,4,5-4,1-0,9,1,1,4
-1737092,2026-09-29,UEFA NATIONS LEAGUE C GRP. 4,2023-10-13,Europe (uefa) - Qualification Round 2023/2024,Iceland,Luxembourg,1,1,1-1,0-1,2,1,X,9
-1737092,2026-09-29,UEFA NATIONS LEAGUE C GRP. 4,2023-09-08,Europe (uefa) - Qualification Round 2023/2024,Luxembourg,Iceland,3,1,3-1,0-1,4,1,1,10
-1737092,2026-09-29,UEFA NATIONS LEAGUE C GRP. 4,2009-11-14,Friendly Games - Friendly International 2009/2010,Luxembourg,Iceland,1,1,1-1,0-0,2,1,X,2
-1737091,2026-09-29,UEFA NATIONS LEAGUE C GRP. 4,2011-02-09,Friendly Games - Friendly International 2010/2011,Estonia,Bulgaria,2,2,2-2,1-1,4,1,X,4
-1737091,2026-09-29,UEFA NATIONS LEAGUE C GRP. 4,2003-09-06,Europe (UEFA) - Euro 2004 Portugal 2003/2004,Bulgaria,Estonia,2,0,2-0,0-1,2,0,1,3
-1737091,2026-09-29,UEFA NATIONS LEAGUE C GRP. 4,2003-04-02,Europe (UEFA) - Euro 2004 Portugal 2003/2004,Estonia,Bulgaria,0,0,0-0,0-0,0,0,X,0
-1737100,2026-09-29,AZADEGAN LEAGUE,2026-09-22,Iran - Azadegan League 2026/2027,Mes Sungun,Mes Rafsanjan,0,0,0-0,0-0,0,0,X,0
-1737100,2026-09-29,AZADEGAN LEAGUE,2026-09-16,Iran - Azadegan League 2026/2027,Mes Rafsanjan,Havadar SC,0,0,0-0,0-0,0,0,X,0
-1737100,2026-09-29,AZADEGAN LEAGUE,2026-02-22,Iran - 1. Division 2025/2026,Mes Rafsanjan,Esteghlal FC,0,1,0-1,1-0,1,0,2,2
-1737100,2026-09-29,AZADEGAN LEAGUE,2026-02-14,Iran - 1. Division 2025/2026,Paykan,Mes Rafsanjan,0,2,0-2,1-0,2,0,2,4
-1737100,2026-09-29,AZADEGAN LEAGUE,2026-02-07,Iran - 1. Division 2025/2026,Mes Rafsanjan,Esteghlal Khuzestan,0,1,0-1,1-0,1,0,2,1
-1737100,2026-09-29,AZADEGAN LEAGUE,2026-02-01,Iran - 1. Division 2025/2026,Shams Azar Qazvin,Mes Rafsanjan,2,0,2-0,0-0,2,0,1,4
-1737100,2026-09-29,AZADEGAN LEAGUE,2026-01-28,Iran - 1. Division 2025/2026,Mes Rafsanjan,Zob Ahan,0,0,0-0,0-0,0,0,X,0
-1737100,2026-09-29,AZADEGAN LEAGUE,2026-01-22,Iran - 1. Division 2025/2026,Tractor Sazi,Mes Rafsanjan,4,1,4-1,0-1,5,1,1,5
-1737100,2026-09-29,AZADEGAN LEAGUE,2026-01-17,Iran - 1. Division 2025/2026,Mes Rafsanjan,Kheybar Khorramabad,2,1,2-1,0-0,3,1,1,3
-1737100,2026-09-29,AZADEGAN LEAGUE,2025-12-26,Iran - 1. Division 2025/2026,Mes Rafsanjan,Persepolis,0,1,0-1,1-0,1,0,2,2
-1737098,2026-09-29,PREMIER LEAGUE,2026-03-13,Wales - Premier League Relegation Group 2025/2026,Haverfordwest County,Cardiff Metropolitan,1,0,1-0,0-0,1,0,1,1
-1737098,2026-09-29,PREMIER LEAGUE,2026-01-23,Wales - Premier League Relegation Group 2025/2026,Cardiff Metropolitan,Haverfordwest County,0,2,0-2,0-0,2,0,2,3
-1737098,2026-09-29,PREMIER LEAGUE,2025-12-30,Wales - Premier League 2025/2026,Cardiff Metropolitan,Haverfordwest County,0,0,0-0,0-0,0,0,X,0
-1737098,2026-09-29,PREMIER LEAGUE,2025-08-22,Wales - Premier League 2025/2026,Haverfordwest County,Cardiff Metropolitan,2,2,2-2,2-2,4,1,X,5
-1737098,2026-09-29,PREMIER LEAGUE,2025-04-11,Wales - Premier League Championship Group 2024/2025,Cardiff Metropolitan,Haverfordwest County,1,1,1-1,0-1,2,1,X,2
-1737098,2026-09-29,PREMIER LEAGUE,2025-02-21,Wales - Premier League Championship Group 2024/2025,Haverfordwest County,Cardiff Metropolitan,1,0,1-0,0-0,1,0,1,1
-1737098,2026-09-29,PREMIER LEAGUE,2024-09-27,Wales - Faw Championship 2024/2025,Haverfordwest County,Cardiff Metropolitan,1,0,1-0,0-0,1,0,1,1
-1737098,2026-09-29,PREMIER LEAGUE,2024-08-26,Wales - Faw Championship 2024/2025,Cardiff Metropolitan,Haverfordwest County,0,0,0-0,0-0,0,0,X,0
-1737098,2026-09-29,PREMIER LEAGUE,2023-11-28,Wales - Premier League 2023/2024,Haverfordwest County,Cardiff Metropolitan,1,1,1-1,1-1,2,1,X,2
-1737098,2026-09-29,PREMIER LEAGUE,2023-09-26,Wales - Premier League 2023/2024,Cardiff Metropolitan,Haverfordwest County,1,1,1-1,0-0,2,1,X,2
-1737098,2026-09-29,PREMIER LEAGUE,2023-05-06,Wales - Premier League Ecl Playoff 2022/2023,Cardiff Metropolitan,Haverfordwest County,3,4,3-4,0-0,7,1,2,7
-1737098,2026-09-29,PREMIER LEAGUE,2022-12-16,Wales - Premier League 2022/2023,Cardiff Metropolitan,Haverfordwest County,2,0,2-0,0-1,2,0,1,2
-1737098,2026-09-29,PREMIER LEAGUE,2022-09-27,Wales - Premier League 2022/2023,Haverfordwest County,Cardiff Metropolitan,1,0,1-0,0-0,1,0,1,1
-1737098,2026-09-29,PREMIER LEAGUE,2022-04-23,Wales - Premier League Relegation Group 2021/2022,Haverfordwest County,Cardiff Metropolitan,1,2,1-2,2-1,3,1,2,3
-1737098,2026-09-29,PREMIER LEAGUE,2022-04-02,Wales - Premier League Relegation Group 2021/2022,Cardiff Metropolitan,Haverfordwest County,3,2,3-2,0-1,5,1,1,5
-1737098,2026-09-29,PREMIER LEAGUE,2021-10-09,Wales - Faw Championship 2021/2022,Cardiff Metropolitan,Haverfordwest County,0,2,0-2,0-0,2,0,2,2
-1737098,2026-09-29,PREMIER LEAGUE,2021-08-20,Wales - Faw Championship 2021/2022,Haverfordwest County,Cardiff Metropolitan,0,0,0-0,0-0,0,0,X,0
-1737098,2026-09-29,PREMIER LEAGUE,2021-04-27,Wales - Premier League 2020/2021,Haverfordwest County,Cardiff Metropolitan,0,2,0-2,0-0,2,0,2,2
-1737098,2026-09-29,PREMIER LEAGUE,2021-04-20,Wales - Premier League 2020/2021,Cardiff Metropolitan,Haverfordwest County,6,1,6-1,0-6,7,1,1,7
-1737098,2026-09-29,PREMIER LEAGUE,2021-03-06,Wales - Premier League 2020/2021,Haverfordwest County,Cardiff Metropolitan,1,0,1-0,0-1,1,0,1,1
-1737098,2026-09-29,PREMIER LEAGUE,2020-09-15,Wales - Premier League 2020/2021,Cardiff Metropolitan,Haverfordwest County,0,0,0-0,0-0,0,0,X,0
-1737116,2026-09-29,NATIONAL LEAGUE,2026-01-17,England - National League 2025/2026,FC Halifax Town,Boston Utd,2,1,2-1,1-1,3,1,1,5
-1737116,2026-09-29,NATIONAL LEAGUE,2025-08-19,England - National League 2025/2026,Boston Utd,FC Halifax Town,0,1,0-1,0-0,1,0,2,6
-1737116,2026-09-29,NATIONAL LEAGUE,2025-02-15,England - National League 2024/2025,FC Halifax Town,Boston Utd,1,0,1-0,0-0,1,0,1,3
-1737116,2026-09-29,NATIONAL LEAGUE,2024-10-19,England - National League 2024/2025,Boston Utd,FC Halifax Town,0,1,0-1,1-0,1,0,2,10
-1737116,2026-09-29,NATIONAL LEAGUE,2020-09-19,Friendly Games - Friendly Clubs 2019/2020,FC Halifax Town,Boston Utd,2,2,2-2,0-2,4,1,X,4
-1737116,2026-09-29,NATIONAL LEAGUE,2017-03-04,England - National League North 2016/2017,FC Halifax Town,Boston Utd,0,0,0-0,0-0,0,0,X,0
-1737116,2026-09-29,NATIONAL LEAGUE,2016-10-22,England - National League North 2016/2017,Boston Utd,FC Halifax Town,1,4,1-4,1-0,5,1,2,6
-1737116,2026-09-29,NATIONAL LEAGUE,2013-04-13,England - Football Conference North 2012/2013,Boston Utd,FC Halifax Town,1,2,1-2,1-0,3,1,2,3
-1737116,2026-09-29,NATIONAL LEAGUE,2012-10-13,England - Football Conference North 2012/2013,FC Halifax Town,Boston Utd,1,2,1-2,1-0,3,1,2,3
-1737116,2026-09-29,NATIONAL LEAGUE,2012-04-09,England - Football Conference North 2011/2012,FC Halifax Town,Boston Utd,3,2,3-2,1-3,5,1,1,5
-1737116,2026-09-29,NATIONAL LEAGUE,2011-08-29,England - Football Conference North 2011/2012,Boston Utd,FC Halifax Town,0,0,0-0,0-0,0,0,X,0
-1737118,2026-09-29,NATIONAL LEAGUE,2026-09-26,England - National League 2026/2027,Altrincham,AFC Hornchurch,3,0,3-0,0-1,3,0,1,6
-1737118,2026-09-29,NATIONAL LEAGUE,2026-09-19,England - National League 2026/2027,AFC Hornchurch,Scunthorpe,1,0,1-0,0-0,1,0,1,3
-1737118,2026-09-29,NATIONAL LEAGUE,2026-09-15,England - National League 2026/2027,Worthing,AFC Hornchurch,1,0,1-0,0-1,1,0,1,1
-1737118,2026-09-29,NATIONAL LEAGUE,2026-09-12,England - National League 2026/2027,FC Halifax Town,AFC Hornchurch,3,0,3-0,0-1,3,0,1,5
-1737118,2026-09-29,NATIONAL LEAGUE,2026-09-08,England - National League Cup Grp. B 2026/2027,AFC Hornchurch,Ipswich Academy,3,0,3-0,0-1,3,0,1,0
-1737118,2026-09-29,NATIONAL LEAGUE,2026-09-05,England - National League 2026/2027,AFC Hornchurch,Forest Green,0,1,0-1,1-0,1,0,2,5
-1737118,2026-09-29,NATIONAL LEAGUE,2026-08-31,England - National League 2026/2027,Boston Utd,AFC Hornchurch,2,3,2-3,1-2,5,1,2,7
-1737118,2026-09-29,NATIONAL LEAGUE,2026-08-28,England - National League 2026/2027,AFC Hornchurch,Woking,1,0,1-0,0-0,1,0,1,5
-1737118,2026-09-29,NATIONAL LEAGUE,2026-08-22,England - National League 2026/2027,Carlisle,AFC Hornchurch,4,1,4-1,0-1,5,1,1,6
-1737118,2026-09-29,NATIONAL LEAGUE,2026-08-15,England - National League 2026/2027,Barrow,AFC Hornchurch,1,2,1-2,0-0,3,1,2,6
-1737117,2026-09-29,NATIONAL LEAGUE,2023-01-01,England - League Two 2022/2023,Hartlepool,Harrogate Town,3,3,3-3,1-1,6,1,X,8
-1737117,2026-09-29,NATIONAL LEAGUE,2022-11-26,England - FA Cup 2022/2023,Hartlepool,Harrogate Town,3,1,3-1,0-2,4,1,1,11
-1737117,2026-09-29,NATIONAL LEAGUE,2022-10-15,England - League Two 2022/2023,Harrogate Town,Hartlepool,2,1,2-1,0-2,3,1,1,3
-1737117,2026-09-29,NATIONAL LEAGUE,2022-08-30,England - Group Stage 2022/2023,Hartlepool,Harrogate Town,2,0,2-0,0-2,2,0,1,2
-1737117,2026-09-29,NATIONAL LEAGUE,2022-03-05,England - League Two 2021/2022,Harrogate Town,Hartlepool,1,2,1-2,1-1,3,1,2,3
-1737117,2026-09-29,NATIONAL LEAGUE,2021-10-23,England - League Two 2021/2022,Hartlepool,Harrogate Town,3,2,3-2,2-0,5,1,1,8
-1737117,2026-09-29,NATIONAL LEAGUE,2020-01-01,England - National League 2019/2020,Hartlepool,Harrogate Town,0,1,0-1,0-0,1,0,2,1
-1737117,2026-09-29,NATIONAL LEAGUE,2019-12-26,England - National League 2019/2020,Harrogate Town,Hartlepool,4,1,4-1,0-0,5,1,1,5
-1737117,2026-09-29,NATIONAL LEAGUE,2019-12-14,England - FA Trophy 2019/2020,Harrogate Town,Hartlepool,3,2,3-2,2-0,5,1,1,5
-1737117,2026-09-29,NATIONAL LEAGUE,2019-01-19,England - National League 2018/2019,Harrogate Town,Hartlepool,3,1,3-1,0-1,4,1,1,4
-1737117,2026-09-29,NATIONAL LEAGUE,2018-08-07,England - National League 2018/2019,Hartlepool,Harrogate Town,2,2,2-2,0-0,4,1,X,4
-1737115,2026-09-29,NATIONAL LEAGUE,2026-04-25,England - National League 2025/2026,Altrincham,Gateshead,3,1,3-1,1-2,4,1,1,4
-1737115,2026-09-29,NATIONAL LEAGUE,2025-09-03,England - National League 2025/2026,Gateshead,Altrincham,0,2,0-2,0-0,2,0,2,4
-1737115,2026-09-29,NATIONAL LEAGUE,2025-02-15,England - National League 2024/2025,Gateshead,Altrincham,0,1,0-1,1-0,1,0,2,7
-1737115,2026-09-29,NATIONAL LEAGUE,2024-10-19,England - National League 2024/2025,Altrincham,Gateshead,2,2,2-2,2-1,4,1,X,8
-1737115,2026-09-29,NATIONAL LEAGUE,2024-03-23,England - National League 2023/2024,Altrincham,Gateshead,2,3,2-3,0-1,5,1,2,10
-1737115,2026-09-29,NATIONAL LEAGUE,2023-10-07,England - National League 2023/2024,Gateshead,Altrincham,0,2,0-2,0-0,2,0,2,10
-1737115,2026-09-29,NATIONAL LEAGUE,2023-04-10,England - National League 2022/2023,Altrincham,Gateshead,0,1,0-1,1-0,1,0,2,11
-1737115,2026-09-29,NATIONAL LEAGUE,2022-10-18,England - FA Cup 2022/2023,Gateshead,Altrincham,2,1,2-1,1-2,3,1,1,3
-1737115,2026-09-29,NATIONAL LEAGUE,2022-10-15,England - FA Cup 2022/2023,Altrincham,Gateshead,2,2,2-2,2-1,4,1,X,4
-1737115,2026-09-29,NATIONAL LEAGUE,2022-10-04,England - National League 2022/2023,Gateshead,Altrincham,1,3,1-3,2-1,4,1,2,8
-1737115,2026-09-29,NATIONAL LEAGUE,2021-11-16,England - FA Cup 2021/2022,Altrincham,Gateshead,2,3,2-3,1-1,5,1,2,5
-1737115,2026-09-29,NATIONAL LEAGUE,2021-11-06,England - FA Cup 2021/2022,Gateshead,Altrincham,2,2,2-2,0-0,4,1,X,4
-1737115,2026-09-29,NATIONAL LEAGUE,2020-01-18,England - National League North 2019/2020,Gateshead,Altrincham,2,0,2-0,0-1,2,0,1,2
-1737115,2026-09-29,NATIONAL LEAGUE,2019-11-19,England - National League North 2019/2020,Altrincham,Gateshead,3,0,3-0,0-2,3,0,1,3
-1737115,2026-09-29,NATIONAL LEAGUE,2016-03-08,England - National League 2015/2016,Altrincham,Gateshead,2,3,2-3,1-0,5,1,2,5
-1737115,2026-09-29,NATIONAL LEAGUE,2015-10-17,England - National League 2015/2016,Gateshead,Altrincham,2,2,2-2,0-0,4,1,X,4
-1737115,2026-09-29,NATIONAL LEAGUE,2015-04-06,England - Football Conference 2014/2015,Gateshead,Altrincham,1,0,1-0,0-1,1,0,1,1
-1737115,2026-09-29,NATIONAL LEAGUE,2014-08-25,England - Football Conference 2014/2015,Altrincham,Gateshead,0,1,0-1,1-0,1,0,2,1
-1737115,2026-09-29,NATIONAL LEAGUE,2011-03-05,England - Football Conference 2010/2011,Altrincham,Gateshead,1,1,1-1,0-0,2,1,X,2
-1737115,2026-09-29,NATIONAL LEAGUE,2010-09-11,England - Football Conference 2010/2011,Gateshead,Altrincham,2,0,2-0,0-1,2,0,1,2
-1737115,2026-09-29,NATIONAL LEAGUE,2010-02-23,England - Football Conference 2009/2010,Gateshead,Altrincham,1,0,1-0,0-0,1,0,1,1
-1737115,2026-09-29,NATIONAL LEAGUE,2009-09-29,England - Football Conference 2009/2010,Altrincham,Gateshead,3,2,3-2,1-1,5,1,1,5
-1737114,2026-09-29,NATIONAL LEAGUE,2026-03-21,England - National League 2025/2026,Forest Green,Wealdstone,2,0,2-0,0-1,2,0,1,7
-1737114,2026-09-29,NATIONAL LEAGUE,2026-01-31,England - Fa Trophy 2025/2026,Forest Green,Wealdstone,0,3,0-3,1-0,3,0,2,3
-1737114,2026-09-29,NATIONAL LEAGUE,2025-11-22,England - National League 2025/2026,Wealdstone,Forest Green,1,1,1-1,0-0,2,1,X,6
-1737114,2026-09-29,NATIONAL LEAGUE,2025-04-05,England - National League 2024/2025,Wealdstone,Forest Green,2,1,2-1,1-1,3,1,1,5
-1737114,2026-09-29,NATIONAL LEAGUE,2024-09-14,England - National League 2024/2025,Forest Green,Wealdstone,2,2,2-2,1-2,4,1,X,7
-1737113,2026-09-29,NATIONAL LEAGUE,2022-03-15,England - League Two 2021/2022,Scunthorpe,Barrow,0,1,0-1,1-0,1,0,2,6
-1737113,2026-09-29,NATIONAL LEAGUE,2021-10-19,England - League Two 2021/2022,Barrow,Scunthorpe,1,1,1-1,1-0,2,1,X,6
-1737113,2026-09-29,NATIONAL LEAGUE,2021-08-10,England - League Cup 2021/2022,Barrow,Scunthorpe,1,0,1-0,0-0,1,0,1,1
-1737113,2026-09-29,NATIONAL LEAGUE,2021-01-16,England - League Two 2020/2021,Barrow,Scunthorpe,1,0,1-0,0-0,1,0,1,7
-1737113,2026-09-29,NATIONAL LEAGUE,2020-12-15,England - League Two 2020/2021,Scunthorpe,Barrow,2,1,2-1,1-1,3,1,1,7
-1737112,2026-09-29,NATIONAL LEAGUE,2018-07-21,Friendly Games - Friendly Clubs 2018/2019,AFC Fylde,Carlisle,0,1,0-1,0-0,1,0,2,1
-1737111,2026-09-29,NATIONAL LEAGUE,2023-12-30,England - National League 2023/2024,Kidderminster,Boreham Wood,1,2,1-2,2-1,3,1,2,6
-1737111,2026-09-29,NATIONAL LEAGUE,2023-12-26,England - National League 2023/2024,Boreham Wood,Kidderminster,1,1,1-1,0-0,2,1,X,5
-1737111,2026-09-29,NATIONAL LEAGUE,2016-02-06,England - National League 2015/2016,Boreham Wood,Kidderminster,0,2,0-2,1-0,2,0,2,2
-1737111,2026-09-29,NATIONAL LEAGUE,2015-10-06,England - National League 2015/2016,Kidderminster,Boreham Wood,1,1,1-1,0-1,2,1,X,2
-1713413,2026-09-29,CHALLENGE CUP,2021-10-23,Scotland - FA Cup 2021/2022,Formartine Utd,Forfar Athletic,0,2,0-2,1-0,2,0,2,3
-1713413,2026-09-29,CHALLENGE CUP,2021-08-10,Scotland - Challenge Cup 2021/2022,Forfar Athletic,Formartine Utd,1,0,1-0,0-1,1,0,1,1
-1713413,2026-09-29,CHALLENGE CUP,2017-11-18,Scotland - FA Cup 2017/2018,Formartine Utd,Forfar Athletic,1,0,1-0,0-1,1,0,1,1
-1737149,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-01-31,England - Southern Premier Division South 2025/2026,Basingstoke,Uxbridge,1,1,1-1,1-0,2,1,X,2
-1737149,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2025-10-11,England - Southern Premier Division South 2025/2026,Uxbridge,Basingstoke,2,1,2-1,1-1,3,1,1,3
-1737146,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-09-26,England - Fa Trophy 2026/2027,Hanworth Villa,Bishops Stortford,3,2,3-2,0-0,5,1,1,0
-1737146,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-09-22,England - Southern Premier Division South 2026/2027,Berkhamsted Fc,Hanworth Villa,1,2,1-2,2-0,3,1,2,0
-1737146,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-09-19,England - Fa Cup 2026/2027,Pagham,Hanworth Villa,0,6,0-6,0-0,6,0,2,0
-1737146,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-09-12,England - Southern Premier Division South 2026/2027,Hanworth Villa,Yate Town,2,3,2-3,0-0,5,1,2,0
-1737146,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-09-05,England - Fa Cup 2026/2027,Hanworth Villa,Whitstable Town,4,1,4-1,0-0,5,1,1,0
-1737146,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-08-31,England - Southern Premier Division South 2026/2027,Hanworth Villa,Chertsey Town/dagenham & Redbridge,4,1,4-1,0-0,5,1,1,0
-1737146,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-08-29,England - Southern Premier Division South 2026/2027,Wimborne Town,Hanworth Villa,0,0,0-0,0-0,0,0,X,0
-1737146,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-08-22,England - Southern Premier Division South 2026/2027,Hanworth Villa,Evesham United,4,1,4-1,0-0,5,1,1,0
-1737146,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-08-15,England - Southern Premier Division South 2026/2027,Bath City,Hanworth Villa,1,0,1-0,0-0,1,0,1,0
-1737146,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-08-12,England - Southern Premier Division South 2026/2027,Gosport Borough,Hanworth Villa,0,1,0-1,0-0,1,0,2,0
-1737144,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-09-26,England - Fa Trophy 2026/2027,Evesham United,Stratford,3,1,3-1,0-0,4,1,1,0
-1737144,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-09-19,England - Fa Cup 2026/2027,Redditch,Evesham United,3,0,3-0,0-0,3,0,1,0
-1737144,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-09-12,England - Southern Premier Division South 2026/2027,Evesham United,Berkhamsted Fc,0,0,0-0,0-0,0,0,X,0
-1737144,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-09-05,England - Fa Cup 2026/2027,Belper Town,Evesham United,0,3,0-3,0-0,3,0,2,0
-1737144,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-08-31,England - Southern Premier Division South 2026/2027,Gloucester City,Evesham United,1,2,1-2,0-0,3,1,2,0
-1737144,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-08-29,England - Southern Premier Division South 2026/2027,Evesham United,Leeds/plymouth,1,3,1-3,0-0,4,1,2,0
-1737144,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-08-22,England - Southern Premier Division South 2026/2027,Hanworth Villa,Evesham United,4,1,4-1,0-0,5,1,1,0
-1737144,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-08-15,England - Southern Premier Division South 2026/2027,Evesham United,Chichester City,3,0,3-0,0-0,3,0,1,0
-1737144,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-08-11,England - Southern Premier Division South 2026/2027,Evesham United,Frome Town/shaftesbury Town,0,4,0-4,0-0,4,0,2,0
-1737144,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-08-08,England - Southern Premier Division South 2026/2027,Basingstoke,Evesham United,2,4,2-4,0-0,6,1,2,0
-1737142,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-09-26,England - Fa Trophy 2026/2027,Plymouth Parkway,Bath City,0,3,0-3,0-0,3,0,2,0
-1737142,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-09-22,England - Southern Premier Division South 2026/2027,Taunton Town,Bath City,1,3,1-3,0-0,4,1,2,0
-1737142,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-09-12,England - Southern Premier Division South 2026/2027,Bath City,Chippenham,2,0,2-0,0-0,2,0,1,0
-1737142,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-09-05,England - Fa Cup 2026/2027,Bath City,Weymouth,0,2,0-2,0-0,2,0,2,0
-1737142,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-08-31,England - Southern Premier Division South 2026/2027,Frome Town/shaftesbury Town,Bath City,1,0,1-0,0-0,1,0,1,0
-1737142,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-08-29,England - Southern Premier Division South 2026/2027,Bath City,Uxbridge,1,2,1-2,0-0,3,1,2,0
-1737142,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-08-22,England - Southern Premier Division South 2026/2027,Basingstoke,Bath City,1,0,1-0,0-0,1,0,1,0
-1737142,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-08-15,England - Southern Premier Division South 2026/2027,Bath City,Hanworth Villa,1,0,1-0,0-0,1,0,1,0
-1737142,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-08-11,England - Southern Premier Division South 2026/2027,Bath City,Leeds/plymouth,1,1,1-1,0-0,2,1,X,0
-1737142,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-08-08,England - Southern Premier Division South 2026/2027,Sholing FC,Bath City,1,2,1-2,0-0,3,1,2,0
-1737141,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2026-03-07,England - Southern Premier Division South 2025/2026,Yate Town,Wimborne Town,1,1,1-1,0-0,2,1,X,0
-1737141,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2025-10-14,England - Southern Premier Division South 2025/2026,Wimborne Town,Yate Town,4,1,4-1,2-2,5,1,1,5
-1737141,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2022-03-08,England - Southern Premier Division South 2021/2022,Wimborne Town,Yate Town,0,5,0-5,2-0,5,0,2,5
-1737141,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2021-08-17,England - Southern Premier Division South 2021/2022,Yate Town,Wimborne Town,0,0,0-0,0-0,0,0,X,0
-1737141,2026-09-29,SOUTHERN PREMIER DIVISION SOUTH,2019-11-02,England - Southern League South 2019/2020,Wimborne Town,Yate Town,2,0,2-0,0-0,2,0,1,2
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2026-06-08,Colombia - Primera A Apertura Playoffs 2026/2026,Atletico Nacional,Junior,1,0,1-0,0-0,1,0,1,10
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2026-06-02,Colombia - Primera A Apertura Playoffs 2026/2026,Junior,Atletico Nacional,3,0,3-0,0-2,3,0,1,11
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2026-03-10,Colombia - Primera A Apertura 2026/2026,Junior,Atletico Nacional,0,4,0-4,1-0,4,0,2,5
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2025-11-30,Colombia - Primera A Clausura Playoff Grp. A 2025/2025,Junior,Atletico Nacional,2,1,2-1,1-0,3,1,1,3
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2025-11-26,Colombia - Primera A Clausura Playoff Grp. A 2025/2025,Atletico Nacional,Junior,1,1,1-1,1-0,2,1,X,0
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2025-11-13,Colombia - Primera A Clausura 2025/2025,Junior,Atletico Nacional,2,1,2-1,0-0,3,1,1,3
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2025-05-25,Colombia - Primera A Apertura 2024/2025,Atletico Nacional,Junior,2,3,2-3,2-0,5,1,2,5
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2024-09-26,Colombia - Primera A Clausura 2023/2024,Atletico Nacional,Junior,2,3,2-3,0-1,5,1,2,2
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2024-03-02,Colombia - Primera B Clausura Playoff Group B 2023/2024,Junior,Atletico Nacional,0,0,0-0,0-0,0,0,X,0
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2023-09-17,Colombia - Primera A Clausura 2022/2023,Junior,Atletico Nacional,1,1,1-1,1-1,2,1,X,4
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2023-04-10,Colombia - Primera A Apertura 2022/2023,Atletico Nacional,Junior,0,1,0-1,0-0,1,0,2,1
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2022-08-18,Colombia - FA Cup 2021/2022,Atletico Nacional,Junior,1,1,1-1,0-0,2,1,X,2
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2022-07-28,Colombia - FA Cup 2021/2022,Junior,Atletico Nacional,3,0,3-0,0-1,3,0,1,3
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2022-07-13,Colombia - Primera A Clausura 2021/2022,Junior,Atletico Nacional,3,1,3-1,1-2,4,1,1,5
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2022-06-15,Colombia - Primera A Apertura PlayOff Group A 2021/2022,Atletico Nacional,Junior,2,1,2-1,1-2,3,1,1,5
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2022-05-21,Colombia - Primera A Apertura PlayOff Group A 2021/2022,Junior,Atletico Nacional,1,1,1-1,0-1,2,1,X,2
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2022-01-26,Colombia - Primera B Apertura Final Stage 2021/2022,Atletico Nacional,Junior,3,1,3-1,0-1,4,1,1,4
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2021-12-15,Colombia - Primera A Clausura PlayOff Group A 2020/2021,Junior,Atletico Nacional,1,1,1-1,1-0,2,1,X,3
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2021-11-27,Colombia - Primera A Clausura PlayOff Group A 2020/2021,Atletico Nacional,Junior,1,1,1-1,0-1,2,1,X,2
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2021-09-18,Colombia - Primera A Clausura 2020/2021,Junior,Atletico Nacional,1,3,1-3,1-1,4,1,2,4
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2021-03-14,Colombia - Primera A Apertura 2020/2021,Atletico Nacional,Junior,1,0,1-0,0-0,1,0,1,3
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2020-10-10,Colombia - Primera A 2021/2022,Atletico Nacional,Junior,2,2,2-2,1-1,4,1,X,4
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2019-11-20,Colombia - CL-P.Off Gs 2018/2019,Junior,Atletico Nacional,2,0,2-0,0-2,2,0,1,2
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2019-11-17,Colombia - CL-P.Off Gs 2018/2019,Atletico Nacional,Junior,2,2,2-2,1-0,4,1,X,4
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2019-10-06,Colombia - Clausura 2018/2019,Atletico Nacional,Junior,0,1,0-1,0-0,1,0,2,2
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2019-06-05,Colombia - AP-P.Off Gs 2018/2019,Atletico Nacional,Junior,2,3,2-3,3-1,5,1,2,5
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2019-05-12,Colombia - AP-P.Off Gs 2018/2019,Junior,Atletico Nacional,0,0,0-0,0-0,0,0,X,0
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2019-04-14,Colombia - PB Rpomotion P.Off Final 2018/2019,Junior,Atletico Nacional,0,0,0-0,0-0,0,0,X,0
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2018-10-21,Colombia - Clausura 2017/2018,Atletico Nacional,Junior,1,0,1-0,0-0,1,0,1,2
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2018-09-19,Colombia - FA Cup 2017/2018,Junior,Atletico Nacional,0,0,0-0,0-0,0,0,X,0
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2018-09-13,Colombia - FA Cup 2017/2018,Atletico Nacional,Junior,1,0,1-0,0-0,1,0,1,2
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2018-04-25,Colombia - Apertura 2017/2018,Junior,Atletico Nacional,1,1,1-1,0-0,2,1,X,2
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2017-07-30,Colombia - Clausura 2016/2017,Junior,Atletico Nacional,2,0,2-0,0-1,2,0,1,3
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2017-04-26,Colombia - PB Rpomotion P.Off Final 2016/2017,Atletico Nacional,Junior,2,1,2-1,0-0,3,1,1,3
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2016-11-17,Colombia - FA Cup 2015/2016,Junior,Atletico Nacional,0,1,0-1,1-0,1,0,2,1
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2016-11-13,Colombia - FA Cup 2015/2016,Atletico Nacional,Junior,2,1,2-1,1-1,3,1,1,3
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2016-11-09,Colombia - Clausura 2015/2016,Atletico Nacional,Junior,2,2,2-2,2-0,4,1,X,5
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2016-06-11,Colombia - AP-Play Offs 2015/2016,Atletico Nacional,Junior,2,4,2-4,0-0,6,1,2,6
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2016-06-08,Colombia - AP-Play Offs 2015/2016,Junior,Atletico Nacional,1,1,1-1,1-0,2,1,X,2
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2016-04-09,Colombia - Apertura 2015/2016,Junior,Atletico Nacional,3,3,3-3,1-0,6,1,X,6
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2015-12-20,Colombia - CL-Play Offs 2014/2015,Atletico Nacional,Junior,3,2,3-2,0-1,5,1,1,6
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2015-12-16,Colombia - CL-Play Offs 2014/2015,Junior,Atletico Nacional,2,1,2-1,0-2,3,1,1,3
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2015-10-17,Colombia - Clausura 2014/2015,Junior,Atletico Nacional,0,4,0-4,4-0,4,0,2,5
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2015-07-29,Colombia - FA Cup 2014/2015,Junior,Atletico Nacional,2,0,2-0,0-0,2,0,1,2
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2015-07-15,Colombia - FA Cup 2014/2015,Atletico Nacional,Junior,1,0,1-0,0-1,1,0,1,1
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2015-04-18,Colombia - Apertura 2014/2015,Atletico Nacional,Junior,2,2,2-2,0-2,4,1,X,4
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2014-10-19,Colombia - Clausura 2013/2014,Junior,Atletico Nacional,0,1,0-1,1-0,1,0,2,1
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2014-05-21,Colombia - FA Cup 2013/2014,Atletico Nacional,Junior,4,2,4-2,1-1,6,1,1,9
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2014-05-18,Colombia - FA Cup 2013/2014,Junior,Atletico Nacional,1,0,1-0,0-0,1,0,1,1
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2014-04-05,Colombia - Apertura 2013/2014,Atletico Nacional,Junior,1,0,1-0,0-0,1,0,1,1
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2013-11-24,Colombia - CL-Play Offs 2012/2013,Junior,Atletico Nacional,0,0,0-0,0-0,0,0,X,0
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2013-09-01,Colombia - Clausura 2012/2013,Junior,Atletico Nacional,0,1,0-1,0-0,1,0,2,1
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2013-03-31,Colombia - Apertura 2012/2013,Atletico Nacional,Junior,2,1,2-1,0-2,3,1,1,4
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2012-10-27,Colombia - Clausura 2011/2012,Junior,Atletico Nacional,1,0,1-0,0-0,1,0,1,1
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2012-05-13,Colombia - Apertura 2011/2012,Atletico Nacional,Junior,3,1,3-1,0-1,4,1,1,5
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2011-09-14,Colombia - Clausura 2010/2011,Junior,Atletico Nacional,1,1,1-1,1-0,2,1,X,3
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2011-03-05,Colombia - Apertura 2010/2011,Atletico Nacional,Junior,4,1,4-1,1-3,5,1,1,6
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2010-09-08,Colombia - Clausura 2009/2010,Junior,Atletico Nacional,4,2,4-2,0-3,6,1,1,7
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2010-02-20,Colombia - Apertura 2009/2010,Atletico Nacional,Junior,1,0,1-0,0-1,1,0,1,4
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2009-07-26,Colombia - Clausura 2008/2009,Atletico Nacional,Junior,2,1,2-1,1-0,3,1,1,4
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2009-02-18,Colombia - Apertura 2008/2009,Junior,Atletico Nacional,3,0,3-0,0-2,3,0,1,6
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2008-10-19,Colombia - Clausura 2007/2008,Atletico Nacional,Junior,2,1,2-1,1-0,3,1,1,3
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2008-04-13,Colombia - Apertura 2007/2008,Junior,Atletico Nacional,3,0,3-0,0-2,3,0,1,5
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2007-10-25,Colombia - Clausura 2006/2007,Atletico Nacional,Junior,0,0,0-0,0-0,0,0,X,0
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2007-04-25,Colombia - Apertura 2006/2007,Junior,Atletico Nacional,2,1,2-1,1-0,3,1,1,3
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2006-07-23,Colombia - Clausura 2005/2006,Junior,Atletico Nacional,2,1,2-1,1-2,3,1,1,5
+1737678,2026-09-30,PRIMERA A APERTURA FINALIZACION,2006-02-12,Colombia - Apertura 2005/2006,Atletico Nacional,Junior,2,2,2-2,0-1,4,1,X,4
+1737467,2026-09-30,COPA URUGUAY GROUP B,2025-08-23,Uruguay - Liga Auf Uruguaya Clausura 2024/2025,Defensor Sporting,Plaza Colonia,1,0,1-0,0-0,1,0,1,1
+1737467,2026-09-30,COPA URUGUAY GROUP B,2025-06-28,Uruguay - Primera Division Intermedio Group A 2024/2025,Defensor Sporting,Plaza Colonia,1,1,1-1,1-1,2,1,X,3
+1737467,2026-09-30,COPA URUGUAY GROUP B,2025-02-23,Uruguay - Primera Division Apertura 2024/2025,Plaza Colonia,Defensor Sporting,1,2,1-2,2-1,3,1,2,3
+1737467,2026-09-30,COPA URUGUAY GROUP B,2023-11-05,Uruguay - Primera Division Clausura 2022/2023,Plaza Colonia,Defensor Sporting,0,2,0-2,0-0,2,0,2,2
+1737467,2026-09-30,COPA URUGUAY GROUP B,2023-03-24,Uruguay - Primera Division Apertura 2022/2023,Defensor Sporting,Plaza Colonia,4,0,4-0,0-2,4,0,1,4
+1737467,2026-09-30,COPA URUGUAY GROUP B,2022-08-28,Uruguay - Primera Division Clausura 2021/2022,Plaza Colonia,Defensor Sporting,0,1,0-1,0-0,1,0,2,1
+1737467,2026-09-30,COPA URUGUAY GROUP B,2022-07-24,Uruguay - Primera Division Intermedio 2021/2022,Defensor Sporting,Plaza Colonia,1,2,1-2,1-1,3,1,2,4
+1737467,2026-09-30,COPA URUGUAY GROUP B,2022-03-12,Uruguay - Primera Division Apertura 2021/2022,Defensor Sporting,Plaza Colonia,0,0,0-0,0-0,0,0,X,0
+1737467,2026-09-30,COPA URUGUAY GROUP B,2021-02-07,Uruguay - Primera Division Clausura 2019/2020,Defensor Sporting,Plaza Colonia,3,2,3-2,0-1,5,1,1,5
+1737467,2026-09-30,COPA URUGUAY GROUP B,2020-08-14,Uruguay - Lig Champion P.off Final 2023/2024,Plaza Colonia,Defensor Sporting,2,0,2-0,0-1,2,0,1,2
+1737467,2026-09-30,COPA URUGUAY GROUP B,2019-11-06,Uruguay - Clausura 2018/2019,Plaza Colonia,Defensor Sporting,4,1,4-1,0-1,5,1,1,6
+1737467,2026-09-30,COPA URUGUAY GROUP B,2019-04-21,Uruguay - Lig Champion P.Off Final 2018/2019,Defensor Sporting,Plaza Colonia,4,1,4-1,0-1,5,1,1,5
+1737467,2026-09-30,COPA URUGUAY GROUP B,2017-10-08,Uruguay - Clausura 2016/2017,Plaza Colonia,Defensor Sporting,1,2,1-2,0-0,3,1,2,3
+1737467,2026-09-30,COPA URUGUAY GROUP B,2017-07-02,Uruguay - Torneo Intermedio 2016/2017,Plaza Colonia,Defensor Sporting,0,2,0-2,1-0,2,0,2,2
+1737467,2026-09-30,COPA URUGUAY GROUP B,2017-03-12,Uruguay - Lig Champion P.Off Final 2016/2017,Defensor Sporting,Plaza Colonia,1,3,1-3,0-1,4,1,2,5
+1737467,2026-09-30,COPA URUGUAY GROUP B,2016-10-23,Uruguay - Primera Division 2015/2016,Plaza Colonia,Defensor Sporting,0,1,0-1,1-0,1,0,2,1
+1737467,2026-09-30,COPA URUGUAY GROUP B,2016-04-30,Uruguay - Clausura 2015/2016,Defensor Sporting,Plaza Colonia,1,1,1-1,0-0,2,1,X,2
+1737467,2026-09-30,COPA URUGUAY GROUP B,2015-10-23,Uruguay - Apertura 2015/2016,Plaza Colonia,Defensor Sporting,0,0,0-0,0-0,0,0,X,1
+1737466,2026-09-30,COPA URUGUAY GROUP B,2022-10-11,Uruguay - Primera Division Clausura 2021/2022,Cerro Largo,Rentistas,2,1,2-1,0-1,3,1,1,3
+1737466,2026-09-30,COPA URUGUAY GROUP B,2022-05-21,Uruguay - Primera Division Apertura 2021/2022,Rentistas,Cerro Largo,2,0,2-0,0-0,2,0,1,2
+1737466,2026-09-30,COPA URUGUAY GROUP B,2021-11-15,Uruguay - Primera Division Clausura 2020/2021,Cerro Largo,Rentistas,1,1,1-1,0-1,2,1,X,3
+1737466,2026-09-30,COPA URUGUAY GROUP B,2021-07-30,Uruguay - Primera Division Apertura 2020/2021,Rentistas,Cerro Largo,1,3,1-3,1-0,4,1,2,5
+1737466,2026-09-30,COPA URUGUAY GROUP B,2021-02-06,Uruguay - Primera Division Clausura 2019/2020,Rentistas,Cerro Largo,2,1,2-1,0-0,3,1,1,3
+1737466,2026-09-30,COPA URUGUAY GROUP B,2020-11-06,Uruguay - Primera Division Intermedio 2019/2020,Rentistas,Cerro Largo,0,0,0-0,0-0,0,0,X,1
+1737466,2026-09-30,COPA URUGUAY GROUP B,2020-08-16,Uruguay - Lig Champion P.off Final 2023/2024,Cerro Largo,Rentistas,1,1,1-1,1-1,2,1,X,3
+1737466,2026-09-30,COPA URUGUAY GROUP B,2018-10-27,Uruguay - Segunda Division 2017/2018,Cerro Largo,Rentistas,2,0,2-0,0-2,2,0,1,2
+1737466,2026-09-30,COPA URUGUAY GROUP B,2018-06-02,Uruguay - Segunda Division 2017/2018,Rentistas,Cerro Largo,0,2,0-2,0-0,2,0,2,2
+1737466,2026-09-30,COPA URUGUAY GROUP B,2017-11-22,Uruguay - Segunda Division 2016/2017,Cerro Largo,Rentistas,2,2,2-2,2-1,4,1,X,4
+1737466,2026-09-30,COPA URUGUAY GROUP B,2017-07-05,Uruguay - Segunda Division 2016/2017,Rentistas,Cerro Largo,1,3,1-3,0-0,4,1,2,5
+1737466,2026-09-30,COPA URUGUAY GROUP B,2014-03-16,Uruguay - Clausura 2013/2014,Rentistas,Cerro Largo,3,1,3-1,0-1,4,1,1,5
+1737466,2026-09-30,COPA URUGUAY GROUP B,2013-10-20,Uruguay - Apertura 2013/2014,Cerro Largo,Rentistas,2,3,2-3,1-0,5,1,2,6
+1737466,2026-09-30,COPA URUGUAY GROUP B,2012-02-18,Uruguay - Clausura 2011/2012,Rentistas,Cerro Largo,1,1,1-1,0-1,2,1,X,2
+1737466,2026-09-30,COPA URUGUAY GROUP B,2011-08-14,Uruguay - Apertura 2011/2012,Cerro Largo,Rentistas,1,0,1-0,0-1,1,0,1,3
+1737676,2026-09-30,CUP,2026-09-19,Paraguay - Division Profesional - Clausura 2025/2025,Cerro Porteno,Rubio Nu,1,0,1-0,0-1,1,0,1,6
+1737676,2026-09-30,CUP,2026-05-24,Paraguay - Division Profesional - Apertura 2026/2026,Cerro Porteno,Rubio Nu,2,0,2-0,0-1,2,0,1,7
+1737676,2026-09-30,CUP,2026-03-18,Paraguay - Division Profesional - Apertura 2026/2026,Rubio Nu,Cerro Porteno,2,0,2-0,0-0,2,0,1,9
+1737676,2026-09-30,CUP,2022-08-03,Paraguay - FA Cup 2021/2022,Rubio Nu,Cerro Porteno,1,0,1-0,0-1,1,0,1,1
+1737676,2026-09-30,CUP,2017-11-18,Paraguay - Clausura 2016/2017,Rubio Nu,Cerro Porteno,0,3,0-3,1-0,3,0,2,3
+1737676,2026-09-30,CUP,2017-09-08,Paraguay - Clausura 2016/2017,Cerro Porteno,Rubio Nu,1,0,1-0,0-1,1,0,1,1
+1737676,2026-09-30,CUP,2017-04-15,Paraguay - Apertura 2016/2017,Cerro Porteno,Rubio Nu,4,0,4-0,0-4,4,0,1,4
+1737676,2026-09-30,CUP,2017-02-05,Paraguay - Apertura 2016/2017,Rubio Nu,Cerro Porteno,0,3,0-3,2-0,3,0,2,3
+1737676,2026-09-30,CUP,2016-11-19,Paraguay - Clausura 2015/2016,Cerro Porteno,Rubio Nu,1,0,1-0,0-1,1,0,1,1
+1737676,2026-09-30,CUP,2016-08-13,Paraguay - Clausura 2015/2016,Rubio Nu,Cerro Porteno,0,4,0-4,1-0,4,0,2,5
+1737676,2026-09-30,CUP,2016-05-11,Paraguay - Apertura 2015/2016,Rubio Nu,Cerro Porteno,1,0,1-0,0-1,1,0,1,2
+1737676,2026-09-30,CUP,2016-02-12,Paraguay - Apertura 2015/2016,Cerro Porteno,Rubio Nu,1,2,1-2,0-0,3,1,2,3
+1737676,2026-09-30,CUP,2015-10-03,Paraguay - Clausura 2014/2015,Rubio Nu,Cerro Porteno,1,2,1-2,2-0,3,1,2,4
+1737676,2026-09-30,CUP,2015-07-19,Paraguay - Clausura 2014/2015,Cerro Porteno,Rubio Nu,1,0,1-0,0-1,1,0,1,1
+1737676,2026-09-30,CUP,2015-05-31,Paraguay - Apertura 2014/2015,Cerro Porteno,Rubio Nu,2,2,2-2,1-0,4,1,X,4
+1737676,2026-09-30,CUP,2015-03-30,Paraguay - Apertura 2014/2015,Rubio Nu,Cerro Porteno,0,2,0-2,1-0,2,0,2,2
+1737676,2026-09-30,CUP,2014-10-26,Paraguay - Clausura 2013/2014,Cerro Porteno,Rubio Nu,1,1,1-1,1-1,2,1,X,5
+1737676,2026-09-30,CUP,2014-08-15,Paraguay - Clausura 2013/2014,Rubio Nu,Cerro Porteno,0,4,0-4,0-0,4,0,2,4
+1737676,2026-09-30,CUP,2014-06-14,Paraguay - Apertura 2013/2014,Cerro Porteno,Rubio Nu,1,4,1-4,1-0,5,1,2,6
+1737676,2026-09-30,CUP,2014-04-12,Paraguay - Apertura 2013/2014,Rubio Nu,Cerro Porteno,3,3,3-3,1-1,6,1,X,6
+1737676,2026-09-30,CUP,2013-10-23,Paraguay - Clausura 2012/2013,Cerro Porteno,Rubio Nu,1,0,1-0,0-1,1,0,1,1
+1737676,2026-09-30,CUP,2013-08-11,Paraguay - Clausura 2012/2013,Rubio Nu,Cerro Porteno,1,2,1-2,1-1,3,1,2,3
+1737676,2026-09-30,CUP,2013-06-23,Paraguay - Apertura 2012/2013,Cerro Porteno,Rubio Nu,2,2,2-2,1-0,4,1,X,4
+1737676,2026-09-30,CUP,2013-04-19,Paraguay - Apertura 2012/2013,Rubio Nu,Cerro Porteno,1,2,1-2,1-0,3,1,2,3
+1737676,2026-09-30,CUP,2012-11-11,Paraguay - Clausura 2011/2012,Rubio Nu,Cerro Porteno,1,2,1-2,0-0,3,1,2,3
+1737676,2026-09-30,CUP,2012-08-24,Paraguay - Clausura 2011/2012,Cerro Porteno,Rubio Nu,3,0,3-0,0-2,3,0,1,4
+1737676,2026-09-30,CUP,2012-05-13,Paraguay - Apertura 2011/2012,Rubio Nu,Cerro Porteno,2,3,2-3,1-1,5,1,2,6
+1737676,2026-09-30,CUP,2012-03-04,Paraguay - Apertura 2011/2012,Cerro Porteno,Rubio Nu,5,3,5-3,0-3,8,1,1,9
+1737676,2026-09-30,CUP,2011-10-16,Paraguay - Clausura 2010/2011,Cerro Porteno,Rubio Nu,1,1,1-1,0-0,2,1,X,4
+1737676,2026-09-30,CUP,2011-07-31,Paraguay - Clausura 2010/2011,Rubio Nu,Cerro Porteno,0,2,0-2,0-0,2,0,2,3
+1737676,2026-09-30,CUP,2011-04-17,Paraguay - Apertura 2010/2011,Cerro Porteno,Rubio Nu,1,1,1-1,1-0,2,1,X,2
+1737676,2026-09-30,CUP,2011-02-13,Paraguay - Apertura 2010/2011,Rubio Nu,Cerro Porteno,2,2,2-2,2-2,4,1,X,5
+1737676,2026-09-30,CUP,2010-11-06,Paraguay - Clausura 2009/2010,Cerro Porteno,Rubio Nu,2,0,2-0,0-1,2,0,1,2
+1737676,2026-09-30,CUP,2010-08-29,Paraguay - Clausura 2009/2010,Rubio Nu,Cerro Porteno,1,2,1-2,0-0,3,1,2,3
+1737676,2026-09-30,CUP,2010-05-29,Paraguay - Apertura 2009/2010,Rubio Nu,Cerro Porteno,0,3,0-3,2-0,3,0,2,3
+1737676,2026-09-30,CUP,2010-03-27,Paraguay - Apertura 2009/2010,Cerro Porteno,Rubio Nu,1,1,1-1,1-0,2,1,X,2
+1737676,2026-09-30,CUP,2009-10-31,Paraguay - Clausura 2008/2009,Rubio Nu,Cerro Porteno,1,1,1-1,0-0,2,1,X,2
+1737676,2026-09-30,CUP,2009-08-16,Paraguay - Clausura 2008/2009,Cerro Porteno,Rubio Nu,1,1,1-1,0-0,2,1,X,2
+1737676,2026-09-30,CUP,2009-05-30,Paraguay - Apertura 2008/2009,Rubio Nu,Cerro Porteno,0,1,0-1,1-0,1,0,2,2
+1737676,2026-09-30,CUP,2009-03-22,Paraguay - Apertura 2008/2009,Cerro Porteno,Rubio Nu,0,1,0-1,0-0,1,0,2,1
+1737469,2026-09-30,CUP,2018-10-07,Paraguay - Clausura 2017/2018,Club Nacional,Independiente F.B.C.,0,3,0-3,1-0,3,0,2,3
+1737469,2026-09-30,CUP,2018-07-23,Paraguay - Clausura 2017/2018,Independiente F.B.C.,Club Nacional,2,2,2-2,2-1,4,1,X,4
+1737469,2026-09-30,CUP,2018-04-20,Paraguay - Apertura 2017/2018,Club Nacional,Independiente F.B.C.,1,0,1-0,0-1,1,0,1,1
+1737469,2026-09-30,CUP,2018-02-09,Paraguay - Apertura 2017/2018,Independiente F.B.C.,Club Nacional,4,0,4-0,0-2,4,0,1,5
+1737469,2026-09-30,CUP,2017-12-04,Paraguay - Clausura 2016/2017,Club Nacional,Independiente F.B.C.,5,0,5-0,0-4,5,0,1,5
+1737469,2026-09-30,CUP,2017-09-24,Paraguay - Clausura 2016/2017,Independiente F.B.C.,Club Nacional,1,2,1-2,1-1,3,1,2,3
+1737469,2026-09-30,CUP,2017-06-16,Paraguay - Apertura 2016/2017,Independiente F.B.C.,Club Nacional,0,2,0-2,2-0,2,0,2,3
+1737469,2026-09-30,CUP,2017-04-01,Paraguay - Apertura 2016/2017,Club Nacional,Independiente F.B.C.,1,2,1-2,0-0,3,1,2,4
+1737469,2026-09-30,CUP,2012-12-15,Paraguay - Clausura 2011/2012,Independiente F.B.C.,Club Nacional,0,3,0-3,2-0,3,0,2,3
+1737469,2026-09-30,CUP,2012-10-06,Paraguay - Clausura 2011/2012,Club Nacional,Independiente F.B.C.,5,1,5-1,0-3,6,1,1,6
+1737469,2026-09-30,CUP,2012-06-30,Paraguay - Apertura 2011/2012,Club Nacional,Independiente F.B.C.,5,0,5-0,0-1,5,0,1,5
+1737469,2026-09-30,CUP,2012-04-01,Paraguay - Apertura 2011/2012,Independiente F.B.C.,Club Nacional,2,5,2-5,2-1,7,1,2,7
+1737469,2026-09-30,CUP,2011-11-19,Paraguay - Clausura 2010/2011,Independiente F.B.C.,Club Nacional,3,1,3-1,1-1,4,1,1,5
+1737469,2026-09-30,CUP,2011-09-03,Paraguay - Clausura 2010/2011,Club Nacional,Independiente F.B.C.,2,1,2-1,1-0,3,1,1,3
+1737469,2026-09-30,CUP,2011-04-17,Paraguay - Apertura 2010/2011,Independiente F.B.C.,Club Nacional,5,1,5-1,1-0,6,1,1,6
+1737469,2026-09-30,CUP,2011-02-12,Paraguay - Apertura 2010/2011,Club Nacional,Independiente F.B.C.,1,0,1-0,0-1,1,0,1,2
+1743897,2026-09-30,CLUB FRIENDLIES,2026-09-26,Usa - Major League Soccer 2025/2025,Vancouver Whitecaps,DC United,3,3,3-3,1-2,6,1,X,7
+1743897,2026-09-30,CLUB FRIENDLIES,2026-09-19,Usa - Major League Soccer 2025/2025,DC United,Charlotte,1,2,1-2,1-0,3,1,2,7
+1743897,2026-09-30,CLUB FRIENDLIES,2026-09-12,Usa - Major League Soccer 2025/2025,DC United,Atlanta United FC,0,0,0-0,0-0,0,0,X,5
+1743897,2026-09-30,CLUB FRIENDLIES,2026-09-09,Usa - Major League Soccer 2025/2025,DC United,Columbus Crew,2,1,2-1,0-2,3,1,1,8
+1743897,2026-09-30,CLUB FRIENDLIES,2026-08-29,Usa - Major League Soccer 2025/2025,DC United,Los Angeles FC,0,0,0-0,0-0,0,0,X,0
+1743897,2026-09-30,CLUB FRIENDLIES,2026-08-22,Usa - Major League Soccer 2025/2025,Charlotte,DC United,3,1,3-1,0-0,4,1,1,9
+1743897,2026-09-30,CLUB FRIENDLIES,2026-08-19,Usa - Major League Soccer 2025/2025,DC United,New England Revolution,0,3,0-3,2-0,3,0,2,5
+1743897,2026-09-30,CLUB FRIENDLIES,2026-08-15,Usa - Major League Soccer 2025/2025,Montreal Impact,DC United,1,1,1-1,0-0,2,1,X,5
+1743897,2026-09-30,CLUB FRIENDLIES,2026-08-01,Usa - Major League Soccer 2025/2025,DC United,Nashville United,2,2,2-2,2-0,4,1,X,9
+1743897,2026-09-30,CLUB FRIENDLIES,2026-07-25,Usa - Major League Soccer 2025/2025,DC United,Toronto FC,2,1,2-1,0-1,3,1,1,5
+1727903,2026-09-30,NPFL,2026-01-14,Nigeria - 1. Division 2025/2026,Shooting Stars,Enyimba,3,0,3-0,0-1,3,0,1,3
+1727903,2026-09-30,NPFL,2025-12-28,Nigeria - 1. Division 2025/2026,Enyimba,Shooting Stars,3,0,3-0,0-1,3,0,1,3
+1727903,2026-09-30,NPFL,2025-02-26,Nigeria - Npfl 2024/2025,Enyimba,Shooting Stars,1,1,1-1,1-1,2,1,X,2
+1727903,2026-09-30,NPFL,2024-10-13,Nigeria - Npfl 2024/2025,Shooting Stars,Enyimba,0,0,0-0,0-0,0,0,X,0
+1727903,2026-09-30,NPFL,2024-02-17,Nigeria - Npfl 2023/2024,Enyimba,Shooting Stars,1,0,1-0,0-1,1,0,1,1
+1727903,2026-09-30,NPFL,2024-01-21,Nigeria - Npfl 2023/2024,Shooting Stars,Enyimba,1,2,1-2,0-0,3,1,2,3
+1727903,2026-09-30,NPFL,2023-05-21,Nigeria - Npfl Group A 2022/2023,Shooting Stars,Enyimba,0,0,0-0,0-0,0,0,X,0
+1727903,2026-09-30,NPFL,2023-02-15,Nigeria - Npfl Group A 2022/2023,Enyimba,Shooting Stars,2,0,2-0,0-2,2,0,1,2
+1727903,2026-09-30,NPFL,2022-04-25,Nigeria - Pl Super Six 2022/2023,Shooting Stars,Enyimba,2,0,2-0,0-2,2,0,1,2
+1727903,2026-09-30,NPFL,2022-01-09,Nigeria - Pl Super Six 2022/2023,Enyimba,Shooting Stars,1,0,1-0,0-0,1,0,1,1
+1727903,2026-09-30,NPFL,2012-05-02,Nigeria - Division 1 2011/2012,Enyimba,Shooting Stars,1,0,1-0,0-0,1,0,1,1
+1727903,2026-09-30,NPFL,2012-04-07,Nigeria - Division 1 2011/2012,Shooting Stars,Enyimba,1,0,1-0,0-0,1,0,1,1
+1727903,2026-09-30,NPFL,2011-06-05,Nigeria - Division 1 2010/2011,Shooting Stars,Enyimba,1,0,1-0,0-0,1,0,1,1
+1727903,2026-09-30,NPFL,2010-12-05,Nigeria - Division 1 2010/2011,Enyimba,Shooting Stars,1,0,1-0,0-0,1,0,1,1
+1727910,2026-09-30,NPFL,2026-09-26,Nigeria - Npfl 2026/2027,Sporting Lagos,Barau,1,1,1-1,1-0,2,1,X,0
+1727910,2026-09-30,NPFL,2026-09-23,Nigeria - Npfl 2026/2027,Enyimba,Sporting Lagos,2,3,2-3,0-1,5,1,2,0
+1727910,2026-09-30,NPFL,2026-09-20,Nigeria - Npfl 2026/2027,Sporting Lagos,Abia Warriors,0,2,0-2,0-0,2,0,2,0
+1727910,2026-09-30,NPFL,2026-09-13,Nigeria - Npfl 2026/2027,Inter Lagos Fc,Sporting Lagos,0,3,0-3,1-0,3,0,2,0
+1727910,2026-09-30,NPFL,2026-08-30,Nigeria - Npfl 2026/2027,Doma United,Sporting Lagos,2,0,2-0,0-0,2,0,1,0
+1727910,2026-09-30,NPFL,2024-06-23,Nigeria - Npfl 2023/2024,Shooting Stars,Sporting Lagos,1,0,1-0,0-1,1,0,1,1
+1727910,2026-09-30,NPFL,2024-06-16,Nigeria - Npfl 2023/2024,Sporting Lagos,Enyimba,2,1,2-1,0-1,3,1,1,3
+1727910,2026-09-30,NPFL,2024-06-12,Nigeria - Npfl 2023/2024,Sporting Lagos,Plateau United,1,2,1-2,2-0,3,1,2,3
+1727910,2026-09-30,NPFL,2024-06-09,Nigeria - Npfl 2023/2024,Bayelsa United,Sporting Lagos,2,2,2-2,0-0,4,1,X,4
+1727910,2026-09-30,NPFL,2024-06-02,Nigeria - Npfl 2023/2024,Sporting Lagos,Enugu Rangers,0,0,0-0,0-0,0,0,X,0
+1708453,2026-09-30,LIGA AUF CLAUSURA,2026-08-26,Uruguay - Copa Uruguay Group A 2026/2026,Penarol,Montevideo City Torque,1,0,1-0,0-0,1,0,1,0
+1708453,2026-09-30,LIGA AUF CLAUSURA,2026-02-07,Uruguay - Liga Auf Uruguaya Apertura 2026/2026,Penarol,Montevideo City Torque,3,1,3-1,0-3,4,1,1,4
+1708453,2026-09-30,LIGA AUF CLAUSURA,2025-11-09,Uruguay - Liga Auf Uruguaya Clausura 2024/2025,Montevideo City Torque,Penarol,0,2,0-2,0-0,2,0,2,2
+1708453,2026-09-30,LIGA AUF CLAUSURA,2025-05-17,Uruguay - Primera Division Apertura 2024/2025,Penarol,Montevideo City Torque,2,1,2-1,1-1,3,1,1,4
+1708453,2026-09-30,LIGA AUF CLAUSURA,2023-10-18,Uruguay - Primera Division Clausura 2022/2023,Montevideo City Torque,Penarol,2,3,2-3,2-2,5,1,2,6
+1708453,2026-09-30,LIGA AUF CLAUSURA,2023-07-03,Uruguay - Primera Division Intermedio Group A 2022/2023,Penarol,Montevideo City Torque,2,0,2-0,0-0,2,0,1,2
+1708453,2026-09-30,LIGA AUF CLAUSURA,2023-03-12,Uruguay - Primera Division Apertura 2022/2023,Penarol,Montevideo City Torque,2,2,2-2,0-1,4,1,X,4
+1708453,2026-09-30,LIGA AUF CLAUSURA,2022-09-24,Uruguay - Primera Division Clausura 2021/2022,Penarol,Montevideo City Torque,0,1,0-1,0-0,1,0,2,1
+1708453,2026-09-30,LIGA AUF CLAUSURA,2022-06-12,Uruguay - Primera Division Intermedio 2021/2022,Penarol,Montevideo City Torque,1,2,1-2,1-0,3,1,2,3
+1708453,2026-09-30,LIGA AUF CLAUSURA,2022-04-23,Uruguay - Primera Division Apertura 2021/2022,Montevideo City Torque,Penarol,0,1,0-1,0-0,1,0,2,2
+1708453,2026-09-30,LIGA AUF CLAUSURA,2021-10-20,Uruguay - Primera Division Clausura 2020/2021,Penarol,Montevideo City Torque,3,1,3-1,0-1,4,1,1,4
+1708453,2026-09-30,LIGA AUF CLAUSURA,2021-06-23,Uruguay - Primera Division Apertura 2020/2021,Montevideo City Torque,Penarol,0,1,0-1,0-0,1,0,2,2
+1708453,2026-09-30,LIGA AUF CLAUSURA,2021-03-14,Uruguay - Primera Division Clausura 2019/2020,Montevideo City Torque,Penarol,1,2,1-2,0-1,3,1,2,3
+1708453,2026-09-30,LIGA AUF CLAUSURA,2020-09-12,Uruguay - Lig Champion P.off Final 2023/2024,Penarol,Montevideo City Torque,0,0,0-0,0-0,0,0,X,0
+1737416,2026-09-30,2. CFL,2023-05-21,Montenegro - 2. Cfl 2022/2023,Zeta Golubovci,FK Kom,0,1,0-1,0-0,1,0,2,1
+1737416,2026-09-30,2. CFL,2023-04-08,Montenegro - 2. Cfl 2022/2023,FK Kom,Zeta Golubovci,2,0,2-0,0-0,2,0,1,2
+1737416,2026-09-30,2. CFL,2022-11-20,Montenegro - 2. Cfl 2022/2023,Zeta Golubovci,FK Kom,0,2,0-2,0-0,2,0,2,2
+1737416,2026-09-30,2. CFL,2022-09-28,Montenegro - 2. Cfl 2022/2023,FK Kom,Zeta Golubovci,1,2,1-2,0-0,3,1,2,3
+1737416,2026-09-30,2. CFL,2020-06-16,Montenegro - Prva CFL 2019/2020,Zeta Golubovci,FK Kom,1,1,1-1,1-1,2,1,X,3
+1737416,2026-09-30,2. CFL,2019-12-11,Montenegro - Prva CFL 2019/2020,FK Kom,Zeta Golubovci,1,0,1-0,0-0,1,0,1,1
+1737416,2026-09-30,2. CFL,2019-09-28,Montenegro - Prva CFL 2019/2020,Zeta Golubovci,FK Kom,0,0,0-0,0-0,0,0,X,0
+1737416,2026-09-30,2. CFL,2019-08-03,Montenegro - Prva CFL 2019/2020,FK Kom,Zeta Golubovci,0,0,0-0,0-0,0,0,X,0
+1737416,2026-09-30,2. CFL,2018-04-21,Montenegro - Prva CFL 2017/2018,Zeta Golubovci,FK Kom,0,2,0-2,0-0,2,0,2,2
+1737416,2026-09-30,2. CFL,2018-02-28,Montenegro - Prva CFL 2017/2018,FK Kom,Zeta Golubovci,0,1,0-1,1-0,1,0,2,1
+1737416,2026-09-30,2. CFL,2017-10-21,Montenegro - Prva CFL 2017/2018,Zeta Golubovci,FK Kom,4,2,4-2,2-3,6,1,1,6
+1737416,2026-09-30,2. CFL,2017-08-16,Montenegro - Prva CFL 2017/2018,FK Kom,Zeta Golubovci,1,1,1-1,0-0,2,1,X,2
+1735604,2026-09-30,MAJOR LEAGUE SOCCER,2026-09-18,Usa - Major League Soccer 2025/2025,New York City FC,New York Red Bulls,0,1,0-1,0-0,1,0,2,6
+1735604,2026-09-30,MAJOR LEAGUE SOCCER,2026-09-12,Usa - Major League Soccer 2025/2025,Columbus Crew,New York Red Bulls,0,1,0-1,0-0,1,0,2,6
+1735604,2026-09-30,MAJOR LEAGUE SOCCER,2026-09-09,Usa - Major League Soccer 2025/2025,Los Angeles FC,New York Red Bulls,2,0,2-0,0-1,2,0,1,6
+1735604,2026-09-30,MAJOR LEAGUE SOCCER,2026-09-05,Usa - Major League Soccer 2025/2025,Seattle Sounders,New York Red Bulls,0,0,0-0,0-0,0,0,X,2
+1735604,2026-09-30,MAJOR LEAGUE SOCCER,2026-08-29,Usa - Major League Soccer 2025/2025,New York Red Bulls,Philadelphia Union,1,3,1-3,1-0,4,1,2,1
+1735604,2026-09-30,MAJOR LEAGUE SOCCER,2026-08-22,Usa - Major League Soccer 2025/2025,New York Red Bulls,Chicago Fire,1,1,1-1,1-0,2,1,X,5
+1735604,2026-09-30,MAJOR LEAGUE SOCCER,2026-08-19,Usa - Major League Soccer 2025/2025,New York Red Bulls,Nashville United,0,1,0-1,0-0,1,0,2,1
+1735604,2026-09-30,MAJOR LEAGUE SOCCER,2026-08-15,Usa - Major League Soccer 2025/2025,Atlanta United FC,New York Red Bulls,2,1,2-1,1-0,3,1,1,7
+1735604,2026-09-30,MAJOR LEAGUE SOCCER,2026-08-01,Usa - Major League Soccer 2025/2025,New York Red Bulls,Orlando City SC,3,2,3-2,0-2,5,1,1,10
+1735604,2026-09-30,MAJOR LEAGUE SOCCER,2026-07-25,Usa - Major League Soccer 2025/2025,New York Red Bulls,Charlotte,0,2,0-2,2-0,2,0,2,1
+1737495,2026-09-30,CUP,2015-01-30,Friendly Games - Friendly 2014/2015,Sarpsborg 08 FF,Follo,4,1,4-1,1-2,5,1,1,5
+1737495,2026-09-30,CUP,2014-06-04,Norway - FA Cup 2013/2014,Sarpsborg 08 FF,Follo,2,0,2-0,0-2,2,0,1,2
+1737495,2026-09-30,CUP,2013-03-25,Friendly Games - Friendly 2012/2013,Sarpsborg 08 FF,Follo,1,1,1-1,0-1,2,1,X,2
+1737495,2026-09-30,CUP,2010-10-17,Norway - Division 2 2009/2010,Follo,Sarpsborg 08 FF,2,2,2-2,1-0,4,1,X,5
+1737495,2026-09-30,CUP,2010-04-25,Norway - Division 2 2009/2010,Sarpsborg 08 FF,Follo,0,0,0-0,0-0,0,0,X,1
+1737495,2026-09-30,CUP,2008-06-05,Norway - FA Cup 2007/2008,Follo,Sarpsborg 08 FF,0,2,0-2,0-0,2,0,2,2
+1737495,2026-09-30,CUP,2006-10-15,Norway - Division 2 2005/2006,Sarpsborg 08 FF,Follo,2,0,2-0,0-0,2,0,1,3
+1737495,2026-09-30,CUP,2006-07-02,Norway - Division 2 2005/2006,Follo,Sarpsborg 08 FF,0,3,0-3,1-0,3,0,2,3
+1735825,2026-09-30,SECOND PROFESSIONAL LEAGUE,2026-05-15,Bulgaria - Second Professional League 2025/2026,Etar Veliko Tarnovo,Ludogorets II,1,0,1-0,0-0,1,0,1,0
+1735825,2026-09-30,SECOND PROFESSIONAL LEAGUE,2025-11-28,Bulgaria - Second Professional League 2025/2026,Ludogorets II,Etar Veliko Tarnovo,0,1,0-1,0-0,1,0,2,2
+1735825,2026-09-30,SECOND PROFESSIONAL LEAGUE,2025-05-18,Bulgaria - Second Professional League 2024/2025,Etar Veliko Tarnovo,Ludogorets II,1,1,1-1,1-1,2,1,X,3
+1735825,2026-09-30,SECOND PROFESSIONAL LEAGUE,2024-11-25,Bulgaria - Second Professional League 2024/2025,Ludogorets II,Etar Veliko Tarnovo,0,2,0-2,1-0,2,0,2,3
+1735825,2026-09-30,SECOND PROFESSIONAL LEAGUE,2023-04-22,Bulgaria - Second Professional League 2022/2023,Ludogorets II,Etar Veliko Tarnovo,1,1,1-1,0-0,2,1,X,3
+1735825,2026-09-30,SECOND PROFESSIONAL LEAGUE,2022-09-17,Bulgaria - Second Professional League 2022/2023,Etar Veliko Tarnovo,Ludogorets II,0,1,0-1,1-0,1,0,2,1
+1735825,2026-09-30,SECOND PROFESSIONAL LEAGUE,2021-12-06,Bulgaria - Second Professional League 2021/2022,Etar Veliko Tarnovo,Ludogorets II,1,2,1-2,2-0,3,1,2,3
+1735825,2026-09-30,SECOND PROFESSIONAL LEAGUE,2021-07-30,Bulgaria - Second Professional League 2021/2022,Ludogorets II,Etar Veliko Tarnovo,4,1,4-1,1-1,5,1,1,6
+1735825,2026-09-30,SECOND PROFESSIONAL LEAGUE,2017-04-10,Bulgaria - Second Professional Football League 2016/2017,Etar Veliko Tarnovo,Ludogorets II,3,0,3-0,0-2,3,0,1,3
+1735825,2026-09-30,SECOND PROFESSIONAL LEAGUE,2016-09-30,Bulgaria - Second Professional Football League 2016/2017,Ludogorets II,Etar Veliko Tarnovo,1,0,1-0,0-1,1,0,1,1
+1735825,2026-09-30,SECOND PROFESSIONAL LEAGUE,2016-07-20,Friendly Games - Friendly 2016/2017,Ludogorets II,Etar Veliko Tarnovo,1,0,1-0,0-1,1,0,1,1
+1737481,2026-09-30,SOUTHERN PREMIER DIVISION SOUTH,2026-03-14,England - Southern Premier Division South 2025/2026,Bracknell Town,Gosport Borough,0,2,0-2,0-0,2,0,2,0
+1737481,2026-09-30,SOUTHERN PREMIER DIVISION SOUTH,2025-10-22,England - Southern Premier Division South 2025/2026,Gosport Borough,Bracknell Town,6,1,6-1,2-2,7,1,1,7
+1737481,2026-09-30,SOUTHERN PREMIER DIVISION SOUTH,2025-03-22,England - Southern Premier Division South 2024/2025,Bracknell Town,Gosport Borough,4,0,4-0,0-2,4,0,1,4
+1737481,2026-09-30,SOUTHERN PREMIER DIVISION SOUTH,2025-01-08,England - Southern Premier Division South 2024/2025,Gosport Borough,Bracknell Town,4,3,4-3,2-2,7,1,1,8
+1737481,2026-09-30,SOUTHERN PREMIER DIVISION SOUTH,2024-01-20,England - Southern Premier Division South 2023/2024,Bracknell Town,Gosport Borough,4,3,4-3,0-1,7,1,1,7
+1737481,2026-09-30,SOUTHERN PREMIER DIVISION SOUTH,2023-08-05,England - Southern Premier Division South 2023/2024,Gosport Borough,Bracknell Town,2,0,2-0,0-0,2,0,1,2
+1737481,2026-09-30,SOUTHERN PREMIER DIVISION SOUTH,2023-04-15,England - Southern Premier Division South 2022/2023,Bracknell Town,Gosport Borough,3,1,3-1,0-1,4,1,1,4
+1737481,2026-09-30,SOUTHERN PREMIER DIVISION SOUTH,2022-11-12,England - Southern Premier Division South 2022/2023,Gosport Borough,Bracknell Town,0,4,0-4,1-0,4,0,2,4
+1737679,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2026-03-14,Usa - Usl Championship 2026/2026,Detroit City FC,Brooklyn,3,0,3-0,0-2,3,0,1,6
+1737680,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2026-04-25,Usa - Usl Cup Grp. 7 2026/2026,SPORTING JAX,Miami FC,0,1,0-1,1-0,1,0,2,0
+1737680,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2026-03-25,Usa - Usl Championship 2026/2026,SPORTING JAX,Miami FC,2,4,2-4,1-2,6,1,2,11
+1737681,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2026-05-30,Usa - Usl Championship 2026/2026,Indy Eleven,Rhode Island,1,0,1-0,0-0,1,0,1,0
+1737681,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2025-09-13,Usa - Usl Championship 2025/2025,Rhode Island,Indy Eleven,1,0,1-0,0-0,1,0,1,3
+1737681,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2025-07-12,Usa - Usl Championship 2025/2025,Indy Eleven,Rhode Island,1,0,1-0,0-0,1,0,1,1
+1737681,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2024-11-03,Usa - Usl Championship Playoff 2023/2024,Indy Eleven,Rhode Island,2,3,2-3,2-1,5,1,2,5
+1737681,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2024-08-07,Usa - Usl Championship 2023/2024,Indy Eleven,Rhode Island,1,0,1-0,0-1,1,0,1,1
+1737681,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2024-07-05,Usa - Usl Championship 2023/2024,Rhode Island,Indy Eleven,3,3,3-3,2-0,6,1,X,6
+1737683,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2026-04-11,Usa - Usl Championship 2026/2026,Las Vegas Lights FC,Sacramento Republic,1,1,1-1,1-1,2,1,X,8
+1737683,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2025-07-04,Usa - Usl Championship 2025/2025,Las Vegas Lights FC,Sacramento Republic,0,2,0-2,0-0,2,0,2,2
+1737683,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2025-05-17,Usa - Usl Championship 2025/2025,Sacramento Republic,Las Vegas Lights FC,5,0,5-0,0-3,5,0,1,5
+1737683,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2024-11-01,Usa - Usl Championship Playoff 2023/2024,Las Vegas Lights FC,Sacramento Republic,3,2,3-2,0-0,5,1,1,5
+1737683,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2024-09-21,Usa - Usl Championship 2023/2024,Las Vegas Lights FC,Sacramento Republic,2,1,2-1,1-1,3,1,1,4
+1737683,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2024-07-03,Usa - Usl Championship 2023/2024,Sacramento Republic,Las Vegas Lights FC,0,1,0-1,1-0,1,0,2,1
+1737683,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2023-10-01,Usa - Usl Championship 2022/2023,Sacramento Republic,Las Vegas Lights FC,2,0,2-0,0-0,2,0,1,2
+1737683,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2023-07-29,Usa - Usl Championship 2022/2023,Las Vegas Lights FC,Sacramento Republic,1,2,1-2,1-1,3,1,2,3
+1737683,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2022-08-20,Usa - Usl Championship 2021/2022,Las Vegas Lights FC,Sacramento Republic,2,1,2-1,1-2,3,1,1,3
+1737683,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2022-04-30,Usa - Usl Championship 2021/2022,Sacramento Republic,Las Vegas Lights FC,1,1,1-1,1-1,2,1,X,2
+1737683,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2021-09-05,USA - USL Championship 2020/2021,Las Vegas Lights FC,Sacramento Republic,1,3,1-3,0-1,4,1,2,4
+1737683,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2021-08-14,USA - USL Championship 2020/2021,Sacramento Republic,Las Vegas Lights FC,2,1,2-1,1-0,3,1,1,3
+1737683,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2021-07-14,USA - USL Championship 2020/2021,Las Vegas Lights FC,Sacramento Republic,1,2,1-2,2-0,3,1,2,3
+1737683,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2021-05-12,USA - USL Championship 2020/2021,Sacramento Republic,Las Vegas Lights FC,3,1,3-1,0-1,4,1,1,4
+1737683,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2019-08-07,USA - United Soccer League 2018/2019,Sacramento Republic,Las Vegas Lights FC,0,0,0-0,0-0,0,0,X,0
+1737683,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2019-05-04,USA - United Soccer League 2018/2019,Las Vegas Lights FC,Sacramento Republic,4,2,4-2,0-0,6,1,1,6
+1737683,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2018-10-13,USA - United Soccer League 2017/2018,Sacramento Republic,Las Vegas Lights FC,1,0,1-0,0-0,1,0,1,1
+1737683,2026-09-30,USL CHAMPIONSHIP EASTERN CONFERENCE,2018-04-14,USA - United Soccer League 2017/2018,Las Vegas Lights FC,Sacramento Republic,1,1,1-1,0-1,2,1,X,2
+1738166,2026-09-30,SERIE D GRP. A,2026-09-27,Italy - Serie D Grp. A 2026/2027,Alessandria,Asti,2,0,2-0,0-0,2,0,1,0
+1738166,2026-09-30,SERIE D GRP. A,2026-09-16,Italy - Serie D Grp. A 2026/2027,Asd Millesimo,Alessandria,4,1,4-1,1-2,5,1,1,0
+1738166,2026-09-30,SERIE D GRP. A,2026-09-13,Italy - Serie D Grp. A 2026/2027,Alessandria,Usd Sestri Levante 1919,2,1,2-1,1-2,3,1,1,0
+1738166,2026-09-30,SERIE D GRP. A,2026-09-13,Italy - Serie D Grp. A 2026/2027,Alessandria,Sestri Levante,2,1,2-1,1-2,3,1,1,0
+1738166,2026-09-30,SERIE D GRP. A,2026-08-30,Italy - Coppa Italia Serie D 2026/2027,Alessandria,Chisola,1,1,1-1,0-0,2,1,X,0
+1738166,2026-09-30,SERIE D GRP. A,2026-08-23,Italy - Coppa Italia Serie D 2026/2027,Alessandria,Bastia Calcio,2,1,2-1,0-0,3,1,1,0
+1738166,2026-09-30,SERIE D GRP. A,2024-04-28,Italy - Serie C Group A 2023/2024,Alessandria,L. R. Vicenza,1,2,1-2,0-1,3,1,2,4
+1738166,2026-09-30,SERIE D GRP. A,2024-04-20,Italy - Serie C Group A 2023/2024,Legnago Salus,Alessandria,0,0,0-0,0-0,0,0,X,0
+1738166,2026-09-30,SERIE D GRP. A,2024-04-13,Italy - Serie C Group A 2023/2024,Alessandria,Pro Patria,1,2,1-2,2-1,3,1,2,4
+1738166,2026-09-30,SERIE D GRP. A,2024-04-06,Italy - Serie C Group A 2023/2024,Fiorenzuola,Alessandria,2,0,2-0,0-0,2,0,1,2
+1741470,2026-09-30,COPA FEDERACION,2026-09-26,Spain - Segunda Federacion - Group 1 2026/2027,Sestao River,Atletico Astorga,2,0,2-0,0-1,2,0,1,0
+1741470,2026-09-30,COPA FEDERACION,2026-09-20,Spain - Segunda Federacion - Group 1 2026/2027,Compostela,Sestao River,2,0,2-0,0-0,2,0,1,0
+1741470,2026-09-30,COPA FEDERACION,2026-09-16,Spain - Copa Federacion 2026/2026,Comillas Cf,Sestao River,1,2,1-2,1-0,3,1,2,0
+1741470,2026-09-30,COPA FEDERACION,2026-09-13,Spain - Segunda Federacion - Group 1 2026/2027,Sestao River,Oviedo B,2,0,2-0,0-1,2,0,1,0
+1741470,2026-09-30,COPA FEDERACION,2026-09-06,Spain - Segunda Federacion - Group 1 2026/2027,Rayo Cantabria,Sestao River,0,1,0-1,0-0,1,0,2,0
+1741470,2026-09-30,COPA FEDERACION,2026-08-11,International - Club Friendlies 2026/2026,RS Gimnastica,Sestao River,1,1,1-1,0-0,2,1,X,2
+1741470,2026-09-30,COPA FEDERACION,2026-08-01,International - Club Friendlies 2026/2026,Sestao River,Portugalete,2,1,2-1,1-0,3,1,1,3
+1741470,2026-09-30,COPA FEDERACION,2026-07-29,International - Club Friendlies 2026/2026,Sestao River,Athletic Club B,0,1,0-1,1-0,1,0,2,0
+1741470,2026-09-30,COPA FEDERACION,2026-07-22,International - Club Friendlies 2026/2026,Sestao River,Athletic Club,0,2,0-2,1-0,2,0,2,2
+1741470,2026-09-30,COPA FEDERACION,2026-05-03,Spain - Segunda Federacion - Group 2 2025/2026,Sestao River,Utebo,1,0,1-0,0-1,1,0,1,5
+1741471,2026-09-30,COPA FEDERACION,2026-09-27,Spain - Segunda Federacion - Group 5 2026/2027,Navalcarnero,Conquense,1,3,1-3,0-0,4,1,2,0
+1741471,2026-09-30,COPA FEDERACION,2026-09-23,Spain - Copa Federacion 2026/2026,Atletico Saguntino,Navalcarnero,0,4,0-4,2-0,4,0,2,0
+1741471,2026-09-30,COPA FEDERACION,2026-09-20,Spain - Segunda Federacion - Group 5 2026/2027,Atletico Tordesillas,Navalcarnero,2,2,2-2,0-1,4,1,X,0
+1741471,2026-09-30,COPA FEDERACION,2026-09-13,Spain - Segunda Federacion - Group 5 2026/2027,Navalcarnero,Real Avila,2,1,2-1,0-2,3,1,1,0
+1741471,2026-09-30,COPA FEDERACION,2026-09-09,Spain - Copa Federacion 2026/2026,CF Talavera Reina,Navalcarnero,0,4,0-4,0-0,4,0,2,0
+1741471,2026-09-30,COPA FEDERACION,2026-09-06,Spain - Segunda Federacion - Group 5 2026/2027,Valladolid B,Navalcarnero,1,0,1-0,0-1,1,0,1,0
+1741471,2026-09-30,COPA FEDERACION,2026-08-29,International - Club Friendlies 2026/2026,Salamanca CF UDS,Navalcarnero,1,0,1-0,0-0,1,0,1,1
+1741471,2026-09-30,COPA FEDERACION,2026-08-08,International - Club Friendlies 2026/2026,Alcorcon,Navalcarnero,1,1,1-1,0-1,2,1,X,1
+1741471,2026-09-30,COPA FEDERACION,2026-08-05,International - Club Friendlies 2026/2026,C.D. Toledo,Navalcarnero,1,3,1-3,1-1,4,1,2,0
+1741471,2026-09-30,COPA FEDERACION,2026-05-03,Spain - Segunda Federacion - Group 5 2025/2026,Navalcarnero,Fuenlabrada,3,1,3-1,1-1,4,1,1,6
