@@ -5,76 +5,76 @@
 --- [ 1.5-ODDS ULTRA BANKER ] ---
 >> ONÍTẸ́TẸ́ 1.5-ODDS ULTRA BANKER SLIP
    Ultra-conservative 2-3 leg banker ticket with top-tier statistical safety.
-   Total Odds: 1.53x  |  Avg Confidence: 85.4%  |  Legs: 3
+   Total Odds: 1.25x  |  Avg Confidence: 95.3%  |  Legs: 2
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-18:30  | New York Red  vs St. Louis Cit | Goals          | Over 1.5 Goals             | 1.12x | 92.8%
-       ↳ Justification: Over 1.5 Goals: 92% model rating + 3.0 avg recent match goals.
-10:00  | Enyimba vs Shooting Star     | Double Chance  | Enyimba or Draw (1X)       | 1.16x | 81.9%
-       ↳ Justification: Double Chance 1X: 80% non-loss probability, Home won/drew 8/10 recent matches.
-18:30  | Rhode Island vs Indy Eleven  | DNB            | Rhode Island (Draw No Bet) | 1.18x | 81.5%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (86% non-loss).
+11:00  | Sparta Praha vs Vysocina Jihl | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.3 avg recent match goals.
+12:00  | FC Heidenheim vs FC Wurzburger | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.2 avg recent match goals.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.74x  |  Avg Confidence: 77.0%  |  Legs: 4
+   Total Odds: 2.12x  |  Avg Confidence: 83.1%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-18:30  | Rhode Island vs Indy Eleven  | DNB            | Rhode Island (Draw No Bet) | 1.18x | 81.5%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (86% non-loss).
-12:00  | Ludogorets II vs Etar Veliko T | BTS            | Both Teams To Score (Yes)  | 1.29x | 77.2%
-       ↳ Justification: Both Teams To Score (Yes): 72% model prob, verified dual scoring consistency in recent form.
-21:00  | Sacramento Re vs Las Vegas Lig | DNB            | Sacramento Republic (Draw  | 1.24x | 77.1%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
-20:00  | Atletico Naci vs Junior      | 1X2            | Atletico Nacional To Win   | 1.45x | 72.2%
-       ↳ Justification: Straight Home Win: 64% model prob + 80% crowd consensus + strong home form.
+19:45  | Caerau Ely vs Afan Lido      | Double Chance  | Caerau Ely or Draw (1X)    | 1.18x | 84.2%
+       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 7/10 recent matches.
+18:00  | Atus Velden vs Treibach      | Double Chance  | Atus Velden or Draw (1X)   | 1.18x | 84.2%
+       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 6/10 recent matches.
+19:45  | Poland vs Romania            | Double Chance  | Poland or Draw (1X)        | 1.18x | 82.2%
+       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 7/10 recent matches.
+11:00  | Sparta Praha vs Vysocina Jihl | 1X2            | Sparta Praha To Win        | 1.29x | 81.6%
+       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 5.17x  |  Avg Confidence: 75.8%  |  Legs: 6
+   Total Odds: 3.57x  |  Avg Confidence: 79.7%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-12:00  | Ludogorets II vs Etar Veliko T | BTS            | Both Teams To Score (Yes)  | 1.29x | 77.2%
-       ↳ Justification: Both Teams To Score (Yes): 72% model prob, verified dual scoring consistency in recent form.
-21:00  | Sacramento Re vs Las Vegas Lig | DNB            | Sacramento Republic (Draw  | 1.24x | 77.1%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
-10:00  | Enyimba vs Shooting Star     | DNB            | Enyimba (Draw No Bet)      | 1.26x | 76.1%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (80% non-loss).
-18:30  | New York Red  vs St. Louis Cit | Goals          | Over 2.5 Goals             | 1.33x | 76.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (70% model) with 3.0 combined goals/game.
-18:00  | Miami FC vs SPORTING JAX     | Goals          | Over 2.5 Goals             | 1.33x | 76.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (70% model) with 3.5 combined goals/game.
-20:00  | Atletico Naci vs Junior      | 1X2            | Atletico Nacional To Win   | 1.45x | 72.2%
-       ↳ Justification: Straight Home Win: 64% model prob + 80% crowd consensus + strong home form.
+11:00  | Sparta Praha vs Vysocina Jihl | 1X2            | Sparta Praha To Win        | 1.29x | 81.6%
+       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
+18:00  | Kungsangens I vs Sunnersta Aif | DNB            | Sunnersta Aif (Draw No Bet | 1.20x | 80.0%
+       ↳ Justification: Away Draw No Bet (2 DNB): High away edge with draw refund protection (84% non-loss).
+15:00  | Annaba vs Paradou AC         | Half Time      | 1st Half Under 1.5 Goals   | 1.21x | 79.4%
+       ↳ Justification: First Half Under 1.5 Goals: 77% model rating, disciplined early match pace.
+18:00  | Laval vs Rennes              | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.4 combined goals/game.
+16:00  | JBK vs Honka                 | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.4 combined goals/game.
+18:00  | Torslanda IK vs Ik Kongahaell | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 4.2 combined goals/game.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 9.02x  |  Avg Confidence: 73.2%  |  Legs: 8
+   Total Odds: 8.06x  |  Avg Confidence: 78.5%  |  Legs: 9
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-12:00  | Ludogorets II vs Etar Veliko T | BTS            | Both Teams To Score (Yes)  | 1.29x | 77.2%
-       ↳ Justification: Both Teams To Score (Yes): 72% model prob, verified dual scoring consistency in recent form.
-21:00  | Sacramento Re vs Las Vegas Lig | DNB            | Sacramento Republic (Draw  | 1.24x | 77.1%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
-10:00  | Enyimba vs Shooting Star     | DNB            | Enyimba (Draw No Bet)      | 1.26x | 76.1%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (80% non-loss).
-18:30  | New York Red  vs St. Louis Cit | Goals          | Over 2.5 Goals             | 1.33x | 76.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (70% model) with 3.0 combined goals/game.
-18:00  | Miami FC vs SPORTING JAX     | Goals          | Over 2.5 Goals             | 1.33x | 76.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (70% model) with 3.5 combined goals/game.
-20:00  | Atletico Naci vs Junior      | 1X2            | Atletico Nacional To Win   | 1.45x | 72.2%
-       ↳ Justification: Straight Home Win: 64% model prob + 80% crowd consensus + strong home form.
-14:00  | Cerro Largo vs Rentistas     | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 69.4%
-       ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
-12:00  | Sestao River vs Terrassa     | BTS            | Both Teams To Score (No)   | 1.43x | 61.8%
-       ↳ Justification: Both Teams To Score (No) / OTS: 65% clean sheet / one team score probability.
+11:00  | Sparta Praha vs Vysocina Jihl | 1X2            | Sparta Praha To Win        | 1.29x | 81.6%
+       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
+18:00  | Laval vs Rennes              | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.4 combined goals/game.
+16:00  | JBK vs Honka                 | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.4 combined goals/game.
+18:00  | Torslanda IK vs Ik Kongahaell | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 4.2 combined goals/game.
+19:45  | Bray Wanderer vs Cobh Ramblers | Goals          | Over 2.5 Goals             | 1.26x | 78.4%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (74% model) with 3.3 combined goals/game.
+19:45  | Belgium vs Turkey            | Goals          | Over 2.5 Goals             | 1.27x | 77.8%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (73% model) with 3.2 combined goals/game.
+19:45  | Ukraine vs Northern Irel     | Goals          | Under 3.5 Goals            | 1.26x | 77.3%
+       ↳ Justification: Defensive Lock: 74% Under 3.5 model + disciplined low scoring pace.
+23:30  | Sao Bernardo vs CRB          | Goals          | Under 3.5 Goals            | 1.26x | 77.3%
+       ↳ Justification: Defensive Lock: 74% Under 3.5 model + disciplined low scoring pace.
+12:00  | FC Augsburg vs Hertha Berlin | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.7 combined goals/game.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
