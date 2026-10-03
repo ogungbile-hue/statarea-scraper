@@ -5,76 +5,74 @@
 --- [ 1.5-ODDS ULTRA BANKER ] ---
 >> ONÍTẸ́TẸ́ 1.5-ODDS ULTRA BANKER SLIP
    Ultra-conservative 2-3 leg banker ticket with top-tier statistical safety.
-   Total Odds: 1.25x  |  Avg Confidence: 95.3%  |  Legs: 2
+   Total Odds: 1.25x  |  Avg Confidence: 95.5%  |  Legs: 2
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-11:00  | Sparta Praha vs Vysocina Jihl | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.3 avg recent match goals.
-12:00  | FC Heidenheim vs FC Wurzburger | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.2 avg recent match goals.
+20:45  | Spain vs Czech Republi       | Double Chance  | Spain or Draw (1X)         | 1.12x | 95.8%
+       ↳ Justification: Double Chance 1X: 95% non-loss probability, Home won/drew 6/10 recent matches.
+15:30  | The New Saint vs Cambrian and  | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.8 avg recent match goals.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.12x  |  Avg Confidence: 83.1%  |  Legs: 4
+   Total Odds: 2.09x  |  Avg Confidence: 84.5%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-19:45  | Caerau Ely vs Afan Lido      | Double Chance  | Caerau Ely or Draw (1X)    | 1.18x | 84.2%
-       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 7/10 recent matches.
-18:00  | Atus Velden vs Treibach      | Double Chance  | Atus Velden or Draw (1X)   | 1.18x | 84.2%
-       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 6/10 recent matches.
-19:45  | Poland vs Romania            | Double Chance  | Poland or Draw (1X)        | 1.18x | 82.2%
-       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 7/10 recent matches.
-11:00  | Sparta Praha vs Vysocina Jihl | 1X2            | Sparta Praha To Win        | 1.29x | 81.6%
-       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
+16:00  | Annan Athleti vs Stirling Albi | Double Chance  | Annan Athletic or Draw (1X | 1.19x | 86.8%
+       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 9/10 recent matches.
+18:00  | Albacete B vs CF Talavera R  | Double Chance  | Albacete B or Draw (1X)    | 1.19x | 84.3%
+       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 9/10 recent matches.
+20:45  | Concarneau vs Paris 13 Atle  | Double Chance  | Concarneau or Draw (1X)    | 1.19x | 83.5%
+       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 7/10 recent matches.
+15:30  | The New Saint vs Cambrian and  | 1X2            | The New Saints To Win      | 1.24x | 83.2%
+       ↳ Justification: Straight Home Win: 75% model prob + 100% crowd consensus + strong home form.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 3.57x  |  Avg Confidence: 79.7%  |  Legs: 6
+   Total Odds: 3.51x  |  Avg Confidence: 81.3%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-11:00  | Sparta Praha vs Vysocina Jihl | 1X2            | Sparta Praha To Win        | 1.29x | 81.6%
-       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
-18:00  | Kungsangens I vs Sunnersta Aif | DNB            | Sunnersta Aif (Draw No Bet | 1.20x | 80.0%
-       ↳ Justification: Away Draw No Bet (2 DNB): High away edge with draw refund protection (84% non-loss).
-15:00  | Annaba vs Paradou AC         | Half Time      | 1st Half Under 1.5 Goals   | 1.21x | 79.4%
-       ↳ Justification: First Half Under 1.5 Goals: 77% model rating, disciplined early match pace.
-18:00  | Laval vs Rennes              | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.4 combined goals/game.
-16:00  | JBK vs Honka                 | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.4 combined goals/game.
-18:00  | Torslanda IK vs Ik Kongahaell | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 4.2 combined goals/game.
+15:30  | The New Saint vs Cambrian and  | 1X2            | The New Saints To Win      | 1.24x | 83.2%
+       ↳ Justification: Straight Home Win: 75% model prob + 100% crowd consensus + strong home form.
+22:00  | Cuiaba vs Ponte Preta        | 1X2            | Cuiaba To Win              | 1.27x | 82.2%
+       ↳ Justification: Straight Home Win: 73% model prob + 100% crowd consensus + strong home form.
+18:00  | Espanyol B vs Naxara CD      | 1X2            | Espanyol B To Win          | 1.27x | 82.2%
+       ↳ Justification: Straight Home Win: 73% model prob + 100% crowd consensus + strong home form.
+14:00  | Nardo vs Strindheim          | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 4.5 combined goals/game.
+16:00  | SC Cham vs Bulle             | BTS            | Both Teams To Score (Yes)  | 1.21x | 80.2%
+       ↳ Justification: Both Teams To Score (Yes): 77% model prob, verified dual scoring consistency in recent form.
+18:00  | Hassania Agad vs Maghreb Fes | Half Time      | 1st Half Under 1.5 Goals   | 1.20x | 80.0%
+       ↳ Justification: First Half Under 1.5 Goals: 78% model rating, disciplined early match pace.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 8.06x  |  Avg Confidence: 78.5%  |  Legs: 9
+   Total Odds: 6.40x  |  Avg Confidence: 79.9%  |  Legs: 8
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-11:00  | Sparta Praha vs Vysocina Jihl | 1X2            | Sparta Praha To Win        | 1.29x | 81.6%
-       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
-18:00  | Laval vs Rennes              | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.4 combined goals/game.
-16:00  | JBK vs Honka                 | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.4 combined goals/game.
-18:00  | Torslanda IK vs Ik Kongahaell | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 4.2 combined goals/game.
-19:45  | Bray Wanderer vs Cobh Ramblers | Goals          | Over 2.5 Goals             | 1.26x | 78.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (74% model) with 3.3 combined goals/game.
-19:45  | Belgium vs Turkey            | Goals          | Over 2.5 Goals             | 1.27x | 77.8%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (73% model) with 3.2 combined goals/game.
-19:45  | Ukraine vs Northern Irel     | Goals          | Under 3.5 Goals            | 1.26x | 77.3%
-       ↳ Justification: Defensive Lock: 74% Under 3.5 model + disciplined low scoring pace.
-23:30  | Sao Bernardo vs CRB          | Goals          | Under 3.5 Goals            | 1.26x | 77.3%
-       ↳ Justification: Defensive Lock: 74% Under 3.5 model + disciplined low scoring pace.
-12:00  | FC Augsburg vs Hertha Berlin | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.7 combined goals/game.
+15:30  | The New Saint vs Cambrian and  | 1X2            | The New Saints To Win      | 1.24x | 83.2%
+       ↳ Justification: Straight Home Win: 75% model prob + 100% crowd consensus + strong home form.
+12:00  | Rotor Volgogr vs Spartak Tambo | 1X2            | Spartak Tambov To Win      | 1.35x | 80.0%
+       ↳ Justification: Straight Away Win: 69% model prob + 100% crowd consensus + away form.
+20:00  | Hoogstraten vs Houtvenne     | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 4.0 combined goals/game.
+15:00  | Vindbjart vs Flekkeroy       | BTS            | Both Teams To Score (Yes)  | 1.22x | 79.6%
+       ↳ Justification: Both Teams To Score (Yes): 76% model prob, verified dual scoring consistency in recent form.
+21:00  | Atletico Goia vs America Minei | 1X2            | Atletico Goianiense To Win | 1.37x | 79.4%
+       ↳ Justification: Straight Home Win: 68% model prob + 100% crowd consensus + strong home form.
+21:00  | Cote D Ivoire vs Cameroon    | DNB            | Cote D Ivoire (Draw No Bet | 1.22x | 79.1%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (84% non-loss).
+16:00  | Hodd vs Odd Ballklubb        | BTS            | Both Teams To Score (Yes)  | 1.24x | 79.0%
+       ↳ Justification: Both Teams To Score (Yes): 75% model prob, verified dual scoring consistency in recent form.
+16:00  | IFK Stocksund vs FC Jaerfaella | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.9 combined goals/game.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
