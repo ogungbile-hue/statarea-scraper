@@ -5,76 +5,76 @@
 --- [ 1.5-ODDS ULTRA BANKER ] ---
 >> ONÍTẸ́TẸ́ 1.5-ODDS ULTRA BANKER SLIP
    Ultra-conservative 2-3 leg banker ticket with top-tier statistical safety.
-   Total Odds: 1.40x  |  Avg Confidence: 94.0%  |  Legs: 3
+   Total Odds: 1.46x  |  Avg Confidence: 88.6%  |  Legs: 3
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-19:00  | Argentina vs Benin           | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.2 avg recent match goals.
-19:45  | Colombia vs Peru             | Double Chance  | Colombia or Draw (1X)      | 1.12x | 94.8%
-       ↳ Justification: Double Chance 1X: 93% non-loss probability, Home won/drew 7/10 recent matches.
-13:00  | Algeria vs Niger             | DNB            | Algeria (Draw No Bet)      | 1.12x | 92.0%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (93% non-loss).
+19:00  | Forge FC vs Pacific FC       | DNB            | Forge FC (Draw No Bet)     | 1.12x | 90.6%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (92% non-loss).
+14:45  | Avro vs Lancaster            | Goals          | Over 1.5 Goals             | 1.12x | 90.2%
+       ↳ Justification: Over 1.5 Goals: 87% model rating + 3.5 avg recent match goals.
+19:30  | Vila Nova vs Cuiaba          | Double Chance  | Vila Nova or Draw (1X)     | 1.16x | 85.0%
+       ↳ Justification: Double Chance 1X: 80% non-loss probability, Home won/drew 8/10 recent matches.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.74x  |  Avg Confidence: 78.2%  |  Legs: 4
+   Total Odds: 2.73x  |  Avg Confidence: 77.3%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-12:00  | Molinos El Pi vs Ayacucho FC | Double Chance  | Molinos El Pirata or Draw  | 1.19x | 83.5%
-       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 8/10 recent matches.
-12:00  | Skjetten vs Kongsvinger 2    | BTS            | Both Teams To Score (Yes)  | 1.21x | 80.2%
-       ↳ Justification: Both Teams To Score (Yes): 77% model prob, verified dual scoring consistency in recent form.
-07:00  | Denmark (u19) vs Netherlands ( | Goals          | Over 2.5 Goals             | 1.37x | 74.8%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (68% model) with 3.2 combined goals/game.
-16:00  | Benjamin Acev vs Independiente | BTS            | Both Teams To Score (Yes)  | 1.39x | 74.2%
-       ↳ Justification: Both Teams To Score (Yes): 67% model prob, verified dual scoring consistency in recent form.
+18:30  | Avai vs Londrina             | Double Chance  | Avai or Draw (1X)          | 1.18x | 84.2%
+       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 6/10 recent matches.
+12:00  | Kups Akatemia vs Inter Turku 2 | Goals          | Over 2.5 Goals             | 1.27x | 77.8%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (73% model) with 3.3 combined goals/game.
+14:45  | Gosport Borou vs Poole Town  | BTS            | Both Teams To Score (Yes)  | 1.33x | 76.0%
+       ↳ Justification: Both Teams To Score (Yes): 70% model prob, verified dual scoring consistency in recent form.
+19:30  | America Minei vs Fortaleza   | DNB            | Fortaleza (Draw No Bet)    | 1.37x | 71.2%
+       ↳ Justification: Away Draw No Bet (2 DNB): High away edge with draw refund protection (77% non-loss).
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 4.50x  |  Avg Confidence: 76.6%  |  Legs: 6
+   Total Odds: 4.72x  |  Avg Confidence: 76.5%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-12:00  | Skjetten vs Kongsvinger 2    | BTS            | Both Teams To Score (Yes)  | 1.21x | 80.2%
-       ↳ Justification: Both Teams To Score (Yes): 77% model prob, verified dual scoring consistency in recent form.
-14:45  | Croatia vs Spain             | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.2 combined goals/game.
-14:45  | England vs Czech Republi     | Goals          | Over 2.5 Goals             | 1.26x | 78.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (74% model) with 3.5 combined goals/game.
-12:00  | Molinos El Pi vs Ayacucho FC | DNB            | Molinos El Pirata (Draw No | 1.28x | 74.4%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (78% non-loss).
-16:00  | Benjamin Acev vs Independiente | BTS            | Both Teams To Score (Yes)  | 1.39x | 74.2%
-       ↳ Justification: Both Teams To Score (Yes): 67% model prob, verified dual scoring consistency in recent form.
-12:00  | Russia vs Nigeria            | Team Goals     | Russia Over 1.5 Goals      | 1.36x | 73.1%
-       ↳ Justification: Russia Over 1.5 Team Goals: Strong home attack averaging 2.2 goals/game.
+18:00  | Comercial Pi vs Flamengo PI  | Half Time      | 1st Half Under 1.5 Goals   | 1.20x | 79.7%
+       ↳ Justification: First Half Under 1.5 Goals: 77% model rating, disciplined early match pace.
+18:30  | Internacional vs Corinthians | Goals          | Under 3.5 Goals            | 1.22x | 78.7%
+       ↳ Justification: Defensive Lock: 76% Under 3.5 model + disciplined low scoring pace.
+12:00  | Kups Akatemia vs Inter Turku 2 | Goals          | Over 2.5 Goals             | 1.27x | 77.8%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (73% model) with 3.3 combined goals/game.
+14:45  | Gosport Borou vs Poole Town  | BTS            | Both Teams To Score (Yes)  | 1.33x | 76.0%
+       ↳ Justification: Both Teams To Score (Yes): 70% model prob, verified dual scoring consistency in recent form.
+11:00  | Shooting Star vs Kano Pillars  | DNB            | Shooting Stars (Draw No Be | 1.29x | 74.9%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (80% non-loss).
+12:00  | IF Gnistan vs Inter Turku    | BTS            | Both Teams To Score (Yes)  | 1.48x | 71.8%
+       ↳ Justification: Both Teams To Score (Yes): 63% model prob, verified dual scoring consistency in recent form.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 8.58x  |  Avg Confidence: 75.2%  |  Legs: 8
+   Total Odds: 8.55x  |  Avg Confidence: 73.6%  |  Legs: 8
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-14:45  | England vs Czech Republi     | Goals          | Over 2.5 Goals             | 1.26x | 78.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (74% model) with 3.5 combined goals/game.
-12:00  | Skjetten vs Kongsvinger 2    | Team Goals     | Skjetten Over 1.5 Goals    | 1.22x | 77.6%
-       ↳ Justification: Skjetten Over 1.5 Team Goals: Strong home attack averaging 3.0 goals/game.
-20:30  | Chicago Fire vs Vancouver Whi | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.2 combined goals/game.
-07:00  | South Korea vs Uzbekistan    | DNB            | South Korea (Draw No Bet)  | 1.25x | 76.7%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
-12:00  | Molinos El Pi vs Ayacucho FC | DNB            | Molinos El Pirata (Draw No | 1.28x | 74.4%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (78% non-loss).
-16:00  | Benjamin Acev vs Independiente | BTS            | Both Teams To Score (Yes)  | 1.39x | 74.2%
-       ↳ Justification: Both Teams To Score (Yes): 67% model prob, verified dual scoring consistency in recent form.
-12:00  | Russia vs Nigeria            | Team Goals     | Russia Over 1.5 Goals      | 1.36x | 73.1%
-       ↳ Justification: Russia Over 1.5 Team Goals: Strong home attack averaging 2.2 goals/game.
-13:00  | Algeria vs Niger             | BTS            | Both Teams To Score (No)   | 1.43x | 70.2%
-       ↳ Justification: Both Teams To Score (No) / OTS: 65% clean sheet / one team score probability.
+12:00  | Kups Akatemia vs Inter Turku 2 | Goals          | Over 2.5 Goals             | 1.27x | 77.8%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (73% model) with 3.3 combined goals/game.
+14:45  | Gosport Borou vs Poole Town  | BTS            | Both Teams To Score (Yes)  | 1.33x | 76.0%
+       ↳ Justification: Both Teams To Score (Yes): 70% model prob, verified dual scoring consistency in recent form.
+11:00  | Shooting Star vs Kano Pillars  | DNB            | Shooting Stars (Draw No Be | 1.29x | 74.9%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (80% non-loss).
+19:30  | Vila Nova vs Cuiaba          | DNB            | Vila Nova (Draw No Bet)    | 1.29x | 74.9%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (80% non-loss).
+14:45  | Avro vs Lancaster            | Goals          | Over 2.5 Goals             | 1.37x | 74.8%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (68% model) with 3.5 combined goals/game.
+12:00  | IF Gnistan vs Inter Turku    | BTS            | Both Teams To Score (Yes)  | 1.48x | 71.8%
+       ↳ Justification: Both Teams To Score (Yes): 63% model prob, verified dual scoring consistency in recent form.
+09:00  | Biellese vs Alessandria      | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 69.5%
+       ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
+19:00  | Plaza Colonia vs Juventud    | Half Time      | 1st Half Under 1.5 Goals   | 1.23x | 69.0%
+       ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
