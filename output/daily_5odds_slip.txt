@@ -5,74 +5,74 @@
 --- [ 1.5-ODDS ULTRA BANKER ] ---
 >> ONÍTẸ́TẸ́ 1.5-ODDS ULTRA BANKER SLIP
    Ultra-conservative 2-3 leg banker ticket with top-tier statistical safety.
-   Total Odds: 1.25x  |  Avg Confidence: 91.2%  |  Legs: 2
+   Total Odds: 1.25x  |  Avg Confidence: 95.3%  |  Legs: 2
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-12:00  | Shamrock Rove vs Drogheda Unit | Goals          | Over 1.5 Goals             | 1.12x | 91.4%
-       ↳ Justification: Over 1.5 Goals: 89% model rating + 3.0 avg recent match goals.
-22:00  | Suwon City FC vs Hwaseong FC | Goals          | Over 1.5 Goals             | 1.12x | 90.9%
-       ↳ Justification: Over 1.5 Goals: 89% model rating + 3.0 avg recent match goals.
+17:00  | Al-Sadd vs Al-Arabi SC       | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.7 avg recent match goals.
+18:45  | Holywell Town vs The New Saint | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.1 avg recent match goals.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.70x  |  Avg Confidence: 77.2%  |  Legs: 4
+   Total Odds: 2.04x  |  Avg Confidence: 81.0%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-17:30  | Fluminense vs Coritiba       | DNB            | Fluminense (Draw No Bet)   | 1.20x | 80.0%
+21:00  | Platense FC vs Juticalpa     | Double Chance  | Platense FC or Draw (1X)   | 1.18x | 84.2%
+       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 8/10 recent matches.
+00:30  | Fluminense vs Coritiba       | DNB            | Fluminense (Draw No Bet)   | 1.20x | 80.0%
        ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (84% non-loss).
-05:30  | Aluminium Ara vs Malavan     | Goals          | Under 2.5 Goals            | 1.24x | 78.0%
-       ↳ Justification: Under 2.5 Solid Lock: 75% probability, defensive average <= 2.0 goals/match.
-03:00  | Shakhter Kara vs Akademiya Ont | Goals          | Over 2.5 Goals             | 1.27x | 77.8%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (73% model) with 2.9 combined goals/game.
-08:00  | Shabab Al-Ord vs Al-Baqa A   | BTS            | Both Teams To Score (Yes)  | 1.43x | 73.0%
-       ↳ Justification: Both Teams To Score (Yes): 65% model prob, verified dual scoring consistency in recent form.
+09:30  | Sagamihara vs Kamatamare Sa  | DNB            | Sagamihara (Draw No Bet)   | 1.20x | 80.0%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (84% non-loss).
+20:00  | Montevideo Ci vs Danubio     | DNB            | Montevideo City Torque (Dr | 1.20x | 79.8%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (84% non-loss).
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 4.56x  |  Avg Confidence: 77.0%  |  Legs: 6
+   Total Odds: 4.54x  |  Avg Confidence: 78.9%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-17:30  | Fluminense vs Coritiba       | DNB            | Fluminense (Draw No Bet)   | 1.20x | 80.0%
+16:30  | Katsina Unite vs Enyimba     | DNB            | Katsina United (Draw No Be | 1.21x | 79.5%
        ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (84% non-loss).
-05:00  | Arsenal Tivat vs FK Decic    | Goals          | Under 3.5 Goals            | 1.21x | 79.4%
-       ↳ Justification: Defensive Lock: 77% Under 3.5 model + disciplined low scoring pace.
-08:15  | Sepahan FC vs Fajr Sepasi    | DNB            | Sepahan FC (Draw No Bet)   | 1.21x | 78.9%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (83% non-loss).
-03:00  | Shakhter Kara vs Akademiya Ont | Goals          | Over 2.5 Goals             | 1.27x | 77.8%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (73% model) with 2.9 combined goals/game.
-08:00  | Shabab Al-Ord vs Al-Baqa A   | BTS            | Both Teams To Score (Yes)  | 1.43x | 73.0%
-       ↳ Justification: Both Teams To Score (Yes): 65% model prob, verified dual scoring consistency in recent form.
-18:00  | Alebrijes De  vs Correcaminos  | BTS            | Both Teams To Score (Yes)  | 1.43x | 73.0%
-       ↳ Justification: Both Teams To Score (Yes): 65% model prob, verified dual scoring consistency in recent form.
+11:00  | Ratchaburi vs Sukhothai FC   | 1X2            | Ratchaburi To Win          | 1.37x | 79.4%
+       ↳ Justification: Straight Home Win: 68% model prob + 100% crowd consensus + strong home form.
+17:00  | Galatasaray vs Kasimpasa     | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.2 combined goals/game.
+18:45  | Cardiff Metro vs Trefelin Bgc | 1X2            | Cardiff Metropolitan To Wi | 1.39x | 78.8%
+       ↳ Justification: Straight Home Win: 67% model prob + 100% crowd consensus + strong home form.
+12:00  | Zhejiang Gree vs Shanghai SIPG | BTS            | Both Teams To Score (Yes)  | 1.26x | 78.4%
+       ↳ Justification: Both Teams To Score (Yes): 74% model prob, verified dual scoring consistency in recent form.
+18:30  | Rakow Czestoc vs Dospel Katowi | Goals          | Over 2.5 Goals             | 1.26x | 78.4%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (74% model) with 3.4 combined goals/game.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 8.55x  |  Avg Confidence: 75.8%  |  Legs: 8
+   Total Odds: 6.81x  |  Avg Confidence: 78.9%  |  Legs: 8
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-04:30  | Sabail vs FK Karvan          | DNB            | Sabail (Draw No Bet)       | 1.22x | 78.5%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (83% non-loss).
-06:15  | Gol Gohar vs Esteghlal Khu   | Half Time      | 1st Half Under 1.5 Goals   | 1.23x | 78.4%
-       ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
-03:00  | Shakhter Kara vs Akademiya Ont | Goals          | Over 2.5 Goals             | 1.27x | 77.8%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (73% model) with 2.9 combined goals/game.
-17:30  | Palmeiras vs Bahia           | DNB            | Palmeiras (Draw No Bet)    | 1.24x | 77.4%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (82% non-loss).
-12:00  | Shamrock Rove vs Drogheda Unit | Team Goals     | Shamrock Rovers Over 1.5 G | 1.31x | 74.6%
-       ↳ Justification: Shamrock Rovers Over 1.5 Team Goals: Strong home attack averaging 2.4 goals/game.
-05:30  | Nassaji Mazan vs Zob Ahan    | Goals          | Under 2.5 Goals            | 1.35x | 73.8%
-       ↳ Justification: Under 2.5 Solid Lock: 69% probability, defensive average <= 2.0 goals/match.
-08:00  | Shabab Al-Ord vs Al-Baqa A   | BTS            | Both Teams To Score (Yes)  | 1.43x | 73.0%
-       ↳ Justification: Both Teams To Score (Yes): 65% model prob, verified dual scoring consistency in recent form.
-18:00  | Alebrijes De  vs Correcaminos  | BTS            | Both Teams To Score (Yes)  | 1.43x | 73.0%
-       ↳ Justification: Both Teams To Score (Yes): 65% model prob, verified dual scoring consistency in recent form.
+18:45  | Cork City vs Finn Harps      | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.8 combined goals/game.
+16:00  | Vejle vs Hvidovre            | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 2.8 combined goals/game.
+11:00  | Ratchaburi vs Sukhothai FC   | 1X2            | Ratchaburi To Win          | 1.37x | 79.4%
+       ↳ Justification: Straight Home Win: 68% model prob + 100% crowd consensus + strong home form.
+17:00  | Galatasaray vs Kasimpasa     | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.2 combined goals/game.
+18:45  | Cardiff Metro vs Trefelin Bgc | 1X2            | Cardiff Metropolitan To Wi | 1.39x | 78.8%
+       ↳ Justification: Straight Home Win: 67% model prob + 100% crowd consensus + strong home form.
+12:00  | Zhejiang Gree vs Shanghai SIPG | BTS            | Both Teams To Score (Yes)  | 1.26x | 78.4%
+       ↳ Justification: Both Teams To Score (Yes): 74% model prob, verified dual scoring consistency in recent form.
+17:00  | Sollentuna FK vs IFK Stocksund | BTS            | Both Teams To Score (Yes)  | 1.26x | 78.4%
+       ↳ Justification: Both Teams To Score (Yes): 74% model prob, verified dual scoring consistency in recent form.
+16:00  | Arsenal Dzerz vs Dinamo Brest | DNB            | Dinamo Brest (Draw No Bet) | 1.22x | 78.3%
+       ↳ Justification: Away Draw No Bet (2 DNB): High away edge with draw refund protection (82% non-loss).
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
