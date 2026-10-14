@@ -9,70 +9,70 @@
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-14:00  | Galatasaray vs Barcelona     | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.5 avg recent match goals.
-14:00  | Viking vs Bayern Munich      | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.0 avg recent match goals.
+15:00  | Slovan Bratis vs VfB Stuttgart | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.8 avg recent match goals.
+19:30  | Inter Miami vs New York City | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.1 avg recent match goals.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.23x  |  Avg Confidence: 81.6%  |  Legs: 4
+   Total Odds: 2.70x  |  Avg Confidence: 77.5%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-14:00  | Inter vs Club Brugge         | 1X2            | Inter To Win               | 1.26x | 82.7%
-       ↳ Justification: Straight Home Win: 74% model prob + 100% crowd consensus + strong home form.
-14:00  | RB Leipzig vs PSV            | Goals          | Over 2.5 Goals             | 1.18x | 81.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (79% model) with 4.2 combined goals/game.
-11:00  | Diosgyori VTK vs Szentlorinc S | Double Chance  | Diosgyori VTK or Draw (1X) | 1.19x | 81.3%
-       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 7/10 recent matches.
-14:00  | Viking vs Bayern Munich      | 1X2            | Bayern Munich To Win       | 1.26x | 81.1%
-       ↳ Justification: Straight Away Win: 74% model prob + 94% crowd consensus + away form.
+13:00  | SC Verl vs Jahn Regensbu     | BTS            | Both Teams To Score (Yes)  | 1.26x | 78.4%
+       ↳ Justification: Both Teams To Score (Yes): 74% model prob, verified dual scoring consistency in recent form.
+15:00  | Manchester Ci vs Paris Saint G | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.4 combined goals/game.
+15:00  | Slovan Bratis vs VfB Stuttgart | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.8 combined goals/game.
+20:30  | Chicago Fire vs Philadelphia  | BTS            | Both Teams To Score (Yes)  | 1.29x | 77.2%
+       ↳ Justification: Both Teams To Score (Yes): 72% model prob, verified dual scoring consistency in recent form.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 3.40x  |  Avg Confidence: 80.1%  |  Legs: 6
+   Total Odds: 4.52x  |  Avg Confidence: 77.0%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-14:00  | Inter vs Club Brugge         | 1X2            | Inter To Win               | 1.26x | 82.7%
-       ↳ Justification: Straight Home Win: 74% model prob + 100% crowd consensus + strong home form.
-14:00  | Viking vs Bayern Munich      | 1X2            | Bayern Munich To Win       | 1.26x | 81.1%
-       ↳ Justification: Straight Away Win: 74% model prob + 94% crowd consensus + away form.
-12:00  | TSV Havelse vs FC Wurzburger | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.6 combined goals/game.
-13:45  | Cardiff vs Watford           | DNB            | Cardiff (Draw No Bet)      | 1.20x | 79.5%
+13:45  | CSKA Moscow vs FC Rostov     | DNB            | CSKA Moscow (Draw No Bet)  | 1.21x | 79.1%
        ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (83% non-loss).
-13:45  | Wolves vs Bolton             | DNB            | Wolves (Draw No Bet)       | 1.20x | 79.3%
+22:30  | Los Angeles G vs Portland Timb | DNB            | Los Angeles Galaxy (Draw N | 1.23x | 78.0%
        ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (83% non-loss).
-07:30  | Zob Ahan vs Sepahan FC       | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 78.7%
-       ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
+20:30  | Chicago Fire vs Philadelphia  | BTS            | Both Teams To Score (Yes)  | 1.29x | 77.2%
+       ↳ Justification: Both Teams To Score (Yes): 72% model prob, verified dual scoring consistency in recent form.
+12:45  | Feyenoord vs Como            | BTS            | Both Teams To Score (Yes)  | 1.33x | 76.0%
+       ↳ Justification: Both Teams To Score (Yes): 70% model prob, verified dual scoring consistency in recent form.
+13:00  | Viktoria Koln vs SG Sonnenhof  | Goals          | Over 2.5 Goals             | 1.33x | 76.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (70% model) with 3.8 combined goals/game.
+12:15  | FC Nizhny Nov vs Shinnik Yaros | Goals          | Over 2.5 Goals             | 1.33x | 76.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (70% model) with 3.2 combined goals/game.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 6.39x  |  Avg Confidence: 78.9%  |  Legs: 8
+   Total Odds: 6.48x  |  Avg Confidence: 77.7%  |  Legs: 8
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-14:00  | Inter vs Club Brugge         | 1X2            | Inter To Win               | 1.26x | 82.7%
-       ↳ Justification: Straight Home Win: 74% model prob + 100% crowd consensus + strong home form.
-14:00  | Viking vs Bayern Munich      | 1X2            | Bayern Munich To Win       | 1.26x | 81.1%
-       ↳ Justification: Straight Away Win: 74% model prob + 94% crowd consensus + away form.
-12:00  | TSV Havelse vs FC Wurzburger | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.6 combined goals/game.
-07:30  | Zob Ahan vs Sepahan FC       | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 78.7%
-       ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
-10:45  | Germany (w) vs Japan (w)     | Goals          | Over 2.5 Goals             | 1.26x | 78.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (74% model) with 4.7 combined goals/game.
-12:00  | Pendikspor vs Van Spor FK    | DNB            | Pendikspor (Draw No Bet)   | 1.25x | 77.6%
+19:30  | Inter Miami vs New York City | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.1 combined goals/game.
+19:30  | FC Cincinnati vs New England R | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.5 combined goals/game.
+13:00  | SC Verl vs Jahn Regensbu     | BTS            | Both Teams To Score (Yes)  | 1.26x | 78.4%
+       ↳ Justification: Both Teams To Score (Yes): 74% model prob, verified dual scoring consistency in recent form.
+22:30  | Los Angeles G vs Portland Timb | DNB            | Los Angeles Galaxy (Draw N | 1.23x | 78.0%
        ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (83% non-loss).
-14:00  | Birmingham vs Preston        | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.0 combined goals/game.
-14:00  | Villarreal vs Napoli         | BTS            | Both Teams To Score (Yes)  | 1.33x | 76.0%
+15:00  | Manchester Ci vs Paris Saint G | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.4 combined goals/game.
+20:30  | Chicago Fire vs Philadelphia  | BTS            | Both Teams To Score (Yes)  | 1.29x | 77.2%
+       ↳ Justification: Both Teams To Score (Yes): 72% model prob, verified dual scoring consistency in recent form.
+12:45  | Feyenoord vs Como            | BTS            | Both Teams To Score (Yes)  | 1.33x | 76.0%
        ↳ Justification: Both Teams To Score (Yes): 70% model prob, verified dual scoring consistency in recent form.
+22:00  | LD Alajuelens vs CS Herediano | DNB            | LD Alajuelense (Draw No Be | 1.27x | 75.7%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (80% non-loss).
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
