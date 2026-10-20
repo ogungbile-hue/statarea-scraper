@@ -5,76 +5,74 @@
 --- [ 1.5-ODDS ULTRA BANKER ] ---
 >> ONÍTẸ́TẸ́ 1.5-ODDS ULTRA BANKER SLIP
    Ultra-conservative 2-3 leg banker ticket with top-tier statistical safety.
-   Total Odds: 1.40x  |  Avg Confidence: 94.5%  |  Legs: 3
+   Total Odds: 1.25x  |  Avg Confidence: 95.3%  |  Legs: 2
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-23:30  | Millonarios vs Jaguares      | Double Chance  | Millonarios or Draw (1X)   | 1.12x | 95.8%
-       ↳ Justification: Double Chance 1X: 93% non-loss probability, Home won/drew 9/10 recent matches.
-17:30  | Beitar Jerusa vs Maccabi Tel A | Goals          | Over 1.5 Goals             | 1.12x | 94.7%
-       ↳ Justification: Over 1.5 Goals: 94% model rating + 3.6 avg recent match goals.
-00:06  | U.A.N.L. - Ti vs Club Queretar | DNB            | U.A.N.L. - Tigres (w) (Dra | 1.12x | 93.1%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (95% non-loss).
+19:00  | Paris Saint G vs Barcelona   | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.6 avg recent match goals.
+19:00  | Manchester Ci vs AEK Athens  | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.7 avg recent match goals.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.71x  |  Avg Confidence: 80.2%  |  Legs: 4
+   Total Odds: 2.06x  |  Avg Confidence: 81.3%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-17:05  | Varbergs BoIS vs Helsingborg | Double Chance  | Varbergs BoIS FC or Draw ( | 1.18x | 82.2%
+21:30  | Pereira vs Chico             | Double Chance  | Pereira or Draw (1X)       | 1.18x | 83.8%
        ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 6/10 recent matches.
-23:30  | Millonarios vs Jaguares      | 1X2            | Millonarios To Win         | 1.35x | 80.0%
-       ↳ Justification: Straight Home Win: 69% model prob + 100% crowd consensus + strong home form.
-16:00  | Omonia vs Olympiakos Ni      | 1X2            | Omonia To Win              | 1.37x | 79.4%
-       ↳ Justification: Straight Home Win: 68% model prob + 100% crowd consensus + strong home form.
-15:05  | Al-Feiha vs Al-Ahli Jedda    | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 2.9 combined goals/game.
+19:00  | Paris Saint G vs Barcelona   | BTS            | Both Teams To Score (Yes)  | 1.18x | 81.4%
+       ↳ Justification: Both Teams To Score (Yes): 79% model prob, verified dual scoring consistency in recent form.
+19:00  | Manchester Ci vs AEK Athens  | 1X2            | Manchester City To Win     | 1.21x | 80.6%
+       ↳ Justification: Straight Home Win: 77% model prob + 85% crowd consensus + strong home form.
+19:00  | VfB Stuttgart vs Atletico Madr | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.1 combined goals/game.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 4.50x  |  Avg Confidence: 79.0%  |  Legs: 6
+   Total Odds: 3.38x  |  Avg Confidence: 79.4%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-17:30  | Beitar Jerusa vs Maccabi Tel A | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.6 combined goals/game.
-16:55  | Al-Jahra vs Kazma            | DNB            | Kazma (Draw No Bet)        | 1.20x | 80.0%
-       ↳ Justification: Away Draw No Bet (2 DNB): High away edge with draw refund protection (84% non-loss).
-23:30  | Millonarios vs Jaguares      | 1X2            | Millonarios To Win         | 1.35x | 80.0%
-       ↳ Justification: Straight Home Win: 69% model prob + 100% crowd consensus + strong home form.
-16:00  | Omonia vs Olympiakos Ni      | 1X2            | Omonia To Win              | 1.37x | 79.4%
-       ↳ Justification: Straight Home Win: 68% model prob + 100% crowd consensus + strong home form.
-19:15  | Fram Reykjavi vs IA Akranes  | Goals          | Over 2.5 Goals             | 1.26x | 78.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (74% model) with 4.0 combined goals/game.
-16:00  | Maccabi Bnei  vs Hapoel Rishon | BTS            | Both Teams To Score (Yes)  | 1.33x | 76.0%
-       ↳ Justification: Both Teams To Score (Yes): 70% model prob, verified dual scoring consistency in recent form.
+19:00  | Manchester Ci vs AEK Athens  | 1X2            | Manchester City To Win     | 1.21x | 80.6%
+       ↳ Justification: Straight Home Win: 77% model prob + 85% crowd consensus + strong home form.
+19:00  | VfB Stuttgart vs Atletico Madr | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.1 combined goals/game.
+21:30  | Pereira vs Chico             | Half Time      | 1st Half Under 1.5 Goals   | 1.20x | 79.5%
+       ↳ Justification: First Half Under 1.5 Goals: 77% model rating, disciplined early match pace.
+19:00  | Roma vs Slovan Bratis        | 1X2            | Roma To Win                | 1.24x | 79.3%
+       ↳ Justification: Straight Home Win: 75% model prob + 84% crowd consensus + strong home form.
+13:15  | Mes Rafsanjan vs Niroye Zamini | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 78.7%
+       ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
+19:00  | Liverpool vs Villarreal      | Goals          | Over 2.5 Goals             | 1.26x | 78.4%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (74% model) with 3.2 combined goals/game.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 8.51x  |  Avg Confidence: 77.1%  |  Legs: 8
+   Total Odds: 6.39x  |  Avg Confidence: 77.3%  |  Legs: 8
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-23:30  | Millonarios vs Jaguares      | 1X2            | Millonarios To Win         | 1.35x | 80.0%
-       ↳ Justification: Straight Home Win: 69% model prob + 100% crowd consensus + strong home form.
-16:00  | Omonia vs Olympiakos Ni      | 1X2            | Omonia To Win              | 1.37x | 79.4%
-       ↳ Justification: Straight Home Win: 68% model prob + 100% crowd consensus + strong home form.
-00:00  | CSD Municipal vs Guastatoya  | Half Time      | 1st Half Under 1.5 Goals   | 1.24x | 78.0%
-       ↳ Justification: First Half Under 1.5 Goals: 75% model rating, disciplined early match pace.
-18:00  | FC Voluntari vs FCSB         | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 2.9 combined goals/game.
-16:00  | Termalica Nie vs Puszcza Niepo | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.0 combined goals/game.
-16:00  | Maccabi Bnei  vs Hapoel Rishon | BTS            | Both Teams To Score (Yes)  | 1.33x | 76.0%
-       ↳ Justification: Both Teams To Score (Yes): 70% model prob, verified dual scoring consistency in recent form.
-13:30  | Naft Gachsara vs FC Fard     | BTS            | Both Teams To Score (No)   | 1.27x | 75.5%
-       ↳ Justification: Both Teams To Score (No) / OTS: 73% clean sheet / one team score probability.
-17:05  | Varbergs BoIS vs Helsingborg | DNB            | Varbergs BoIS FC (Draw No  | 1.28x | 74.9%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (79% non-loss).
+19:00  | Roma vs Slovan Bratis        | 1X2            | Roma To Win                | 1.24x | 79.3%
+       ↳ Justification: Straight Home Win: 75% model prob + 84% crowd consensus + strong home form.
+13:15  | Mes Rafsanjan vs Niroye Zamini | Half Time      | 1st Half Under 1.5 Goals   | 1.22x | 78.7%
+       ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
+18:45  | Luton vs Barnsley            | Goals          | Over 2.5 Goals             | 1.27x | 77.8%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (73% model) with 3.9 combined goals/game.
+19:00  | Napoli vs Bodo/Glimt         | Goals          | Over 2.5 Goals             | 1.29x | 77.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (72% model) with 3.6 combined goals/game.
+18:45  | Crawley Town vs Shrewsbury   | BTS            | Both Teams To Score (No)   | 1.24x | 76.8%
+       ↳ Justification: Both Teams To Score (No) / OTS: 75% clean sheet / one team score probability.
+18:45  | Huddersfield vs Peterborough | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.1 combined goals/game.
+18:45  | Ebbsfleet Uni vs Horsham     | DNB            | Ebbsfleet United (Draw No  | 1.26x | 76.2%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
+18:00  | Al-Nassr Riya vs Neom Sc     | DNB            | Al-Nassr Riyadh (Draw No B | 1.26x | 76.1%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (80% non-loss).
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
