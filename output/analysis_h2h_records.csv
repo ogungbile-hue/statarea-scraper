@@ -1,852 +1,341 @@
 ﻿fixture_id,parent_match_date,parent_competition,h2h_date,h2h_competition,h2h_home_team,h2h_away_team,home_goals,away_goals,score_ft,score_ht,total_goals,bts_result,outcome,events_count
-1750946,2026-10-21,CHAMPIONS LEAGUE,2025-11-26,International - Champions League 2025/2026,Arsenal,Bayern Munich,3,1,3-1,1-1,4,1,1,10
-1750946,2026-10-21,CHAMPIONS LEAGUE,2024-04-17,Europe (uefa) - Uefa Champions League 2023/2024,Bayern Munich,Arsenal,1,0,1-0,0-0,1,0,1,5
-1750946,2026-10-21,CHAMPIONS LEAGUE,2024-04-09,Europe (uefa) - Uefa Champions League 2023/2024,Arsenal,Bayern Munich,2,2,2-2,2-1,4,1,X,7
-1750946,2026-10-21,CHAMPIONS LEAGUE,2019-07-18,International Tournaments - International Champions Cup 2018/2019,Arsenal,Bayern Munich,2,1,2-1,0-0,3,1,1,3
-1750946,2026-10-21,CHAMPIONS LEAGUE,2017-07-19,International Tournaments - International Champions Cup 2016/2017,Bayern Munich,Arsenal,2,3,2-3,0-1,5,1,2,7
-1750946,2026-10-21,CHAMPIONS LEAGUE,2017-03-07,Europe (UEFA) - UEFA Champions League 2016/2017,Arsenal,Bayern Munich,1,5,1-5,0-1,6,1,2,12
-1750946,2026-10-21,CHAMPIONS LEAGUE,2017-02-15,Europe (UEFA) - UEFA Champions League 2016/2017,Bayern Munich,Arsenal,5,1,5-1,1-1,6,1,1,11
-1750946,2026-10-21,CHAMPIONS LEAGUE,2015-11-04,Europe (UEFA) - UEFA Champions League 2015/2016,Bayern Munich,Arsenal,5,1,5-1,0-3,6,1,1,8
-1750946,2026-10-21,CHAMPIONS LEAGUE,2015-10-20,Europe (UEFA) - UEFA Champions League 2015/2016,Arsenal,Bayern Munich,2,0,2-0,0-0,2,0,1,3
-1750946,2026-10-21,CHAMPIONS LEAGUE,2014-03-11,Europe (UEFA) - Womens Euro 2013 Sweden 2013/2014,Bayern Munich,Arsenal,1,1,1-1,0-0,2,1,X,7
-1750946,2026-10-21,CHAMPIONS LEAGUE,2014-02-19,Europe (UEFA) - Womens Euro 2013 Sweden 2013/2014,Arsenal,Bayern Munich,0,2,0-2,0-0,2,0,2,7
-1750946,2026-10-21,CHAMPIONS LEAGUE,2013-03-13,Europe (UEFA) - UEFA Champions League 2012/2013,Bayern Munich,Arsenal,0,2,0-2,1-0,2,0,2,11
-1750946,2026-10-21,CHAMPIONS LEAGUE,2013-02-19,Europe (UEFA) - UEFA Champions League 2012/2013,Arsenal,Bayern Munich,1,3,1-3,2-0,4,1,2,12
-1750946,2026-10-21,CHAMPIONS LEAGUE,2005-03-09,Europe (UEFA) - UEFA Champions League 2004/2005,Arsenal,Bayern Munich,1,0,1-0,0-0,1,0,1,1
-1750946,2026-10-21,CHAMPIONS LEAGUE,2005-02-22,Europe (UEFA) - UEFA Champions League 2004/2005,Bayern Munich,Arsenal,3,1,3-1,0-1,4,1,1,4
-1750946,2026-10-21,CHAMPIONS LEAGUE,2001-04-14,Europe (UEFA) - UEFA Champions League 2000/2001,Bayern Munich,Arsenal,1,0,1-0,0-1,1,0,1,5
-1750946,2026-10-21,CHAMPIONS LEAGUE,2000-12-05,Europe (UEFA) - UEFA Champions League 2000/2001,Arsenal,Bayern Munich,2,2,2-2,0-1,4,1,X,8
-1750950,2026-10-21,CHAMPIONS LEAGUE,2024-03-06,Europe (uefa) - Uefa Champions League 2023/2024,Real Madrid,RB Leipzig,1,1,1-1,0-0,2,1,X,8
-1750950,2026-10-21,CHAMPIONS LEAGUE,2024-02-13,Europe (uefa) - Uefa Champions League 2023/2024,RB Leipzig,Real Madrid,0,1,0-1,0-0,1,0,2,7
-1750950,2026-10-21,CHAMPIONS LEAGUE,2022-10-25,Europe (uefa) - Group Stage 2022/2023,RB Leipzig,Real Madrid,3,2,3-2,1-2,5,1,1,6
-1750950,2026-10-21,CHAMPIONS LEAGUE,2022-09-14,Europe (uefa) - Group Stage 2022/2023,Real Madrid,RB Leipzig,2,0,2-0,0-0,2,0,1,6
-1750948,2026-10-21,CHAMPIONS LEAGUE,2021-11-24,Europe (UEFA) - Group Stage 2021/2022,Inter,Shakhter Donetsk,2,0,2-0,0-0,2,0,1,3
-1750948,2026-10-21,CHAMPIONS LEAGUE,2021-09-28,Europe (UEFA) - Group Stage 2021/2022,Shakhter Donetsk,Inter,0,0,0-0,0-0,0,0,X,2
-1750948,2026-10-21,CHAMPIONS LEAGUE,2020-12-09,Europe (UEFA) - UEFA Champions League 2020/2021,Inter,Shakhter Donetsk,0,0,0-0,0-0,0,0,X,5
-1750948,2026-10-21,CHAMPIONS LEAGUE,2020-10-27,Europe (UEFA) - UEFA Champions League 2020/2021,Shakhter Donetsk,Inter,0,0,0-0,0-0,0,0,X,2
-1750948,2026-10-21,CHAMPIONS LEAGUE,2020-08-17,Europe (UEFA) - UEFA Europa League 2019/2020,Inter,Shakhter Donetsk,5,0,5-0,0-1,5,0,1,6
-1750948,2026-10-21,CHAMPIONS LEAGUE,2005-08-24,Europe (UEFA) - UEFA Champions League 2005/2006,Inter,Shakhter Donetsk,1,1,1-1,1-1,2,1,X,2
-1750948,2026-10-21,CHAMPIONS LEAGUE,2005-08-10,Europe (UEFA) - UEFA Champions League 2005/2006,Shakhter Donetsk,Inter,0,2,0-2,0-0,2,0,2,2
-1750949,2026-10-21,CHAMPIONS LEAGUE,2026-01-29,International - Europa League 2025/2026,Betis,Feyenoord,2,1,2-1,0-2,3,1,1,4
-1750944,2026-10-21,CHAMPIONS LEAGUE,2026-10-17,France - Ligue 1 2026/2027,Lille,Stade Brestois 29,1,1,1-1,1-0,2,1,X,2
-1750944,2026-10-21,CHAMPIONS LEAGUE,2026-10-13,International - Champions League 2026/2027,Arsenal,Lille,3,0,3-0,0-0,3,0,1,1
-1750944,2026-10-21,CHAMPIONS LEAGUE,2026-10-10,France - Ligue 1 2026/2027,Lille,Le Havre,1,0,1-0,0-1,1,0,1,1
-1750944,2026-10-21,CHAMPIONS LEAGUE,2026-09-20,France - Ligue 1 2026/2027,Nice,Lille,2,1,2-1,0-1,3,1,1,7
-1750944,2026-10-21,CHAMPIONS LEAGUE,2026-09-13,France - Ligue 1 2026/2027,Lille,Estac Troyes,2,0,2-0,0-1,2,0,1,3
-1750944,2026-10-21,CHAMPIONS LEAGUE,2026-09-08,International - Champions League 2026/2027,Lille,Betis,2,3,2-3,1-2,5,1,2,10
-1750944,2026-10-21,CHAMPIONS LEAGUE,2026-09-03,France - Ligue 1 2026/2027,Toulouse,Lille,0,1,0-1,0-0,1,0,2,1
-1750944,2026-10-21,CHAMPIONS LEAGUE,2026-08-28,France - Ligue 1 2026/2027,Lille,Paris Saint Germain,2,2,2-2,0-1,4,1,X,7
-1750944,2026-10-21,CHAMPIONS LEAGUE,2026-08-23,France - Ligue 1 2026/2027,Angers,Lille,0,2,0-2,2-0,2,0,2,3
-1750944,2026-10-21,CHAMPIONS LEAGUE,2026-08-15,International - Club Friendlies 2026/2026,Everton,Lille,1,1,1-1,0-1,2,1,X,2
-1750947,2026-10-21,CHAMPIONS LEAGUE,2002-07-28,Friendly Games - Friendly 2002/2003,Club Brugge,Lens,0,0,0-0,0-0,0,0,X,0
-1750943,2026-10-21,CHAMPIONS LEAGUE,2026-10-18,Italy - Serie A 2026/2027,Fiorentina,Como,1,3,1-3,2-1,4,1,2,9
-1750943,2026-10-21,CHAMPIONS LEAGUE,2026-10-14,International - Champions League 2026/2027,Feyenoord,Como,3,2,3-2,1-1,5,1,1,2
-1750943,2026-10-21,CHAMPIONS LEAGUE,2026-10-11,Italy - Serie A 2026/2027,Como,Roma,0,0,0-0,0-0,0,0,X,6
-1750943,2026-10-21,CHAMPIONS LEAGUE,2026-09-20,Italy - Serie A 2026/2027,Frosinone,Como,2,0,2-0,0-2,2,0,1,7
-1750943,2026-10-21,CHAMPIONS LEAGUE,2026-09-14,Italy - Serie A 2026/2027,Como,Parma,2,1,2-1,0-1,3,1,1,4
-1750943,2026-10-21,CHAMPIONS LEAGUE,2026-09-10,International - Champions League 2026/2027,Como,RB Leipzig,4,1,4-1,0-2,5,1,1,8
-1750943,2026-10-21,CHAMPIONS LEAGUE,2026-09-04,Italy - Serie A 2026/2027,Genoa,Como,1,4,1-4,3-1,5,1,2,7
-1750943,2026-10-21,CHAMPIONS LEAGUE,2026-08-30,Italy - Serie A 2026/2027,Napoli,Como,1,2,1-2,2-1,3,1,2,4
-1750943,2026-10-21,CHAMPIONS LEAGUE,2026-08-22,Italy - Serie A 2026/2027,Udinese,Como,1,1,1-1,0-1,2,1,X,5
-1750943,2026-10-21,CHAMPIONS LEAGUE,2026-08-16,International - Club Friendlies 2026/2026,Liverpool,Como,2,0,2-0,0-2,2,0,1,2
-1750945,2026-10-21,CHAMPIONS LEAGUE,2026-10-17,England - Premier League 2026/2027,Newcastle,Aston Villa,0,1,0-1,1-0,1,0,2,5
-1750945,2026-10-21,CHAMPIONS LEAGUE,2026-10-14,International - Champions League 2026/2027,Aston Villa,Fenerbahce,6,0,6-0,0-3,6,0,1,4
-1750945,2026-10-21,CHAMPIONS LEAGUE,2026-10-10,England - Premier League 2026/2027,Aston Villa,Brentford,2,2,2-2,1-1,4,1,X,4
-1750945,2026-10-21,CHAMPIONS LEAGUE,2026-10-02,International - Club Friendlies 2026/2026,Sevilla,Aston Villa,1,3,1-3,0-0,4,1,2,0
-1750945,2026-10-21,CHAMPIONS LEAGUE,2026-09-19,England - Premier League 2026/2027,Tottenham,Aston Villa,2,3,2-3,1-0,5,1,2,8
-1750945,2026-10-21,CHAMPIONS LEAGUE,2026-09-16,England - Efl Cup 2026/2027,Coventry,Aston Villa,1,3,1-3,2-1,4,1,2,6
-1750945,2026-10-21,CHAMPIONS LEAGUE,2026-09-12,England - Premier League 2026/2027,Aston Villa,Nottingham Forest,1,2,1-2,0-0,3,1,2,10
-1750945,2026-10-21,CHAMPIONS LEAGUE,2026-09-08,International - Champions League 2026/2027,Club Brugge,Aston Villa,2,3,2-3,3-1,5,1,2,11
-1750945,2026-10-21,CHAMPIONS LEAGUE,2026-09-05,England - Premier League 2026/2027,Hull City,Aston Villa,0,0,0-0,0-0,0,0,X,2
-1750945,2026-10-21,CHAMPIONS LEAGUE,2026-08-31,England - Premier League 2026/2027,Aston Villa,Arsenal,0,1,0-1,0-0,1,0,2,2
-1750951,2026-10-21,CHAMPIONS LEAGUE,2020-10-01,Europe (UEFA) - UEFA Europa League 2020/2021,Sporting CP,Lask Linz,1,4,1-4,1-1,5,1,2,10
-1750951,2026-10-21,CHAMPIONS LEAGUE,2019-12-12,Europe (UEFA) - UEFA Europa League 2019/2020,Lask Linz,Sporting CP,3,0,3-0,0-2,3,0,1,4
-1750951,2026-10-21,CHAMPIONS LEAGUE,2019-10-03,Europe (UEFA) - UEFA Europa League 2019/2020,Sporting CP,Lask Linz,2,1,2-1,1-0,3,1,1,8
-1728585,2026-10-21,LALIGA,2026-02-08,Spain - Laliga 2025/2026,Athletic Club,Levante,4,2,4-2,0-2,6,1,1,11
-1728585,2026-10-21,LALIGA,2025-11-29,Spain - Laliga 2025/2026,Levante,Athletic Club,0,2,0-2,0-0,2,0,2,1
-1728585,2026-10-21,LALIGA,2022-03-07,Spain - Segunda Division Rfef 2021/2022,Athletic Club,Levante,3,1,3-1,0-0,4,1,1,7
-1728585,2026-10-21,LALIGA,2021-11-19,Spain - Segunda Division Rfef 2021/2022,Levante,Athletic Club,0,0,0-0,0-0,0,0,X,3
-1728585,2026-10-21,LALIGA,2021-03-04,Spain - FA Cup 2020/2021,Levante,Athletic Club,1,2,1-2,1-1,3,1,2,9
-1728585,2026-10-21,LALIGA,2021-02-26,Spain - SD Promotion P.Off 2020/2021,Levante,Athletic Club,1,1,1-1,0-1,2,1,X,8
-1728585,2026-10-21,LALIGA,2021-02-11,Spain - FA Cup 2020/2021,Athletic Club,Levante,1,1,1-1,1-0,2,1,X,5
-1728585,2026-10-21,LALIGA,2020-10-18,Spain - SD Promotion P.Off 2020/2021,Athletic Club,Levante,2,0,2-0,0-0,2,0,1,6
-1728585,2026-10-21,LALIGA,2020-07-12,Spain - Primera Division 2019/2020,Levante,Athletic Club,1,2,1-2,2-0,3,1,2,4
-1728585,2026-10-21,LALIGA,2019-11-10,Spain - Primera Division 2019/2020,Athletic Club,Levante,2,1,2-1,1-0,3,1,1,8
-1728585,2026-10-21,LALIGA,2019-04-03,Spain - Primera Division 2018/2019,Athletic Club,Levante,3,2,3-2,0-2,5,1,1,15
-1728585,2026-10-21,LALIGA,2018-12-03,Spain - Primera Division 2018/2019,Levante,Athletic Club,3,0,3-0,0-1,3,0,1,12
-1728585,2026-10-21,LALIGA,2018-04-23,Spain - Primera Division 2017/2018,Athletic Club,Levante,1,3,1-3,2-1,4,1,2,10
-1728585,2026-10-21,LALIGA,2017-12-10,Spain - Primera Division 2017/2018,Levante,Athletic Club,1,2,1-2,1-0,3,1,2,9
-1728585,2026-10-21,LALIGA,2016-04-24,Spain - Primera Division 2015/2016,Levante,Athletic Club,2,2,2-2,0-1,4,1,X,7
-1728585,2026-10-21,LALIGA,2015-12-20,Spain - Primera Division 2015/2016,Athletic Club,Levante,2,0,2-0,0-0,2,0,1,7
-1728585,2026-10-21,LALIGA,2015-02-01,Spain - Primera Division 2014/2015,Levante,Athletic Club,0,2,0-2,0-0,2,0,2,9
-1728585,2026-10-21,LALIGA,2014-08-30,Spain - Primera Division 2014/2015,Athletic Club,Levante,3,0,3-0,0-1,3,0,1,8
-1728585,2026-10-21,LALIGA,2014-04-07,Spain - Primera Division 2013/2014,Levante,Athletic Club,1,2,1-2,2-0,3,1,2,7
-1728585,2026-10-21,LALIGA,2013-11-09,Spain - Primera Division 2013/2014,Athletic Club,Levante,2,1,2-1,1-0,3,1,1,12
-1728585,2026-10-21,LALIGA,2013-05-26,Spain - Primera Division 2012/2013,Athletic Club,Levante,0,1,0-1,0-0,1,0,2,3
-1728585,2026-10-21,LALIGA,2013-01-05,Spain - Primera Division 2012/2013,Levante,Athletic Club,3,1,3-1,1-2,4,1,1,11
-1728585,2026-10-21,LALIGA,2012-05-13,Spain - Primera Division 2011/2012,Levante,Athletic Club,3,0,3-0,0-1,3,0,1,5
-1728585,2026-10-21,LALIGA,2012-01-15,Spain - Primera Division 2011/2012,Athletic Club,Levante,3,0,3-0,0-2,3,0,1,11
-1728585,2026-10-21,LALIGA,2011-05-07,Spain - Primera Division 2010/2011,Athletic Club,Levante,3,2,3-2,0-1,5,1,1,13
-1728585,2026-10-21,LALIGA,2010-12-18,Spain - Primera Division 2010/2011,Levante,Athletic Club,1,2,1-2,1-1,3,1,2,10
-1728585,2026-10-21,LALIGA,2008-02-10,Spain - Division 1 2007/2008,Athletic Club,Levante,1,0,1-0,0-0,1,0,1,1
-1728585,2026-10-21,LALIGA,2007-09-23,Spain - Division 1 2007/2008,Levante,Athletic Club,1,2,1-2,1-0,3,1,2,3
-1728585,2026-10-21,LALIGA,2007-06-17,Spain - Division 1 2006/2007,Athletic Club,Levante,2,0,2-0,0-0,2,0,1,2
-1728585,2026-10-21,LALIGA,2007-01-21,Spain - Division 1 2006/2007,Levante,Athletic Club,0,0,0-0,0-0,0,0,X,0
-1728585,2026-10-21,LALIGA,2005-03-20,Spain - Division 1 2004/2005,Athletic Club,Levante,3,1,3-1,0-1,4,1,1,4
-1728585,2026-10-21,LALIGA,2004-11-07,Spain - Division 1 2004/2005,Levante,Athletic Club,1,0,1-0,0-0,1,0,1,2
-1750981,2026-10-21,LIGA MX APERTURA,2026-02-01,Mexico - Liga Mx Clausura 2025/2026,Leon,U.A.N.L. - Tigres,1,2,1-2,0-0,3,1,2,5
-1750981,2026-10-21,LIGA MX APERTURA,2025-09-14,Mexico - Liga Mx Apertura 2025/2026,U.A.N.L. - Tigres,Leon,0,0,0-0,0-0,0,0,X,5
-1750981,2026-10-21,LIGA MX APERTURA,2025-02-23,Mexico - Liga Mx Clausura 2024/2025,Leon,U.A.N.L. - Tigres,1,0,1-0,0-1,1,0,1,6
-1750981,2026-10-21,LIGA MX APERTURA,2024-09-28,Mexico - Liga Premier-serie A Championship Playoff 2024/2025,U.A.N.L. - Tigres,Leon,2,2,2-2,1-1,4,1,X,11
-1750981,2026-10-21,LIGA MX APERTURA,2024-01-18,Mexico - Liga Mx Clausura 2023/2024,Leon,U.A.N.L. - Tigres,1,2,1-2,0-0,3,1,2,5
-1750981,2026-10-21,LIGA MX APERTURA,2023-07-16,Mexico - Liga Mx Apertura 2023/2024,U.A.N.L. - Tigres,Leon,1,0,1-0,0-1,1,0,1,8
-1750981,2026-10-21,LIGA MX APERTURA,2023-05-04,North & Central America (concacaf) - Concacaf Champions League 2022/2023,U.A.N.L. - Tigres,Leon,1,5,1-5,3-0,6,1,2,14
-1750981,2026-10-21,LIGA MX APERTURA,2023-05-01,Mexico - Liga Mx Clausura 2022/2023,Leon,U.A.N.L. - Tigres,3,0,3-0,0-2,3,0,1,7
-1750981,2026-10-21,LIGA MX APERTURA,2023-04-26,North & Central America (concacaf) - Concacaf Champions League 2022/2023,Leon,U.A.N.L. - Tigres,1,2,1-2,2-1,3,1,2,8
-1750981,2026-10-21,LIGA MX APERTURA,2022-09-11,Mexico - Liga De Expansion Mx Championship Finals 2022/2023,U.A.N.L. - Tigres,Leon,0,1,0-1,1-0,1,0,2,7
-1750981,2026-10-21,LIGA MX APERTURA,2022-03-13,Mexico - Liga MX Clausura 2021/2022,Leon,U.A.N.L. - Tigres,0,3,0-3,2-0,3,0,2,3
-1750981,2026-10-21,LIGA MX APERTURA,2021-12-05,Mexico - Liga MX Apertura PlayOff 2021/2022,Leon,U.A.N.L. - Tigres,2,1,2-1,1-1,3,1,1,12
-1750981,2026-10-21,LIGA MX APERTURA,2021-12-02,Mexico - Liga MX Apertura PlayOff 2021/2022,U.A.N.L. - Tigres,Leon,2,1,2-1,0-0,3,1,1,8
-1750981,2026-10-21,LIGA MX APERTURA,2021-09-12,Mexico - Liga Premier-Serie B Apertura Final Stage 2021/2022,U.A.N.L. - Tigres,Leon,2,2,2-2,2-1,4,1,X,10
-1750981,2026-10-21,LIGA MX APERTURA,2021-01-10,Mexico - Liga MX Guard1anes Clausura 2020/2021,U.A.N.L. - Tigres,Leon,2,0,2-0,0-1,2,0,1,4
-1750981,2026-10-21,LIGA MX APERTURA,2020-09-09,Mexico - Liga MX Guard1anes 2020/2021,Leon,U.A.N.L. - Tigres,1,1,1-1,0-1,2,1,X,6
-1750981,2026-10-21,LIGA MX APERTURA,2019-09-01,Mexico - Liga Mx Femenil 2023/2024,U.A.N.L. - Tigres,Leon,1,1,1-1,1-0,2,1,X,6
-1750981,2026-10-21,LIGA MX APERTURA,2019-05-27,Mexico - CL-P.Off Final 2018/2019,Leon,U.A.N.L. - Tigres,0,0,0-0,0-0,0,0,X,7
-1750981,2026-10-21,LIGA MX APERTURA,2019-05-24,Mexico - CL-P.Off Final 2018/2019,U.A.N.L. - Tigres,Leon,1,0,1-0,0-1,1,0,1,7
-1750981,2026-10-21,LIGA MX APERTURA,2019-01-06,Mexico - Clausura 2018/2019,Leon,U.A.N.L. - Tigres,2,2,2-2,1-1,4,1,X,10
-1750981,2026-10-21,LIGA MX APERTURA,2018-07-22,Mexico - Apertura 2018/2019,U.A.N.L. - Tigres,Leon,2,0,2-0,0-1,2,0,1,6
-1750981,2026-10-21,LIGA MX APERTURA,2018-04-01,Mexico - Clausura 2017/2018,U.A.N.L. - Tigres,Leon,4,1,4-1,0-4,5,1,1,5
-1750981,2026-10-21,LIGA MX APERTURA,2017-11-26,Mexico - AP-P.Off QF 2017/2018,U.A.N.L. - Tigres,Leon,1,1,1-1,1-1,2,1,X,9
-1750981,2026-10-21,LIGA MX APERTURA,2017-11-23,Mexico - AP-P.Off QF 2017/2018,Leon,U.A.N.L. - Tigres,1,1,1-1,0-0,2,1,X,4
-1750981,2026-10-21,LIGA MX APERTURA,2017-10-15,Mexico - Apertura 2017/2018,Leon,U.A.N.L. - Tigres,1,0,1-0,0-0,1,0,1,4
-1750981,2026-10-21,LIGA MX APERTURA,2017-04-02,Mexico - Clausura 2016/2017,U.A.N.L. - Tigres,Leon,0,1,0-1,0-0,1,0,2,6
-1750981,2026-10-21,LIGA MX APERTURA,2016-12-04,Mexico - AP-Play Offs 2016/2017,U.A.N.L. - Tigres,Leon,2,1,2-1,1-1,3,1,1,10
-1750981,2026-10-21,LIGA MX APERTURA,2016-12-01,Mexico - AP-Play Offs 2016/2017,Leon,U.A.N.L. - Tigres,0,1,0-1,0-0,1,0,2,5
-1750981,2026-10-21,LIGA MX APERTURA,2016-10-02,Mexico - Apertura 2016/2017,Leon,U.A.N.L. - Tigres,3,2,3-2,1-3,5,1,1,8
-1750981,2026-10-21,LIGA MX APERTURA,2016-01-31,Mexico - Clausura 2015/2016,U.A.N.L. - Tigres,Leon,3,1,3-1,1-3,4,1,1,9
-1750981,2026-10-21,LIGA MX APERTURA,2015-08-13,Mexico - Apertura 2015/2016,Leon,U.A.N.L. - Tigres,2,1,2-1,0-2,3,1,1,4
-1750981,2026-10-21,LIGA MX APERTURA,2015-01-18,Mexico - Clausura 2014/2015,Leon,U.A.N.L. - Tigres,0,1,0-1,0-0,1,0,2,4
-1750981,2026-10-21,LIGA MX APERTURA,2014-07-27,Mexico - Apertura 2014/2015,U.A.N.L. - Tigres,Leon,4,2,4-2,1-3,6,1,1,11
-1750981,2026-10-21,LIGA MX APERTURA,2014-04-20,Mexico - Clausura 2013/2014,Leon,U.A.N.L. - Tigres,3,0,3-0,0-1,3,0,1,7
-1750981,2026-10-21,LIGA MX APERTURA,2013-11-03,Mexico - Apertura 2013/2014,U.A.N.L. - Tigres,Leon,1,1,1-1,0-1,2,1,X,5
-1750981,2026-10-21,LIGA MX APERTURA,2013-04-07,Mexico - Clausura 2012/2013,U.A.N.L. - Tigres,Leon,0,0,0-0,0-0,0,0,X,3
-1750981,2026-10-21,LIGA MX APERTURA,2012-10-14,Mexico - Apertura 2012/2013,Leon,U.A.N.L. - Tigres,2,0,2-0,0-2,2,0,1,7
-1750978,2026-10-21,LIGA MX APERTURA,2026-04-23,Mexico - Liga Mx Clausura 2025/2026,Necaxa,Guadalajara-Chivas,0,0,0-0,0-0,0,0,X,6
-1750978,2026-10-21,LIGA MX APERTURA,2025-09-24,Mexico - Liga Mx Apertura 2025/2026,Guadalajara-Chivas,Necaxa,3,1,3-1,2-2,4,1,1,7
-1750978,2026-10-21,LIGA MX APERTURA,2025-01-18,Mexico - Liga Mx Clausura 2024/2025,Necaxa,Guadalajara-Chivas,3,2,3-2,0-0,5,1,1,9
-1750978,2026-10-21,LIGA MX APERTURA,2024-10-23,Mexico - Liga Premier-serie A Championship Playoff 2024/2025,Guadalajara-Chivas,Necaxa,3,2,3-2,1-0,5,1,1,6
-1750978,2026-10-21,LIGA MX APERTURA,2024-02-21,Mexico - Liga Mx Clausura 2023/2024,Necaxa,Guadalajara-Chivas,1,0,1-0,0-1,1,0,1,8
-1750978,2026-10-21,LIGA MX APERTURA,2023-07-14,Mexico - Liga Mx Apertura 2023/2024,Guadalajara-Chivas,Necaxa,2,0,2-0,0-1,2,0,1,6
-1750978,2026-10-21,LIGA MX APERTURA,2023-04-09,Mexico - Liga Mx Clausura 2022/2023,Guadalajara-Chivas,Necaxa,1,0,1-0,0-0,1,0,1,1
-1750978,2026-10-21,LIGA MX APERTURA,2022-08-20,Mexico - Liga De Expansion Mx Championship Finals 2022/2023,Necaxa,Guadalajara-Chivas,0,4,0-4,2-0,4,0,2,6
-1750978,2026-10-21,LIGA MX APERTURA,2022-04-30,Mexico - Liga MX Clausura 2021/2022,Necaxa,Guadalajara-Chivas,0,1,0-1,0-0,1,0,2,5
-1750978,2026-10-21,LIGA MX APERTURA,2021-08-28,Mexico - Liga Premier-Serie B Apertura Final Stage 2021/2022,Guadalajara-Chivas,Necaxa,2,1,2-1,0-1,3,1,1,8
-1750978,2026-10-21,LIGA MX APERTURA,2021-02-14,Mexico - Liga MX Guard1anes Clausura 2020/2021,Guadalajara-Chivas,Necaxa,2,2,2-2,1-1,4,1,X,7
-1750978,2026-10-21,LIGA MX APERTURA,2020-11-22,Mexico - Liga MX Guard1anes PlayOff Round 16 2020/2021,Guadalajara-Chivas,Necaxa,1,0,1-0,0-0,1,0,1,8
-1750978,2026-10-21,LIGA MX APERTURA,2020-09-12,Mexico - Liga MX Guard1anes 2020/2021,Necaxa,Guadalajara-Chivas,1,2,1-2,0-0,3,1,2,6
-1750978,2026-10-21,LIGA MX APERTURA,2020-01-05,Friendly Games - Friendly Clubs 2019/2020,Necaxa,Guadalajara-Chivas,0,2,0-2,1-0,2,0,2,2
-1750978,2026-10-21,LIGA MX APERTURA,2019-08-25,Mexico - Liga Mx Femenil 2023/2024,Guadalajara-Chivas,Necaxa,1,2,1-2,2-0,3,1,2,7
-1750978,2026-10-21,LIGA MX APERTURA,2019-02-10,Mexico - Clausura 2018/2019,Necaxa,Guadalajara-Chivas,3,3,3-3,1-0,6,1,X,11
-1750978,2026-10-21,LIGA MX APERTURA,2018-08-22,Mexico - Apertura 2018/2019,Guadalajara-Chivas,Necaxa,1,0,1-0,0-1,1,0,1,6
-1750978,2026-10-21,LIGA MX APERTURA,2018-01-21,Mexico - Clausura 2017/2018,Necaxa,Guadalajara-Chivas,1,3,1-3,1-1,4,1,2,7
-1750978,2026-10-21,LIGA MX APERTURA,2017-08-06,Mexico - Apertura 2017/2018,Guadalajara-Chivas,Necaxa,2,2,2-2,2-2,4,1,X,12
-1750978,2026-10-21,LIGA MX APERTURA,2017-05-07,Mexico - Clausura 2016/2017,Necaxa,Guadalajara-Chivas,0,0,0-0,0-0,0,0,X,2
-1750978,2026-10-21,LIGA MX APERTURA,2016-11-20,Mexico - Apertura 2016/2017,Guadalajara-Chivas,Necaxa,1,1,1-1,1-1,2,1,X,9
-1750978,2026-10-21,LIGA MX APERTURA,2012-12-22,Friendly Games - Friendly 2012/2013,Necaxa,Guadalajara-Chivas,1,0,1-0,0-1,1,0,1,2
-1750978,2026-10-21,LIGA MX APERTURA,2011-04-02,Mexico - Clausura 2010/2011,Necaxa,Guadalajara-Chivas,1,2,1-2,1-1,3,1,2,3
-1750978,2026-10-21,LIGA MX APERTURA,2010-10-17,Mexico - Apertura 2010/2011,Guadalajara-Chivas,Necaxa,1,0,1-0,0-0,1,0,1,1
-1750978,2026-10-21,LIGA MX APERTURA,2009-02-08,Mexico - Clausura 2008/2009,Guadalajara-Chivas,Necaxa,1,1,1-1,0-0,2,1,X,3
-1750978,2026-10-21,LIGA MX APERTURA,2008-08-18,Mexico - Apertura 2008/2009,Necaxa,Guadalajara-Chivas,2,2,2-2,1-2,4,1,X,5
-1750978,2026-10-21,LIGA MX APERTURA,2008-03-31,Mexico - Clausura 2007/2008,Necaxa,Guadalajara-Chivas,1,0,1-0,0-1,1,0,1,2
-1750978,2026-10-21,LIGA MX APERTURA,2007-10-14,Mexico - Apertura 2007/2008,Guadalajara-Chivas,Necaxa,5,1,5-1,1-2,6,1,1,7
-1750978,2026-10-21,LIGA MX APERTURA,2007-02-25,Mexico - Clausura 2006/2007,Necaxa,Guadalajara-Chivas,2,4,2-4,0-1,6,1,2,7
-1750978,2026-10-21,LIGA MX APERTURA,2006-09-10,Mexico - Apertura 2006/2007,Guadalajara-Chivas,Necaxa,4,0,4-0,0-2,4,0,1,4
-1750978,2026-10-21,LIGA MX APERTURA,2006-03-05,Mexico - Clausura 2005/2006,Necaxa,Guadalajara-Chivas,1,2,1-2,1-1,3,1,2,4
-1750978,2026-10-21,LIGA MX APERTURA,2005-09-18,Mexico - Apertura 2005/2006,Guadalajara-Chivas,Necaxa,1,2,1-2,1-0,3,1,2,3
-1750978,2026-10-21,LIGA MX APERTURA,2005-04-21,Mexico - Clausura 2004/2005,Guadalajara-Chivas,Necaxa,2,0,2-0,0-1,2,0,1,3
-1750978,2026-10-21,LIGA MX APERTURA,2004-11-04,Mexico - Apertura 2004/2005,Necaxa,Guadalajara-Chivas,1,2,1-2,2-1,3,1,2,3
-1750978,2026-10-21,LIGA MX APERTURA,2004-03-14,Mexico - Clausura 2003/2004,Necaxa,Guadalajara-Chivas,3,0,3-0,0-1,3,0,1,3
-1750978,2026-10-21,LIGA MX APERTURA,2003-09-28,Mexico - Apertura 2003/2004,Guadalajara-Chivas,Necaxa,2,3,2-3,1-1,5,1,2,5
-1750978,2026-10-21,LIGA MX APERTURA,2003-03-23,Mexico - Clausura 2002/2003,Necaxa,Guadalajara-Chivas,2,2,2-2,1-2,4,1,X,0
-1750978,2026-10-21,LIGA MX APERTURA,2003-03-02,Mexico - Clausura 2002/2003,Guadalajara-Chivas,Necaxa,1,2,1-2,2-1,3,1,2,0
-1750978,2026-10-21,LIGA MX APERTURA,2002-10-06,Mexico - Apertura 2002/2003,Guadalajara-Chivas,Necaxa,0,0,0-0,0-0,0,0,X,0
-1750978,2026-10-21,LIGA MX APERTURA,2002-09-15,Mexico - Apertura 2002/2003,Necaxa,Guadalajara-Chivas,1,1,1-1,1-1,2,1,X,0
-1750979,2026-10-21,LIGA MX APERTURA,2026-02-15,Mexico - Liga Mx Clausura 2025/2026,Atletico San Luis,Queretaro FC,3,0,3-0,0-1,3,0,1,1
-1750979,2026-10-21,LIGA MX APERTURA,2025-08-23,Mexico - Liga Mx Apertura 2025/2026,Queretaro FC,Atletico San Luis,3,2,3-2,1-1,5,1,1,11
-1750980,2026-10-21,LIGA MX APERTURA,2019-10-03,Mexico - Copa MX 2019/2020,FC Juarez,Atlante,1,0,1-0,0-0,1,0,1,1
-1750980,2026-10-21,LIGA MX APERTURA,2019-08-14,Mexico - Copa MX 2019/2020,Atlante,FC Juarez,0,2,0-2,1-0,2,0,2,2
-1750980,2026-10-21,LIGA MX APERTURA,2019-04-07,Mexico - Clausura Div.2 2018/2019,Atlante,FC Juarez,2,1,2-1,0-1,3,1,1,3
-1750980,2026-10-21,LIGA MX APERTURA,2018-11-04,Mexico - Apertura Div.2 2018/2019,FC Juarez,Atlante,2,3,2-3,2-1,5,1,2,6
-1750980,2026-10-21,LIGA MX APERTURA,2018-03-04,Mexico - Clausura Div.2 2017/2018,FC Juarez,Atlante,0,3,0-3,1-0,3,0,2,5
-1750980,2026-10-21,LIGA MX APERTURA,2017-10-14,Mexico - Apertura Div.2 2017/2018,Atlante,FC Juarez,0,1,0-1,0-0,1,0,2,2
-1750980,2026-10-21,LIGA MX APERTURA,2017-04-02,Mexico - Clausura Div.2 2016/2017,FC Juarez,Atlante,1,1,1-1,0-0,2,1,X,2
-1750980,2026-10-21,LIGA MX APERTURA,2016-10-29,Mexico - Apertura Div.2 2016/2017,Atlante,FC Juarez,2,1,2-1,1-0,3,1,1,3
-1750980,2026-10-21,LIGA MX APERTURA,2016-01-31,Mexico - Clausura Div.2 2015/2016,FC Juarez,Atlante,1,0,1-0,0-0,1,0,1,2
-1750980,2026-10-21,LIGA MX APERTURA,2015-12-06,Mexico - AP2-Play Offs 2015/2016,FC Juarez,Atlante,3,0,3-0,0-1,3,0,1,4
-1750980,2026-10-21,LIGA MX APERTURA,2015-12-03,Mexico - AP2-Play Offs 2015/2016,Atlante,FC Juarez,1,0,1-0,0-1,1,0,1,1
-1750980,2026-10-21,LIGA MX APERTURA,2015-08-15,Mexico - Apertura Div.2 2015/2016,Atlante,FC Juarez,2,0,2-0,0-0,2,0,1,3
-1750964,2026-10-21,J. LEAGUE,2025-06-21,Japan - J. League 2024/2025,Kawasaki Frontale,Vissel Kobe,1,2,1-2,1-1,3,1,2,6
-1750964,2026-10-21,J. LEAGUE,2025-04-16,Japan - J. League 2024/2025,Vissel Kobe,Kawasaki Frontale,2,1,2-1,1-2,3,1,1,5
-1750964,2026-10-21,J. LEAGUE,2024-08-07,Japan - J. League 2023/2024,Kawasaki Frontale,Vissel Kobe,3,0,3-0,0-0,3,0,1,7
-1750964,2026-10-21,J. LEAGUE,2024-06-16,Japan - J. League 2023/2024,Vissel Kobe,Kawasaki Frontale,1,0,1-0,0-1,1,0,1,3
-1750964,2026-10-21,J. LEAGUE,2024-02-17,Japan - Super Cup 2023/2024,Vissel Kobe,Kawasaki Frontale,0,1,0-1,0-0,1,0,2,5
-1750964,2026-10-21,J. LEAGUE,2023-08-12,Japan - J. League 2022/2023,Kawasaki Frontale,Vissel Kobe,0,1,0-1,1-0,1,0,2,4
-1750964,2026-10-21,J. LEAGUE,2023-07-22,Japan - J. League 2022/2023,Vissel Kobe,Kawasaki Frontale,2,2,2-2,2-0,4,1,X,5
-1750964,2026-10-21,J. LEAGUE,2022-10-29,Japan - J. League 2021/2022,Kawasaki Frontale,Vissel Kobe,2,1,2-1,0-1,3,1,1,5
-1750964,2026-10-21,J. LEAGUE,2022-05-18,Japan - J. League 2021/2022,Vissel Kobe,Kawasaki Frontale,0,1,0-1,0-0,1,0,2,1
-1750964,2026-10-21,J. LEAGUE,2021-09-29,Japan - J. League 2020/2021,Kawasaki Frontale,Vissel Kobe,3,1,3-1,1-0,4,1,1,5
-1750964,2026-10-21,J. LEAGUE,2021-03-17,Japan - J. League 2020/2021,Vissel Kobe,Kawasaki Frontale,1,1,1-1,0-0,2,1,X,4
-1750964,2026-10-21,J. LEAGUE,2020-09-09,Japan - J1 League 2019/2020,Kawasaki Frontale,Vissel Kobe,3,2,3-2,1-1,5,1,1,8
-1750964,2026-10-21,J. LEAGUE,2020-09-02,Japan - League Cup 2019/2020,Vissel Kobe,Kawasaki Frontale,0,6,0-6,3-0,6,0,2,6
-1750964,2026-10-21,J. LEAGUE,2020-08-26,Japan - J1 League 2019/2020,Vissel Kobe,Kawasaki Frontale,2,2,2-2,1-2,4,1,X,7
-1750964,2026-10-21,J. LEAGUE,2019-09-28,Japan - J1 League 2018/2019,Kawasaki Frontale,Vissel Kobe,1,2,1-2,1-0,3,1,2,3
-1750964,2026-10-21,J. LEAGUE,2019-09-18,Japan - Emperors Cup 2018/2019,Vissel Kobe,Kawasaki Frontale,3,2,3-2,0-2,5,1,1,5
-1750964,2026-10-21,J. LEAGUE,2019-04-28,Japan - J1 League 2018/2019,Vissel Kobe,Kawasaki Frontale,1,2,1-2,2-0,3,1,2,3
-1750964,2026-10-21,J. LEAGUE,2018-10-20,Japan - L1 Relegation P.Off 2017/2018,Kawasaki Frontale,Vissel Kobe,5,3,5-3,3-2,8,1,1,8
-1750964,2026-10-21,J. LEAGUE,2018-04-28,Japan - L1 Relegation P.Off 2017/2018,Vissel Kobe,Kawasaki Frontale,1,2,1-2,1-0,3,1,2,4
-1750964,2026-10-21,J. LEAGUE,2017-09-23,Japan - J1 League 2016/2017,Vissel Kobe,Kawasaki Frontale,0,0,0-0,0-0,0,0,X,0
-1750964,2026-10-21,J. LEAGUE,2017-07-01,Japan - J1 League 2016/2017,Kawasaki Frontale,Vissel Kobe,5,0,5-0,0-2,5,0,1,5
-1750964,2026-10-21,J. LEAGUE,2016-10-01,Japan - J1 League 2nd Stage 2015/2016,Vissel Kobe,Kawasaki Frontale,3,0,3-0,0-1,3,0,1,3
-1750964,2026-10-21,J. LEAGUE,2016-05-14,Japan - J1 League 1st Stage 2015/2016,Kawasaki Frontale,Vissel Kobe,3,1,3-1,1-0,4,1,1,5
-1750964,2026-10-21,J. LEAGUE,2015-08-16,Japan - J.league Div.1 2nd Stage 2014/2015,Vissel Kobe,Kawasaki Frontale,2,0,2-0,0-1,2,0,1,2
-1750964,2026-10-21,J. LEAGUE,2015-04-22,Japan - League Cup 2014/2015,Vissel Kobe,Kawasaki Frontale,0,0,0-0,0-0,0,0,X,0
-1750964,2026-10-21,J. LEAGUE,2015-03-14,Japan - J.league Div.1 1st Stage 2014/2015,Kawasaki Frontale,Vissel Kobe,2,2,2-2,1-0,4,1,X,4
-1750964,2026-10-21,J. LEAGUE,2014-12-06,Japan - J.league Div.1 2013/2014,Vissel Kobe,Kawasaki Frontale,1,2,1-2,1-0,3,1,2,4
-1750964,2026-10-21,J. LEAGUE,2014-03-02,Japan - J.league Div.1 2013/2014,Kawasaki Frontale,Vissel Kobe,2,2,2-2,1-2,4,1,X,4
-1750964,2026-10-21,J. LEAGUE,2012-10-27,Japan - J.league Div.1 2011/2012,Vissel Kobe,Kawasaki Frontale,3,3,3-3,1-0,6,1,X,6
-1750964,2026-10-21,J. LEAGUE,2012-06-30,Japan - J.league Div.1 2011/2012,Kawasaki Frontale,Vissel Kobe,0,1,0-1,0-0,1,0,2,1
-1750964,2026-10-21,J. LEAGUE,2011-09-11,Japan - J.league Div.1 2010/2011,Kawasaki Frontale,Vissel Kobe,0,3,0-3,1-0,3,0,2,3
-1750964,2026-10-21,J. LEAGUE,2011-05-07,Japan - J.league Div.1 2010/2011,Vissel Kobe,Kawasaki Frontale,1,0,1-0,0-0,1,0,1,1
-1750964,2026-10-21,J. LEAGUE,2010-10-02,Japan - J.league Div.1 2009/2010,Vissel Kobe,Kawasaki Frontale,0,4,0-4,1-0,4,0,2,4
-1750964,2026-10-21,J. LEAGUE,2010-04-24,Japan - J.league Div.1 2009/2010,Kawasaki Frontale,Vissel Kobe,3,0,3-0,0-1,3,0,1,4
-1750964,2026-10-21,J. LEAGUE,2009-07-18,Japan - J.league Div.1 2008/2009,Kawasaki Frontale,Vissel Kobe,2,2,2-2,1-2,4,1,X,5
-1750964,2026-10-21,J. LEAGUE,2009-03-14,Japan - J.league Div.1 2008/2009,Vissel Kobe,Kawasaki Frontale,2,1,2-1,1-0,3,1,1,3
-1750964,2026-10-21,J. LEAGUE,2008-11-29,Japan - J.league Div.1 2007/2008,Kawasaki Frontale,Vissel Kobe,4,0,4-0,0-1,4,0,1,5
-1750964,2026-10-21,J. LEAGUE,2008-03-15,Japan - J.league Div.1 2007/2008,Vissel Kobe,Kawasaki Frontale,4,1,4-1,0-2,5,1,1,5
-1750964,2026-10-21,J. LEAGUE,2007-12-08,Japan - Emperors Cup 2006/2007,Vissel Kobe,Kawasaki Frontale,0,3,0-3,3-0,3,0,2,4
-1750964,2026-10-21,J. LEAGUE,2007-06-30,Japan - J.league Div.1 2006/2007,Kawasaki Frontale,Vissel Kobe,2,1,2-1,1-1,3,1,1,4
-1750964,2026-10-21,J. LEAGUE,2007-03-11,Japan - J.league Div.1 2006/2007,Vissel Kobe,Kawasaki Frontale,1,1,1-1,0-0,2,1,X,3
-1750964,2026-10-21,J. LEAGUE,2005-11-12,Japan - J.league Div.1 2004/2005,Kawasaki Frontale,Vissel Kobe,3,1,3-1,0-2,4,1,1,4
-1750964,2026-10-21,J. LEAGUE,2005-04-13,Japan - J.league Div.1 2004/2005,Vissel Kobe,Kawasaki Frontale,1,6,1-6,1-0,7,1,2,7
-1750966,2026-10-21,J. LEAGUE,2026-05-17,Japan - J. League 100 Year Vision League West 2026/2026,C-Osaka,Nagoya Grampus,6,1,6-1,1-3,7,1,1,8
-1750966,2026-10-21,J. LEAGUE,2026-04-04,Japan - J. League 100 Year Vision League West 2026/2026,Nagoya Grampus,C-Osaka,3,0,3-0,0-0,3,0,1,7
-1750966,2026-10-21,J. LEAGUE,2025-10-04,Japan - J. League 2024/2025,Nagoya Grampus,C-Osaka,2,1,2-1,2-2,3,1,1,3
-1750966,2026-10-21,J. LEAGUE,2025-03-08,Japan - J. League 2024/2025,C-Osaka,Nagoya Grampus,1,1,1-1,0-1,2,1,X,6
-1750966,2026-10-21,J. LEAGUE,2024-06-30,Japan - J. League 2023/2024,C-Osaka,Nagoya Grampus,2,1,2-1,0-1,3,1,1,6
-1750966,2026-10-21,J. LEAGUE,2024-04-21,Japan - J. League 2023/2024,Nagoya Grampus,C-Osaka,2,1,2-1,0-0,3,1,1,8
-1750966,2026-10-21,J. LEAGUE,2023-08-26,Japan - J. League 2022/2023,C-Osaka,Nagoya Grampus,3,1,3-1,1-1,4,1,1,4
-1750966,2026-10-21,J. LEAGUE,2023-06-03,Japan - J. League 2022/2023,Nagoya Grampus,C-Osaka,3,1,3-1,1-3,4,1,1,4
-1750966,2026-10-21,J. LEAGUE,2022-11-05,Japan - J. League 2021/2022,C-Osaka,Nagoya Grampus,0,1,0-1,0-0,1,0,2,5
-1750966,2026-10-21,J. LEAGUE,2022-07-13,Japan - Emperors Cup 2021/2022,Nagoya Grampus,C-Osaka,1,2,1-2,1-0,3,1,2,3
-1750966,2026-10-21,J. LEAGUE,2022-05-14,Japan - J. League 2021/2022,Nagoya Grampus,C-Osaka,1,0,1-0,0-1,1,0,1,3
-1750966,2026-10-21,J. LEAGUE,2021-11-27,Japan - J. League 2020/2021,C-Osaka,Nagoya Grampus,2,1,2-1,0-0,3,1,1,4
-1750966,2026-10-21,J. LEAGUE,2021-10-30,Japan - League Cup 2020/2021,Nagoya Grampus,C-Osaka,2,0,2-0,0-0,2,0,1,2
-1750966,2026-10-21,J. LEAGUE,2021-10-27,Japan - Emperors Cup 2020/2021,Nagoya Grampus,C-Osaka,0,3,0-3,2-0,3,0,2,4
-1750966,2026-10-21,J. LEAGUE,2021-05-08,Japan - J. League 2020/2021,Nagoya Grampus,C-Osaka,1,0,1-0,0-0,1,0,1,4
-1750966,2026-10-21,J. LEAGUE,2020-10-10,Japan - J1 League 2019/2020,Nagoya Grampus,C-Osaka,1,0,1-0,0-0,1,0,1,2
-1750966,2026-10-21,J. LEAGUE,2020-07-12,Japan - J1 League 2019/2020,C-Osaka,Nagoya Grampus,0,2,0-2,1-0,2,0,2,5
-1750966,2026-10-21,J. LEAGUE,2019-07-13,Japan - J1 League 2018/2019,C-Osaka,Nagoya Grampus,3,0,3-0,0-1,3,0,1,3
-1750966,2026-10-21,J. LEAGUE,2019-05-08,Japan - League Cup 2018/2019,Nagoya Grampus,C-Osaka,2,2,2-2,2-0,4,1,X,4
-1750966,2026-10-21,J. LEAGUE,2019-04-10,Japan - League Cup 2018/2019,C-Osaka,Nagoya Grampus,3,0,3-0,0-2,3,0,1,3
-1750966,2026-10-21,J. LEAGUE,2019-03-02,Japan - J1 League 2018/2019,Nagoya Grampus,C-Osaka,2,0,2-0,0-0,2,0,1,2
-1750966,2026-10-21,J. LEAGUE,2018-11-06,Japan - L1 Relegation P.Off 2017/2018,C-Osaka,Nagoya Grampus,0,1,0-1,0-0,1,0,2,1
-1750966,2026-10-21,J. LEAGUE,2018-05-02,Japan - L1 Relegation P.Off 2017/2018,Nagoya Grampus,C-Osaka,0,0,0-0,0-0,0,0,X,1
-1750966,2026-10-21,J. LEAGUE,2017-09-20,Japan - Emperors Cup 2016/2017,C-Osaka,Nagoya Grampus,1,0,1-0,0-1,1,0,1,1
-1750966,2026-10-21,J. LEAGUE,2014-09-23,Japan - J.league Div.1 2013/2014,C-Osaka,Nagoya Grampus,1,2,1-2,2-0,3,1,2,3
-1750966,2026-10-21,J. LEAGUE,2014-05-03,Japan - J.league Div.1 2013/2014,Nagoya Grampus,C-Osaka,1,2,1-2,1-0,3,1,2,4
-1750966,2026-10-21,J. LEAGUE,2013-08-24,Japan - J.league Div.1 2012/2013,Nagoya Grampus,C-Osaka,1,1,1-1,0-0,2,1,X,2
-1750966,2026-10-21,J. LEAGUE,2013-05-25,Japan - J.league Div.1 2012/2013,C-Osaka,Nagoya Grampus,2,1,2-1,0-0,3,1,1,3
-1750966,2026-10-21,J. LEAGUE,2013-03-20,Japan - League Cup 2012/2013,Nagoya Grampus,C-Osaka,1,1,1-1,0-0,2,1,X,2
-1750966,2026-10-21,J. LEAGUE,2012-09-15,Japan - J.league Div.1 2011/2012,C-Osaka,Nagoya Grampus,0,2,0-2,1-0,2,0,2,2
-1750966,2026-10-21,J. LEAGUE,2012-05-25,Japan - J.league Div.1 2011/2012,Nagoya Grampus,C-Osaka,0,1,0-1,0-0,1,0,2,2
-1750966,2026-10-21,J. LEAGUE,2011-11-03,Japan - J.league Div.1 2010/2011,Nagoya Grampus,C-Osaka,3,1,3-1,1-2,4,1,1,4
-1750966,2026-10-21,J. LEAGUE,2011-06-22,Japan - J.league Div.1 2010/2011,C-Osaka,Nagoya Grampus,2,3,2-3,2-1,5,1,2,5
-1750966,2026-10-21,J. LEAGUE,2010-10-30,Japan - J.league Div.1 2009/2010,Nagoya Grampus,C-Osaka,1,0,1-0,0-1,1,0,1,1
-1750966,2026-10-21,J. LEAGUE,2010-05-26,Japan - League Cup 2009/2010,Nagoya Grampus,C-Osaka,1,1,1-1,0-1,2,1,X,2
-1750966,2026-10-21,J. LEAGUE,2010-04-25,Japan - J.league Div.1 2009/2010,C-Osaka,Nagoya Grampus,0,1,0-1,0-0,1,0,2,1
-1750966,2026-10-21,J. LEAGUE,2006-05-14,Japan - League Cup 2005/2006,Nagoya Grampus,C-Osaka,1,1,1-1,0-1,2,1,X,2
-1750966,2026-10-21,J. LEAGUE,2006-04-12,Japan - League Cup 2005/2006,C-Osaka,Nagoya Grampus,1,1,1-1,1-0,2,1,X,2
-1750966,2026-10-21,J. LEAGUE,2005-09-24,Japan - J.league Div.1 2004/2005,Nagoya Grampus,C-Osaka,1,3,1-3,1-1,4,1,2,4
-1750966,2026-10-21,J. LEAGUE,2005-06-04,Japan - League Cup 2004/2005,C-Osaka,Nagoya Grampus,1,1,1-1,0-1,2,1,X,2
-1750966,2026-10-21,J. LEAGUE,2005-04-09,Japan - J.league Div.1 2004/2005,C-Osaka,Nagoya Grampus,1,0,1-0,0-1,1,0,1,1
-1750966,2026-10-21,J. LEAGUE,2005-03-19,Japan - League Cup 2004/2005,Nagoya Grampus,C-Osaka,1,2,1-2,1-0,3,1,2,3
-1750968,2026-10-21,J. LEAGUE,2026-04-18,Japan - J. League 100 Year Vision League West 2026/2026,Hiroshima,V-Varen Nagasaki,2,0,2-0,0-1,2,0,1,5
-1750968,2026-10-21,J. LEAGUE,2026-02-06,Japan - J. League 100 Year Vision League West 2026/2026,V-Varen Nagasaki,Hiroshima,1,3,1-3,1-0,4,1,2,4
-1750968,2026-10-21,J. LEAGUE,2018-08-11,Japan - L1 Relegation P.Off 2017/2018,Hiroshima,V-Varen Nagasaki,2,0,2-0,0-1,2,0,1,2
-1750968,2026-10-21,J. LEAGUE,2018-04-28,Japan - L1 Relegation P.Off 2017/2018,V-Varen Nagasaki,Hiroshima,0,2,0-2,0-0,2,0,2,2
-1750962,2026-10-21,J. LEAGUE,2026-04-29,Japan - J. League 100 Year Vision League East 2026/2026,Kashiwa Reysol,FC Tokyo,1,3,1-3,1-0,4,1,2,5
-1750962,2026-10-21,J. LEAGUE,2026-02-28,Japan - J. League 100 Year Vision League East 2026/2026,FC Tokyo,Kashiwa Reysol,0,2,0-2,0-0,2,0,2,1
-1750962,2026-10-21,J. LEAGUE,2025-07-05,Japan - J. League 2024/2025,Kashiwa Reysol,FC Tokyo,1,0,1-0,0-0,1,0,1,4
-1750962,2026-10-21,J. LEAGUE,2025-04-11,Japan - J. League 2024/2025,FC Tokyo,Kashiwa Reysol,1,1,1-1,0-1,2,1,X,6
-1750962,2026-10-21,J. LEAGUE,2024-07-06,Japan - J. League 2023/2024,Kashiwa Reysol,FC Tokyo,3,2,3-2,1-2,5,1,1,6
-1750962,2026-10-21,J. LEAGUE,2024-05-11,Japan - J. League 2023/2024,FC Tokyo,Kashiwa Reysol,3,3,3-3,1-3,6,1,X,10
-1750962,2026-10-21,J. LEAGUE,2023-07-01,Japan - J. League 2022/2023,FC Tokyo,Kashiwa Reysol,1,0,1-0,0-1,1,0,1,5
-1750962,2026-10-21,J. LEAGUE,2023-02-26,Japan - J. League 2022/2023,Kashiwa Reysol,FC Tokyo,1,1,1-1,1-1,2,1,X,8
-1750962,2026-10-21,J. LEAGUE,2022-08-27,Japan - J. League 2021/2022,Kashiwa Reysol,FC Tokyo,3,6,3-6,2-0,9,1,2,11
-1750962,2026-10-21,J. LEAGUE,2022-05-21,Japan - J. League 2021/2022,FC Tokyo,Kashiwa Reysol,0,0,0-0,0-0,0,0,X,2
-1750962,2026-10-21,J. LEAGUE,2021-09-12,Japan - J. League 2020/2021,FC Tokyo,Kashiwa Reysol,0,1,0-1,1-0,1,0,2,1
-1750962,2026-10-21,J. LEAGUE,2021-05-15,Japan - J. League 2020/2021,Kashiwa Reysol,FC Tokyo,0,4,0-4,3-0,4,0,2,7
-1750962,2026-10-21,J. LEAGUE,2021-01-04,Japan - League Cup 2019/2020,Kashiwa Reysol,FC Tokyo,1,2,1-2,1-1,3,1,2,3
-1750962,2026-10-21,J. LEAGUE,2020-10-28,Japan - J1 League 2019/2020,FC Tokyo,Kashiwa Reysol,1,3,1-3,1-0,4,1,2,10
-1750962,2026-10-21,J. LEAGUE,2020-07-04,Japan - J1 League 2019/2020,Kashiwa Reysol,FC Tokyo,0,1,0-1,0-0,1,0,2,5
-1750962,2026-10-21,J. LEAGUE,2019-04-24,Japan - League Cup 2018/2019,FC Tokyo,Kashiwa Reysol,2,0,2-0,0-0,2,0,1,2
-1750962,2026-10-21,J. LEAGUE,2019-03-06,Japan - League Cup 2018/2019,Kashiwa Reysol,FC Tokyo,2,1,2-1,1-0,3,1,1,3
-1750962,2026-10-21,J. LEAGUE,2018-08-15,Japan - L1 Relegation P.Off 2017/2018,FC Tokyo,Kashiwa Reysol,0,1,0-1,0-0,1,0,2,1
-1750962,2026-10-21,J. LEAGUE,2018-07-18,Japan - L1 Relegation P.Off 2017/2018,Kashiwa Reysol,FC Tokyo,0,1,0-1,0-0,1,0,2,1
-1750962,2026-10-21,J. LEAGUE,2017-09-23,Japan - J1 League 2016/2017,Kashiwa Reysol,FC Tokyo,4,1,4-1,0-1,5,1,1,5
-1750962,2026-10-21,J. LEAGUE,2017-05-24,Japan - League Cup 2016/2017,Kashiwa Reysol,FC Tokyo,0,1,0-1,0-0,1,0,2,1
-1750962,2026-10-21,J. LEAGUE,2017-05-14,Japan - J1 League 2016/2017,FC Tokyo,Kashiwa Reysol,1,2,1-2,1-0,3,1,2,3
-1750962,2026-10-21,J. LEAGUE,2016-07-17,Japan - J1 League 2nd Stage 2015/2016,FC Tokyo,Kashiwa Reysol,0,1,0-1,0-0,1,0,2,1
-1750962,2026-10-21,J. LEAGUE,2016-04-10,Japan - J1 League 1st Stage 2015/2016,Kashiwa Reysol,FC Tokyo,1,0,1-0,0-0,1,0,1,1
-1750962,2026-10-21,J. LEAGUE,2015-11-07,Japan - J.league Div.1 2nd Stage 2014/2015,Kashiwa Reysol,FC Tokyo,0,1,0-1,1-0,1,0,2,1
-1750962,2026-10-21,J. LEAGUE,2015-05-30,Japan - J.league Div.1 1st Stage 2014/2015,FC Tokyo,Kashiwa Reysol,2,1,2-1,0-1,3,1,1,3
-1750962,2026-10-21,J. LEAGUE,2014-09-27,Japan - J.league Div.1 2013/2014,FC Tokyo,Kashiwa Reysol,4,0,4-0,0-2,4,0,1,4
-1750962,2026-10-21,J. LEAGUE,2014-03-01,Japan - J.league Div.1 2013/2014,Kashiwa Reysol,FC Tokyo,1,1,1-1,0-0,2,1,X,2
-1750962,2026-10-21,J. LEAGUE,2013-11-30,Japan - J.league Div.1 2012/2013,Kashiwa Reysol,FC Tokyo,4,1,4-1,0-2,5,1,1,5
-1750962,2026-10-21,J. LEAGUE,2013-03-09,Japan - J.league Div.1 2012/2013,FC Tokyo,Kashiwa Reysol,3,0,3-0,0-2,3,0,1,3
-1750962,2026-10-21,J. LEAGUE,2012-08-11,Japan - J.league Div.1 2011/2012,Kashiwa Reysol,FC Tokyo,1,1,1-1,1-0,2,1,X,3
-1750962,2026-10-21,J. LEAGUE,2012-06-27,Japan - J.league Div.1 2011/2012,FC Tokyo,Kashiwa Reysol,0,1,0-1,1-0,1,0,2,1
-1750962,2026-10-21,J. LEAGUE,2012-03-03,Japan - Super Cup 2011/2012,Kashiwa Reysol,FC Tokyo,2,1,2-1,0-2,3,1,1,3
-1750962,2026-10-21,J. LEAGUE,2009-10-17,Japan - J.league Div.1 2008/2009,FC Tokyo,Kashiwa Reysol,4,0,4-0,0-1,4,0,1,4
-1750962,2026-10-21,J. LEAGUE,2009-06-20,Japan - J.league Div.1 2008/2009,Kashiwa Reysol,FC Tokyo,0,3,0-3,2-0,3,0,2,3
-1750962,2026-10-21,J. LEAGUE,2009-03-25,Japan - League Cup 2008/2009,Kashiwa Reysol,FC Tokyo,3,1,3-1,1-2,4,1,1,4
-1750962,2026-10-21,J. LEAGUE,2008-12-29,Japan - Emperors Cup 2007/2008,FC Tokyo,Kashiwa Reysol,1,2,1-2,0-1,3,1,2,3
-1750962,2026-10-21,J. LEAGUE,2008-08-28,Japan - J.league Div.1 2007/2008,Kashiwa Reysol,FC Tokyo,0,1,0-1,0-0,1,0,2,1
-1750962,2026-10-21,J. LEAGUE,2008-05-10,Japan - J.league Div.1 2007/2008,FC Tokyo,Kashiwa Reysol,0,1,0-1,0-0,1,0,2,1
-1750962,2026-10-21,J. LEAGUE,2007-08-18,Japan - J.league Div.1 2006/2007,FC Tokyo,Kashiwa Reysol,0,1,0-1,0-0,1,0,2,1
-1750962,2026-10-21,J. LEAGUE,2007-03-31,Japan - J.league Div.1 2006/2007,Kashiwa Reysol,FC Tokyo,2,0,2-0,0-1,2,0,1,2
-1750962,2026-10-21,J. LEAGUE,2005-09-03,Japan - J.league Div.1 2004/2005,Kashiwa Reysol,FC Tokyo,4,2,4-2,1-2,6,1,1,6
-1750962,2026-10-21,J. LEAGUE,2005-06-04,Japan - League Cup 2004/2005,FC Tokyo,Kashiwa Reysol,0,0,0-0,0-0,0,0,X,0
-1750962,2026-10-21,J. LEAGUE,2005-04-28,Japan - J.league Div.1 2004/2005,FC Tokyo,Kashiwa Reysol,0,2,0-2,1-0,2,0,2,2
-1750962,2026-10-21,J. LEAGUE,2005-03-19,Japan - League Cup 2004/2005,Kashiwa Reysol,FC Tokyo,3,1,3-1,1-2,4,1,1,4
-1750962,2026-10-21,J. LEAGUE,2004-07-24,Japan - League Cup 2003/2004,FC Tokyo,Kashiwa Reysol,1,1,1-1,1-0,2,1,X,3
-1750962,2026-10-21,J. LEAGUE,2004-05-29,Japan - League Cup 2003/2004,Kashiwa Reysol,FC Tokyo,0,2,0-2,2-0,2,0,2,2
-1750962,2026-10-21,J. LEAGUE,2003-07-02,Japan - League Cup 2002/2003,Kashiwa Reysol,FC Tokyo,0,0,0-0,0-0,0,0,X,0
-1750962,2026-10-21,J. LEAGUE,2003-04-23,Japan - League Cup 2002/2003,FC Tokyo,Kashiwa Reysol,4,0,4-0,0-1,4,0,1,0
-1750965,2026-10-21,J. LEAGUE,2025-10-25,Japan - J. League 2024/2025,Kyoto Sanga,Kashima Antlers,1,1,1-1,1-1,2,1,X,7
-1750965,2026-10-21,J. LEAGUE,2025-04-06,Japan - J. League 2024/2025,Kashima Antlers,Kyoto Sanga,3,4,3-4,0-2,7,1,2,13
-1750965,2026-10-21,J. LEAGUE,2024-11-17,Japan - J. League 2023/2024,Kyoto Sanga,Kashima Antlers,0,0,0-0,0-0,0,0,X,1
-1750965,2026-10-21,J. LEAGUE,2024-04-13,Japan - J. League 2023/2024,Kashima Antlers,Kyoto Sanga,1,0,1-0,0-0,1,0,1,1
-1750965,2026-10-21,J. LEAGUE,2023-07-01,Japan - J. League 2022/2023,Kashima Antlers,Kyoto Sanga,0,0,0-0,0-0,0,0,X,1
-1750965,2026-10-21,J. LEAGUE,2023-02-18,Japan - J. League 2022/2023,Kyoto Sanga,Kashima Antlers,0,2,0-2,2-0,2,0,2,6
-1750965,2026-10-21,J. LEAGUE,2022-09-10,Japan - J. League 2021/2022,Kyoto Sanga,Kashima Antlers,1,1,1-1,0-1,2,1,X,5
-1750965,2026-10-21,J. LEAGUE,2022-06-18,Japan - J. League 2021/2022,Kashima Antlers,Kyoto Sanga,1,0,1-0,0-0,1,0,1,3
-1750965,2026-10-21,J. LEAGUE,2013-10-14,Japan - Emperors Cup 2012/2013,Kashima Antlers,Kyoto Sanga,2,1,2-1,0-0,3,1,1,3
-1750965,2026-10-21,J. LEAGUE,2011-12-17,Japan - Emperors Cup 2010/2011,Kashima Antlers,Kyoto Sanga,0,1,0-1,0-0,1,0,2,1
-1750965,2026-10-21,J. LEAGUE,2010-11-28,Japan - J.league Div.1 2009/2010,Kashima Antlers,Kyoto Sanga,2,1,2-1,0-2,3,1,1,3
-1750965,2026-10-21,J. LEAGUE,2010-03-14,Japan - J.league Div.1 2009/2010,Kyoto Sanga,Kashima Antlers,1,1,1-1,0-0,2,1,X,2
-1750965,2026-10-21,J. LEAGUE,2009-11-21,Japan - J.league Div.1 2008/2009,Kyoto Sanga,Kashima Antlers,0,1,0-1,1-0,1,0,2,1
-1750965,2026-10-21,J. LEAGUE,2009-04-04,Japan - J.league Div.1 2008/2009,Kashima Antlers,Kyoto Sanga,2,1,2-1,0-0,3,1,1,4
-1750965,2026-10-21,J. LEAGUE,2008-10-18,Japan - J.league Div.1 2007/2008,Kashima Antlers,Kyoto Sanga,2,1,2-1,1-1,3,1,1,3
-1750965,2026-10-21,J. LEAGUE,2008-07-16,Japan - J.league Div.1 2007/2008,Kyoto Sanga,Kashima Antlers,2,1,2-1,1-1,3,1,1,3
-1750965,2026-10-21,J. LEAGUE,2006-05-17,Japan - League Cup 2005/2006,Kyoto Sanga,Kashima Antlers,2,1,2-1,0-0,3,1,1,3
-1750965,2026-10-21,J. LEAGUE,2006-05-14,Japan - League Cup 2005/2006,Kashima Antlers,Kyoto Sanga,3,2,3-2,2-1,5,1,1,6
-1750970,2026-10-21,J. LEAGUE,2026-05-02,Japan - J. League 100 Year Vision League East 2026/2026,Urawa,JEF United Chiba,2,0,2-0,0-1,2,0,1,4
-1750970,2026-10-21,J. LEAGUE,2026-02-07,Japan - J. League 100 Year Vision League East 2026/2026,JEF United Chiba,Urawa,0,2,0-2,2-0,2,0,2,2
-1750970,2026-10-21,J. LEAGUE,2009-10-03,Japan - J.league Div.1 2008/2009,Urawa,JEF United Chiba,3,1,3-1,1-1,4,1,1,4
-1750970,2026-10-21,J. LEAGUE,2009-04-25,Japan - J.league Div.1 2008/2009,JEF United Chiba,Urawa,0,1,0-1,0-0,1,0,2,1
-1750970,2026-10-21,J. LEAGUE,2008-10-05,Japan - J.league Div.1 2007/2008,JEF United Chiba,Urawa,3,2,3-2,1-1,5,1,1,5
-1750970,2026-10-21,J. LEAGUE,2008-05-06,Japan - J.league Div.1 2007/2008,Urawa,JEF United Chiba,3,0,3-0,0-0,3,0,1,3
-1750970,2026-10-21,J. LEAGUE,2007-10-20,Japan - J.league Div.1 2006/2007,JEF United Chiba,Urawa,2,4,2-4,2-0,6,1,2,6
-1750970,2026-10-21,J. LEAGUE,2007-05-03,Japan - J.league Div.1 2006/2007,Urawa,JEF United Chiba,1,1,1-1,0-1,2,1,X,3
-1750970,2026-10-21,J. LEAGUE,2005-11-23,Japan - J.league Div.1 2004/2005,JEF United Chiba,Urawa,1,0,1-0,0-0,1,0,1,2
-1750970,2026-10-21,J. LEAGUE,2005-10-05,Japan - League Cup 2004/2005,JEF United Chiba,Urawa,2,2,2-2,2-0,4,1,X,5
-1750970,2026-10-21,J. LEAGUE,2005-08-31,Japan - League Cup 2004/2005,Urawa,JEF United Chiba,1,3,1-3,2-1,4,1,2,4
-1750970,2026-10-21,J. LEAGUE,2005-05-08,Japan - J.league Div.1 2004/2005,Urawa,JEF United Chiba,0,0,0-0,0-0,0,0,X,0
-1750970,2026-10-21,J. LEAGUE,2004-07-24,Japan - League Cup 2003/2004,JEF United Chiba,Urawa,1,2,1-2,1-1,3,1,2,3
-1750970,2026-10-21,J. LEAGUE,2004-07-17,Japan - League Cup 2003/2004,Urawa,JEF United Chiba,2,1,2-1,0-0,3,1,1,3
-1750967,2026-10-21,J. LEAGUE,2025-07-05,Japan - J. League 2024/2025,Machida Zelvia,Shimizu,3,0,3-0,0-1,3,0,1,4
-1750967,2026-10-21,J. LEAGUE,2025-05-11,Japan - J. League 2024/2025,Shimizu,Machida Zelvia,2,2,2-2,1-0,4,1,X,4
-1750967,2026-10-21,J. LEAGUE,2023-08-19,Japan - J. League 2 2022/2023,Shimizu,Machida Zelvia,3,2,3-2,2-1,5,1,1,10
-1750967,2026-10-21,J. LEAGUE,2023-05-21,Japan - J. League 2 2022/2023,Machida Zelvia,Shimizu,2,1,2-1,1-1,3,1,1,7
-1750967,2026-10-21,J. LEAGUE,2016-10-08,Japan - J2 League 2015/2016,Shimizu,Machida Zelvia,2,0,2-0,0-1,2,0,1,2
-1750967,2026-10-21,J. LEAGUE,2016-06-08,Japan - J2 League 2015/2016,Machida Zelvia,Shimizu,1,2,1-2,1-0,3,1,2,3
-1750961,2026-10-21,J. LEAGUE,2026-04-22,Japan - J. League 100 Year Vision League West 2026/2026,G-Osaka,Avispa Fukuoka,1,2,1-2,2-1,3,1,2,8
-1750961,2026-10-21,J. LEAGUE,2026-03-21,Japan - J. League 100 Year Vision League West 2026/2026,Avispa Fukuoka,G-Osaka,2,2,2-2,2-1,4,1,X,26
-1750961,2026-10-21,J. LEAGUE,2025-11-30,Japan - J. League 2024/2025,Avispa Fukuoka,G-Osaka,1,0,1-0,0-0,1,0,1,5
-1750961,2026-10-21,J. LEAGUE,2025-02-22,Japan - J. League 2024/2025,G-Osaka,Avispa Fukuoka,2,1,2-1,0-1,3,1,1,5
-1750961,2026-10-21,J. LEAGUE,2024-08-24,Japan - J. League 2023/2024,G-Osaka,Avispa Fukuoka,2,2,2-2,2-1,4,1,X,8
-1750961,2026-10-21,J. LEAGUE,2024-05-03,Japan - J. League 2023/2024,Avispa Fukuoka,G-Osaka,1,0,1-0,0-1,1,0,1,4
-1750961,2026-10-21,J. LEAGUE,2023-11-11,Japan - J. League 2022/2023,G-Osaka,Avispa Fukuoka,1,2,1-2,0-1,3,1,2,4
-1750961,2026-10-21,J. LEAGUE,2023-06-03,Japan - J. League 2022/2023,Avispa Fukuoka,G-Osaka,1,2,1-2,2-1,3,1,2,6
-1750961,2026-10-21,J. LEAGUE,2022-08-31,Japan - J. League 2021/2022,Avispa Fukuoka,G-Osaka,0,1,0-1,0-0,1,0,2,5
-1750961,2026-10-21,J. LEAGUE,2022-03-19,Japan - J. League 2021/2022,G-Osaka,Avispa Fukuoka,2,3,2-3,1-0,5,1,2,10
-1750961,2026-10-21,J. LEAGUE,2021-07-17,Japan - J. League 2020/2021,Avispa Fukuoka,G-Osaka,0,1,0-1,0-0,1,0,2,1
-1750961,2026-10-21,J. LEAGUE,2021-04-07,Japan - J. League 2020/2021,G-Osaka,Avispa Fukuoka,0,0,0-0,0-0,0,0,X,1
-1750961,2026-10-21,J. LEAGUE,2016-07-17,Japan - J1 League 2nd Stage 2015/2016,G-Osaka,Avispa Fukuoka,0,0,0-0,0-0,0,0,X,0
-1750961,2026-10-21,J. LEAGUE,2016-04-24,Japan - J1 League 1st Stage 2015/2016,Avispa Fukuoka,G-Osaka,0,1,0-1,0-0,1,0,2,1
-1750961,2026-10-21,J. LEAGUE,2013-08-11,Japan - J.league Div.2 2012/2013,G-Osaka,Avispa Fukuoka,1,0,1-0,0-1,1,0,1,1
-1750961,2026-10-21,J. LEAGUE,2013-05-12,Japan - J.league Div.2 2012/2013,Avispa Fukuoka,G-Osaka,2,3,2-3,2-0,5,1,2,5
-1750961,2026-10-21,J. LEAGUE,2011-08-07,Japan - J.league Div.1 2010/2011,G-Osaka,Avispa Fukuoka,2,0,2-0,0-1,2,0,1,2
-1750961,2026-10-21,J. LEAGUE,2011-05-15,Japan - J.league Div.1 2010/2011,Avispa Fukuoka,G-Osaka,2,3,2-3,1-1,5,1,2,5
-1750969,2026-10-21,J. LEAGUE,2026-05-24,Japan - J. League 100 Year Vision League East 2026/2026,Tokyo Verdy,Yokohama F. Marinos,0,6,0-6,3-0,6,0,2,8
-1750969,2026-10-21,J. LEAGUE,2026-02-28,Japan - J. League 100 Year Vision League East 2026/2026,Yokohama F. Marinos,Tokyo Verdy,3,2,3-2,0-1,5,1,1,9
-1750969,2026-10-21,J. LEAGUE,2025-08-09,Japan - J. League 2024/2025,Tokyo Verdy,Yokohama F. Marinos,1,0,1-0,0-0,1,0,1,5
-1750969,2026-10-21,J. LEAGUE,2025-04-05,Japan - J. League 2024/2025,Yokohama F. Marinos,Tokyo Verdy,0,0,0-0,0-0,0,0,X,5
-1750969,2026-10-21,J. LEAGUE,2024-06-29,Japan - J. League 2023/2024,Yokohama F. Marinos,Tokyo Verdy,1,2,1-2,2-1,3,1,2,5
-1750969,2026-10-21,J. LEAGUE,2024-02-25,Japan - J. League 2023/2024,Tokyo Verdy,Yokohama F. Marinos,1,2,1-2,0-1,3,1,2,5
-1750969,2026-10-21,J. LEAGUE,2016-09-22,Japan - Emperors Cup 2015/2016,Yokohama F. Marinos,Tokyo Verdy,4,0,4-0,0-3,4,0,1,4
-1750969,2026-10-21,J. LEAGUE,2008-11-29,Japan - J.league Div.1 2007/2008,Yokohama F. Marinos,Tokyo Verdy,2,0,2-0,0-0,2,0,1,2
-1750969,2026-10-21,J. LEAGUE,2008-05-03,Japan - J.league Div.1 2007/2008,Tokyo Verdy,Yokohama F. Marinos,3,2,3-2,0-1,5,1,1,5
-1750969,2026-10-21,J. LEAGUE,2005-10-29,Japan - J.league Div.1 2004/2005,Yokohama F. Marinos,Tokyo Verdy,1,0,1-0,0-0,1,0,1,1
-1750969,2026-10-21,J. LEAGUE,2005-05-01,Japan - J.league Div.1 2004/2005,Tokyo Verdy,Yokohama F. Marinos,1,1,1-1,0-1,2,1,X,2
-1750969,2026-10-21,J. LEAGUE,2004-07-17,Japan - League Cup 2003/2004,Tokyo Verdy,Yokohama F. Marinos,3,0,3-0,0-2,3,0,1,3
-1750969,2026-10-21,J. LEAGUE,2004-06-05,Japan - League Cup 2003/2004,Yokohama F. Marinos,Tokyo Verdy,1,2,1-2,0-0,3,1,2,3
-1750963,2026-10-21,J. LEAGUE,2024-09-22,Japan - J. League 2 2023/2024,Mito HollyHock,Fagiano Okayama,0,0,0-0,0-0,0,0,X,4
-1750963,2026-10-21,J. LEAGUE,2024-03-20,Japan - J. League 2 2023/2024,Fagiano Okayama,Mito HollyHock,1,0,1-0,0-1,1,0,1,7
-1750963,2026-10-21,J. LEAGUE,2023-07-01,Japan - J. League 2 2022/2023,Fagiano Okayama,Mito HollyHock,1,0,1-0,0-1,1,0,1,3
-1750963,2026-10-21,J. LEAGUE,2023-03-05,Japan - J. League 2 2022/2023,Mito HollyHock,Fagiano Okayama,1,1,1-1,1-0,2,1,X,3
-1750963,2026-10-21,J. LEAGUE,2022-06-25,Japan - J. League 2 2021/2022,Mito HollyHock,Fagiano Okayama,1,1,1-1,1-0,2,1,X,6
-1750963,2026-10-21,J. LEAGUE,2022-05-04,Japan - J. League 2 2021/2022,Fagiano Okayama,Mito HollyHock,2,1,2-1,0-1,3,1,1,7
-1750963,2026-10-21,J. LEAGUE,2021-10-24,Japan - J. League 2 2020/2021,Mito HollyHock,Fagiano Okayama,1,1,1-1,0-0,2,1,X,7
-1750963,2026-10-21,J. LEAGUE,2021-04-17,Japan - J. League 2 2020/2021,Fagiano Okayama,Mito HollyHock,1,2,1-2,0-1,3,1,2,5
-1750963,2026-10-21,J. LEAGUE,2020-10-04,Japan - J2 League 2019/2020,Mito HollyHock,Fagiano Okayama,0,0,0-0,0-0,0,0,X,2
-1750963,2026-10-21,J. LEAGUE,2020-08-08,Japan - J2 League 2019/2020,Fagiano Okayama,Mito HollyHock,3,1,3-1,1-0,4,1,1,5
-1750963,2026-10-21,J. LEAGUE,2019-11-24,Japan - J2 League 2018/2019,Mito HollyHock,Fagiano Okayama,1,0,1-0,0-1,1,0,1,1
-1750963,2026-10-21,J. LEAGUE,2019-02-24,Japan - J2 League 2018/2019,Fagiano Okayama,Mito HollyHock,0,1,0-1,0-0,1,0,2,1
-1750963,2026-10-21,J. LEAGUE,2018-08-26,Japan - J2 League 2017/2018,Fagiano Okayama,Mito HollyHock,0,1,0-1,0-0,1,0,2,1
-1750963,2026-10-21,J. LEAGUE,2018-05-13,Japan - J2 League 2017/2018,Mito HollyHock,Fagiano Okayama,3,0,3-0,0-3,3,0,1,3
-1750963,2026-10-21,J. LEAGUE,2017-10-14,Japan - J2 League 2016/2017,Mito HollyHock,Fagiano Okayama,1,0,1-0,0-0,1,0,1,1
-1750963,2026-10-21,J. LEAGUE,2017-07-01,Japan - J2 League 2016/2017,Fagiano Okayama,Mito HollyHock,3,0,3-0,0-1,3,0,1,3
-1750963,2026-10-21,J. LEAGUE,2016-11-06,Japan - J2 League 2015/2016,Fagiano Okayama,Mito HollyHock,1,2,1-2,0-0,3,1,2,3
-1750963,2026-10-21,J. LEAGUE,2016-03-20,Japan - J2 League 2015/2016,Mito HollyHock,Fagiano Okayama,2,3,2-3,0-0,5,1,2,5
-1750963,2026-10-21,J. LEAGUE,2015-10-04,Japan - J.league Div.2 2014/2015,Fagiano Okayama,Mito HollyHock,3,0,3-0,0-1,3,0,1,3
-1750963,2026-10-21,J. LEAGUE,2015-04-29,Japan - J.league Div.2 2014/2015,Mito HollyHock,Fagiano Okayama,1,0,1-0,0-1,1,0,1,1
-1750963,2026-10-21,J. LEAGUE,2014-09-28,Japan - J.league Div.2 2013/2014,Fagiano Okayama,Mito HollyHock,1,1,1-1,1-0,2,1,X,2
-1750963,2026-10-21,J. LEAGUE,2014-03-22,Japan - J.league Div.2 2013/2014,Mito HollyHock,Fagiano Okayama,0,1,0-1,0-0,1,0,2,1
-1750963,2026-10-21,J. LEAGUE,2013-07-14,Japan - J.league Div.2 2012/2013,Mito HollyHock,Fagiano Okayama,1,0,1-0,0-0,1,0,1,2
-1750963,2026-10-21,J. LEAGUE,2013-03-20,Japan - J.league Div.2 2012/2013,Fagiano Okayama,Mito HollyHock,1,1,1-1,0-0,2,1,X,3
-1750963,2026-10-21,J. LEAGUE,2012-10-28,Japan - J.league Div.2 2011/2012,Mito HollyHock,Fagiano Okayama,0,0,0-0,0-0,0,0,X,1
-1750963,2026-10-21,J. LEAGUE,2012-03-17,Japan - J.league Div.2 2011/2012,Fagiano Okayama,Mito HollyHock,0,3,0-3,2-0,3,0,2,3
-1750963,2026-10-21,J. LEAGUE,2011-09-25,Japan - J.league Div.2 2010/2011,Mito HollyHock,Fagiano Okayama,1,1,1-1,1-1,2,1,X,2
-1750963,2026-10-21,J. LEAGUE,2011-06-19,Japan - J.league Div.2 2010/2011,Fagiano Okayama,Mito HollyHock,0,1,0-1,1-0,1,0,2,2
-1750963,2026-10-21,J. LEAGUE,2010-09-23,Japan - J.league Div.2 2009/2010,Mito HollyHock,Fagiano Okayama,1,1,1-1,0-0,2,1,X,2
-1750963,2026-10-21,J. LEAGUE,2010-07-18,Japan - J.league Div.2 2009/2010,Fagiano Okayama,Mito HollyHock,2,1,2-1,1-1,3,1,1,3
-1750963,2026-10-21,J. LEAGUE,2009-08-30,Japan - J.league Div.2 2008/2009,Mito HollyHock,Fagiano Okayama,4,2,4-2,2-1,6,1,1,7
-1750963,2026-10-21,J. LEAGUE,2009-06-24,Japan - J.league Div.2 2008/2009,Fagiano Okayama,Mito HollyHock,0,1,0-1,1-0,1,0,2,2
-1750963,2026-10-21,J. LEAGUE,2009-04-26,Japan - J.league Div.2 2008/2009,Mito HollyHock,Fagiano Okayama,4,3,4-3,2-2,7,1,1,7
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2026-10-07,Chile - Copa Chile Knockout Round 2026/2026,Antofagasta,U. De Chile,2,0,2-0,0-0,2,0,1,4
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2022-07-10,Chile - Primera Division 2021/2022,Antofagasta,U. De Chile,1,1,1-1,0-0,2,1,X,8
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2022-02-13,Chile - Primera Division 2021/2022,U. De Chile,Antofagasta,2,1,2-1,0-1,3,1,1,10
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2021-10-03,Chile - Primera Division 2020/2021,U. De Chile,Antofagasta,2,2,2-2,0-2,4,1,X,9
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2021-05-09,Chile - Primera Division 2020/2021,Antofagasta,U. De Chile,1,2,1-2,0-0,3,1,2,9
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2021-02-13,Chile - Primera Division 2019/2020,U. De Chile,Antofagasta,3,1,3-1,1-2,4,1,1,9
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2020-10-15,Chile - Primera Division 2019/2020,Antofagasta,U. De Chile,1,0,1-0,0-0,1,0,1,8
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2019-08-10,Chile - Primera Division 2018/2019,U. De Chile,Antofagasta,1,0,1-0,0-0,1,0,1,6
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2019-03-31,Chile - Primera Division 2018/2019,Antofagasta,U. De Chile,3,1,3-1,1-1,4,1,1,8
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2018-07-28,Chile - Primera Division 2017/2018,Antofagasta,U. De Chile,4,0,4-0,0-0,4,0,1,8
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2018-03-05,Chile - Primera Division 2017/2018,U. De Chile,Antofagasta,2,0,2-0,0-1,2,0,1,7
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2017-10-26,Chile - FA Cup 2017/2018,Antofagasta,U. De Chile,1,0,1-0,0-0,1,0,1,8
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2017-10-19,Chile - FA Cup 2017/2018,U. De Chile,Antofagasta,2,0,2-0,0-2,2,0,1,7
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2017-10-14,Chile - Primera Division 2016/2017,Antofagasta,U. De Chile,0,2,0-2,1-0,2,0,2,7
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2017-04-16,Chile - Clausura 2016/2017,Antofagasta,U. De Chile,0,1,0-1,1-0,1,0,2,9
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2016-08-06,Chile - PB Clausura Fase Nacional 2020/2021,U. De Chile,Antofagasta,1,1,1-1,0-0,2,1,X,10
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2016-01-17,Chile - Clausura 2015/2016,Antofagasta,U. De Chile,1,1,1-1,0-1,2,1,X,7
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2015-07-26,Chile - Apertura 2015/2016,U. De Chile,Antofagasta,1,1,1-1,1-0,2,1,X,9
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2015-01-31,Chile - Clausura 2014/2015,U. De Chile,Antofagasta,1,3,1-3,1-0,4,1,2,11
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2014-08-09,Chile - Apertura 2014/2015,Antofagasta,U. De Chile,0,3,0-3,1-0,3,0,2,6
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2014-02-02,Chile - Clausura 2013/2014,Antofagasta,U. De Chile,1,3,1-3,1-0,4,1,2,4
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2013-08-25,Chile - Apertura 2013/2014,U. De Chile,Antofagasta,5,0,5-0,0-4,5,0,1,5
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2013-04-28,Chile - Division 1 2012/2013,Antofagasta,U. De Chile,4,2,4-2,1-1,6,1,1,6
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2012-10-07,Chile - Clausura 2011/2012,Antofagasta,U. De Chile,2,4,2-4,2-1,6,1,2,6
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2012-04-22,Chile - Apertura 2011/2012,U. De Chile,Antofagasta,4,0,4-0,0-1,4,0,1,5
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2008-09-29,Chile - Clausura 2007/2008,U. De Chile,Antofagasta,3,0,3-0,0-2,3,0,1,3
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2008-04-06,Chile - Apertura 2007/2008,Antofagasta,U. De Chile,2,1,2-1,0-1,3,1,1,3
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2007-07-28,Chile - Clausura 2006/2007,U. De Chile,Antofagasta,2,0,2-0,0-0,2,0,1,2
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2007-05-03,Chile - Apertura 2006/2007,Antofagasta,U. De Chile,1,1,1-1,0-0,2,1,X,2
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2006-11-20,Chile - Clausura 2005/2006,U. De Chile,Antofagasta,1,0,1-0,0-1,1,0,1,2
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2006-03-20,Chile - Apertura 2005/2006,Antofagasta,U. De Chile,0,1,0-1,0-0,1,0,2,1
-1751292,2026-10-21,COPA CHILE KNOCKOUT ROUND,2003-07-14,South America (CONMEBOL) - Sudamericana Play Offs 2002/2003,U. De Chile,Antofagasta,1,2,1-2,2-1,3,1,2,0
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2026-08-30,Uruguay - Liga Auf Clausura 2026/2026,Cerro Largo,Liverpool Montevideo,1,1,1-1,1-0,2,1,X,5
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2026-06-08,Uruguay - Liga Auf Torneo Intermedio Grp. A 2026/2026,Liverpool Montevideo,Cerro Largo,0,0,0-0,0-0,0,0,X,5
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2026-03-01,Uruguay - Liga Auf Uruguaya Apertura 2026/2026,Liverpool Montevideo,Cerro Largo,2,0,2-0,0-1,2,0,1,7
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2025-11-07,Uruguay - Liga Auf Uruguaya Clausura 2024/2025,Cerro Largo,Liverpool Montevideo,2,0,2-0,1-1,2,0,1,2
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2025-06-07,Uruguay - Primera Division Intermedio Group A 2024/2025,Liverpool Montevideo,Cerro Largo,2,1,2-1,0-0,3,1,1,3
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2025-05-18,Uruguay - Primera Division Apertura 2024/2025,Liverpool Montevideo,Cerro Largo,1,0,1-0,0-0,1,0,1,1
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2024-11-13,Uruguay - Primera Division Clausura 2023/2024,Cerro Largo,Liverpool Montevideo,0,0,0-0,0-0,0,0,X,0
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2024-07-06,Uruguay - Primera Division Intermedio Group B 2023/2024,Cerro Largo,Liverpool Montevideo,1,0,1-0,0-1,1,0,1,1
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2024-05-12,Uruguay - Primera Division Apertura 2023/2024,Cerro Largo,Liverpool Montevideo,1,2,1-2,2-1,3,1,2,4
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2023-11-10,Uruguay - Primera Division Clausura 2022/2023,Liverpool Montevideo,Cerro Largo,3,0,3-0,0-3,3,0,1,3
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2023-06-16,Uruguay - Primera Division Intermedio Group B 2022/2023,Cerro Largo,Liverpool Montevideo,1,3,1-3,0-0,4,1,2,4
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2023-03-31,Uruguay - Primera Division Apertura 2022/2023,Cerro Largo,Liverpool Montevideo,1,0,1-0,0-0,1,0,1,1
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2022-10-16,Uruguay - Primera Division Clausura 2021/2022,Liverpool Montevideo,Cerro Largo,1,0,1-0,0-1,1,0,1,1
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2022-05-28,Uruguay - Primera Division Apertura 2021/2022,Cerro Largo,Liverpool Montevideo,1,2,1-2,1-0,3,1,2,3
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2021-09-25,Uruguay - Primera Division Clausura 2020/2021,Cerro Largo,Liverpool Montevideo,3,0,3-0,0-1,3,0,1,3
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2021-05-29,Uruguay - Primera Division Apertura 2020/2021,Liverpool Montevideo,Cerro Largo,3,0,3-0,0-1,3,0,1,3
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2021-02-10,Uruguay - Primera Division Clausura 2019/2020,Liverpool Montevideo,Cerro Largo,3,2,3-2,1-0,5,1,1,6
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2020-11-23,Uruguay - Primera Division Intermedio 2019/2020,Cerro Largo,Liverpool Montevideo,1,1,1-1,1-1,2,1,X,2
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2020-08-20,Uruguay - Lig Champion P.off Final 2023/2024,Cerro Largo,Liverpool Montevideo,4,3,4-3,2-4,7,1,1,8
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2019-10-25,Uruguay - Clausura 2018/2019,Cerro Largo,Liverpool Montevideo,1,1,1-1,1-0,2,1,X,2
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2019-07-28,Uruguay - Torneo Intermedio 2018/2019,Cerro Largo,Liverpool Montevideo,1,0,1-0,0-1,1,0,1,1
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2019-04-07,Uruguay - Lig Champion P.Off Final 2018/2019,Liverpool Montevideo,Cerro Largo,3,2,3-2,2-1,5,1,1,5
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2014-03-23,Uruguay - Clausura 2013/2014,Cerro Largo,Liverpool Montevideo,2,2,2-2,0-1,4,1,X,4
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2013-10-27,Uruguay - Apertura 2013/2014,Liverpool Montevideo,Cerro Largo,3,1,3-1,1-1,4,1,1,4
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2013-03-31,Uruguay - Clausura 2012/2013,Cerro Largo,Liverpool Montevideo,1,1,1-1,1-1,2,1,X,4
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2012-10-07,Uruguay - Apertura 2012/2013,Liverpool Montevideo,Cerro Largo,1,0,1-0,0-0,1,0,1,1
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2012-03-25,Uruguay - Clausura 2011/2012,Liverpool Montevideo,Cerro Largo,2,1,2-1,0-1,3,1,1,3
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2011-09-11,Uruguay - Apertura 2011/2012,Cerro Largo,Liverpool Montevideo,1,0,1-0,0-0,1,0,1,3
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2010-04-25,Uruguay - Clausura 2009/2010,Liverpool Montevideo,Cerro Largo,3,0,3-0,0-2,3,0,1,3
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2009-12-09,Uruguay - Apertura 2009/2010,Cerro Largo,Liverpool Montevideo,1,0,1-0,0-1,1,0,1,2
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2009-04-11,Uruguay - Clausura 2008/2009,Liverpool Montevideo,Cerro Largo,2,0,2-0,0-1,2,0,1,2
-1751054,2026-10-21,COPA URUGUAY KNOCKOUT STAGE,2008-10-18,Uruguay - Apertura 2008/2009,Cerro Largo,Liverpool Montevideo,1,1,1-1,0-1,2,1,X,5
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2026-08-03,Venezuela - Primera Division - Clausura 2026/2026,Caracas FC,Estudiantes FC,2,2,2-2,1-0,4,1,X,0
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2026-02-01,Venezuela - Primera Division - Apertura First Stage 2026/2026,Estudiantes FC,Caracas FC,2,2,2-2,1-1,4,1,X,2
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2025-08-10,Venezuela - Primera Division - Clausura First Stage 2025/2025,Estudiantes FC,Caracas FC,1,0,1-0,0-0,1,0,1,3
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2025-03-01,Venezuela - Primera Division-apertura First Stage 2024/2025,Caracas FC,Estudiantes FC,0,0,0-0,0-0,0,0,X,0
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2024-08-16,Venezuela - Primera Division-clausura First Stage 2023/2024,Caracas FC,Estudiantes FC,2,3,2-3,0-1,5,1,2,5
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2024-02-24,Venezuela - Segunda Division-clausura Final Stage 2023/2024,Estudiantes FC,Caracas FC,1,1,1-1,0-0,2,1,X,3
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2023-08-05,Venezuela - Primera Division 2022/2023,Estudiantes FC,Caracas FC,0,2,0-2,1-0,2,0,2,2
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2023-04-09,Venezuela - Primera Division 2022/2023,Caracas FC,Estudiantes FC,2,2,2-2,0-0,4,1,X,5
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2022-10-14,Venezuela - Primera Division Fase Final B Group 1 2021/2022,Estudiantes FC,Caracas FC,1,1,1-1,0-1,2,1,X,2
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2022-10-07,Venezuela - Primera Division Fase Final B Group 1 2021/2022,Caracas FC,Estudiantes FC,1,2,1-2,2-0,3,1,2,3
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2022-07-16,Venezuela - Segunda Division Final Stage 2021/2022,Caracas FC,Estudiantes FC,3,1,3-1,1-2,4,1,1,4
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2022-05-08,Venezuela - Segunda Division Final Stage 2021/2022,Estudiantes FC,Caracas FC,0,0,0-0,0-0,0,0,X,0
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2021-11-24,Venezuela - Primera Division-second Stage-group A 2020/2021,Caracas FC,Estudiantes FC,4,1,4-1,1-2,5,1,1,6
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2021-11-03,Venezuela - Primera Division-second Stage-group A 2020/2021,Estudiantes FC,Caracas FC,1,1,1-1,1-1,2,1,X,2
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2020-02-02,Venezuela - Primera Division 2019/2020,Caracas FC,Estudiantes FC,5,1,5-1,1-3,6,1,1,6
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2019-12-16,Venezuela - Pd Champions P.Off Final 2018/2019,Caracas FC,Estudiantes FC,4,3,4-3,1-0,7,1,1,9
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2019-12-11,Venezuela - Pd Champions P.Off Final 2018/2019,Estudiantes FC,Caracas FC,1,1,1-1,0-0,2,1,X,4
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2019-09-11,Venezuela - Clausura 2018/2019,Estudiantes FC,Caracas FC,1,2,1-2,2-0,3,1,2,5
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2019-03-20,Venezuela - Segunda Division 2020 2023/2024,Caracas FC,Estudiantes FC,1,0,1-0,0-0,1,0,1,1
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2018-07-29,Venezuela - Clausura 2017/2018,Estudiantes FC,Caracas FC,1,1,1-1,0-0,2,1,X,2
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2018-02-04,Venezuela - Apertura Div.2 Centro Oriental 2017/2018,Caracas FC,Estudiantes FC,0,0,0-0,0-0,0,0,X,1
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2017-09-03,Venezuela - Clausura 2016/2017,Caracas FC,Estudiantes FC,1,2,1-2,2-0,3,1,2,3
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2017-03-19,Venezuela - Apertura Div.2 Centro Oriental 2016/2017,Estudiantes FC,Caracas FC,1,2,1-2,1-0,3,1,2,4
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2016-09-17,Venezuela - Clausura 2015/2016,Estudiantes FC,Caracas FC,2,5,2-5,2-1,7,1,2,9
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2016-04-11,Venezuela - Apertura 2015/2016,Caracas FC,Estudiantes FC,2,3,2-3,3-0,5,1,2,5
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2015-10-04,Venezuela - Torneo Adecuacion 2015/2016,Caracas FC,Estudiantes FC,3,0,3-0,0-1,3,0,1,4
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2015-01-11,Venezuela - Clausura 2014/2015,Estudiantes FC,Caracas FC,1,2,1-2,1-0,3,1,2,3
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2014-08-10,Venezuela - Apertura 2014/2015,Caracas FC,Estudiantes FC,0,1,0-1,1-0,1,0,2,1
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2014-04-02,Venezuela - Clausura 2013/2014,Estudiantes FC,Caracas FC,1,1,1-1,1-1,2,1,X,2
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2013-09-29,Venezuela - Apertura 2013/2014,Caracas FC,Estudiantes FC,1,1,1-1,1-0,2,1,X,2
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2013-04-07,Venezuela - Clausura 2012/2013,Estudiantes FC,Caracas FC,4,1,4-1,0-1,5,1,1,5
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2012-11-04,Venezuela - Apertura 2012/2013,Caracas FC,Estudiantes FC,1,0,1-0,0-0,1,0,1,2
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2012-03-11,Venezuela - Clausura 2011/2012,Caracas FC,Estudiantes FC,2,1,2-1,0-1,3,1,1,4
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2011-10-16,Venezuela - Apertura 2011/2012,Estudiantes FC,Caracas FC,0,2,0-2,1-0,2,0,2,2
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2011-01-30,Venezuela - Clausura 2010/2011,Estudiantes FC,Caracas FC,1,2,1-2,1-0,3,1,2,3
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2010-08-22,Venezuela - Apertura 2010/2011,Caracas FC,Estudiantes FC,1,0,1-0,0-0,1,0,1,2
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2010-04-08,Venezuela - Clausura 2009/2010,Caracas FC,Estudiantes FC,1,0,1-0,0-1,1,0,1,1
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2009-11-01,Venezuela - Apertura 2009/2010,Estudiantes FC,Caracas FC,1,2,1-2,0-0,3,1,2,3
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2009-03-15,Venezuela - Clausura 2008/2009,Estudiantes FC,Caracas FC,2,1,2-1,0-0,3,1,1,3
-1758314,2026-10-21,CUP KNOCKOUT STAGE,2008-10-20,Venezuela - Apertura 2008/2009,Caracas FC,Estudiantes FC,3,0,3-0,0-2,3,0,1,3
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2026-08-16,Venezuela - Primera Division - Clausura 2026/2026,Deportivo Tachira FC,Monagas SC,3,2,3-2,1-1,5,1,1,0
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2026-02-23,Venezuela - Primera Division - Apertura First Stage 2026/2026,Monagas SC,Deportivo Tachira FC,2,3,2-3,2-1,5,1,2,6
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2025-07-14,Venezuela - Primera Division-clausura First Stage 2024/2025,Deportivo Tachira FC,Monagas SC,2,1,2-1,1-1,3,1,1,3
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2025-01-31,Venezuela - Primera Division-apertura First Stage 2024/2025,Monagas SC,Deportivo Tachira FC,1,4,1-4,2-1,5,1,2,6
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2024-09-15,Venezuela - Primera Division-clausura First Stage 2023/2024,Monagas SC,Deportivo Tachira FC,0,0,0-0,0-0,0,0,X,0
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2024-03-21,Venezuela - Segunda Division-clausura Final Stage 2023/2024,Deportivo Tachira FC,Monagas SC,1,0,1-0,0-0,1,0,1,1
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2023-09-25,Venezuela - Primera Division 2022/2023,Monagas SC,Deportivo Tachira FC,1,2,1-2,1-1,3,1,2,3
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2023-02-18,Venezuela - Primera Division 2022/2023,Deportivo Tachira FC,Monagas SC,1,0,1-0,0-0,1,0,1,5
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2022-06-19,Venezuela - Segunda Division Final Stage 2021/2022,Monagas SC,Deportivo Tachira FC,3,0,3-0,0-1,3,0,1,3
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2022-05-29,Venezuela - Segunda Division Final Stage 2021/2022,Deportivo Tachira FC,Monagas SC,4,2,4-2,2-1,6,1,1,6
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2021-11-20,Venezuela - Primera Division-second Stage-group A 2020/2021,Monagas SC,Deportivo Tachira FC,1,1,1-1,1-1,2,1,X,3
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2021-10-31,Venezuela - Primera Division-second Stage-group A 2020/2021,Deportivo Tachira FC,Monagas SC,3,1,3-1,1-2,4,1,1,4
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2019-08-18,Venezuela - Clausura 2018/2019,Monagas SC,Deportivo Tachira FC,2,1,2-1,1-2,3,1,1,3
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2019-02-22,Venezuela - Segunda Division 2020 2023/2024,Deportivo Tachira FC,Monagas SC,0,0,0-0,0-0,0,0,X,1
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2018-08-19,Venezuela - Clausura 2017/2018,Deportivo Tachira FC,Monagas SC,0,1,0-1,1-0,1,0,2,4
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2018-02-24,Venezuela - Apertura Div.2 Centro Oriental 2017/2018,Monagas SC,Deportivo Tachira FC,2,2,2-2,0-0,4,1,X,5
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2017-09-10,Venezuela - Clausura 2016/2017,Deportivo Tachira FC,Monagas SC,1,2,1-2,1-0,3,1,2,3
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2017-04-02,Venezuela - Apertura Div.2 Centro Oriental 2016/2017,Monagas SC,Deportivo Tachira FC,1,1,1-1,1-0,2,1,X,4
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2016-11-04,Venezuela - CL-Play Offs 2015/2016,Monagas SC,Deportivo Tachira FC,1,1,1-1,1-0,2,1,X,2
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2016-10-30,Venezuela - CL-Play Offs 2015/2016,Deportivo Tachira FC,Monagas SC,2,1,2-1,1-0,3,1,1,3
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2016-07-31,Venezuela - Clausura 2015/2016,Monagas SC,Deportivo Tachira FC,4,0,4-0,0-1,4,0,1,4
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2016-02-28,Venezuela - Apertura 2015/2016,Deportivo Tachira FC,Monagas SC,3,0,3-0,0-2,3,0,1,3
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2013-02-03,Venezuela - Clausura 2012/2013,Monagas SC,Deportivo Tachira FC,1,2,1-2,1-0,3,1,2,3
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2012-08-26,Venezuela - Apertura 2012/2013,Deportivo Tachira FC,Monagas SC,3,0,3-0,0-2,3,0,1,3
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2012-02-02,Venezuela - Clausura 2011/2012,Deportivo Tachira FC,Monagas SC,1,0,1-0,0-1,1,0,1,1
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2011-08-28,Venezuela - Apertura 2011/2012,Monagas SC,Deportivo Tachira FC,3,0,3-0,0-1,3,0,1,3
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2011-02-24,Venezuela - Clausura 2010/2011,Deportivo Tachira FC,Monagas SC,1,0,1-0,0-0,1,0,1,1
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2010-09-23,Venezuela - Apertura 2010/2011,Monagas SC,Deportivo Tachira FC,2,0,2-0,0-0,2,0,1,2
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2010-04-26,Venezuela - Clausura 2009/2010,Deportivo Tachira FC,Monagas SC,3,1,3-1,1-2,4,1,1,4
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2009-11-22,Venezuela - Apertura 2009/2010,Monagas SC,Deportivo Tachira FC,0,1,0-1,0-0,1,0,2,1
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2009-02-06,Venezuela - Clausura 2008/2009,Deportivo Tachira FC,Monagas SC,1,0,1-0,0-0,1,0,1,1
-1758316,2026-10-21,CUP KNOCKOUT STAGE,2008-08-29,Venezuela - Apertura 2008/2009,Monagas SC,Deportivo Tachira FC,1,1,1-1,0-0,2,1,X,2
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2022-08-01,Venezuela - Segunda Division Final Stage 2021/2022,Aragua FC,Deportivo La Guaira,0,2,0-2,1-0,2,0,2,4
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2022-04-22,Venezuela - Segunda Division Final Stage 2021/2022,Deportivo La Guaira,Aragua FC,3,3,3-3,2-1,6,1,X,6
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2021-09-11,Venezuela - Primera Division-Grupo Central 2020/2021,Aragua FC,Deportivo La Guaira,0,1,0-1,0-0,1,0,2,2
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2021-07-22,Venezuela - Primera Division-Grupo Central 2020/2021,Deportivo La Guaira,Aragua FC,5,0,5-0,0-4,5,0,1,5
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2021-06-04,Venezuela - Primera Division-Grupo Central 2020/2021,Aragua FC,Deportivo La Guaira,2,0,2-0,0-1,2,0,1,3
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2021-04-12,Venezuela - Primera Division-Grupo Central 2020/2021,Deportivo La Guaira,Aragua FC,0,0,0-0,0-0,0,0,X,0
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2019-10-06,Venezuela - Clausura 2018/2019,Aragua FC,Deportivo La Guaira,0,0,0-0,0-0,0,0,X,0
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2019-04-14,Venezuela - Segunda Division 2020 2023/2024,Deportivo La Guaira,Aragua FC,0,0,0-0,0-0,0,0,X,0
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2018-10-07,Venezuela - Clausura 2017/2018,Aragua FC,Deportivo La Guaira,1,2,1-2,1-1,3,1,2,3
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2018-04-29,Venezuela - Apertura Div.2 Centro Oriental 2017/2018,Deportivo La Guaira,Aragua FC,0,0,0-0,0-0,0,0,X,0
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2017-10-17,Venezuela - Clausura 2016/2017,Deportivo La Guaira,Aragua FC,1,1,1-1,1-0,2,1,X,2
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2017-09-13,Venezuela - FA Cup 2016/2017,Aragua FC,Deportivo La Guaira,5,3,5-3,0-1,8,1,1,11
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2017-09-07,Venezuela - FA Cup 2016/2017,Deportivo La Guaira,Aragua FC,1,0,1-0,0-1,1,0,1,2
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2017-05-07,Venezuela - Apertura Div.2 Centro Oriental 2016/2017,Aragua FC,Deportivo La Guaira,2,1,2-1,0-0,3,1,1,3
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2016-07-20,Venezuela - Clausura 2015/2016,Deportivo La Guaira,Aragua FC,1,0,1-0,0-0,1,0,1,3
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2016-02-17,Venezuela - Apertura 2015/2016,Aragua FC,Deportivo La Guaira,1,0,1-0,0-1,1,0,1,1
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2015-12-02,Venezuela - Torneo Adecuacion Play Offs 2015/2016,Deportivo La Guaira,Aragua FC,2,0,2-0,0-1,2,0,1,2
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2015-11-29,Venezuela - Torneo Adecuacion Play Offs 2015/2016,Aragua FC,Deportivo La Guaira,0,2,0-2,1-0,2,0,2,2
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2015-10-04,Venezuela - Torneo Adecuacion 2015/2016,Deportivo La Guaira,Aragua FC,0,2,0-2,1-0,2,0,2,2
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2015-02-25,Venezuela - Clausura 2014/2015,Aragua FC,Deportivo La Guaira,3,2,3-2,1-1,5,1,1,6
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2014-09-25,Venezuela - Apertura 2014/2015,Deportivo La Guaira,Aragua FC,2,1,2-1,0-0,3,1,1,3
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2014-03-09,Venezuela - Clausura 2013/2014,Aragua FC,Deportivo La Guaira,0,0,0-0,0-0,0,0,X,0
-1758315,2026-10-21,CUP KNOCKOUT STAGE,2013-10-06,Venezuela - Apertura 2013/2014,Deportivo La Guaira,Aragua FC,0,1,0-1,0-0,1,0,2,1
-1750959,2026-10-21,SUPER LEAGUE,2026-02-08,Indonesia - Super League 2025/2026,Persija Jakarta,Arema FC,0,2,0-2,0-0,2,0,2,2
-1750959,2026-10-21,SUPER LEAGUE,2025-11-08,Indonesia - Super League 2025/2026,Arema FC,Persija Jakarta,1,2,1-2,1-1,3,1,2,5
-1750959,2026-10-21,SUPER LEAGUE,2025-03-09,Indonesia - Liga 1 2024/2025,Persija Jakarta,Arema FC,1,3,1-3,0-0,4,1,2,6
-1750959,2026-10-21,SUPER LEAGUE,2024-10-26,Indonesia - Liga 1 2024/2025,Arema FC,Persija Jakarta,1,2,1-2,1-1,3,1,2,3
-1750959,2026-10-21,SUPER LEAGUE,2024-02-26,Indonesia - Liga 1 2023/2024,Arema FC,Persija Jakarta,3,2,3-2,1-2,5,1,1,6
-1750959,2026-10-21,SUPER LEAGUE,2023-08-20,Indonesia - Liga 1 2023/2024,Persija Jakarta,Arema FC,2,2,2-2,1-2,4,1,X,11
-1750959,2026-10-21,SUPER LEAGUE,2023-02-12,Indonesia - Liga 1 2022/2023,Persija Jakarta,Arema FC,2,0,2-0,0-1,2,0,1,4
-1750959,2026-10-21,SUPER LEAGUE,2022-08-28,Indonesia - Liga 1 2022/2023,Arema FC,Persija Jakarta,0,1,0-1,1-0,1,0,2,5
-1750959,2026-10-21,SUPER LEAGUE,2022-02-05,Indonesia - Liga 1 2021/2022,Arema FC,Persija Jakarta,1,1,1-1,1-0,2,1,X,4
-1750959,2026-10-21,SUPER LEAGUE,2021-10-17,Indonesia - Liga 1 2021/2022,Persija Jakarta,Arema FC,0,1,0-1,1-0,1,0,2,2
-1750959,2026-10-21,SUPER LEAGUE,2019-11-23,Indonesia - Liga 1 2018/2019,Arema FC,Persija Jakarta,1,1,1-1,0-0,2,1,X,2
-1750959,2026-10-21,SUPER LEAGUE,2019-08-03,Indonesia - Liga 1 2018/2019,Persija Jakarta,Arema FC,2,2,2-2,1-1,4,1,X,4
-1750959,2026-10-21,SUPER LEAGUE,2018-08-05,Indonesia - Liga 1 2017/2018,Arema FC,Persija Jakarta,1,1,1-1,0-0,2,1,X,2
-1750959,2026-10-21,SUPER LEAGUE,2018-03-31,Indonesia - Liga 1 2017/2018,Persija Jakarta,Arema FC,3,1,3-1,1-1,4,1,1,4
-1750959,2026-10-21,SUPER LEAGUE,2017-09-24,Indonesia - Liga 1 2016/2017,Arema FC,Persija Jakarta,1,1,1-1,1-0,2,1,X,2
-1750959,2026-10-21,SUPER LEAGUE,2017-06-02,Indonesia - Liga 1 2016/2017,Persija Jakarta,Arema FC,2,0,2-0,0-2,2,0,1,2
-1750959,2026-10-21,SUPER LEAGUE,2017-02-11,Indonesia - Piala Presiden 2016/2017,Arema FC,Persija Jakarta,1,1,1-1,1-1,2,1,X,2
-1750959,2026-10-21,SUPER LEAGUE,2016-10-18,Indonesia - Super League 2015/2016,Persija Jakarta,Arema FC,1,4,1-4,2-0,5,1,2,5
-1750959,2026-10-21,SUPER LEAGUE,2016-06-19,Indonesia - Super League 2015/2016,Arema FC,Persija Jakarta,1,0,1-0,0-1,1,0,1,3
-1750959,2026-10-21,SUPER LEAGUE,2015-04-04,Indonesia - Super League 2014/2015,Arema FC,Persija Jakarta,4,4,4-4,2-3,8,1,X,9
-1750959,2026-10-21,SUPER LEAGUE,2014-05-18,Indonesia - Super League 2013/2014,Arema FC,Persija Jakarta,1,0,1-0,0-0,1,0,1,1
-1750959,2026-10-21,SUPER LEAGUE,2014-05-04,Indonesia - Super League 2013/2014,Persija Jakarta,Arema FC,0,1,0-1,0-0,1,0,2,1
-1750959,2026-10-21,SUPER LEAGUE,2013-06-30,Indonesia - Super League 2012/2013,Arema FC,Persija Jakarta,3,1,3-1,0-2,4,1,1,4
-1750959,2026-10-21,SUPER LEAGUE,2013-02-16,Indonesia - Super League 2012/2013,Persija Jakarta,Arema FC,1,2,1-2,2-1,3,1,2,3
-1751045,2026-10-21,J. LEAGUE 2,2024-07-06,Japan - J. League 2023/2024,Albirex Niigata,Sagan Tosu,3,4,3-4,2-1,7,1,2,10
-1751045,2026-10-21,J. LEAGUE 2,2024-02-24,Japan - J. League 2023/2024,Sagan Tosu,Albirex Niigata,1,2,1-2,1-1,3,1,2,6
-1751045,2026-10-21,J. LEAGUE 2,2023-10-21,Japan - J. League 2022/2023,Albirex Niigata,Sagan Tosu,1,1,1-1,1-1,2,1,X,3
-1751045,2026-10-21,J. LEAGUE 2,2023-05-20,Japan - J. League 2022/2023,Sagan Tosu,Albirex Niigata,2,0,2-0,0-1,2,0,1,4
-1751045,2026-10-21,J. LEAGUE 2,2017-10-29,Japan - J1 League 2016/2017,Albirex Niigata,Sagan Tosu,1,0,1-0,0-0,1,0,1,1
-1751045,2026-10-21,J. LEAGUE 2,2017-04-08,Japan - J1 League 2016/2017,Sagan Tosu,Albirex Niigata,3,0,3-0,0-1,3,0,1,3
-1751045,2026-10-21,J. LEAGUE 2,2017-03-15,Japan - League Cup 2016/2017,Sagan Tosu,Albirex Niigata,2,2,2-2,0-1,4,1,X,4
-1751045,2026-10-21,J. LEAGUE 2,2016-08-27,Japan - J1 League 2nd Stage 2015/2016,Sagan Tosu,Albirex Niigata,1,0,1-0,0-0,1,0,1,1
-1751045,2026-10-21,J. LEAGUE 2,2016-06-25,Japan - J1 League 1st Stage 2015/2016,Albirex Niigata,Sagan Tosu,1,0,1-0,0-0,1,0,1,1
-1751045,2026-10-21,J. LEAGUE 2,2016-03-27,Japan - League Cup 2015/2016,Albirex Niigata,Sagan Tosu,1,0,1-0,0-0,1,0,1,1
-1751045,2026-10-21,J. LEAGUE 2,2015-07-19,Japan - J.league Div.1 2nd Stage 2014/2015,Albirex Niigata,Sagan Tosu,1,0,1-0,0-1,1,0,1,1
-1751045,2026-10-21,J. LEAGUE 2,2015-04-08,Japan - League Cup 2014/2015,Albirex Niigata,Sagan Tosu,1,0,1-0,0-1,1,0,1,1
-1751045,2026-10-21,J. LEAGUE 2,2015-03-07,Japan - J.league Div.1 1st Stage 2014/2015,Sagan Tosu,Albirex Niigata,2,1,2-1,1-1,3,1,1,3
-1751045,2026-10-21,J. LEAGUE 2,2014-10-26,Japan - J.league Div.1 2013/2014,Sagan Tosu,Albirex Niigata,0,2,0-2,1-0,2,0,2,2
-1751045,2026-10-21,J. LEAGUE 2,2014-03-23,Japan - J.league Div.1 2013/2014,Albirex Niigata,Sagan Tosu,1,0,1-0,0-1,1,0,1,1
-1751045,2026-10-21,J. LEAGUE 2,2013-10-05,Japan - J.league Div.1 2012/2013,Albirex Niigata,Sagan Tosu,3,1,3-1,1-1,4,1,1,4
-1751045,2026-10-21,J. LEAGUE 2,2013-05-11,Japan - J.league Div.1 2012/2013,Sagan Tosu,Albirex Niigata,1,3,1-3,2-0,4,1,2,4
-1751045,2026-10-21,J. LEAGUE 2,2013-04-24,Japan - League Cup 2012/2013,Sagan Tosu,Albirex Niigata,2,0,2-0,0-0,2,0,1,2
-1751045,2026-10-21,J. LEAGUE 2,2012-10-27,Japan - J.league Div.1 2011/2012,Albirex Niigata,Sagan Tosu,0,2,0-2,2-0,2,0,2,2
-1751045,2026-10-21,J. LEAGUE 2,2012-04-21,Japan - J.league Div.1 2011/2012,Sagan Tosu,Albirex Niigata,1,0,1-0,0-0,1,0,1,1
-1751045,2026-10-21,J. LEAGUE 2,2007-11-04,Japan - Emperors Cup 2006/2007,Albirex Niigata,Sagan Tosu,2,3,2-3,2-1,5,1,2,5
-1751046,2026-10-21,J. LEAGUE 2,2025-08-31,Japan - J. League 2 2024/2025,Oita Trinita,Jubilo Iwata,0,0,0-0,0-0,0,0,X,6
-1751046,2026-10-21,J. LEAGUE 2,2025-04-25,Japan - J. League 2 2024/2025,Jubilo Iwata,Oita Trinita,0,3,0-3,1-0,3,0,2,4
-1751046,2026-10-21,J. LEAGUE 2,2023-07-01,Japan - J. League 2 2022/2023,Jubilo Iwata,Oita Trinita,1,1,1-1,1-0,2,1,X,4
-1751046,2026-10-21,J. LEAGUE 2,2023-04-01,Japan - J. League 2 2022/2023,Oita Trinita,Jubilo Iwata,2,1,2-1,0-1,3,1,1,6
-1751046,2026-10-21,J. LEAGUE 2,2021-10-27,Japan - Emperors Cup 2020/2021,Jubilo Iwata,Oita Trinita,0,2,0-2,0-0,2,0,2,4
-1751046,2026-10-21,J. LEAGUE 2,2019-09-28,Japan - J1 League 2018/2019,Oita Trinita,Jubilo Iwata,1,2,1-2,0-0,3,1,2,3
-1751046,2026-10-21,J. LEAGUE 2,2019-03-09,Japan - J1 League 2018/2019,Jubilo Iwata,Oita Trinita,1,2,1-2,1-1,3,1,2,4
-1751046,2026-10-21,J. LEAGUE 2,2015-11-23,Japan - J.league Div.2 2014/2015,Oita Trinita,Jubilo Iwata,1,2,1-2,0-0,3,1,2,3
-1751046,2026-10-21,J. LEAGUE 2,2015-03-29,Japan - J.league Div.2 2014/2015,Jubilo Iwata,Oita Trinita,2,1,2-1,1-1,3,1,1,3
-1751046,2026-10-21,J. LEAGUE 2,2014-10-04,Japan - J.league Div.2 2013/2014,Oita Trinita,Jubilo Iwata,2,0,2-0,0-0,2,0,1,2
-1751046,2026-10-21,J. LEAGUE 2,2014-05-11,Japan - J.league Div.2 2013/2014,Jubilo Iwata,Oita Trinita,1,1,1-1,0-1,2,1,X,2
-1751046,2026-10-21,J. LEAGUE 2,2013-12-07,Japan - J.league Div.1 2012/2013,Jubilo Iwata,Oita Trinita,3,1,3-1,1-1,4,1,1,4
-1751046,2026-10-21,J. LEAGUE 2,2013-05-25,Japan - J.league Div.1 2012/2013,Oita Trinita,Jubilo Iwata,1,1,1-1,0-0,2,1,X,2
-1751046,2026-10-21,J. LEAGUE 2,2009-09-13,Japan - J.league Div.1 2008/2009,Oita Trinita,Jubilo Iwata,2,1,2-1,1-1,3,1,1,3
-1751046,2026-10-21,J. LEAGUE 2,2009-07-12,Japan - J.league Div.1 2008/2009,Jubilo Iwata,Oita Trinita,3,1,3-1,0-1,4,1,1,4
-1751046,2026-10-21,J. LEAGUE 2,2009-06-07,Japan - League Cup 2008/2009,Jubilo Iwata,Oita Trinita,2,2,2-2,1-0,4,1,X,3
-1751046,2026-10-21,J. LEAGUE 2,2008-07-20,Japan - J.league Div.1 2007/2008,Oita Trinita,Jubilo Iwata,2,1,2-1,1-0,3,1,1,3
-1751046,2026-10-21,J. LEAGUE 2,2008-04-20,Japan - J.league Div.1 2007/2008,Jubilo Iwata,Oita Trinita,1,1,1-1,1-0,2,1,X,2
-1751046,2026-10-21,J. LEAGUE 2,2007-11-24,Japan - J.league Div.1 2006/2007,Oita Trinita,Jubilo Iwata,1,0,1-0,0-1,1,0,1,1
-1751046,2026-10-21,J. LEAGUE 2,2007-05-23,Japan - League Cup 2006/2007,Oita Trinita,Jubilo Iwata,1,3,1-3,1-0,4,1,2,4
-1751046,2026-10-21,J. LEAGUE 2,2007-05-09,Japan - League Cup 2006/2007,Jubilo Iwata,Oita Trinita,1,0,1-0,0-0,1,0,1,2
-1751046,2026-10-21,J. LEAGUE 2,2007-03-10,Japan - J.league Div.1 2006/2007,Jubilo Iwata,Oita Trinita,2,1,2-1,0-0,3,1,1,3
-1751046,2026-10-21,J. LEAGUE 2,2005-09-03,Japan - J.league Div.1 2004/2005,Oita Trinita,Jubilo Iwata,1,2,1-2,1-1,3,1,2,3
-1751046,2026-10-21,J. LEAGUE 2,2005-05-15,Japan - J.league Div.1 2004/2005,Jubilo Iwata,Oita Trinita,2,1,2-1,0-1,3,1,1,3
-1751044,2026-10-21,J. LEAGUE 2,2025-10-04,Japan - J. League 2 2024/2025,Consadole Sapporo,Montedio Yamagata,1,2,1-2,0-0,3,1,2,6
-1751044,2026-10-21,J. LEAGUE 2,2025-05-03,Japan - J. League 2 2024/2025,Montedio Yamagata,Consadole Sapporo,0,1,0-1,0-0,1,0,2,5
-1751044,2026-10-21,J. LEAGUE 2,2024-07-10,Japan - Emperors Cup 2023/2024,Consadole Sapporo,Montedio Yamagata,6,3,6-3,2-3,9,1,1,9
-1751044,2026-10-21,J. LEAGUE 2,2016-08-14,Japan - J2 League 2015/2016,Consadole Sapporo,Montedio Yamagata,3,1,3-1,0-1,4,1,1,4
-1751044,2026-10-21,J. LEAGUE 2,2016-04-17,Japan - J2 League 2015/2016,Montedio Yamagata,Consadole Sapporo,1,1,1-1,0-1,2,1,X,2
-1751044,2026-10-21,J. LEAGUE 2,2014-08-17,Japan - J.league Div.2 2013/2014,Montedio Yamagata,Consadole Sapporo,2,1,2-1,1-1,3,1,1,3
-1751044,2026-10-21,J. LEAGUE 2,2014-03-09,Japan - J.league Div.2 2013/2014,Consadole Sapporo,Montedio Yamagata,1,1,1-1,1-1,2,1,X,2
-1751044,2026-10-21,J. LEAGUE 2,2013-10-20,Japan - J.league Div.2 2012/2013,Consadole Sapporo,Montedio Yamagata,3,1,3-1,1-1,4,1,1,4
-1751044,2026-10-21,J. LEAGUE 2,2013-05-12,Japan - J.league Div.2 2012/2013,Montedio Yamagata,Consadole Sapporo,0,1,0-1,1-0,1,0,2,1
-1751044,2026-10-21,J. LEAGUE 2,2007-09-26,Japan - J.league Div.2 2006/2007,Consadole Sapporo,Montedio Yamagata,3,0,3-0,0-1,3,0,1,3
-1751044,2026-10-21,J. LEAGUE 2,2007-08-26,Japan - J.league Div.2 2006/2007,Montedio Yamagata,Consadole Sapporo,0,1,0-1,1-0,1,0,2,1
-1751044,2026-10-21,J. LEAGUE 2,2007-07-07,Japan - J.league Div.2 2006/2007,Consadole Sapporo,Montedio Yamagata,1,1,1-1,1-1,2,1,X,2
-1751044,2026-10-21,J. LEAGUE 2,2007-03-25,Japan - J.league Div.2 2006/2007,Montedio Yamagata,Consadole Sapporo,0,1,0-1,1-0,1,0,2,2
-1751053,2026-10-21,J. LEAGUE 2,2024-09-15,Japan - J. League 2 2023/2024,Yokohama FC,Ventforet Kofu,1,0,1-0,0-0,1,0,1,4
-1751053,2026-10-21,J. LEAGUE 2,2024-05-25,Japan - J. League 2 2023/2024,Ventforet Kofu,Yokohama FC,1,2,1-2,1-1,3,1,2,7
-1751053,2026-10-21,J. LEAGUE 2,2022-09-18,Japan - J. League 2 2021/2022,Yokohama FC,Ventforet Kofu,1,0,1-0,0-0,1,0,1,5
-1751053,2026-10-21,J. LEAGUE 2,2022-03-26,Japan - J. League 2 2021/2022,Ventforet Kofu,Yokohama FC,1,2,1-2,2-0,3,1,2,5
-1751053,2026-10-21,J. LEAGUE 2,2019-09-07,Japan - J2 League 2018/2019,Yokohama FC,Ventforet Kofu,3,2,3-2,1-1,5,1,1,5
-1751053,2026-10-21,J. LEAGUE 2,2019-05-25,Japan - J2 League 2018/2019,Ventforet Kofu,Yokohama FC,2,1,2-1,0-1,3,1,1,3
-1751053,2026-10-21,J. LEAGUE 2,2018-11-17,Japan - J2 League 2017/2018,Ventforet Kofu,Yokohama FC,0,1,0-1,0-0,1,0,2,1
-1751053,2026-10-21,J. LEAGUE 2,2018-06-24,Japan - J2 League 2017/2018,Yokohama FC,Ventforet Kofu,1,0,1-0,0-0,1,0,1,1
-1751053,2026-10-21,J. LEAGUE 2,2012-08-26,Japan - J.league Div.2 2011/2012,Ventforet Kofu,Yokohama FC,2,1,2-1,1-0,3,1,1,3
-1751053,2026-10-21,J. LEAGUE 2,2012-03-25,Japan - J.league Div.2 2011/2012,Yokohama FC,Ventforet Kofu,0,2,0-2,1-0,2,0,2,2
-1751053,2026-10-21,J. LEAGUE 2,2010-10-03,Japan - J.league Div.2 2009/2010,Ventforet Kofu,Yokohama FC,0,0,0-0,0-0,0,0,X,0
-1751053,2026-10-21,J. LEAGUE 2,2010-05-02,Japan - J.league Div.2 2009/2010,Yokohama FC,Ventforet Kofu,3,4,3-4,1-3,7,1,2,7
-1751053,2026-10-21,J. LEAGUE 2,2009-10-21,Japan - J.league Div.2 2008/2009,Ventforet Kofu,Yokohama FC,0,1,0-1,0-0,1,0,2,1
-1751053,2026-10-21,J. LEAGUE 2,2009-08-02,Japan - J.league Div.2 2008/2009,Ventforet Kofu,Yokohama FC,2,0,2-0,0-1,2,0,1,2
-1751053,2026-10-21,J. LEAGUE 2,2009-04-15,Japan - J.league Div.2 2008/2009,Yokohama FC,Ventforet Kofu,1,3,1-3,1-1,4,1,2,4
-1751053,2026-10-21,J. LEAGUE 2,2008-12-06,Japan - J.league Div.2 2007/2008,Yokohama FC,Ventforet Kofu,0,0,0-0,0-0,0,0,X,0
-1751053,2026-10-21,J. LEAGUE 2,2008-07-09,Japan - J.league Div.2 2007/2008,Yokohama FC,Ventforet Kofu,0,0,0-0,0-0,0,0,X,0
-1751053,2026-10-21,J. LEAGUE 2,2008-05-06,Japan - J.league Div.2 2007/2008,Ventforet Kofu,Yokohama FC,2,1,2-1,0-2,3,1,1,3
-1751053,2026-10-21,J. LEAGUE 2,2007-08-15,Japan - J.league Div.1 2006/2007,Yokohama FC,Ventforet Kofu,0,2,0-2,1-0,2,0,2,3
-1751053,2026-10-21,J. LEAGUE 2,2007-05-03,Japan - J.league Div.1 2006/2007,Ventforet Kofu,Yokohama FC,1,0,1-0,0-0,1,0,1,1
-1751047,2026-10-21,J. LEAGUE 2,2025-08-02,Japan - J. League 2 2024/2025,Kataller Toyama,Omiya Ardija,0,2,0-2,1-0,2,0,2,7
-1751047,2026-10-21,J. LEAGUE 2,2025-05-03,Japan - J. League 2 2024/2025,Omiya Ardija,Kataller Toyama,2,2,2-2,1-1,4,1,X,6
-1751047,2026-10-21,J. LEAGUE 2,2024-11-24,Japan - J. League 3 2023/2024,Omiya Ardija,Kataller Toyama,1,2,1-2,2-0,3,1,2,3
-1751047,2026-10-21,J. LEAGUE 2,2024-06-16,Japan - J. League 3 2023/2024,Kataller Toyama,Omiya Ardija,1,1,1-1,0-0,2,1,X,2
-1751052,2026-10-21,J. LEAGUE 2,2025-11-02,Japan - J. League 2 2024/2025,FC Imabari,Vegalta Sendai,3,2,3-2,3-3,5,1,1,9
-1751052,2026-10-21,J. LEAGUE 2,2025-04-12,Japan - J. League 2 2024/2025,Vegalta Sendai,FC Imabari,0,0,0-0,0-0,0,0,X,2
-1751048,2026-10-21,J. LEAGUE 2,2026-05-30,Japan - J. League 2/3 100 Year Vision League Placement Matches 2026/2026,Shonan Bellmare,Iwaki FC,1,2,1-2,1-0,3,1,2,3
-1751051,2026-10-21,J. LEAGUE 2,2026-10-17,Japan - J. League 2 2025/2025,Vegalta Sendai,Tokushima Vortis,0,0,0-0,0-0,0,0,X,0
-1751051,2026-10-21,J. LEAGUE 2,2026-10-10,Japan - J. League 2 2025/2025,Tokushima Vortis,FC Imabari,1,2,1-2,1-0,3,1,2,3
-1751051,2026-10-21,J. LEAGUE 2,2026-10-03,Japan - J. League 2 2025/2025,Albirex Niigata,Tokushima Vortis,2,1,2-1,1-2,3,1,1,0
-1751051,2026-10-21,J. LEAGUE 2,2026-09-26,Japan - J. League 2 2025/2025,Tokushima Vortis,Tochigi Uva FC,3,0,3-0,0-1,3,0,1,3
-1751051,2026-10-21,J. LEAGUE 2,2026-09-23,Japan - Cup 2026/2026,G-Osaka,Tokushima Vortis,5,0,5-0,0-1,5,0,1,0
-1751051,2026-10-21,J. LEAGUE 2,2026-09-19,Japan - J. League 2 2025/2025,Ventforet Kofu,Tokushima Vortis,0,1,0-1,0-0,1,0,2,1
-1751051,2026-10-21,J. LEAGUE 2,2026-09-12,Japan - J. League 2 2025/2025,Blaublitz Akita,Tokushima Vortis,4,1,4-1,1-4,5,1,1,5
-1751051,2026-10-21,J. LEAGUE 2,2026-09-05,Japan - J. League 2 2025/2025,Tokushima Vortis,Iwaki FC,1,0,1-0,0-1,1,0,1,1
-1751051,2026-10-21,J. LEAGUE 2,2026-09-02,Japan - League Cup 2026/2026,FC Gifu,Tokushima Vortis,0,0,0-0,0-0,0,0,X,0
-1751051,2026-10-21,J. LEAGUE 2,2026-08-29,Japan - J. League 2 2025/2025,Tokushima Vortis,Oita Trinita,1,0,1-0,0-0,1,0,1,1
-1751050,2026-10-21,J. LEAGUE 2,2013-07-21,Japan - Football League 2012/2013,Fujieda MYFC,Tochigi Uva FC,2,0,2-0,0-2,2,0,1,3
-1751050,2026-10-21,J. LEAGUE 2,2013-05-12,Japan - Football League 2012/2013,Tochigi Uva FC,Fujieda MYFC,1,2,1-2,0-1,3,1,2,3
-1751049,2026-10-21,J. LEAGUE 2,2026-10-17,Japan - J. League 2 2025/2025,Tegevajaro Miyazaki,Jubilo Iwata,1,1,1-1,1-1,2,1,X,2
-1751049,2026-10-21,J. LEAGUE 2,2026-10-11,Japan - J. League 2 2025/2025,Kataller Toyama,Tegevajaro Miyazaki,1,1,1-1,0-1,2,1,X,2
-1751049,2026-10-21,J. LEAGUE 2,2026-10-07,Japan - Cup 2026/2026,Kawasaki Frontale,Tegevajaro Miyazaki,2,0,2-0,0-1,2,0,1,0
-1751049,2026-10-21,J. LEAGUE 2,2026-10-04,Japan - J. League 2 2025/2025,Tegevajaro Miyazaki,Omiya Ardija,1,1,1-1,0-1,2,1,X,0
-1751049,2026-10-21,J. LEAGUE 2,2026-09-26,Japan - J. League 2 2025/2025,Tegevajaro Miyazaki,Consadole Sapporo,3,2,3-2,0-2,5,1,1,5
-1751049,2026-10-21,J. LEAGUE 2,2026-09-18,Japan - J. League 2 2025/2025,Vanraure Hachinohe,Tegevajaro Miyazaki,0,3,0-3,1-0,3,0,2,3
-1751049,2026-10-21,J. LEAGUE 2,2026-09-12,Japan - J. League 2 2025/2025,Tegevajaro Miyazaki,Fujieda MYFC,3,2,3-2,0-2,5,1,1,5
-1751049,2026-10-21,J. LEAGUE 2,2026-09-05,Japan - J. League 2 2025/2025,Sagan Tosu,Tegevajaro Miyazaki,2,0,2-0,0-0,2,0,1,2
-1751049,2026-10-21,J. LEAGUE 2,2026-09-02,Japan - League Cup 2026/2026,Tegevajaro Miyazaki,Kataller Toyama,1,2,1-2,1-1,3,1,2,3
-1751049,2026-10-21,J. LEAGUE 2,2026-08-29,Japan - J. League 2 2025/2025,Vegalta Sendai,Tegevajaro Miyazaki,4,2,4-2,1-3,6,1,1,6
-1750955,2026-10-21,PREMIER LEAGUE,2025-11-02,Egypt - 1. Division 2025/2026,Ceramica Cleopatra,Petrojet,2,1,2-1,0-0,3,1,1,4
-1750955,2026-10-21,PREMIER LEAGUE,2025-05-21,Egypt - League Cup 2024/2025,Petrojet,Ceramica Cleopatra,1,0,1-0,0-1,1,0,1,1
-1750955,2026-10-21,PREMIER LEAGUE,2025-05-05,Egypt - Premier League Championship Group 2024/2025,Petrojet,Ceramica Cleopatra,0,2,0-2,0-0,2,0,2,3
-1750955,2026-10-21,PREMIER LEAGUE,2025-04-24,Egypt - League Cup 2024/2025,Ceramica Cleopatra,Petrojet,4,1,4-1,0-2,5,1,1,5
-1750955,2026-10-21,PREMIER LEAGUE,2025-02-28,Egypt - D1 Relegation P.off 2024/2025,Ceramica Cleopatra,Petrojet,4,1,4-1,1-3,5,1,1,5
-1750953,2026-10-21,PREMIER LEAGUE,2026-05-18,Egypt - Premier League Relegation Round 2025/2026,Ghazl El-Mahalla,Al-Ittihad Alexandria,1,0,1-0,0-0,1,0,1,0
-1750953,2026-10-21,PREMIER LEAGUE,2026-03-02,Egypt - 1. Division 2025/2026,Al-Ittihad Alexandria,Ghazl El-Mahalla,2,0,2-0,0-0,2,0,1,9
-1750953,2026-10-21,PREMIER LEAGUE,2025-05-10,Egypt - Premier League Relegation Group 2024/2025,Al-Ittihad Alexandria,Ghazl El-Mahalla,0,0,0-0,0-0,0,0,X,0
-1750953,2026-10-21,PREMIER LEAGUE,2024-12-21,Egypt - D1 Relegation P.off 2024/2025,Ghazl El-Mahalla,Al-Ittihad Alexandria,0,0,0-0,0-0,0,0,X,0
-1750953,2026-10-21,PREMIER LEAGUE,2023-03-31,Egypt - Premier League 2022/2023,Ghazl El-Mahalla,Al-Ittihad Alexandria,2,0,2-0,0-1,2,0,1,2
-1750953,2026-10-21,PREMIER LEAGUE,2022-11-30,Egypt - Premier League 2022/2023,Al-Ittihad Alexandria,Ghazl El-Mahalla,0,2,0-2,2-0,2,0,2,2
-1750953,2026-10-21,PREMIER LEAGUE,2022-08-30,Egypt - Premier League 2021/2022,Ghazl El-Mahalla,Al-Ittihad Alexandria,1,1,1-1,0-1,2,1,X,2
-1750953,2026-10-21,PREMIER LEAGUE,2022-04-30,Egypt - Premier League 2021/2022,Al-Ittihad Alexandria,Ghazl El-Mahalla,3,0,3-0,0-1,3,0,1,4
-1750953,2026-10-21,PREMIER LEAGUE,2021-06-25,Egypt - Premier League 2020/2021,Ghazl El-Mahalla,Al-Ittihad Alexandria,1,1,1-1,1-0,2,1,X,2
-1750953,2026-10-21,PREMIER LEAGUE,2021-03-09,Egypt - Premier League 2020/2021,Al-Ittihad Alexandria,Ghazl El-Mahalla,0,0,0-0,0-0,0,0,X,0
-1750953,2026-10-21,PREMIER LEAGUE,2016-05-03,Egypt - Division 1 2015/2016,Al-Ittihad Alexandria,Ghazl El-Mahalla,1,1,1-1,0-1,2,1,X,4
-1750953,2026-10-21,PREMIER LEAGUE,2015-12-20,Egypt - Division 1 2015/2016,Ghazl El-Mahalla,Al-Ittihad Alexandria,0,1,0-1,1-0,1,0,2,2
-1751189,2026-10-21,COPA SUDAMERICANA KNOCKOUT STAGE,2026-10-14,International - Copa Sudamericana Knockout Stage 2026/2026,Atletico Mineiro,Montevideo City Torque,3,0,3-0,0-2,3,0,1,4
-1751002,2026-10-21,1. DIVISION,2026-06-21,Norway - 1. Division 2026/2026,Raufoss,Sogndal,3,1,3-1,1-2,4,1,1,6
-1751002,2026-10-21,1. DIVISION,2026-03-21,International - Club Friendlies 2026/2026,Sogndal,Raufoss,1,1,1-1,0-1,2,1,X,0
-1751002,2026-10-21,1. DIVISION,2025-10-22,Norway - 1. Division 2025/2025,Raufoss,Sogndal,1,3,1-3,1-1,4,1,2,5
-1751002,2026-10-21,1. DIVISION,2025-05-31,Norway - 1. Divisjon 2024/2025,Sogndal,Raufoss,2,2,2-2,0-1,4,1,X,8
-1751002,2026-10-21,1. DIVISION,2024-09-02,Norway - 1. Divisjon 2023/2024,Raufoss,Sogndal,4,1,4-1,0-2,5,1,1,6
-1751002,2026-10-21,1. DIVISION,2024-05-22,Norway - 1. Divisjon 2023/2024,Sogndal,Raufoss,1,1,1-1,0-1,2,1,X,5
-1751002,2026-10-21,1. DIVISION,2023-08-23,Norway - 1. Divisjon 2022/2023,Raufoss,Sogndal,3,0,3-0,0-1,3,0,1,7
-1751002,2026-10-21,1. DIVISION,2023-05-06,Norway - 1. Divisjon 2022/2023,Sogndal,Raufoss,2,1,2-1,0-1,3,1,1,5
-1751002,2026-10-21,1. DIVISION,2022-10-29,Norway - 1. Divisjon 2021/2022,Raufoss,Sogndal,0,3,0-3,1-0,3,0,2,4
-1751002,2026-10-21,1. DIVISION,2022-04-04,Norway - 1. Divisjon 2021/2022,Sogndal,Raufoss,2,0,2-0,0-1,2,0,1,6
-1751002,2026-10-21,1. DIVISION,2021-09-15,Norway - 1. Divisjon 2020/2021,Sogndal,Raufoss,2,1,2-1,0-0,3,1,1,5
-1751002,2026-10-21,1. DIVISION,2021-07-21,Norway - 1. Divisjon 2020/2021,Raufoss,Sogndal,1,2,1-2,1-0,3,1,2,4
-1751002,2026-10-21,1. DIVISION,2020-10-17,Norway - 1. Divisjon 2019/2020,Raufoss,Sogndal,2,1,2-1,0-2,3,1,1,4
-1751002,2026-10-21,1. DIVISION,2020-07-31,Norway - 1. Divisjon 2019/2020,Sogndal,Raufoss,1,0,1-0,0-1,1,0,1,3
-1751002,2026-10-21,1. DIVISION,2019-10-27,Norway - 1. Divisjon 2018/2019,Raufoss,Sogndal,1,1,1-1,1-1,2,1,X,2
-1751002,2026-10-21,1. DIVISION,2019-04-28,Norway - 1. Divisjon 2018/2019,Sogndal,Raufoss,1,3,1-3,2-0,4,1,2,4
-1751002,2026-10-21,1. DIVISION,2017-05-24,Norway - FA Cup 2016/2017,Raufoss,Sogndal,0,2,0-2,0-0,2,0,2,2
-1751002,2026-10-21,1. DIVISION,2016-02-05,Friendly Games - Friendly 2015/2016,Sogndal,Raufoss,1,1,1-1,0-1,2,1,X,2
-1751002,2026-10-21,1. DIVISION,2007-08-12,Norway - Division 2 2006/2007,Raufoss,Sogndal,3,2,3-2,2-0,5,1,1,5
-1751002,2026-10-21,1. DIVISION,2007-04-22,Norway - Division 2 2006/2007,Sogndal,Raufoss,2,1,2-1,0-1,3,1,1,3
-1751002,2026-10-21,1. DIVISION,2000-10-15,Norway - Division 2 1999/2000,Raufoss,Sogndal,0,2,0-2,1-0,2,0,2,5
-1751002,2026-10-21,1. DIVISION,2000-06-25,Norway - Division 2 1999/2000,Sogndal,Raufoss,1,0,1-0,0-1,1,0,1,2
-1751002,2026-10-21,1. DIVISION,1999-09-19,Norway - Division 2 1998/1999,Raufoss,Sogndal,3,2,3-2,1-1,5,1,1,5
-1751002,2026-10-21,1. DIVISION,1999-06-13,Norway - Division 2 1998/1999,Sogndal,Raufoss,2,2,2-2,2-2,4,1,X,4
-1746053,2026-10-21,FA CUP,2022-11-08,Slovakia - FA Cup 2022/2023,KFC Komarno,FC ViOn Zlate Moravce,2,0,2-0,0-0,2,0,1,2
-1750992,2026-10-21,PREMIER LEAGUE,2026-09-06,Singapore - Community Shield 2026/2026,Lion City Sailors,Tampines Rovers FC,2,0,2-0,0-2,2,0,1,4
-1750992,2026-10-21,PREMIER LEAGUE,2026-05-17,Singapore - Premier League 2025/2026,Tampines Rovers FC,Lion City Sailors,3,2,3-2,0-0,5,1,1,10
-1750992,2026-10-21,PREMIER LEAGUE,2026-05-03,Singapore - Premier League 2025/2026,Tampines Rovers FC,Lion City Sailors,0,0,0-0,0-0,0,0,X,3
-1750992,2026-10-21,PREMIER LEAGUE,2026-02-22,Singapore - Premier League 2025/2026,Lion City Sailors,Tampines Rovers FC,1,1,1-1,1-1,2,1,X,2
-1750992,2026-10-21,PREMIER LEAGUE,2026-01-10,Singapore - Cup Final Stage 2025/2026,Lion City Sailors,Tampines Rovers FC,2,0,2-0,0-0,2,0,1,2
-1750992,2026-10-21,PREMIER LEAGUE,2025-05-31,Singapore - Cup 2024/2025,Tampines Rovers FC,Lion City Sailors,0,1,0-1,0-0,1,0,2,2
-1750992,2026-10-21,PREMIER LEAGUE,2025-05-24,Singapore - Premier League 2023/2024,Tampines Rovers FC,Lion City Sailors,0,0,0-0,0-0,0,0,X,0
-1750992,2026-10-21,PREMIER LEAGUE,2025-02-26,Singapore - Premier League 2023/2024,Lion City Sailors,Tampines Rovers FC,1,0,1-0,0-0,1,0,1,1
-1750992,2026-10-21,PREMIER LEAGUE,2024-09-29,Singapore - Premier League 2023/2024,Tampines Rovers FC,Lion City Sailors,2,2,2-2,1-0,4,1,X,4
-1750992,2026-10-21,PREMIER LEAGUE,2024-07-18,Singapore - Premier League 2023/2024,Lion City Sailors,Tampines Rovers FC,0,5,0-5,2-0,5,0,2,5
-1750992,2026-10-21,PREMIER LEAGUE,2023-12-06,Singapore - Cup 2023/2024,Lion City Sailors,Tampines Rovers FC,3,0,3-0,0-1,3,0,1,4
-1750992,2026-10-21,PREMIER LEAGUE,2023-12-03,Singapore - Cup 2023/2024,Tampines Rovers FC,Lion City Sailors,3,3,3-3,2-2,6,1,X,6
-1750992,2026-10-21,PREMIER LEAGUE,2023-08-04,Singapore - Premier League 2022/2023,Tampines Rovers FC,Lion City Sailors,2,5,2-5,3-0,7,1,2,7
-1750992,2026-10-21,PREMIER LEAGUE,2023-06-07,Singapore - Premier League 2022/2023,Lion City Sailors,Tampines Rovers FC,1,1,1-1,0-0,2,1,X,3
-1750992,2026-10-21,PREMIER LEAGUE,2023-03-31,Singapore - Premier League 2022/2023,Tampines Rovers FC,Lion City Sailors,4,3,4-3,1-2,7,1,1,7
-1750992,2026-10-21,PREMIER LEAGUE,2022-09-10,Singapore - S.league 2021/2022,Tampines Rovers FC,Lion City Sailors,2,1,2-1,0-0,3,1,1,3
-1750992,2026-10-21,PREMIER LEAGUE,2022-07-24,Singapore - S.league 2021/2022,Lion City Sailors,Tampines Rovers FC,2,1,2-1,0-1,3,1,1,3
-1750992,2026-10-21,PREMIER LEAGUE,2022-05-21,Singapore - S.league 2021/2022,Tampines Rovers FC,Lion City Sailors,0,4,0-4,1-0,4,0,2,4
-1750992,2026-10-21,PREMIER LEAGUE,2022-03-13,Singapore - S.league 2021/2022,Lion City Sailors,Tampines Rovers FC,1,0,1-0,0-0,1,0,1,1
-1750992,2026-10-21,PREMIER LEAGUE,2021-09-21,Singapore - S.league 2020/2021,Tampines Rovers FC,Lion City Sailors,1,6,1-6,1-0,7,1,2,7
-1750992,2026-10-21,PREMIER LEAGUE,2021-08-15,Singapore - S.league 2020/2021,Lion City Sailors,Tampines Rovers FC,4,1,4-1,0-2,5,1,1,5
-1750992,2026-10-21,PREMIER LEAGUE,2021-03-13,Singapore - S.league 2020/2021,Lion City Sailors,Tampines Rovers FC,3,3,3-3,1-2,6,1,X,6
-1750992,2026-10-21,PREMIER LEAGUE,2020-12-02,Singapore - S.league 2019/2020,Lion City Sailors,Tampines Rovers FC,1,1,1-1,0-1,2,1,X,2
-1750992,2026-10-21,PREMIER LEAGUE,2020-03-18,Singapore - S.league 2019/2020,Tampines Rovers FC,Lion City Sailors,4,0,4-0,0-0,4,0,1,4
-1749184,2026-10-21,LIGA MX FEMENIL APERTURA GROUP B,2026-02-06,Mexico - Liga Mx Femenil Clausura 2025/2026,Necaxa (w),Guadalajara-Chivas (w),0,2,0-2,1-0,2,0,2,2
-1749184,2026-10-21,LIGA MX FEMENIL APERTURA GROUP B,2025-11-01,Mexico - Liga Mx Femenil Apertura 2025/2026,Guadalajara-Chivas (w),Necaxa (w),4,0,4-0,1-1,4,0,1,4
-1749184,2026-10-21,LIGA MX FEMENIL APERTURA GROUP B,2025-01-07,Mexico - Liga Mx Femenil Clausura Women 2024/2025,Necaxa (w),Guadalajara-Chivas (w),0,3,0-3,1-0,3,0,2,3
-1749184,2026-10-21,LIGA MX FEMENIL APERTURA GROUP B,2024-09-08,Mexico - Liga Mx Femenil Apertura Women 2024/2025,Guadalajara-Chivas (w),Necaxa (w),3,1,3-1,1-0,4,1,1,4
-1749184,2026-10-21,LIGA MX FEMENIL APERTURA GROUP B,2024-03-05,Mexico - Liga Mx Femenil Clausura Women 2023/2024,Guadalajara-Chivas (w),Necaxa (w),4,0,4-0,0-3,4,0,1,4
-1749184,2026-10-21,LIGA MX FEMENIL APERTURA GROUP B,2023-08-13,Mexico - Liga Mx Femenil Apertura Women 2023/2024,Necaxa (w),Guadalajara-Chivas (w),0,3,0-3,2-0,3,0,2,3
-1749184,2026-10-21,LIGA MX FEMENIL APERTURA GROUP B,2023-01-17,Mexico - Liga Mx Femenil Clausura Women 2022/2023,Necaxa (w),Guadalajara-Chivas (w),1,4,1-4,1-1,5,1,2,5
-1749184,2026-10-21,LIGA MX FEMENIL APERTURA GROUP B,2022-07-17,Mexico - Liga Mx Femenil Apertura Women 2022/2023,Guadalajara-Chivas (w),Necaxa (w),3,0,3-0,0-1,3,0,1,3
-1749184,2026-10-21,LIGA MX FEMENIL APERTURA GROUP B,2022-01-28,Mexico - Liga MX Femenil Clausura Women 2021/2022,Necaxa (w),Guadalajara-Chivas (w),0,3,0-3,3-0,3,0,2,3
-1749184,2026-10-21,LIGA MX FEMENIL APERTURA GROUP B,2021-08-15,Mexico - Liga MX Femenil Apertura Women 2021/2022,Guadalajara-Chivas (w),Necaxa (w),6,0,6-0,0-3,6,0,1,6
-1749184,2026-10-21,LIGA MX FEMENIL APERTURA GROUP B,2021-02-12,Mexico - Liga MX Clausura Women 2020/2021,Necaxa (w),Guadalajara-Chivas (w),0,2,0-2,1-0,2,0,2,2
-1749184,2026-10-21,LIGA MX FEMENIL APERTURA GROUP B,2020-08-23,Mexico - Liga MX Apertura Women 2020/2021,Guadalajara-Chivas (w),Necaxa (w),2,0,2-0,0-2,2,0,1,2
-1740044,2026-10-21,SEGUNDA FEDERACION - GROUP 2,2026-04-03,Spain - Segunda Federacion - Group 3 2025/2026,Terrassa,Girona B,0,0,0-0,0-0,0,0,X,0
-1740044,2026-10-21,SEGUNDA FEDERACION - GROUP 2,2025-09-28,Spain - Segunda Federacion - Group 3 2025/2026,Girona B,Terrassa,4,2,4-2,1-1,6,1,1,6
-1750977,2026-10-21,PREMIER LEAGUE - OPENING,2026-04-26,Malta - Premier League - Closing - Relegation Group 2025/2026,Zabbar St Patrick,Sliema Wanderers,1,1,1-1,1-1,2,1,X,2
-1750977,2026-10-21,PREMIER LEAGUE - OPENING,2026-01-16,Malta - Premier League - Closing 2025/2026,Sliema Wanderers,Zabbar St Patrick,1,0,1-0,0-0,1,0,1,0
-1750977,2026-10-21,PREMIER LEAGUE - OPENING,2025-08-16,Malta - Premier League - Opening 2025/2026,Zabbar St Patrick,Sliema Wanderers,1,2,1-2,1-1,3,1,2,0
-1750977,2026-10-21,PREMIER LEAGUE - OPENING,2025-01-04,Malta - Premier League-closing 2024/2025,Zabbar St Patrick,Sliema Wanderers,1,0,1-0,0-1,1,0,1,1
-1750977,2026-10-21,PREMIER LEAGUE - OPENING,2024-10-20,Malta - Challenge League Relegation Playoff 2024/2025,Sliema Wanderers,Zabbar St Patrick,2,0,2-0,0-2,2,0,1,2
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2026-01-16,Malta - Premier League - Closing 2025/2026,Mosta FC,Valletta FC,0,5,0-5,1-0,5,0,2,0
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2025-09-24,Malta - Premier League - Opening 2025/2026,Valletta FC,Mosta FC,4,1,4-1,0-0,5,1,1,0
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2024-02-17,Malta - Challenge League Championship Final 2023/2024,Mosta FC,Valletta FC,1,0,1-0,0-0,1,0,1,0
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2023-09-30,Malta - Challenge League Championship Final 2023/2024,Valletta FC,Mosta FC,1,1,1-1,1-0,2,1,X,2
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2023-02-19,Malta - Challenge League Championship Final 2022/2023,Valletta FC,Mosta FC,0,0,0-0,0-0,0,0,X,0
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2022-10-15,Malta - Challenge League Championship Final 2022/2023,Mosta FC,Valletta FC,3,1,3-1,0-0,4,1,1,4
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2022-04-30,Malta - Premier League Relegation Group 2021/2022,Valletta FC,Mosta FC,2,3,2-3,3-0,5,1,2,5
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2022-03-05,Malta - Challenge League Group B 2021/2022,Mosta FC,Valletta FC,2,2,2-2,0-0,4,1,X,4
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2021-11-27,Malta - Challenge League Group B 2021/2022,Valletta FC,Mosta FC,3,1,3-1,0-2,4,1,1,4
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2020-12-09,Malta - Premier League 2020/2021,Mosta FC,Valletta FC,2,2,2-2,2-2,4,1,X,4
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2019-11-24,Malta - Premier League 2019/2020,Mosta FC,Valletta FC,0,4,0-4,2-0,4,0,2,4
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2019-03-13,Malta - Pr Promotion P.Off 2018/2019,Mosta FC,Valletta FC,0,1,0-1,1-0,1,0,2,1
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2018-10-27,Malta - Pr Promotion P.Off 2018/2019,Valletta FC,Mosta FC,5,0,5-0,0-2,5,0,1,5
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2017-12-16,Malta - Pr Relegation P.Off 2017/2018,Mosta FC,Valletta FC,0,1,0-1,1-0,1,0,2,1
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2017-08-19,Malta - Pr Relegation P.Off 2017/2018,Valletta FC,Mosta FC,1,0,1-0,0-1,1,0,1,2
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2017-03-05,Malta - Premier League 2016/2017,Mosta FC,Valletta FC,0,4,0-4,2-0,4,0,2,4
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2016-11-27,Malta - Premier League 2016/2017,Valletta FC,Mosta FC,0,0,0-0,0-0,0,0,X,0
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2016-08-26,Malta - Premier League 2016/2017,Mosta FC,Valletta FC,0,1,0-1,0-0,1,0,2,3
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2016-07-29,Malta - Summer Cup 2016/2017,Mosta FC,Valletta FC,0,3,0-3,1-0,3,0,2,3
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2016-03-20,Malta - Premier League 2015/2016,Mosta FC,Valletta FC,1,2,1-2,2-0,3,1,2,3
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2016-02-05,Malta - Premier League 2015/2016,Valletta FC,Mosta FC,3,0,3-0,0-1,3,0,1,3
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2015-11-03,Malta - Premier League 2015/2016,Mosta FC,Valletta FC,2,2,2-2,1-0,4,1,X,5
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2015-03-19,Malta - Premier League 2014/2015,Valletta FC,Mosta FC,3,1,3-1,0-1,4,1,1,4
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2015-02-13,Malta - FA Trophy 2014/2015,Mosta FC,Valletta FC,1,3,1-3,1-1,4,1,2,5
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2014-11-23,Malta - Premier League 2014/2015,Valletta FC,Mosta FC,5,0,5-0,0-3,5,0,1,5
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2014-08-17,Malta - Premier League 2014/2015,Mosta FC,Valletta FC,1,0,1-0,0-1,1,0,1,1
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2014-04-12,Malta - Premier League 2013/2014,Mosta FC,Valletta FC,0,5,0-5,3-0,5,0,2,5
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2014-03-11,Malta - Premier League 2013/2014,Valletta FC,Mosta FC,2,2,2-2,1-1,4,1,X,4
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2014-01-22,Malta - FA Trophy 2013/2014,Valletta FC,Mosta FC,3,0,3-0,0-0,3,0,1,3
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2013-11-24,Malta - Premier League 2013/2014,Mosta FC,Valletta FC,0,0,0-0,0-0,0,0,X,0
-1750976,2026-10-21,PREMIER LEAGUE - OPENING,2013-08-18,Malta - Premier League 2013/2014,Valletta FC,Mosta FC,0,0,0-0,0-0,0,0,X,0
-1750974,2026-10-21,PREMIER LEAGUE - OPENING,2025-02-22,Malta - Premier League-closing 2024/2025,Hamrun Spartans,Balzan FC,1,0,1-0,0-0,1,0,1,1
-1750974,2026-10-21,PREMIER LEAGUE - OPENING,2024-09-21,Malta - Challenge League Relegation Playoff 2024/2025,Balzan FC,Hamrun Spartans,1,1,1-1,1-0,2,1,X,2
-1750974,2026-10-21,PREMIER LEAGUE - OPENING,2024-01-27,Malta - Challenge League Championship Final 2023/2024,Balzan FC,Hamrun Spartans,1,7,1-7,2-1,8,1,2,0
-1750974,2026-10-21,PREMIER LEAGUE - OPENING,2023-09-16,Malta - Challenge League Championship Final 2023/2024,Hamrun Spartans,Balzan FC,1,0,1-0,0-0,1,0,1,1
-1750974,2026-10-21,PREMIER LEAGUE - OPENING,2023-04-01,Malta - Challenge League Championship Final 2022/2023,Balzan FC,Hamrun Spartans,0,4,0-4,3-0,4,0,2,4
-1750974,2026-10-21,PREMIER LEAGUE - OPENING,2022-11-06,Malta - Challenge League Championship Final 2022/2023,Hamrun Spartans,Balzan FC,1,0,1-0,0-0,1,0,1,1
-1750974,2026-10-21,PREMIER LEAGUE - OPENING,2022-01-22,Malta - Challenge League Group B 2021/2022,Balzan FC,Hamrun Spartans,2,2,2-2,0-2,4,1,X,5
-1750974,2026-10-21,PREMIER LEAGUE - OPENING,2021-09-19,Malta - Challenge League Group B 2021/2022,Hamrun Spartans,Balzan FC,0,1,0-1,1-0,1,0,2,1
-1750974,2026-10-21,PREMIER LEAGUE - OPENING,2021-02-21,Malta - Premier League 2020/2021,Hamrun Spartans,Balzan FC,3,2,3-2,0-2,5,1,1,5
-1750974,2026-10-21,PREMIER LEAGUE - OPENING,2020-10-26,Malta - Premier League 2020/2021,Balzan FC,Hamrun Spartans,2,2,2-2,1-1,4,1,X,4
-1750974,2026-10-21,PREMIER LEAGUE - OPENING,2019-12-06,Malta - Premier League 2019/2020,Balzan FC,Hamrun Spartans,1,1,1-1,1-1,2,1,X,2
-1750974,2026-10-21,PREMIER LEAGUE - OPENING,2019-04-14,Malta - Pr Promotion P.Off 2018/2019,Hamrun Spartans,Balzan FC,1,1,1-1,0-0,2,1,X,2
-1750974,2026-10-21,PREMIER LEAGUE - OPENING,2018-11-23,Malta - Pr Promotion P.Off 2018/2019,Balzan FC,Hamrun Spartans,2,2,2-2,2-2,4,1,X,4
-1750974,2026-10-21,PREMIER LEAGUE - OPENING,2018-01-28,Malta - Pr Relegation P.Off 2017/2018,Balzan FC,Hamrun Spartans,2,0,2-0,0-1,2,0,1,2
-1750974,2026-10-21,PREMIER LEAGUE - OPENING,2017-09-16,Malta - Pr Relegation P.Off 2017/2018,Hamrun Spartans,Balzan FC,0,0,0-0,0-0,0,0,X,2
-1750974,2026-10-21,PREMIER LEAGUE - OPENING,2017-04-29,Malta - Premier League 2016/2017,Balzan FC,Hamrun Spartans,1,1,1-1,1-1,2,1,X,2
-1750974,2026-10-21,PREMIER LEAGUE - OPENING,2017-02-04,Malta - Premier League 2016/2017,Hamrun Spartans,Balzan FC,0,1,0-1,1-0,1,0,2,2
-1750974,2026-10-21,PREMIER LEAGUE - OPENING,2016-10-22,Malta - Premier League 2016/2017,Balzan FC,Hamrun Spartans,3,1,3-1,1-2,4,1,1,4
+1751181,2026-10-22,CONFERENCE LEAGUE,2020-12-09,Europe (UEFA) - UEFA Champions League 2020/2021,Ajax,Atalanta,0,1,0-1,0-0,1,0,2,6
+1751181,2026-10-22,CONFERENCE LEAGUE,2020-10-27,Europe (UEFA) - UEFA Champions League 2020/2021,Atalanta,Ajax,2,2,2-2,2-0,4,1,X,10
+1751187,2026-10-22,CONFERENCE LEAGUE,2026-10-18,France - Ligue 1 2026/2027,Lorient,Monaco,1,0,1-0,0-0,1,0,1,7
+1751187,2026-10-22,CONFERENCE LEAGUE,2026-10-15,International - Conference League 2026/2027,CSKA Sofia,Monaco,1,2,1-2,2-0,3,1,2,7
+1751187,2026-10-22,CONFERENCE LEAGUE,2026-10-10,France - Ligue 1 2026/2027,Monaco,Toulouse,2,2,2-2,0-2,4,1,X,8
+1751187,2026-10-22,CONFERENCE LEAGUE,2026-10-03,International - Club Friendlies 2026/2026,Monaco,Pisa,2,0,2-0,0-0,2,0,1,0
+1751187,2026-10-22,CONFERENCE LEAGUE,2026-09-18,France - Ligue 1 2026/2027,Monaco,Lens,2,1,2-1,0-1,3,1,1,5
+1751187,2026-10-22,CONFERENCE LEAGUE,2026-09-12,France - Ligue 1 2026/2027,Strasbourg,Monaco,1,1,1-1,0-0,2,1,X,4
+1751187,2026-10-22,CONFERENCE LEAGUE,2026-09-04,France - Ligue 1 2026/2027,Paris Saint Germain,Monaco,1,2,1-2,0-1,3,1,2,1
+1751187,2026-10-22,CONFERENCE LEAGUE,2026-08-30,France - Ligue 1 2026/2027,Monaco,Marseille,2,0,2-0,0-1,2,0,1,4
+1751187,2026-10-22,CONFERENCE LEAGUE,2026-08-27,International - Conference League Playoff Round 2026/2027,Monaco,Gornik Zabrze,4,1,4-1,0-2,5,1,1,5
+1751187,2026-10-22,CONFERENCE LEAGUE,2026-08-23,France - Ligue 1 2026/2027,Le Havre,Monaco,0,1,0-1,1-0,1,0,2,6
+1751172,2026-10-22,CONFERENCE LEAGUE,2019-08-13,Europe (UEFA) - UEFA Champions League 2019/2020,FC Copenhagen,Crvena Zvezda,6,7,6-7,1-1,13,1,2,26
+1751172,2026-10-22,CONFERENCE LEAGUE,2019-08-06,Europe (UEFA) - UEFA Champions League 2019/2020,Crvena Zvezda,FC Copenhagen,1,1,1-1,0-1,2,1,X,8
+1751170,2026-10-22,CONFERENCE LEAGUE,2026-10-18,Kazakhstan - Premier League 2026/2026,Kairat Almaty,Irtysh Pavlodar,5,0,5-0,0-3,5,0,1,0
+1751170,2026-10-22,CONFERENCE LEAGUE,2026-10-15,International - Conference League 2026/2027,Riga FC,Kairat Almaty,1,1,1-1,1-1,2,1,X,5
+1751170,2026-10-22,CONFERENCE LEAGUE,2026-10-10,Kazakhstan - Premier League 2026/2026,Kairat Almaty,Zhetysu,1,0,1-0,0-0,1,0,1,0
+1751170,2026-10-22,CONFERENCE LEAGUE,2026-09-17,Kazakhstan - Premier League 2026/2026,FC Astana,Kairat Almaty,1,0,1-0,0-1,1,0,1,0
+1751170,2026-10-22,CONFERENCE LEAGUE,2026-09-13,Kazakhstan - Premier League 2026/2026,Kairat Almaty,Tobol Kostanay,1,4,1-4,2-1,5,1,2,0
+1751170,2026-10-22,CONFERENCE LEAGUE,2026-09-09,Kazakhstan - Premier League 2026/2026,Kairat Almaty,Zhenis,3,0,3-0,0-1,3,0,1,0
+1751170,2026-10-22,CONFERENCE LEAGUE,2026-09-05,Kazakhstan - Premier League 2026/2026,Kaspiy Aktau,Kairat Almaty,0,3,0-3,2-0,3,0,2,0
+1751170,2026-10-22,CONFERENCE LEAGUE,2026-08-31,Kazakhstan - Premier League 2026/2026,Spartak Semey,Kairat Almaty,0,2,0-2,2-0,2,0,2,0
+1751170,2026-10-22,CONFERENCE LEAGUE,2026-08-27,International - Europa League Playoff Round 2026/2027,Anderlecht,Kairat Almaty,3,0,3-0,0-1,3,0,1,9
+1751170,2026-10-22,CONFERENCE LEAGUE,2026-08-20,International - Europa League Playoff Round 2026/2027,Kairat Almaty,Anderlecht,0,3,0-3,3-0,3,0,2,9
+1751171,2026-10-22,CONFERENCE LEAGUE,2026-10-18,Denmark - Superligaen 2026/2027,Lyngby,FC Nordsjaelland,3,3,3-3,0-2,6,1,X,15
+1751171,2026-10-22,CONFERENCE LEAGUE,2026-10-17,Denmark - Ligaen U19 2026/2027,Broendby U19,FC Nordsjaelland,1,1,1-1,0-0,2,1,X,0
+1751171,2026-10-22,CONFERENCE LEAGUE,2026-10-15,International - Conference League 2026/2027,Hearts,FC Nordsjaelland,1,1,1-1,0-1,2,1,X,5
+1751171,2026-10-22,CONFERENCE LEAGUE,2026-10-09,Denmark - Superligaen 2026/2027,FC Nordsjaelland,Odense,0,0,0-0,0-0,0,0,X,1
+1751171,2026-10-22,CONFERENCE LEAGUE,2026-09-20,Denmark - Superligaen 2026/2027,Viborg,FC Nordsjaelland,4,1,4-1,1-3,5,1,1,7
+1751171,2026-10-22,CONFERENCE LEAGUE,2026-09-19,Denmark - Ligaen U19 2026/2027,FC Nordsjaelland,FC Copenhagen (u19),1,1,1-1,0-0,2,1,X,0
+1751171,2026-10-22,CONFERENCE LEAGUE,2026-09-16,Denmark - Dbu Pokalen 2026/2027,Vatanspor,FC Nordsjaelland,0,3,0-3,2-0,3,0,2,0
+1751171,2026-10-22,CONFERENCE LEAGUE,2026-09-13,Denmark - Superligaen 2026/2027,FC Nordsjaelland,AGF,2,0,2-0,0-0,2,0,1,6
+1751171,2026-10-22,CONFERENCE LEAGUE,2026-09-09,Denmark - Ligaen U19 2026/2027,Randers Freja,FC Nordsjaelland,3,2,3-2,0-0,5,1,1,0
+1751171,2026-10-22,CONFERENCE LEAGUE,2026-09-07,Denmark - Superligaen 2026/2027,FC Midtjylland,FC Nordsjaelland,2,2,2-2,0-0,4,1,X,5
+1751184,2026-10-22,CONFERENCE LEAGUE,2026-10-19,Denmark - Superligaen 2026/2027,Viborg,FC Midtjylland,1,2,1-2,0-0,3,1,2,9
+1751184,2026-10-22,CONFERENCE LEAGUE,2026-10-15,International - Conference League 2026/2027,FK Egnatia,FC Midtjylland,1,1,1-1,1-1,2,1,X,3
+1751184,2026-10-22,CONFERENCE LEAGUE,2026-10-11,Denmark - Superligaen 2026/2027,FC Midtjylland,FC Copenhagen,2,1,2-1,0-1,3,1,1,7
+1751184,2026-10-22,CONFERENCE LEAGUE,2026-09-19,Denmark - Superligaen 2026/2027,Odense,FC Midtjylland,1,1,1-1,1-0,2,1,X,7
+1751184,2026-10-22,CONFERENCE LEAGUE,2026-09-14,Denmark - Superligaen 2026/2027,FC Midtjylland,Brondby,4,1,4-1,0-2,5,1,1,10
+1751184,2026-10-22,CONFERENCE LEAGUE,2026-09-10,Denmark - Dbu Pokalen 2026/2027,Sundby BK,FC Midtjylland,0,7,0-7,5-0,7,0,2,0
+1751184,2026-10-22,CONFERENCE LEAGUE,2026-09-07,Denmark - Superligaen 2026/2027,FC Midtjylland,FC Nordsjaelland,2,2,2-2,0-0,4,1,X,5
+1751184,2026-10-22,CONFERENCE LEAGUE,2026-09-02,Denmark - Superligaen 2026/2027,AGF,FC Midtjylland,0,2,0-2,1-0,2,0,2,7
+1751184,2026-10-22,CONFERENCE LEAGUE,2026-08-30,Denmark - Superligaen 2026/2027,Silkeborg,FC Midtjylland,1,1,1-1,0-1,2,1,X,3
+1751184,2026-10-22,CONFERENCE LEAGUE,2026-08-27,International - Conference League Playoff Round 2026/2027,HNK Rijeka,FC Midtjylland,1,4,1-4,1-1,5,1,2,5
+1751179,2026-10-22,CONFERENCE LEAGUE,2026-10-19,Turkiye - Super Lig 2026/2027,Trabzonspor,Besiktas,2,0,2-0,0-1,2,0,1,7
+1751179,2026-10-22,CONFERENCE LEAGUE,2026-10-15,International - Conference League 2026/2027,KuPS,Trabzonspor,2,4,2-4,2-0,6,1,2,11
+1751179,2026-10-22,CONFERENCE LEAGUE,2026-10-10,Turkiye - Super Lig 2026/2027,Samsunspor,Trabzonspor,0,3,0-3,3-0,3,0,2,7
+1751179,2026-10-22,CONFERENCE LEAGUE,2026-09-19,Turkiye - Super Lig 2026/2027,Trabzonspor,Galatasaray,4,0,4-0,0-3,4,0,1,4
+1751179,2026-10-22,CONFERENCE LEAGUE,2026-09-12,Turkiye - Super Lig 2026/2027,Konyaspor,Trabzonspor,1,0,1-0,0-1,1,0,1,7
+1751179,2026-10-22,CONFERENCE LEAGUE,2026-09-06,Turkiye - Super Lig 2026/2027,Trabzonspor,Genclerbirligi,5,0,5-0,0-3,5,0,1,6
+1751179,2026-10-22,CONFERENCE LEAGUE,2026-08-31,Turkiye - Super Lig 2026/2027,Amedspor,Trabzonspor,2,1,2-1,1-1,3,1,1,9
+1751179,2026-10-22,CONFERENCE LEAGUE,2026-08-27,International - Europa League Playoff Round 2026/2027,Ferencvarosi TC,Trabzonspor,4,0,4-0,0-1,4,0,1,10
+1751179,2026-10-22,CONFERENCE LEAGUE,2026-08-23,Turkiye - Super Lig 2026/2027,Trabzonspor,Istanbul Basaksehir,2,1,2-1,1-1,3,1,1,10
+1751179,2026-10-22,CONFERENCE LEAGUE,2026-08-20,International - Europa League Playoff Round 2026/2027,Trabzonspor,Ferencvarosi TC,0,1,0-1,1-0,1,0,2,3
+1751178,2026-10-22,CONFERENCE LEAGUE,2022-03-26,Friendly Games - Club Friendlies 2021/2022,Pafos FC,Riga FC,5,4,5-4,0-2,9,1,1,9
+1751177,2026-10-22,CONFERENCE LEAGUE,2026-10-18,Czechia - 1. Liga 2026/2027,FK Jablonec,Viktoria Plzen,2,3,2-3,2-0,5,1,2,9
+1751177,2026-10-22,CONFERENCE LEAGUE,2026-10-15,International - Conference League 2026/2027,SC Freiburg,FK Jablonec,3,2,3-2,1-1,5,1,1,5
+1751177,2026-10-22,CONFERENCE LEAGUE,2026-10-10,Czechia - 1. Liga 2026/2027,Brno,FK Jablonec,0,1,0-1,0-0,1,0,2,4
+1751177,2026-10-22,CONFERENCE LEAGUE,2026-10-02,Czechia - Cup 2026/2027,Dukla Praha,FK Jablonec,0,1,0-1,1-0,1,0,2,0
+1751177,2026-10-22,CONFERENCE LEAGUE,2026-09-20,Czechia - 1. Liga 2026/2027,FK Jablonec,FC Fastav Zlin,1,1,1-1,1-0,2,1,X,1
+1751177,2026-10-22,CONFERENCE LEAGUE,2026-09-12,Czechia - 1. Liga 2026/2027,Sparta Praha,FK Jablonec,2,0,2-0,0-1,2,0,1,2
+1751177,2026-10-22,CONFERENCE LEAGUE,2026-09-09,Czechia - 1. Liga 2026/2027,FK Jablonec,Banik Ostrava,3,0,3-0,0-1,3,0,1,7
+1751177,2026-10-22,CONFERENCE LEAGUE,2026-09-06,Czechia - 1. Liga 2026/2027,FK Jablonec,Slovan Liberec,1,2,1-2,0-0,3,1,2,9
+1751177,2026-10-22,CONFERENCE LEAGUE,2026-09-02,Czechia - 1. Liga 2026/2027,Bohemians 1905,FK Jablonec,1,1,1-1,1-0,2,1,X,7
+1751177,2026-10-22,CONFERENCE LEAGUE,2026-08-30,Czechia - 1. Liga 2026/2027,Teplice,FK Jablonec,2,0,2-0,0-0,2,0,1,5
+1751161,2026-10-22,EUROPA LEAGUE,2016-09-03,Friendly Games - Friendly 2016/2017,Bournemouth,AC Milan,1,2,1-2,0-0,3,1,2,3
+1751162,2026-10-22,EUROPA LEAGUE,2002-12-12,Europe (UEFA) - UEFA Cup 2002/2003,Celta Vigo,Celtic,2,1,2-1,1-1,3,1,1,3
+1751162,2026-10-22,EUROPA LEAGUE,2002-11-28,Europe (UEFA) - UEFA Cup 2002/2003,Celtic,Celta Vigo,1,0,1-0,0-0,1,0,1,1
+1751167,2026-10-22,EUROPA LEAGUE,2026-10-18,Greece - Super League 2026/2027,Panaitolikos,Olympiakos Piraeus,0,2,0-2,1-0,2,0,2,3
+1751167,2026-10-22,EUROPA LEAGUE,2026-10-15,International - Europa League 2026/2027,Marseille,Olympiakos Piraeus,0,1,0-1,1-0,1,0,2,4
+1751167,2026-10-22,EUROPA LEAGUE,2026-10-11,Greece - Super League 2026/2027,Olympiakos Piraeus,Panathinaikos,1,0,1-0,0-1,1,0,1,7
+1751167,2026-10-22,EUROPA LEAGUE,2026-09-20,Greece - Super League 2026/2027,Levadiakos,Olympiakos Piraeus,0,1,0-1,0-0,1,0,2,6
+1751167,2026-10-22,EUROPA LEAGUE,2026-09-16,International - Europa League 2026/2027,Olympiakos Piraeus,Jagiellonia,2,1,2-1,1-1,3,1,1,4
+1751167,2026-10-22,EUROPA LEAGUE,2026-09-12,Greece - Super League 2026/2027,Olympiakos Piraeus,OFI,0,1,0-1,0-0,1,0,2,2
+1751167,2026-10-22,EUROPA LEAGUE,2026-09-08,Greece - Superbet Greek Cup Main Round 2026/2027,Olympiakos Piraeus,Volos NPS,3,2,3-2,0-1,5,1,1,7
+1751167,2026-10-22,EUROPA LEAGUE,2026-09-05,Greece - Super League 2026/2027,Volos NPS,Olympiakos Piraeus,1,1,1-1,1-0,2,1,X,9
+1751167,2026-10-22,EUROPA LEAGUE,2026-09-02,Greece - Superbet Greek Cup Main Round 2026/2027,Larisa,Olympiakos Piraeus,0,4,0-4,1-0,4,0,2,7
+1751167,2026-10-22,EUROPA LEAGUE,2026-08-30,Greece - Super League 2026/2027,Asteras Tripolis,Olympiakos Piraeus,0,1,0-1,1-0,1,0,2,8
+1751155,2026-10-22,EUROPA LEAGUE,2026-10-18,Italy - Serie A 2026/2027,Juventus,Lazio,0,3,0-3,1-0,3,0,2,4
+1751155,2026-10-22,EUROPA LEAGUE,2026-10-15,International - Europa League 2026/2027,Celta Vigo,Juventus,1,2,1-2,0-1,3,1,2,5
+1751155,2026-10-22,EUROPA LEAGUE,2026-10-11,Italy - Serie A 2026/2027,Cagliari,Juventus,1,1,1-1,0-1,2,1,X,2
+1751155,2026-10-22,EUROPA LEAGUE,2026-09-20,Italy - Serie A 2026/2027,Juventus,Atalanta,2,0,2-0,0-1,2,0,1,5
+1751155,2026-10-22,EUROPA LEAGUE,2026-09-17,International - Europa League 2026/2027,Juventus,NEC Nijmegen,5,0,5-0,0-3,5,0,1,7
+1751155,2026-10-22,EUROPA LEAGUE,2026-09-13,Italy - Serie A 2026/2027,Sassuolo,Juventus,3,2,3-2,0-0,5,1,1,3
+1751155,2026-10-22,EUROPA LEAGUE,2026-09-06,Italy - Serie A 2026/2027,Juventus,AC Milan,1,1,1-1,0-0,2,1,X,7
+1751155,2026-10-22,EUROPA LEAGUE,2026-08-29,Italy - Serie A 2026/2027,Juventus,Parma,2,0,2-0,0-0,2,0,1,7
+1751155,2026-10-22,EUROPA LEAGUE,2026-08-23,Italy - Serie A 2026/2027,Frosinone,Juventus,0,1,0-1,1-0,1,0,2,5
+1751155,2026-10-22,EUROPA LEAGUE,2026-08-17,International - Club Friendlies 2026/2026,Juventus,Juventus Next Gen,2,0,2-0,0-2,2,0,1,0
+1751168,2026-10-22,EUROPA LEAGUE,2026-10-19,Cyprus - Cyprus League 2026/2027,Omonia,Olympiakos Nicosia,2,2,2-2,2-1,4,1,X,1
+1751168,2026-10-22,EUROPA LEAGUE,2026-10-15,International - Europa League 2026/2027,NK Celje,Omonia,0,3,0-3,1-0,3,0,2,9
+1751168,2026-10-22,EUROPA LEAGUE,2026-10-09,Cyprus - Cyprus League 2026/2027,Karmiotissa Polemidion,Omonia,0,3,0-3,0-0,3,0,2,3
+1751168,2026-10-22,EUROPA LEAGUE,2026-09-20,Cyprus - Cyprus League 2026/2027,Omonia,Krasava Ypsonas FC,4,1,4-1,1-1,5,1,1,10
+1751168,2026-10-22,EUROPA LEAGUE,2026-09-16,International - Europa League 2026/2027,Omonia,Celta Vigo,1,0,1-0,0-0,1,0,1,2
+1751168,2026-10-22,EUROPA LEAGUE,2026-09-12,Cyprus - Cyprus League 2026/2027,Omonia,Apollon Limassol,0,0,0-0,0-0,0,0,X,7
+1751168,2026-10-22,EUROPA LEAGUE,2026-09-07,Cyprus - Cyprus League 2026/2027,Aris,Omonia,1,4,1-4,1-0,5,1,2,9
+1751168,2026-10-22,EUROPA LEAGUE,2026-09-03,Cyprus - Super Cup 2025/2026,Omonia,Pafos FC,0,1,0-1,0-0,1,0,2,1
+1751168,2026-10-22,EUROPA LEAGUE,2026-08-31,Cyprus - Cyprus League 2026/2027,Omonia,Omonia Aradippou,0,0,0-0,0-0,0,0,X,4
+1751168,2026-10-22,EUROPA LEAGUE,2026-08-27,International - Europa League Playoff Round 2026/2027,Omonia,St Truiden,4,2,4-2,1-2,6,1,1,12
+1751160,2026-10-22,EUROPA LEAGUE,2026-10-19,Turkiye - Super Lig 2026/2027,Trabzonspor,Besiktas,2,0,2-0,0-1,2,0,1,7
+1751160,2026-10-22,EUROPA LEAGUE,2026-10-15,International - Europa League 2026/2027,1899 Hoffenheim,Besiktas,2,3,2-3,0-0,5,1,2,2
+1751160,2026-10-22,EUROPA LEAGUE,2026-10-11,Turkiye - Super Lig 2026/2027,Besiktas,Kocaelispor,2,1,2-1,1-2,3,1,1,6
+1751160,2026-10-22,EUROPA LEAGUE,2026-09-20,Turkiye - Super Lig 2026/2027,Amedspor,Besiktas,3,2,3-2,0-2,5,1,1,19
+1751160,2026-10-22,EUROPA LEAGUE,2026-09-17,International - Europa League 2026/2027,Besiktas,Marseille,4,1,4-1,1-1,5,1,1,8
+1751160,2026-10-22,EUROPA LEAGUE,2026-09-11,Turkiye - Super Lig 2026/2027,Besiktas,Erzurum BB,3,0,3-0,0-2,3,0,1,6
+1751160,2026-10-22,EUROPA LEAGUE,2026-09-05,Turkiye - Super Lig 2026/2027,Fenerbahce,Besiktas,1,2,1-2,1-1,3,1,2,10
+1751160,2026-10-22,EUROPA LEAGUE,2026-08-31,Turkiye - Super Lig 2026/2027,Besiktas,Corumspor,6,2,6-2,0-2,8,1,1,13
+1751160,2026-10-22,EUROPA LEAGUE,2026-08-27,International - Europa League Playoff Round 2026/2027,FK Zalgiris Kaunas,Besiktas,1,0,1-0,0-0,1,0,1,3
+1751160,2026-10-22,EUROPA LEAGUE,2026-08-23,Turkiye - Super Lig 2026/2027,Alanyaspor,Besiktas,1,0,1-0,0-0,1,0,1,1
+1751163,2026-10-22,EUROPA LEAGUE,2024-11-07,Europe (uefa) - Uefa Europa League 2024/2025,1899 Hoffenheim,Lyon,2,2,2-2,0-0,4,1,X,7
+1751163,2026-10-22,EUROPA LEAGUE,2018-11-07,Europe (UEFA) - UEFA Champions League 2018/2019,Lyon,1899 Hoffenheim,2,2,2-2,0-2,4,1,X,12
+1751163,2026-10-22,EUROPA LEAGUE,2018-10-23,Europe (UEFA) - UEFA Champions League 2018/2019,1899 Hoffenheim,Lyon,3,3,3-3,1-1,6,1,X,8
+1751158,2026-10-22,EUROPA LEAGUE,1999-10-26,Europe (UEFA) - UEFA Champions League 1999/2000,Sturm Graz,Marseille,3,2,3-2,2-3,5,1,1,5
+1751158,2026-10-22,EUROPA LEAGUE,1999-09-13,Europe (UEFA) - UEFA Champions League 1999/2000,Marseille,Sturm Graz,2,0,2-0,0-2,2,0,1,2
+1751159,2026-10-22,EUROPA LEAGUE,2026-10-18,Belgium - Cup 2026/2027,Union St. Gilloise,Kfc Nijlen,3,0,3-0,0-0,3,0,1,0
+1751159,2026-10-22,EUROPA LEAGUE,2026-10-15,International - Europa League 2026/2027,Union St. Gilloise,Real Sociedad,1,1,1-1,0-0,2,1,X,5
+1751159,2026-10-22,EUROPA LEAGUE,2026-10-11,Belgium - Belgian Pro League 2026/2027,Union St. Gilloise,OH Leuven,1,1,1-1,1-0,2,1,X,6
+1751159,2026-10-22,EUROPA LEAGUE,2026-09-20,Belgium - Belgian Pro League 2026/2027,Antwerp,Union St. Gilloise,0,2,0-2,0-0,2,0,2,9
+1751159,2026-10-22,EUROPA LEAGUE,2026-09-17,International - Europa League 2026/2027,Viktoria Plzen,Union St. Gilloise,0,3,0-3,2-0,3,0,2,7
+1751159,2026-10-22,EUROPA LEAGUE,2026-09-12,Belgium - Belgian Pro League 2026/2027,Union St. Gilloise,Lommel United,5,0,5-0,0-2,5,0,1,7
+1751159,2026-10-22,EUROPA LEAGUE,2026-09-05,Belgium - Belgian Pro League 2026/2027,Charleroi,Union St. Gilloise,2,3,2-3,2-2,5,1,2,8
+1751159,2026-10-22,EUROPA LEAGUE,2026-09-02,Belgium - Belgian Pro League 2026/2027,St Truiden,Union St. Gilloise,0,3,0-3,1-0,3,0,2,8
+1751159,2026-10-22,EUROPA LEAGUE,2026-08-30,Belgium - Belgian Pro League 2026/2027,Union St. Gilloise,Anderlecht,3,0,3-0,0-2,3,0,1,4
+1751159,2026-10-22,EUROPA LEAGUE,2026-08-15,Belgium - Belgian Pro League 2026/2027,Union St. Gilloise,Zulte-Waregem,0,0,0-0,0-0,0,0,X,2
+1751157,2026-10-22,EUROPA LEAGUE,2026-10-18,Greece - Super League 2026/2027,Kalamata,OFI,4,3,4-3,0-2,7,1,1,8
+1751157,2026-10-22,EUROPA LEAGUE,2026-10-15,International - Europa League 2026/2027,Rennes,OFI,2,1,2-1,1-0,3,1,1,3
+1751157,2026-10-22,EUROPA LEAGUE,2026-10-10,Greece - Super League 2026/2027,AEK Athens,OFI,3,0,3-0,0-1,3,0,1,9
+1751157,2026-10-22,EUROPA LEAGUE,2026-09-20,Greece - Super League 2026/2027,OFI,Asteras Tripolis,2,2,2-2,1-1,4,1,X,9
+1751157,2026-10-22,EUROPA LEAGUE,2026-09-17,International - Europa League 2026/2027,OFI,1899 Hoffenheim,2,0,2-0,0-1,2,0,1,7
+1751157,2026-10-22,EUROPA LEAGUE,2026-09-12,Greece - Super League 2026/2027,Olympiakos Piraeus,OFI,0,1,0-1,0-0,1,0,2,2
+1751157,2026-10-22,EUROPA LEAGUE,2026-09-09,Greece - Superbet Greek Cup Main Round 2026/2027,OFI,Nestos Chrisoupolis,3,0,3-0,0-0,3,0,1,0
+1751157,2026-10-22,EUROPA LEAGUE,2026-09-06,Greece - Super League 2026/2027,OFI,Kifisia,2,0,2-0,0-2,2,0,1,4
+1751157,2026-10-22,EUROPA LEAGUE,2026-09-02,Greece - Superbet Greek Cup Main Round 2026/2027,PAOK,OFI,0,0,0-0,0-0,0,0,X,4
+1751157,2026-10-22,EUROPA LEAGUE,2026-08-30,Greece - Super League 2026/2027,Aris Thessalonikis,OFI,2,1,2-1,0-1,3,1,1,4
+1751169,2026-10-22,EUROPA LEAGUE,2014-02-10,Friendly Games - Friendly 2013/2014,Levski Sofia,Viktoria Plzen,0,3,0-3,2-0,3,0,2,3
+1751169,2026-10-22,EUROPA LEAGUE,2013-01-30,Friendly Games - Friendly 2012/2013,Levski Sofia,Viktoria Plzen,3,3,3-3,2-1,6,1,X,6
+1751169,2026-10-22,EUROPA LEAGUE,2011-02-15,Friendly Games - Friendly 2017/2018,Levski Sofia,Viktoria Plzen,1,2,1-2,1-1,3,1,2,4
+1751153,2026-10-22,EUROPA LEAGUE,2008-10-23,Europe (UEFA) - UEFA Cup 2008/2009,NK Dinamo Zagreb,NEC Nijmegen,3,2,3-2,1-1,5,1,1,5
+1751166,2026-10-22,EUROPA LEAGUE,2026-10-18,Slovenia - Prva Liga 2026/2027,Maribor,NK Celje,0,0,0-0,0-0,0,0,X,2
+1751166,2026-10-22,EUROPA LEAGUE,2026-10-15,International - Europa League 2026/2027,NK Celje,Omonia,0,3,0-3,1-0,3,0,2,9
+1751166,2026-10-22,EUROPA LEAGUE,2026-10-10,Slovenia - Prva Liga 2026/2027,NK Celje,Aluminij,1,0,1-0,0-1,1,0,1,6
+1751166,2026-10-22,EUROPA LEAGUE,2026-09-20,Slovenia - Prva Liga 2026/2027,NS Mura,NK Celje,0,0,0-0,0-0,0,0,X,7
+1751166,2026-10-22,EUROPA LEAGUE,2026-09-16,International - Europa League 2026/2027,Bayer Leverkusen,NK Celje,2,0,2-0,0-1,2,0,1,1
+1751166,2026-10-22,EUROPA LEAGUE,2026-09-12,Slovenia - Prva Liga 2026/2027,NK Bravo,NK Celje,2,1,2-1,1-0,3,1,1,6
+1751166,2026-10-22,EUROPA LEAGUE,2026-09-06,Slovenia - Prva Liga 2026/2027,NK Celje,FC Koper,0,1,0-1,1-0,1,0,2,9
+1751166,2026-10-22,EUROPA LEAGUE,2026-09-02,Slovenia - Prva Liga 2026/2027,Aluminij,NK Celje,0,2,0-2,0-0,2,0,2,6
+1751166,2026-10-22,EUROPA LEAGUE,2026-08-30,Slovenia - Prva Liga 2026/2027,NK Brinje Grosuplje,NK Celje,4,1,4-1,1-1,5,1,1,8
+1751166,2026-10-22,EUROPA LEAGUE,2026-08-26,International - Champions League Playoff Round 2026/2027,NK Celje,Slovan Bratislava,1,2,1-2,1-1,3,1,2,2
+1751164,2026-10-22,EUROPA LEAGUE,2026-10-18,Poland - Ekstraklasa 2026/2027,Zaglebie Lubin,Jagiellonia,1,0,1-0,0-0,1,0,1,4
+1751164,2026-10-22,EUROPA LEAGUE,2026-10-15,International - Europa League 2026/2027,Jagiellonia,FC Avan Academy,3,1,3-1,1-2,4,1,1,8
+1751164,2026-10-22,EUROPA LEAGUE,2026-10-10,Poland - Ekstraklasa 2026/2027,Jagiellonia,Gornik Zabrze,1,3,1-3,0-0,4,1,2,10
+1751164,2026-10-22,EUROPA LEAGUE,2026-09-29,International - Club Friendlies 2026/2026,Jagiellonia,Suduva Marijampole,5,0,5-0,0-3,5,0,1,0
+1751164,2026-10-22,EUROPA LEAGUE,2026-09-20,Poland - Ekstraklasa 2026/2027,Jagiellonia,Legia Warszawa,1,3,1-3,2-1,4,1,2,5
+1751164,2026-10-22,EUROPA LEAGUE,2026-09-16,International - Europa League 2026/2027,Olympiakos Piraeus,Jagiellonia,2,1,2-1,1-1,3,1,1,4
+1751164,2026-10-22,EUROPA LEAGUE,2026-09-11,Poland - Ekstraklasa 2026/2027,Wisla Krakow,Jagiellonia,2,0,2-0,0-1,2,0,1,3
+1751164,2026-10-22,EUROPA LEAGUE,2026-09-06,Poland - Ekstraklasa 2026/2027,Jagiellonia,Slask Wroclaw,2,1,2-1,0-2,3,1,1,5
+1751164,2026-10-22,EUROPA LEAGUE,2026-09-03,Poland - Ekstraklasa 2026/2027,Lech Poznan,Jagiellonia,2,1,2-1,1-1,3,1,1,2
+1751164,2026-10-22,EUROPA LEAGUE,2026-08-30,Poland - Ekstraklasa 2026/2027,Rakow Czestochowa,Jagiellonia,2,5,2-5,2-1,7,1,2,9
+1751165,2026-10-22,EUROPA LEAGUE,2026-10-18,Norway - Eliteserien 2026/2026,Sandefjord,Lillestrom,0,2,0-2,2-0,2,0,2,4
+1751165,2026-10-22,EUROPA LEAGUE,2026-10-15,International - Europa League 2026/2027,Sparta Praha,Lillestrom,1,1,1-1,0-0,2,1,X,7
+1751165,2026-10-22,EUROPA LEAGUE,2026-10-11,Norway - Eliteserien 2026/2026,Lillestrom,Molde,2,2,2-2,2-1,4,1,X,8
+1751165,2026-10-22,EUROPA LEAGUE,2026-10-01,Norway - Cup 2026/2027,Baerum,Lillestrom,1,5,1-5,2-0,6,1,2,0
+1751165,2026-10-22,EUROPA LEAGUE,2026-09-20,Norway - Eliteserien 2026/2026,Viking,Lillestrom,3,0,3-0,0-2,3,0,1,5
+1751165,2026-10-22,EUROPA LEAGUE,2026-09-17,International - Europa League 2026/2027,Lillestrom,Torreense,1,2,1-2,1-0,3,1,2,9
+1751165,2026-10-22,EUROPA LEAGUE,2026-09-12,Norway - Eliteserien 2026/2026,Lillestrom,Valerenga,2,0,2-0,0-1,2,0,1,8
+1751165,2026-10-22,EUROPA LEAGUE,2026-09-05,Norway - Eliteserien 2026/2026,Brann,Lillestrom,1,2,1-2,2-0,3,1,2,5
+1751165,2026-10-22,EUROPA LEAGUE,2026-09-02,Norway - Cup 2026/2027,Aurskog Finstadbru,Lillestrom,0,3,0-3,2-0,3,0,2,0
+1751165,2026-10-22,EUROPA LEAGUE,2026-08-30,Norway - Eliteserien 2026/2026,Lillestrom,Fredrikstad,1,4,1-4,2-1,5,1,2,4
+1751156,2026-10-22,EUROPA LEAGUE,2026-10-18,Poland - Ekstraklasa 2026/2027,Lech Poznan,Korona Kielce,6,1,6-1,0-4,7,1,1,12
+1751156,2026-10-22,EUROPA LEAGUE,2026-10-15,International - Europa League 2026/2027,Lech Poznan,Bayer Leverkusen,0,4,0-4,3-0,4,0,2,7
+1751156,2026-10-22,EUROPA LEAGUE,2026-10-10,Poland - Ekstraklasa 2026/2027,Slask Wroclaw,Lech Poznan,1,4,1-4,1-0,5,1,2,11
+1751156,2026-10-22,EUROPA LEAGUE,2026-10-03,International - Club Friendlies 2026/2026,Lech Poznan,Energie Cottbus,2,2,2-2,1-1,4,1,X,0
+1751156,2026-10-22,EUROPA LEAGUE,2026-09-20,Poland - Ekstraklasa 2026/2027,Lech Poznan,Radomiak Radom,5,1,5-1,1-3,6,1,1,9
+1751156,2026-10-22,EUROPA LEAGUE,2026-09-17,International - Europa League 2026/2027,Crystal Palace,Lech Poznan,4,0,4-0,0-3,4,0,1,6
+1751156,2026-10-22,EUROPA LEAGUE,2026-09-12,Poland - Ekstraklasa 2026/2027,Gornik Zabrze,Lech Poznan,2,1,2-1,1-0,3,1,1,5
+1751156,2026-10-22,EUROPA LEAGUE,2026-09-06,Poland - Ekstraklasa 2026/2027,Lech Poznan,Rakow Czestochowa,1,0,1-0,0-0,1,0,1,7
+1751156,2026-10-22,EUROPA LEAGUE,2026-09-03,Poland - Ekstraklasa 2026/2027,Lech Poznan,Jagiellonia,2,1,2-1,1-1,3,1,1,2
+1751156,2026-10-22,EUROPA LEAGUE,2026-08-30,Poland - Ekstraklasa 2026/2027,Widzew Lodz,Lech Poznan,2,3,2-3,2-1,5,1,2,8
+1751154,2026-10-22,EUROPA LEAGUE,2026-10-18,Hungary - Nb I 2026/2027,Kisvarda,Ferencvarosi TC,1,1,1-1,0-1,2,1,X,2
+1751154,2026-10-22,EUROPA LEAGUE,2026-10-17,Hungary - U19 National 2026/2027,Zalaegerszeg TE,Ferencvarosi TC,2,0,2-0,0-0,2,0,1,0
+1751154,2026-10-22,EUROPA LEAGUE,2026-10-15,International - Europa League 2026/2027,Ferencvarosi TC,Viktoria Plzen,2,1,2-1,0-0,3,1,1,2
+1751154,2026-10-22,EUROPA LEAGUE,2026-10-10,Hungary - Nb I 2026/2027,Ferencvarosi TC,Debreceni VSC,1,1,1-1,0-0,2,1,X,2
+1751154,2026-10-22,EUROPA LEAGUE,2026-10-07,Hungary - U19 National 2026/2027,Ferencvarosi TC,Debreceni VSC,1,1,1-1,0-0,2,1,X,0
+1751154,2026-10-22,EUROPA LEAGUE,2026-09-20,Hungary - Nb I 2026/2027,Nyiregyhaza,Ferencvarosi TC,1,1,1-1,0-1,2,1,X,2
+1751154,2026-10-22,EUROPA LEAGUE,2026-09-19,Hungary - U19 National 2026/2027,Fehervar Fc U19,Ferencvarosi TC,3,3,3-3,1-2,6,1,X,0
+1751154,2026-10-22,EUROPA LEAGUE,2026-09-17,International - Europa League 2026/2027,Celtic,Ferencvarosi TC,1,3,1-3,2-1,4,1,2,6
+1751154,2026-10-22,EUROPA LEAGUE,2026-09-12,Hungary - Fa Cup 2026/2027,Debreceni EAC,Ferencvarosi TC,0,7,0-7,4-0,7,0,2,0
+1751154,2026-10-22,EUROPA LEAGUE,2026-09-12,Hungary - U19 National 2026/2027,Ferencvarosi TC,Puskas Academy (u19),6,0,6-0,0-1,6,0,1,0
+1751352,2026-10-22,COPA LIBERTADORES KNOCKOUT STAGE,2026-10-15,International - Copa Libertadores Knockout Stage 2026/2026,Estudiantes L.P.,Flamengo,0,0,0-0,0-0,0,0,X,5
+1751352,2026-10-22,COPA LIBERTADORES KNOCKOUT STAGE,2026-05-20,International - Copa Libertadores Grp. A 2026/2026,Flamengo,Estudiantes L.P.,1,0,1-0,0-0,1,0,1,8
+1751352,2026-10-22,COPA LIBERTADORES KNOCKOUT STAGE,2026-04-29,International - Copa Libertadores Grp. A 2026/2026,Estudiantes L.P.,Flamengo,1,1,1-1,1-0,2,1,X,8
+1751352,2026-10-22,COPA LIBERTADORES KNOCKOUT STAGE,2025-09-18,International - Copa Libertadores Final Stage 2025/2025,Flamengo,Estudiantes L.P.,2,1,2-1,2-2,3,1,1,11
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2026-03-29,Colombia - Primera A Apertura 2026/2026,Deportivo Pasto,Atletico Nacional,1,2,1-2,1-1,3,1,2,12
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2025-10-18,Colombia - Primera A Clausura 2025/2025,Deportivo Pasto,Atletico Nacional,2,2,2-2,0-0,4,1,X,5
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2025-04-29,Colombia - Primera A Apertura 2024/2025,Atletico Nacional,Deportivo Pasto,3,0,3-0,0-1,3,0,1,4
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2024-12-05,Colombia - Primera A Clausura Playoff Group A 2023/2024,Atletico Nacional,Deportivo Pasto,2,1,2-1,0-0,3,1,1,4
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2024-11-24,Colombia - Primera A Clausura Playoff Group A 2023/2024,Deportivo Pasto,Atletico Nacional,0,1,0-1,1-0,1,0,2,1
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2024-10-05,Colombia - Primera A Clausura 2023/2024,Deportivo Pasto,Atletico Nacional,1,2,1-2,1-0,3,1,2,4
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2024-03-24,Colombia - Primera B Clausura Playoff Group B 2023/2024,Atletico Nacional,Deportivo Pasto,1,0,1-0,0-1,1,0,1,1
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2023-08-24,Colombia - Primera A Clausura 2022/2023,Atletico Nacional,Deportivo Pasto,2,0,2-0,0-1,2,0,1,2
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2023-06-17,Colombia - Primera A Apertura Playoff Group A 2022/2023,Atletico Nacional,Deportivo Pasto,3,2,3-2,1-1,5,1,1,5
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2023-05-20,Colombia - Primera A Apertura Playoff Group A 2022/2023,Deportivo Pasto,Atletico Nacional,1,1,1-1,0-0,2,1,X,2
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2023-03-05,Colombia - Primera A Apertura 2022/2023,Deportivo Pasto,Atletico Nacional,0,1,0-1,1-0,1,0,2,1
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2022-08-01,Colombia - Primera A Clausura 2021/2022,Atletico Nacional,Deportivo Pasto,3,1,3-1,0-2,4,1,1,5
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2022-02-06,Colombia - Primera B Apertura Final Stage 2021/2022,Deportivo Pasto,Atletico Nacional,0,1,0-1,0-0,1,0,2,1
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2021-09-25,Colombia - Primera A Clausura 2020/2021,Atletico Nacional,Deportivo Pasto,1,1,1-1,0-1,2,1,X,2
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2021-02-02,Colombia - Primera A Apertura 2020/2021,Deportivo Pasto,Atletico Nacional,0,0,0-0,0-0,0,0,X,0
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2020-11-08,Colombia - Primera A 2021/2022,Atletico Nacional,Deportivo Pasto,1,0,1-0,0-0,1,0,1,1
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2019-09-21,Colombia - Clausura 2018/2019,Deportivo Pasto,Atletico Nacional,1,2,1-2,1-1,3,1,2,3
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2019-03-30,Colombia - PB Rpomotion P.Off Final 2018/2019,Atletico Nacional,Deportivo Pasto,0,1,0-1,1-0,1,0,2,1
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2018-09-09,Colombia - Clausura 2017/2018,Deportivo Pasto,Atletico Nacional,0,2,0-2,1-0,2,0,2,2
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2018-03-17,Colombia - Apertura 2017/2018,Atletico Nacional,Deportivo Pasto,2,0,2-0,0-1,2,0,1,2
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2017-09-20,Colombia - Clausura 2016/2017,Deportivo Pasto,Atletico Nacional,2,0,2-0,0-1,2,0,1,4
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2017-03-31,Colombia - PB Rpomotion P.Off Final 2016/2017,Atletico Nacional,Deportivo Pasto,2,1,2-1,1-0,3,1,1,3
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2016-11-19,Colombia - Clausura 2015/2016,Atletico Nacional,Deportivo Pasto,3,1,3-1,1-1,4,1,1,4
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2016-05-28,Colombia - Apertura 2015/2016,Deportivo Pasto,Atletico Nacional,0,2,0-2,1-0,2,0,2,2
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2015-08-05,Colombia - Clausura 2014/2015,Atletico Nacional,Deportivo Pasto,4,0,4-0,0-3,4,0,1,4
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2015-02-22,Colombia - Apertura 2014/2015,Deportivo Pasto,Atletico Nacional,2,1,2-1,1-1,3,1,1,4
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2014-10-15,Colombia - Clausura 2013/2014,Deportivo Pasto,Atletico Nacional,2,1,2-1,1-1,3,1,1,3
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2014-03-14,Colombia - Apertura 2013/2014,Atletico Nacional,Deportivo Pasto,1,1,1-1,1-1,2,1,X,2
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2013-11-03,Colombia - Clausura 2012/2013,Deportivo Pasto,Atletico Nacional,1,1,1-1,0-0,2,1,X,3
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2013-09-04,Colombia - FA Cup 2012/2013,Atletico Nacional,Deportivo Pasto,1,0,1-0,0-0,1,0,1,1
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2013-08-14,Colombia - FA Cup 2012/2013,Deportivo Pasto,Atletico Nacional,0,3,0-3,1-0,3,0,2,3
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2013-07-07,Colombia - AP-Play Offs 2012/2013,Atletico Nacional,Deportivo Pasto,2,1,2-1,1-1,3,1,1,3
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2013-06-16,Colombia - AP-Play Offs 2012/2013,Deportivo Pasto,Atletico Nacional,2,1,2-1,0-0,3,1,1,3
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2013-05-26,Colombia - Apertura 2012/2013,Atletico Nacional,Deportivo Pasto,1,0,1-0,0-1,1,0,1,1
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2012-11-07,Colombia - FA Cup 2011/2012,Atletico Nacional,Deportivo Pasto,2,0,2-0,0-0,2,0,1,2
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2012-10-31,Colombia - FA Cup 2011/2012,Deportivo Pasto,Atletico Nacional,0,0,0-0,0-0,0,0,X,0
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2012-09-27,Colombia - Clausura 2011/2012,Deportivo Pasto,Atletico Nacional,0,2,0-2,1-0,2,0,2,3
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2012-04-01,Colombia - Apertura 2011/2012,Atletico Nacional,Deportivo Pasto,0,1,0-1,0-0,1,0,2,2
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2009-09-26,Colombia - Clausura 2008/2009,Atletico Nacional,Deportivo Pasto,1,1,1-1,0-1,2,1,X,3
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2009-04-12,Colombia - Apertura 2008/2009,Deportivo Pasto,Atletico Nacional,1,1,1-1,1-0,2,1,X,3
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2008-10-31,Colombia - Clausura 2007/2008,Atletico Nacional,Deportivo Pasto,2,1,2-1,0-1,3,1,1,3
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2008-05-03,Colombia - Apertura 2007/2008,Deportivo Pasto,Atletico Nacional,0,1,0-1,0-0,1,0,2,2
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2007-09-30,Colombia - Clausura 2006/2007,Deportivo Pasto,Atletico Nacional,0,1,0-1,1-0,1,0,2,1
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2007-04-11,Colombia - Apertura 2006/2007,Atletico Nacional,Deportivo Pasto,1,1,1-1,0-0,2,1,X,2
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2006-12-13,Colombia - CL-Play Offs 2005/2006,Deportivo Pasto,Atletico Nacional,0,0,0-0,0-0,0,0,X,0
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2006-11-18,Colombia - CL-Play Offs 2005/2006,Atletico Nacional,Deportivo Pasto,2,1,2-1,0-0,3,1,1,3
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2006-10-22,Colombia - Clausura 2005/2006,Atletico Nacional,Deportivo Pasto,1,1,1-1,0-1,2,1,X,3
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2006-06-18,Colombia - AP-Play Offs 2005/2006,Atletico Nacional,Deportivo Pasto,1,3,1-3,3-1,4,1,2,0
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2006-05-31,Colombia - AP-Play Offs 2005/2006,Deportivo Pasto,Atletico Nacional,2,1,2-1,1-2,3,1,1,0
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2006-05-07,Colombia - Apertura 2005/2006,Deportivo Pasto,Atletico Nacional,0,0,0-0,0-0,0,0,X,0
+1744439,2026-10-22,PRIMERA A APERTURA FINALIZACION,2003-08-07,South America (CONMEBOL) - Copa Sudamericana 2002/2003,Deportivo Pasto,Atletico Nacional,0,0,0-0,0-0,0,0,X,0
+1751215,2026-10-22,QATAR STARS LEAGUE,2026-02-05,Qatar - Qatar Stars League 2025/2026,Al-Sadd,Al-Shahaniya,4,0,4-0,0-1,4,0,1,4
+1751215,2026-10-22,QATAR STARS LEAGUE,2025-09-12,Qatar - Qatar Stars League 2025/2026,Al-Shahaniya,Al-Sadd,1,0,1-0,1-1,1,0,1,1
+1751215,2026-10-22,QATAR STARS LEAGUE,2025-03-07,Qatar - Qatar Stars League 2024/2025,Al-Shahaniya,Al-Sadd,0,5,0-5,2-0,5,0,2,5
+1751215,2026-10-22,QATAR STARS LEAGUE,2024-10-18,Qatar - Qatar Stars League 2024/2025,Al-Sadd,Al-Shahaniya,4,2,4-2,0-3,6,1,1,6
+1751215,2026-10-22,QATAR STARS LEAGUE,2020-01-25,Qatar - Stars League 2019/2020,Al-Sadd,Al-Shahaniya,4,2,4-2,1-1,6,1,1,6
+1751215,2026-10-22,QATAR STARS LEAGUE,2019-11-15,Qatar - Stars Cup 2019/2020,Al-Sadd,Al-Shahaniya,3,1,3-1,0-2,4,1,1,4
+1751215,2026-10-22,QATAR STARS LEAGUE,2019-08-31,Qatar - Stars League 2019/2020,Al-Shahaniya,Al-Sadd,1,7,1-7,6-0,8,1,2,8
+1751215,2026-10-22,QATAR STARS LEAGUE,2018-12-07,Qatar - Stars League 2018/2019,Al-Shahaniya,Al-Sadd,1,4,1-4,1-1,5,1,2,5
+1751215,2026-10-22,QATAR STARS LEAGUE,2018-09-09,Qatar - Stars Cup 2018/2019,Al-Sadd,Al-Shahaniya,3,0,3-0,0-0,3,0,1,3
+1751215,2026-10-22,QATAR STARS LEAGUE,2018-09-02,Qatar - Stars League 2018/2019,Al-Sadd,Al-Shahaniya,4,0,4-0,0-4,4,0,1,4
+1751215,2026-10-22,QATAR STARS LEAGUE,2017-02-02,Qatar - Stars League 2016/2017,Al-Sadd,Al-Shahaniya,1,1,1-1,1-1,2,1,X,6
+1751215,2026-10-22,QATAR STARS LEAGUE,2016-11-02,Qatar - Stars League 2016/2017,Al-Shahaniya,Al-Sadd,0,4,0-4,2-0,4,0,2,4
+1751215,2026-10-22,QATAR STARS LEAGUE,2014-12-14,Qatar - Stars League 2014/2015,Al-Sadd,Al-Shahaniya,1,3,1-3,1-0,4,1,2,5
+1751215,2026-10-22,QATAR STARS LEAGUE,2014-09-22,Qatar - Stars League 2014/2015,Al-Shahaniya,Al-Sadd,2,3,2-3,1-1,5,1,2,6
+1751216,2026-10-22,QATAR STARS LEAGUE,2026-03-18,Qatar - Qatar Stars League 2025/2026,Al-Gharafa,Al-Ahli Doha,1,4,1-4,0-1,5,1,2,5
+1751216,2026-10-22,QATAR STARS LEAGUE,2025-10-25,Qatar - Qatar Stars League 2025/2026,Al-Ahli Doha,Al-Gharafa,1,3,1-3,0-0,4,1,2,4
+1751216,2026-10-22,QATAR STARS LEAGUE,2025-01-22,Qatar - Qatar Stars League 2024/2025,Al-Gharafa,Al-Ahli Doha,2,0,2-0,0-1,2,0,1,2
+1751216,2026-10-22,QATAR STARS LEAGUE,2024-08-18,Qatar - Qatar Stars League 2024/2025,Al-Ahli Doha,Al-Gharafa,1,0,1-0,0-1,1,0,1,1
+1751216,2026-10-22,QATAR STARS LEAGUE,2024-02-24,Qatar - Qatar Stars League 2023/2024,Al-Gharafa,Al-Ahli Doha,1,2,1-2,0-1,3,1,2,4
+1751216,2026-10-22,QATAR STARS LEAGUE,2023-09-01,Qatar - Qatar Stars League 2023/2024,Al-Ahli Doha,Al-Gharafa,1,4,1-4,1-1,5,1,2,5
+1751216,2026-10-22,QATAR STARS LEAGUE,2023-03-03,Qatar - Qatar Stars League 2022/2023,Al-Gharafa,Al-Ahli Doha,1,1,1-1,0-1,2,1,X,3
+1751216,2026-10-22,QATAR STARS LEAGUE,2022-08-31,Qatar - Qatar Stars League 2022/2023,Al-Ahli Doha,Al-Gharafa,3,3,3-3,1-2,6,1,X,9
+1751216,2026-10-22,QATAR STARS LEAGUE,2022-01-07,Qatar - Second Division 2021/2022,Al-Gharafa,Al-Ahli Doha,0,0,0-0,0-0,0,0,X,0
+1751216,2026-10-22,QATAR STARS LEAGUE,2021-09-17,Qatar - Second Division 2021/2022,Al-Ahli Doha,Al-Gharafa,0,1,0-1,0-0,1,0,2,1
+1751216,2026-10-22,QATAR STARS LEAGUE,2021-03-12,Qatar - Qatar Stars League 2020/2021,Al-Gharafa,Al-Ahli Doha,1,3,1-3,1-0,4,1,2,5
+1751216,2026-10-22,QATAR STARS LEAGUE,2020-12-09,Qatar - Qatar Stars League 2020/2021,Al-Ahli Doha,Al-Gharafa,0,4,0-4,3-0,4,0,2,4
+1751216,2026-10-22,QATAR STARS LEAGUE,2020-02-20,Qatar - Stars League 2019/2020,Al-Ahli Doha,Al-Gharafa,1,1,1-1,0-0,2,1,X,3
+1751216,2026-10-22,QATAR STARS LEAGUE,2020-02-13,Qatar - Stars Cup 2019/2020,Al-Ahli Doha,Al-Gharafa,1,0,1-0,0-0,1,0,1,2
+1751216,2026-10-22,QATAR STARS LEAGUE,2019-09-19,Qatar - Stars League 2019/2020,Al-Gharafa,Al-Ahli Doha,3,1,3-1,1-0,4,1,1,5
+1751216,2026-10-22,QATAR STARS LEAGUE,2019-01-18,Qatar - Stars Cup 2018/2019,Al-Gharafa,Al-Ahli Doha,1,0,1-0,0-0,1,0,1,1
+1751216,2026-10-22,QATAR STARS LEAGUE,2018-12-06,Qatar - Stars League 2018/2019,Al-Gharafa,Al-Ahli Doha,1,3,1-3,1-1,4,1,2,4
+1751216,2026-10-22,QATAR STARS LEAGUE,2018-08-31,Qatar - Stars League 2018/2019,Al-Ahli Doha,Al-Gharafa,0,4,0-4,1-0,4,0,2,5
+1751216,2026-10-22,QATAR STARS LEAGUE,2018-01-12,Qatar - Stars League 2017/2018,Al-Ahli Doha,Al-Gharafa,1,2,1-2,0-1,3,1,2,3
+1751216,2026-10-22,QATAR STARS LEAGUE,2017-09-15,Qatar - Stars League 2017/2018,Al-Gharafa,Al-Ahli Doha,1,1,1-1,1-0,2,1,X,2
+1751216,2026-10-22,QATAR STARS LEAGUE,2017-01-04,Qatar - Stars League 2016/2017,Al-Gharafa,Al-Ahli Doha,2,0,2-0,0-1,2,0,1,2
+1751216,2026-10-22,QATAR STARS LEAGUE,2016-09-15,Qatar - Stars League 2016/2017,Al-Ahli Doha,Al-Gharafa,4,2,4-2,1-2,6,1,1,6
+1751216,2026-10-22,QATAR STARS LEAGUE,2016-01-27,Qatar - Stars League 2015/2016,Al-Ahli Doha,Al-Gharafa,0,1,0-1,1-0,1,0,2,1
+1751216,2026-10-22,QATAR STARS LEAGUE,2015-09-26,Qatar - Stars League 2015/2016,Al-Gharafa,Al-Ahli Doha,2,0,2-0,0-1,2,0,1,3
+1751216,2026-10-22,QATAR STARS LEAGUE,2015-02-13,Qatar - Stars League 2014/2015,Al-Ahli Doha,Al-Gharafa,3,0,3-0,0-2,3,0,1,3
+1751216,2026-10-22,QATAR STARS LEAGUE,2014-09-18,Qatar - Stars League 2014/2015,Al-Gharafa,Al-Ahli Doha,1,0,1-0,0-0,1,0,1,1
+1751216,2026-10-22,QATAR STARS LEAGUE,2014-01-11,Qatar - Stars League 2013/2014,Al-Gharafa,Al-Ahli Doha,5,4,5-4,3-1,9,1,1,9
+1751216,2026-10-22,QATAR STARS LEAGUE,2013-10-08,Qatar - Stars League Cup 2013/2014,Al-Gharafa,Al-Ahli Doha,2,2,2-2,1-2,4,1,X,5
+1751216,2026-10-22,QATAR STARS LEAGUE,2013-09-14,Qatar - Stars League 2013/2014,Al-Ahli Doha,Al-Gharafa,1,1,1-1,1-0,2,1,X,2
+1751202,2026-10-22,SUPER LEAGUE,2026-02-26,Indonesia - Super League 2025/2026,Persib Bandung,Madura United,5,0,5-0,0-3,5,0,1,9
+1751202,2026-10-22,SUPER LEAGUE,2025-11-30,Indonesia - Super League 2025/2026,Madura United,Persib Bandung,1,4,1-4,0-0,5,1,2,5
+1751202,2026-10-22,SUPER LEAGUE,2025-02-22,Indonesia - Liga 1 2024/2025,Persib Bandung,Madura United,0,0,0-0,0-0,0,0,X,0
+1751202,2026-10-22,SUPER LEAGUE,2024-09-28,Indonesia - Liga 1 2024/2025,Madura United,Persib Bandung,2,2,2-2,2-1,4,1,X,4
+1751202,2026-10-22,SUPER LEAGUE,2024-05-31,Indonesia - Liga 1 Playoff 2023/2024,Madura United,Persib Bandung,1,3,1-3,0-0,4,1,2,4
+1751202,2026-10-22,SUPER LEAGUE,2024-05-26,Indonesia - Liga 1 Playoff 2023/2024,Persib Bandung,Madura United,3,0,3-0,0-0,3,0,1,3
+1751202,2026-10-22,SUPER LEAGUE,2023-11-01,Indonesia - Liga 1 2023/2024,Madura United,Persib Bandung,0,1,0-1,0-0,1,0,2,1
+1751202,2026-10-22,SUPER LEAGUE,2023-07-02,Indonesia - Liga 1 2023/2024,Persib Bandung,Madura United,1,1,1-1,1-0,2,1,X,7
+1751202,2026-10-22,SUPER LEAGUE,2023-01-20,Indonesia - Liga 1 2022/2023,Madura United,Persib Bandung,0,1,0-1,0-0,1,0,2,4
+1751202,2026-10-22,SUPER LEAGUE,2022-07-30,Indonesia - Liga 1 2022/2023,Persib Bandung,Madura United,1,3,1-3,0-1,4,1,2,9
+1751202,2026-10-22,SUPER LEAGUE,2022-03-13,Indonesia - Liga 1 2021/2022,Persib Bandung,Madura United,3,2,3-2,0-2,5,1,1,8
+1751202,2026-10-22,SUPER LEAGUE,2021-12-04,Indonesia - Liga 1 2021/2022,Madura United,Persib Bandung,0,1,0-1,1-0,1,0,2,7
+1751202,2026-10-22,SUPER LEAGUE,2019-10-05,Indonesia - Liga 1 2018/2019,Madura United,Persib Bandung,2,1,2-1,1-1,3,1,1,3
+1751202,2026-10-22,SUPER LEAGUE,2019-06-23,Indonesia - Liga 1 2018/2019,Persib Bandung,Madura United,1,1,1-1,0-0,2,1,X,2
+1751202,2026-10-22,SUPER LEAGUE,2018-10-09,Indonesia - Liga 1 2017/2018,Persib Bandung,Madura United,1,2,1-2,1-0,3,1,2,3
+1751202,2026-10-22,SUPER LEAGUE,2018-05-04,Indonesia - Liga 1 2017/2018,Madura United,Persib Bandung,2,1,2-1,0-1,3,1,1,3
+1751202,2026-10-22,SUPER LEAGUE,2017-10-19,Indonesia - Liga 1 2016/2017,Persib Bandung,Madura United,0,0,0-0,0-0,0,0,X,1
+1751202,2026-10-22,SUPER LEAGUE,2017-07-09,Indonesia - Liga 1 2016/2017,Madura United,Persib Bandung,3,1,3-1,0-1,4,1,1,4
+1751202,2026-10-22,SUPER LEAGUE,2016-10-08,Indonesia - Super League 2015/2016,Madura United,Persib Bandung,2,1,2-1,0-1,3,1,1,3
+1751202,2026-10-22,SUPER LEAGUE,2016-05-28,Indonesia - Super League 2015/2016,Persib Bandung,Madura United,0,0,0-0,0-0,0,0,X,0
+1751200,2026-10-22,SUPER LEAGUE,2026-02-25,Indonesia - Super League 2025/2026,Persebaya Surabaya,PSM Makassar,1,0,1-0,0-1,1,0,1,6
+1751200,2026-10-22,SUPER LEAGUE,2025-12-06,Indonesia - Super League 2025/2026,PSM Makassar,Persebaya Surabaya,1,1,1-1,1-1,2,1,X,3
+1751200,2026-10-22,SUPER LEAGUE,2025-03-07,Indonesia - Liga 1 2024/2025,PSM Makassar,Persebaya Surabaya,0,1,0-1,0-0,1,0,2,1
+1751200,2026-10-22,SUPER LEAGUE,2024-10-23,Indonesia - Liga 1 2024/2025,Persebaya Surabaya,PSM Makassar,1,1,1-1,1-1,2,1,X,2
+1751200,2026-10-22,SUPER LEAGUE,2024-02-28,Indonesia - Liga 1 2023/2024,PSM Makassar,Persebaya Surabaya,0,0,0-0,0-0,0,0,X,0
+1751200,2026-10-22,SUPER LEAGUE,2023-08-18,Indonesia - Liga 1 2023/2024,Persebaya Surabaya,PSM Makassar,1,0,1-0,0-1,1,0,1,7
+1751200,2026-10-22,SUPER LEAGUE,2023-02-24,Indonesia - Liga 1 2022/2023,Persebaya Surabaya,PSM Makassar,0,1,0-1,0-0,1,0,2,5
+1751200,2026-10-22,SUPER LEAGUE,2022-09-10,Indonesia - Liga 1 2022/2023,PSM Makassar,Persebaya Surabaya,3,0,3-0,0-2,3,0,1,4
+1751200,2026-10-22,SUPER LEAGUE,2022-01-14,Indonesia - Liga 1 2021/2022,Persebaya Surabaya,PSM Makassar,2,1,2-1,0-1,3,1,1,5
+1751200,2026-10-22,SUPER LEAGUE,2021-09-18,Indonesia - Liga 1 2021/2022,PSM Makassar,Persebaya Surabaya,3,1,3-1,1-3,4,1,1,4
+1751200,2026-10-22,SUPER LEAGUE,2019-11-14,Indonesia - Liga 1 2018/2019,Persebaya Surabaya,PSM Makassar,3,2,3-2,1-1,5,1,1,5
+1751200,2026-10-22,SUPER LEAGUE,2019-07-17,Indonesia - Liga 1 2018/2019,PSM Makassar,Persebaya Surabaya,2,1,2-1,1-1,3,1,1,3
+1751200,2026-10-22,SUPER LEAGUE,2018-11-10,Indonesia - Liga 1 2017/2018,Persebaya Surabaya,PSM Makassar,3,0,3-0,0-1,3,0,1,3
+1751200,2026-10-22,SUPER LEAGUE,2018-06-09,Indonesia - Liga 1 2017/2018,PSM Makassar,Persebaya Surabaya,1,0,1-0,0-0,1,0,1,1
+1751200,2026-10-22,SUPER LEAGUE,2014-05-20,Indonesia - Super League 2013/2014,Persebaya Surabaya,PSM Makassar,4,0,4-0,0-2,4,0,1,4
+1751200,2026-10-22,SUPER LEAGUE,2014-05-02,Indonesia - Super League 2013/2014,PSM Makassar,Persebaya Surabaya,0,2,0-2,1-0,2,0,2,2
+1750995,2026-10-22,SUPERLIGA,2026-04-07,Uzbekistan - Superliga 2025/2025,Mash al Mubarek,FC Bunyodkor,0,1,0-1,0-0,1,0,2,0
+1750995,2026-10-22,SUPERLIGA,2025-10-26,Uzbekistan - Superliga 2024/2025,FC Bunyodkor,Mash al Mubarek,2,1,2-1,0-0,3,1,1,0
+1750995,2026-10-22,SUPERLIGA,2025-05-26,Uzbekistan - Superliga 2024/2025,Mash al Mubarek,FC Bunyodkor,1,1,1-1,1-0,2,1,X,2
+1750995,2026-10-22,SUPERLIGA,2021-08-06,Uzbekistan - Pfl Relegation P.Off 2020/2021,Mash al Mubarek,FC Bunyodkor,1,1,1-1,0-1,2,1,X,2
+1750995,2026-10-22,SUPERLIGA,2021-03-10,Uzbekistan - Pfl Relegation P.Off 2020/2021,FC Bunyodkor,Mash al Mubarek,1,0,1-0,0-0,1,0,1,1
+1750995,2026-10-22,SUPERLIGA,2020-09-16,Uzbekistan - PFL Relegation P.Off 2019/2020,Mash al Mubarek,FC Bunyodkor,1,2,1-2,1-1,3,1,2,3
+1750995,2026-10-22,SUPERLIGA,2020-03-07,Uzbekistan - PFL Relegation P.Off 2019/2020,FC Bunyodkor,Mash al Mubarek,1,0,1-0,0-1,1,0,1,1
+1750995,2026-10-22,SUPERLIGA,2017-09-30,Uzbekistan - Professional Football League 2016/2017,FC Bunyodkor,Mash al Mubarek,4,0,4-0,0-4,4,0,1,4
+1750995,2026-10-22,SUPERLIGA,2017-04-28,Uzbekistan - Professional Football League 2016/2017,Mash al Mubarek,FC Bunyodkor,1,0,1-0,0-0,1,0,1,1
+1750995,2026-10-22,SUPERLIGA,2016-08-14,Uzbekistan - Professional Football League 2015/2016,Mash al Mubarek,FC Bunyodkor,1,1,1-1,0-1,2,1,X,2
+1750995,2026-10-22,SUPERLIGA,2016-03-31,Uzbekistan - Professional Football League 2015/2016,FC Bunyodkor,Mash al Mubarek,0,0,0-0,0-0,0,0,X,0
+1750995,2026-10-22,SUPERLIGA,2015-09-30,Uzbekistan - Professional Football League 2014/2015,Mash al Mubarek,FC Bunyodkor,3,2,3-2,2-1,5,1,1,6
+1750995,2026-10-22,SUPERLIGA,2015-05-15,Uzbekistan - Professional Football League 2014/2015,FC Bunyodkor,Mash al Mubarek,4,0,4-0,0-4,4,0,1,4
+1750995,2026-10-22,SUPERLIGA,2014-08-10,Professional Football League - Super Cup 2013/2014,FC Bunyodkor,Mash al Mubarek,5,1,5-1,1-3,6,1,1,6
+1750995,2026-10-22,SUPERLIGA,2014-03-23,Professional Football League - Super Cup 2013/2014,Mash al Mubarek,FC Bunyodkor,0,2,0-2,0-0,2,0,2,2
+1751217,2026-10-22,SAUDI PRO LEAGUE,2026-04-11,Saudi Arabia - Saudi Pro League 2025/2026,Al Hazem,Al-Feiha,2,0,2-0,0-1,2,0,1,8
+1751217,2026-10-22,SAUDI PRO LEAGUE,2025-12-25,Saudi Arabia - Saudi Pro League 2025/2026,Al-Feiha,Al Hazem,0,0,0-0,0-0,0,0,X,5
+1752575,2026-10-22,LIGA II,2025-12-06,Romania - Liga II 2025/2026,CSM Scolar Resita,FC Bihor,2,3,2-3,2-1,5,1,2,5
+1752575,2026-10-22,LIGA II,2024-08-30,Romania - Liga II 2024/2025,FC Bihor,CSM Scolar Resita,2,3,2-3,2-1,5,1,2,5
