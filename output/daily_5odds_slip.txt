@@ -9,70 +9,72 @@
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-06:00  | Maccabi Tel A vs Maccabi Petah | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.8 avg recent match goals.
-08:55  | Al Hazem vs Al-Nassr Riya    | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+06:30  | RB Leipzig vs FC Augsburg    | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.6 avg recent match goals.
+12:05  | Paris Saint G vs Estac Troyes | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
        ↳ Justification: Over 1.5 Goals: 95% model rating + 3.5 avg recent match goals.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.09x  |  Avg Confidence: 80.0%  |  Legs: 4
+   Total Odds: 2.14x  |  Avg Confidence: 85.8%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-13:45  | Holywell Town vs Airbus UK Bro | Double Chance  | Draw or Airbus UK Broughto | 1.18x | 81.2%
-       ↳ Justification: Double Chance X2: 79% non-loss probability, Away side unbeaten in 5/10 recent outings.
-11:30  | Eintracht Bra vs Energie Cottb | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.5 combined goals/game.
-11:00  | Sariyer vs Igdir FK          | Goals          | Under 3.5 Goals            | 1.21x | 79.4%
-       ↳ Justification: Defensive Lock: 77% Under 3.5 model + disciplined low scoring pace.
-23:00  | Jeju United F vs Gwangju FC  | DNB            | Jeju United FC (Draw No Be | 1.21x | 79.3%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (84% non-loss).
+05:00  | Arsenal Tula vs FC Chelyabins | Double Chance  | Arsenal Tula or Draw (1X)  | 1.18x | 87.4%
+       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 10/10 recent matches.
+07:30  | Academica vs Amarante        | Double Chance  | Academica or Draw (1X)     | 1.18x | 87.4%
+       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 5/10 recent matches.
+08:00  | Goztepe vs Istanbul Basa     | Double Chance  | Goztepe or Draw (1X)       | 1.19x | 86.8%
+       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 5/10 recent matches.
+09:00  | Rosenborg vs Start           | 1X2            | Rosenborg To Win           | 1.29x | 81.6%
+       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 4.51x  |  Avg Confidence: 77.8%  |  Legs: 6
+   Total Odds: 3.71x  |  Avg Confidence: 80.8%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-05:00  | Polissya Zhyt vs Veres       | 1X2            | Polissya Zhytomyr To Win   | 1.39x | 78.8%
-       ↳ Justification: Straight Home Win: 67% model prob + 100% crowd consensus + strong home form.
-13:30  | Castellon vs Eibar           | DNB            | Castellon (Draw No Bet)    | 1.22x | 78.7%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (83% non-loss).
-09:30  | UTA Arad vs Petrolul Ploi    | DNB            | UTA Arad (Draw No Bet)     | 1.22x | 78.5%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (83% non-loss).
-11:00  | Spartak Myjav vs FK Raca     | Goals          | Over 2.5 Goals             | 1.27x | 77.8%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (73% model) with 3.0 combined goals/game.
-19:00  | Necaxa vs Club Tijuana       | BTS            | Both Teams To Score (Yes)  | 1.31x | 76.6%
-       ↳ Justification: Both Teams To Score (Yes): 71% model prob, verified dual scoring consistency in recent form.
-13:15  | FC Aarau vs FC Wil 1900      | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.3 combined goals/game.
+12:05  | Paris Saint G vs Estac Troyes | 1X2            | Paris Saint Germain To Win | 1.22x | 82.2%
+       ↳ Justification: Straight Home Win: 76% model prob + 94% crowd consensus + strong home form.
+09:00  | Rosenborg vs Start           | 1X2            | Rosenborg To Win           | 1.29x | 81.6%
+       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
+06:30  | Slovan Bratis vs AS Trencin  | 1X2            | Slovan Bratislava To Win   | 1.33x | 80.5%
+       ↳ Justification: Straight Home Win: 70% model prob + 100% crowd consensus + strong home form.
+12:00  | Valencia vs Real Madrid      | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.0 combined goals/game.
+13:00  | Orlando City  vs New England R | BTS            | Both Teams To Score (Yes)  | 1.21x | 80.2%
+       ↳ Justification: Both Teams To Score (Yes): 77% model prob, verified dual scoring consistency in recent form.
+05:00  | Swit Skolwin vs Slask Wroclaw | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.6 combined goals/game.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 6.45x  |  Avg Confidence: 78.2%  |  Legs: 8
+   Total Odds: 10.03x  |  Avg Confidence: 80.3%  |  Legs: 9
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-06:00  | Maccabi Tel A vs Maccabi Petah | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.8 combined goals/game.
-05:00  | Polissya Zhyt vs Veres       | 1X2            | Polissya Zhytomyr To Win   | 1.39x | 78.8%
-       ↳ Justification: Straight Home Win: 67% model prob + 100% crowd consensus + strong home form.
-06:00  | Sepahan FC vs Malavan        | Goals          | Under 3.5 Goals            | 1.22x | 78.7%
-       ↳ Justification: Defensive Lock: 76% Under 3.5 model + disciplined low scoring pace.
-13:30  | Castellon vs Eibar           | DNB            | Castellon (Draw No Bet)    | 1.22x | 78.7%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (83% non-loss).
-09:30  | UTA Arad vs Petrolul Ploi    | DNB            | UTA Arad (Draw No Bet)     | 1.22x | 78.5%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (83% non-loss).
-21:00  | San Diego Wav vs Utah Royals ( | DNB            | San Diego Wave FC (w) (Dra | 1.22x | 78.1%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (82% non-loss).
-11:00  | Spartak Myjav vs FK Raca     | Goals          | Over 2.5 Goals             | 1.27x | 77.8%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (73% model) with 3.0 combined goals/game.
-07:30  | Sogdiana Jizz vs Dinamo Samarq | BTS            | Both Teams To Score (Yes)  | 1.33x | 76.0%
-       ↳ Justification: Both Teams To Score (Yes): 70% model prob, verified dual scoring consistency in recent form.
+12:05  | Paris Saint G vs Estac Troyes | 1X2            | Paris Saint Germain To Win | 1.22x | 82.2%
+       ↳ Justification: Straight Home Win: 76% model prob + 94% crowd consensus + strong home form.
+09:00  | Rosenborg vs Start           | 1X2            | Rosenborg To Win           | 1.29x | 81.6%
+       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
+06:30  | Slovan Bratis vs AS Trencin  | 1X2            | Slovan Bratislava To Win   | 1.33x | 80.5%
+       ↳ Justification: Straight Home Win: 70% model prob + 100% crowd consensus + strong home form.
+11:45  | Roma vs Sassuolo             | 1X2            | Roma To Win                | 1.35x | 80.0%
+       ↳ Justification: Straight Home Win: 69% model prob + 100% crowd consensus + strong home form.
+07:00  | Ross County vs Peterhead     | 1X2            | Ross County To Win         | 1.35x | 80.0%
+       ↳ Justification: Straight Home Win: 69% model prob + 100% crowd consensus + strong home form.
+12:30  | Sporting CP vs Moreirense    | 1X2            | Sporting CP To Win         | 1.29x | 79.9%
+       ↳ Justification: Straight Home Win: 72% model prob + 93% crowd consensus + strong home form.
+16:00  | Austin FC vs Portland Timb   | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.4 combined goals/game.
+04:30  | Paks vs Zalaegerszegi        | Goals          | Over 2.5 Goals             | 1.22x | 79.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (76% model) with 3.0 combined goals/game.
+09:30  | Aris Thessalo vs Panaitolikos | 1X2            | Aris Thessalonikis To Win  | 1.37x | 79.4%
+       ↳ Justification: Straight Home Win: 68% model prob + 100% crowd consensus + strong home form.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
