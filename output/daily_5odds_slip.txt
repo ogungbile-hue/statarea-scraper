@@ -5,74 +5,74 @@
 --- [ 1.5-ODDS ULTRA BANKER ] ---
 >> ONÍTẸ́TẸ́ 1.5-ODDS ULTRA BANKER SLIP
    Ultra-conservative 2-3 leg banker ticket with top-tier statistical safety.
-   Total Odds: 1.49x  |  Avg Confidence: 88.5%  |  Legs: 3
+   Total Odds: 1.42x  |  Avg Confidence: 82.5%  |  Legs: 3
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-10:00  | Kristiansund  vs Valerenga   | Goals          | Over 1.5 Goals             | 1.12x | 92.1%
-       ↳ Justification: Over 1.5 Goals: 90% model rating + 4.0 avg recent match goals.
-04:30  | FC Chernomore vs Yantra 2019 | Double Chance  | FC Chernomorets Burgas or  | 1.19x | 86.8%
-       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 5/10 recent matches.
-07:30  | Fratria vs Sportist Svog     | DNB            | Fratria (Draw No Bet)      | 1.12x | 86.5%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (89% non-loss).
+11:45  | Hacken (w) vs Chelsea (w)    | Goals          | Over 1.5 Goals             | 1.12x | 91.4%
+       ↳ Justification: Over 1.5 Goals: 89% model rating + 3.3 avg recent match goals.
+13:00  | Oxford United vs Cheltenham  | Double Chance  | Oxford United or Draw (1X) | 1.12x | 82.2%
+       ↳ Justification: Double Chance 1X: 89% non-loss probability, Home won/drew 8/10 recent matches.
+13:00  | Stockport vs Tranmere        | DNB            | Stockport (Draw No Bet)    | 1.13x | 73.8%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (87% non-loss).
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.71x  |  Avg Confidence: 79.6%  |  Legs: 4
+   Total Odds: 2.80x  |  Avg Confidence: 71.8%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-04:30  | FC Chernomore vs Yantra 2019 | Double Chance  | FC Chernomorets Burgas or  | 1.19x | 86.8%
-       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 5/10 recent matches.
-08:00  | Tatran Liptov vs Mfk Bytca   | 1X2            | Tatran Liptovsky Mikulas T | 1.35x | 80.0%
-       ↳ Justification: Straight Home Win: 69% model prob + 100% crowd consensus + strong home form.
-09:00  | Javor vs TSC Backa Top       | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.9 combined goals/game.
-11:30  | Pineto vs Vis Pesaro         | DNB            | Pineto (Draw No Bet)       | 1.29x | 74.9%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (80% non-loss).
+11:45  | Real Madrid ( vs Paris FC (w) | Double Chance  | Real Madrid (w) or Paris F | 1.18x | 79.0%
+       ↳ Justification: Double Chance 12 (Any Team Win): Extremely low draw probability (21%), high combined win model (79%).
+11:45  | Hacken (w) vs Chelsea (w)    | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.3 combined goals/game.
+13:00  | Crewe vs Wigan               | DNB            | Crewe (Draw No Bet)        | 1.25x | 68.0%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (82% non-loss).
+13:00  | Burton Albion vs Notts County | BTS            | Both Teams To Score (Yes)  | 1.45x | 63.7%
+       ↳ Justification: Both Teams To Score (Yes): 64% model prob, verified dual scoring consistency in recent form.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 4.52x  |  Avg Confidence: 77.2%  |  Legs: 6
+   Total Odds: 4.88x  |  Avg Confidence: 70.0%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-08:00  | Tatran Liptov vs Mfk Bytca   | 1X2            | Tatran Liptovsky Mikulas T | 1.35x | 80.0%
-       ↳ Justification: Straight Home Win: 69% model prob + 100% crowd consensus + strong home form.
-04:00  | Saipa vs Havadar SC          | Half Time      | 1st Half Under 1.5 Goals   | 1.20x | 79.5%
-       ↳ Justification: First Half Under 1.5 Goals: 77% model rating, disciplined early match pace.
-10:00  | Kristiansund  vs Valerenga   | Goals          | Over 2.5 Goals             | 1.26x | 78.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (74% model) with 4.0 combined goals/game.
-09:00  | Javor vs TSC Backa Top       | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.9 combined goals/game.
-11:30  | Pineto vs Vis Pesaro         | DNB            | Pineto (Draw No Bet)       | 1.29x | 74.9%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (80% non-loss).
-09:00  | FC Koln (w) vs Rb Leipzig (w | DNB            | FC Koln (w) (Draw No Bet)  | 1.31x | 73.7%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (79% non-loss).
+11:45  | Real Madrid ( vs Paris FC (w) | DNB            | Real Madrid (w) (Draw No B | 1.22x | 77.7%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
+11:45  | Hacken (w) vs Chelsea (w)    | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.3 combined goals/game.
+13:00  | Crewe vs Wigan               | DNB            | Crewe (Draw No Bet)        | 1.25x | 68.0%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (82% non-loss).
+13:00  | CF Trival Val vs Leganes     | Goals          | Over 2.5 Goals             | 1.35x | 66.4%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (69% model) with 2.9 combined goals/game.
+13:00  | Barnet vs Leyton Orient      | BTS            | Both Teams To Score (Yes)  | 1.35x | 66.4%
+       ↳ Justification: Both Teams To Score (Yes): 69% model prob, verified dual scoring consistency in recent form.
+13:00  | Plymouth vs Swindon Town     | Team Goals     | Plymouth Over 1.5 Goals    | 1.34x | 64.9%
+       ↳ Justification: Plymouth Over 1.5 Team Goals: Strong home attack averaging 1.8 goals/game.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 8.74x  |  Avg Confidence: 74.7%  |  Legs: 7
+   Total Odds: 8.50x  |  Avg Confidence: 67.9%  |  Legs: 7
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-08:00  | Tatran Liptov vs Mfk Bytca   | 1X2            | Tatran Liptovsky Mikulas T | 1.35x | 80.0%
-       ↳ Justification: Straight Home Win: 69% model prob + 100% crowd consensus + strong home form.
-10:00  | Kristiansund  vs Valerenga   | Goals          | Over 2.5 Goals             | 1.26x | 78.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (74% model) with 4.0 combined goals/game.
-09:00  | Javor vs TSC Backa Top       | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.9 combined goals/game.
-11:30  | Pineto vs Vis Pesaro         | DNB            | Pineto (Draw No Bet)       | 1.29x | 74.9%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (80% non-loss).
-10:00  | Atletico Madr vs FC Badalona ( | Team Goals     | Atletico Madrid Femenino ( | 1.37x | 72.8%
-       ↳ Justification: Atletico Madrid Femenino (w) Over 1.5 Team Goals: Strong home attack averaging 2.4 goals/game.
-08:30  | Veles Moscow vs Kamaz Chelny | BTS            | Both Teams To Score (Yes)  | 1.50x | 71.2%
-       ↳ Justification: Both Teams To Score (Yes): 62% model prob, verified dual scoring consistency in recent form.
-07:30  | Fratria vs Sportist Svog     | BTS            | Both Teams To Score (No)   | 1.48x | 69.0%
-       ↳ Justification: Both Teams To Score (No) / OTS: 63% clean sheet / one team score probability.
+11:45  | Real Madrid ( vs Paris FC (w) | DNB            | Real Madrid (w) (Draw No B | 1.22x | 77.7%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
+11:45  | Hacken (w) vs Chelsea (w)    | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.3 combined goals/game.
+13:00  | Crewe vs Wigan               | DNB            | Crewe (Draw No Bet)        | 1.25x | 68.0%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (82% non-loss).
+13:00  | Plymouth vs Swindon Town     | Team Goals     | Plymouth Over 1.5 Goals    | 1.34x | 64.9%
+       ↳ Justification: Plymouth Over 1.5 Team Goals: Strong home attack averaging 1.8 goals/game.
+13:00  | Burton Albion vs Notts County | BTS            | Both Teams To Score (Yes)  | 1.45x | 63.7%
+       ↳ Justification: Both Teams To Score (Yes): 64% model prob, verified dual scoring consistency in recent form.
+17:30  | Internacional vs America De Ca | BTS            | Both Teams To Score (Yes)  | 1.48x | 63.2%
+       ↳ Justification: Both Teams To Score (Yes): 63% model prob, verified dual scoring consistency in recent form.
+13:00  | Stockport vs Tranmere        | Goals          | Under 3.5 Goals            | 1.48x | 61.2%
+       ↳ Justification: Defensive Lock: 63% Under 3.5 model + disciplined low scoring pace.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
