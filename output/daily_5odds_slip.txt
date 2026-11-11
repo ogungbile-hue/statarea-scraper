@@ -5,74 +5,74 @@
 --- [ 1.5-ODDS ULTRA BANKER ] ---
 >> ONÍTẸ́TẸ́ 1.5-ODDS ULTRA BANKER SLIP
    Ultra-conservative 2-3 leg banker ticket with top-tier statistical safety.
-   Total Odds: 1.42x  |  Avg Confidence: 82.5%  |  Legs: 3
+   Total Odds: 1.51x  |  Avg Confidence: 90.1%  |  Legs: 3
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-11:45  | Hacken (w) vs Chelsea (w)    | Goals          | Over 1.5 Goals             | 1.12x | 91.4%
-       ↳ Justification: Over 1.5 Goals: 89% model rating + 3.3 avg recent match goals.
-13:00  | Oxford United vs Cheltenham  | Double Chance  | Oxford United or Draw (1X) | 1.12x | 82.2%
-       ↳ Justification: Double Chance 1X: 89% non-loss probability, Home won/drew 8/10 recent matches.
-13:00  | Stockport vs Tranmere        | DNB            | Stockport (Draw No Bet)    | 1.13x | 73.8%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (87% non-loss).
+07:00  | Vietnam vs Chinese Taipe     | Double Chance  | Vietnam or Draw (1X)       | 1.12x | 95.8%
+       ↳ Justification: Double Chance 1X: 95% non-loss probability, Home won/drew 7/10 recent matches.
+14:45  | Avro vs Whitby               | Goals          | Over 1.5 Goals             | 1.12x | 94.7%
+       ↳ Justification: Over 1.5 Goals: 94% model rating + 3.5 avg recent match goals.
+14:30  | La Luz vs Fenix              | Half Time      | 1st Half Under 1.5 Goals   | 1.20x | 79.8%
+       ↳ Justification: First Half Under 1.5 Goals: 78% model rating, disciplined early match pace.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.80x  |  Avg Confidence: 71.8%  |  Legs: 4
+   Total Odds: 2.72x  |  Avg Confidence: 73.0%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-11:45  | Real Madrid ( vs Paris FC (w) | Double Chance  | Real Madrid (w) or Paris F | 1.18x | 79.0%
-       ↳ Justification: Double Chance 12 (Any Team Win): Extremely low draw probability (21%), high combined win model (79%).
-11:45  | Hacken (w) vs Chelsea (w)    | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.3 combined goals/game.
-13:00  | Crewe vs Wigan               | DNB            | Crewe (Draw No Bet)        | 1.25x | 68.0%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (82% non-loss).
-13:00  | Burton Albion vs Notts County | BTS            | Both Teams To Score (Yes)  | 1.45x | 63.7%
-       ↳ Justification: Both Teams To Score (Yes): 64% model prob, verified dual scoring consistency in recent form.
+07:00  | Vietnam vs Chinese Taipe     | Goals          | Over 2.5 Goals             | 1.19x | 80.8%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (78% model) with 3.6 combined goals/game.
+14:30  | La Luz vs Fenix              | Half Time      | 1st Half Under 1.5 Goals   | 1.20x | 79.8%
+       ↳ Justification: First Half Under 1.5 Goals: 78% model rating, disciplined early match pace.
+05:00  | Kawasaki Fron vs Kashiwa Reyso | Goals          | Over 2.5 Goals             | 1.35x | 66.4%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (69% model) with 3.6 combined goals/game.
+05:30  | Urawa vs C-Osaka             | BTS            | Both Teams To Score (Yes)  | 1.41x | 64.8%
+       ↳ Justification: Both Teams To Score (Yes): 66% model prob, verified dual scoring consistency in recent form.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 4.88x  |  Avg Confidence: 70.0%  |  Legs: 6
+   Total Odds: 5.30x  |  Avg Confidence: 73.3%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-11:45  | Real Madrid ( vs Paris FC (w) | DNB            | Real Madrid (w) (Draw No B | 1.22x | 77.7%
+14:30  | La Luz vs Fenix              | Half Time      | 1st Half Under 1.5 Goals   | 1.20x | 79.8%
+       ↳ Justification: First Half Under 1.5 Goals: 78% model rating, disciplined early match pace.
+05:00  | Kepez Belediy vs Balikesirspor | DNB            | Balikesirspor (Draw No Bet | 1.25x | 76.7%
+       ↳ Justification: Away Draw No Bet (2 DNB): High away edge with draw refund protection (81% non-loss).
+14:45  | Avro vs Whitby               | Team Goals     | Avro Over 1.5 Goals        | 1.27x | 75.8%
+       ↳ Justification: Avro Over 1.5 Team Goals: Strong home attack averaging 1.8 goals/game.
+05:00  | Pazarspor vs Bulvarspor      | BTS            | Both Teams To Score (Yes)  | 1.50x | 71.2%
+       ↳ Justification: Both Teams To Score (Yes): 62% model prob, verified dual scoring consistency in recent form.
+10:00  | Zeleziarne Po vs FC ViOn Zlate | DNB            | Zeleziarne Podbrezova (Dra | 1.22x | 68.7%
        ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
-11:45  | Hacken (w) vs Chelsea (w)    | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.3 combined goals/game.
-13:00  | Crewe vs Wigan               | DNB            | Crewe (Draw No Bet)        | 1.25x | 68.0%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (82% non-loss).
-13:00  | CF Trival Val vs Leganes     | Goals          | Over 2.5 Goals             | 1.35x | 66.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (69% model) with 2.9 combined goals/game.
-13:00  | Barnet vs Leyton Orient      | BTS            | Both Teams To Score (Yes)  | 1.35x | 66.4%
-       ↳ Justification: Both Teams To Score (Yes): 69% model prob, verified dual scoring consistency in recent form.
-13:00  | Plymouth vs Swindon Town     | Team Goals     | Plymouth Over 1.5 Goals    | 1.34x | 64.9%
-       ↳ Justification: Plymouth Over 1.5 Team Goals: Strong home attack averaging 1.8 goals/game.
+14:30  | Tacuarembo vs Miramar        | BTS            | Both Teams To Score (No)   | 1.52x | 67.7%
+       ↳ Justification: Both Teams To Score (No) / OTS: 61% clean sheet / one team score probability.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 8.50x  |  Avg Confidence: 67.9%  |  Legs: 7
+   Total Odds: 8.50x  |  Avg Confidence: 68.7%  |  Legs: 7
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-11:45  | Real Madrid ( vs Paris FC (w) | DNB            | Real Madrid (w) (Draw No B | 1.22x | 77.7%
+14:45  | Avro vs Whitby               | Team Goals     | Avro Over 1.5 Goals        | 1.27x | 75.8%
+       ↳ Justification: Avro Over 1.5 Team Goals: Strong home attack averaging 1.8 goals/game.
+05:00  | Pazarspor vs Bulvarspor      | BTS            | Both Teams To Score (Yes)  | 1.50x | 71.2%
+       ↳ Justification: Both Teams To Score (Yes): 62% model prob, verified dual scoring consistency in recent form.
+14:30  | Tacuarembo vs Miramar        | BTS            | Both Teams To Score (No)   | 1.52x | 67.7%
+       ↳ Justification: Both Teams To Score (No) / OTS: 61% clean sheet / one team score probability.
+14:00  | Barnsley vs Oldham           | DNB            | Barnsley (Draw No Bet)     | 1.26x | 67.1%
        ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
-11:45  | Hacken (w) vs Chelsea (w)    | Goals          | Over 2.5 Goals             | 1.31x | 76.6%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (71% model) with 3.3 combined goals/game.
-13:00  | Crewe vs Wigan               | DNB            | Crewe (Draw No Bet)        | 1.25x | 68.0%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (82% non-loss).
-13:00  | Plymouth vs Swindon Town     | Team Goals     | Plymouth Over 1.5 Goals    | 1.34x | 64.9%
-       ↳ Justification: Plymouth Over 1.5 Team Goals: Strong home attack averaging 1.8 goals/game.
-13:00  | Burton Albion vs Notts County | BTS            | Both Teams To Score (Yes)  | 1.45x | 63.7%
-       ↳ Justification: Both Teams To Score (Yes): 64% model prob, verified dual scoring consistency in recent form.
-17:30  | Internacional vs America De Ca | BTS            | Both Teams To Score (Yes)  | 1.48x | 63.2%
-       ↳ Justification: Both Teams To Score (Yes): 63% model prob, verified dual scoring consistency in recent form.
-13:00  | Stockport vs Tranmere        | Goals          | Under 3.5 Goals            | 1.48x | 61.2%
-       ↳ Justification: Defensive Lock: 63% Under 3.5 model + disciplined low scoring pace.
+08:00  | Czech Republi vs Netherlands ( | DNB            | Netherlands (u19) (Draw No | 1.26x | 66.7%
+       ↳ Justification: Away Draw No Bet (2 DNB): High away edge with draw refund protection (79% non-loss).
+05:00  | Kawasaki Fron vs Kashiwa Reyso | Goals          | Over 2.5 Goals             | 1.35x | 66.4%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (69% model) with 3.6 combined goals/game.
+10:00  | Spain (u19) vs Iceland (u19) | Goals          | Over 2.5 Goals             | 1.37x | 65.8%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (68% model) with 3.2 combined goals/game.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
