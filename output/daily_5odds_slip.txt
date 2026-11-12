@@ -5,74 +5,74 @@
 --- [ 1.5-ODDS ULTRA BANKER ] ---
 >> ONÍTẸ́TẸ́ 1.5-ODDS ULTRA BANKER SLIP
    Ultra-conservative 2-3 leg banker ticket with top-tier statistical safety.
-   Total Odds: 1.51x  |  Avg Confidence: 90.1%  |  Legs: 3
+   Total Odds: 1.25x  |  Avg Confidence: 95.3%  |  Legs: 2
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-07:00  | Vietnam vs Chinese Taipe     | Double Chance  | Vietnam or Draw (1X)       | 1.12x | 95.8%
-       ↳ Justification: Double Chance 1X: 95% non-loss probability, Home won/drew 7/10 recent matches.
-14:45  | Avro vs Whitby               | Goals          | Over 1.5 Goals             | 1.12x | 94.7%
-       ↳ Justification: Over 1.5 Goals: 94% model rating + 3.5 avg recent match goals.
-14:30  | La Luz vs Fenix              | Half Time      | 1st Half Under 1.5 Goals   | 1.20x | 79.8%
-       ↳ Justification: First Half Under 1.5 Goals: 78% model rating, disciplined early match pace.
+11:00  | Hannover 96 vs TSV Havelse   | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.2 avg recent match goals.
+01:00  | Club America  vs Toluca (w)  | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 4.5 avg recent match goals.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.72x  |  Avg Confidence: 73.0%  |  Legs: 4
+   Total Odds: 2.74x  |  Avg Confidence: 79.8%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-07:00  | Vietnam vs Chinese Taipe     | Goals          | Over 2.5 Goals             | 1.19x | 80.8%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (78% model) with 3.6 combined goals/game.
-14:30  | La Luz vs Fenix              | Half Time      | 1st Half Under 1.5 Goals   | 1.20x | 79.8%
-       ↳ Justification: First Half Under 1.5 Goals: 78% model rating, disciplined early match pace.
-05:00  | Kawasaki Fron vs Kashiwa Reyso | Goals          | Over 2.5 Goals             | 1.35x | 66.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (69% model) with 3.6 combined goals/game.
-05:30  | Urawa vs C-Osaka             | BTS            | Both Teams To Score (Yes)  | 1.41x | 64.8%
-       ↳ Justification: Both Teams To Score (Yes): 66% model prob, verified dual scoring consistency in recent form.
+01:00  | Club America  vs Toluca (w)  | 1X2            | Club America (w) To Win    | 1.31x | 81.1%
+       ↳ Justification: Straight Home Win: 71% model prob + 100% crowd consensus + strong home form.
+19:45  | England vs Croatia           | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 4.3 combined goals/game.
+06:00  | New Zealand vs India         | 1X2            | New Zealand To Win         | 1.37x | 79.4%
+       ↳ Justification: Straight Home Win: 68% model prob + 100% crowd consensus + strong home form.
+19:45  | Czech Republi vs Spain       | Goals          | Over 2.5 Goals             | 1.26x | 78.4%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (74% model) with 3.0 combined goals/game.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 5.30x  |  Avg Confidence: 73.3%  |  Legs: 6
+   Total Odds: 4.61x  |  Avg Confidence: 78.5%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-14:30  | La Luz vs Fenix              | Half Time      | 1st Half Under 1.5 Goals   | 1.20x | 79.8%
-       ↳ Justification: First Half Under 1.5 Goals: 78% model rating, disciplined early match pace.
-05:00  | Kepez Belediy vs Balikesirspor | DNB            | Balikesirspor (Draw No Bet | 1.25x | 76.7%
-       ↳ Justification: Away Draw No Bet (2 DNB): High away edge with draw refund protection (81% non-loss).
-14:45  | Avro vs Whitby               | Team Goals     | Avro Over 1.5 Goals        | 1.27x | 75.8%
-       ↳ Justification: Avro Over 1.5 Team Goals: Strong home attack averaging 1.8 goals/game.
-05:00  | Pazarspor vs Bulvarspor      | BTS            | Both Teams To Score (Yes)  | 1.50x | 71.2%
-       ↳ Justification: Both Teams To Score (Yes): 62% model prob, verified dual scoring consistency in recent form.
-10:00  | Zeleziarne Po vs FC ViOn Zlate | DNB            | Zeleziarne Podbrezova (Dra | 1.22x | 68.7%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
-14:30  | Tacuarembo vs Miramar        | BTS            | Both Teams To Score (No)   | 1.52x | 67.7%
-       ↳ Justification: Both Teams To Score (No) / OTS: 61% clean sheet / one team score probability.
+01:00  | Club America  vs Toluca (w)  | 1X2            | Club America (w) To Win    | 1.31x | 81.1%
+       ↳ Justification: Straight Home Win: 71% model prob + 100% crowd consensus + strong home form.
+19:45  | England vs Croatia           | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 4.3 combined goals/game.
+23:00  | Cerro Largo vs Progreso      | Goals          | Under 3.5 Goals            | 1.21x | 79.4%
+       ↳ Justification: Defensive Lock: 77% Under 3.5 model + disciplined low scoring pace.
+06:00  | New Zealand vs India         | 1X2            | New Zealand To Win         | 1.37x | 79.4%
+       ↳ Justification: Straight Home Win: 68% model prob + 100% crowd consensus + strong home form.
+13:00  | Serbia (u21) vs North Macedon | DNB            | Serbia (u21) (Draw No Bet) | 1.21x | 78.7%
+       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (82% non-loss).
+17:45  | Barcelona (w) vs Arsenal (w) | BTS            | Both Teams To Score (Yes)  | 1.45x | 72.4%
+       ↳ Justification: Both Teams To Score (Yes): 64% model prob, verified dual scoring consistency in recent form.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 8.50x  |  Avg Confidence: 68.7%  |  Legs: 7
+   Total Odds: 9.30x  |  Avg Confidence: 77.0%  |  Legs: 8
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-14:45  | Avro vs Whitby               | Team Goals     | Avro Over 1.5 Goals        | 1.27x | 75.8%
-       ↳ Justification: Avro Over 1.5 Team Goals: Strong home attack averaging 1.8 goals/game.
-05:00  | Pazarspor vs Bulvarspor      | BTS            | Both Teams To Score (Yes)  | 1.50x | 71.2%
-       ↳ Justification: Both Teams To Score (Yes): 62% model prob, verified dual scoring consistency in recent form.
-14:30  | Tacuarembo vs Miramar        | BTS            | Both Teams To Score (No)   | 1.52x | 67.7%
-       ↳ Justification: Both Teams To Score (No) / OTS: 61% clean sheet / one team score probability.
-14:00  | Barnsley vs Oldham           | DNB            | Barnsley (Draw No Bet)     | 1.26x | 67.1%
+01:00  | Club America  vs Toluca (w)  | 1X2            | Club America (w) To Win    | 1.31x | 81.1%
+       ↳ Justification: Straight Home Win: 71% model prob + 100% crowd consensus + strong home form.
+06:00  | New Zealand vs India         | 1X2            | New Zealand To Win         | 1.37x | 79.4%
+       ↳ Justification: Straight Home Win: 68% model prob + 100% crowd consensus + strong home form.
+13:00  | Borussia Monc vs Standard Lieg | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.0 combined goals/game.
+19:45  | Czech Republi vs Spain       | Goals          | Over 2.5 Goals             | 1.26x | 78.4%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (74% model) with 3.0 combined goals/game.
+19:45  | England vs Croatia           | Team Goals     | England Over 1.5 Goals     | 1.22x | 77.9%
+       ↳ Justification: England Over 1.5 Team Goals: Strong home attack averaging 1.9 goals/game.
+21:30  | Aguila vs Municipal Lim      | DNB            | Aguila (Draw No Bet)       | 1.25x | 76.7%
        ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (81% non-loss).
-08:00  | Czech Republi vs Netherlands ( | DNB            | Netherlands (u19) (Draw No | 1.26x | 66.7%
-       ↳ Justification: Away Draw No Bet (2 DNB): High away edge with draw refund protection (79% non-loss).
-05:00  | Kawasaki Fron vs Kashiwa Reyso | Goals          | Over 2.5 Goals             | 1.35x | 66.4%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (69% model) with 3.6 combined goals/game.
-10:00  | Spain (u19) vs Iceland (u19) | Goals          | Over 2.5 Goals             | 1.37x | 65.8%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (68% model) with 3.2 combined goals/game.
+17:45  | Barcelona (w) vs Arsenal (w) | BTS            | Both Teams To Score (Yes)  | 1.45x | 72.4%
+       ↳ Justification: Both Teams To Score (Yes): 64% model prob, verified dual scoring consistency in recent form.
+03:00  | Pachuca (w) vs Monterrey (w) | BTS            | Both Teams To Score (Yes)  | 1.50x | 71.2%
+       ↳ Justification: Both Teams To Score (Yes): 62% model prob, verified dual scoring consistency in recent form.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
