@@ -1,4 +1,8 @@
 ﻿slip_id,date,slip_name,total_odds,legs_count,average_confidence,status,stake,payout,profit,winning_legs_count,lost_legs_count
+2026-11-16-10odds,2026-11-16,Onítẹ́tẹ́ 10-Odds Multiplier Slip,6.43,8,79.7,LOST,1.0,0.0,-1.0,4,1
+2026-11-16-5odds,2026-11-16,Onítẹ́tẹ́ 5-Odds Banker Slip,3.67,6,80.8,LOST,1.0,0.0,-1.0,2,1
+2026-11-16-3odds,2026-11-16,Onítẹ́tẹ́ 3-Odds Banker Slip,2.24,4,82.6,PENDING,1.0,0.0,0.0,3,0
+2026-11-16-1.5odds,2026-11-16,Onítẹ́tẹ́ 1.5-Odds Ultra Banker Slip,1.25,2,94.7,WON,1.0,1.25,0.25,2,0
 2026-11-15-10odds,2026-11-15,Onítẹ́tẹ́ 10-Odds Multiplier Slip,6.98,9,79.4,LOST,1.0,0.0,-1.0,6,2
 2026-11-15-5odds,2026-11-15,Onítẹ́tẹ́ 5-Odds Banker Slip,3.38,6,80.2,PENDING,1.0,0.0,0.0,5,0
 2026-11-15-3odds,2026-11-15,Onítẹ́tẹ́ 3-Odds Banker Slip,2.12,4,82.3,WON,1.0,2.12,1.12,4,0
