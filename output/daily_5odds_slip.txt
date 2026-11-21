@@ -9,70 +9,72 @@
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-14:45  | The New Saint vs Trefelin Bgc | Double Chance  | The New Saints or Draw (1X | 1.12x | 95.8%
-       ↳ Justification: Double Chance 1X: 95% non-loss probability, Home won/drew 6/10 recent matches.
-14:30  | Bayern Munich vs FC Koln     | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
-       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.8 avg recent match goals.
+09:00  | Fatih Karagum vs Boluspor    | Double Chance  | Fatih Karagumruk AS or Dra | 1.12x | 95.8%
+       ↳ Justification: Double Chance 1X: 93% non-loss probability, Home won/drew 5/10 recent matches.
+07:30  | Bayer Leverku vs SC Paderborn  | Goals          | Over 1.5 Goals             | 1.12x | 95.3%
+       ↳ Justification: Over 1.5 Goals: 95% model rating + 3.6 avg recent match goals.
 
 --- [ 3-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 3-ODDS BANKER SLIP
    High-probability 3-4 leg slip with balanced, multi-market safety picks.
-   Total Odds: 2.07x  |  Avg Confidence: 82.0%  |  Legs: 4
+   Total Odds: 2.07x  |  Avg Confidence: 84.3%  |  Legs: 4
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-13:00  | Kickers Emden vs Bremer SV   | Double Chance  | Kickers Emden or Draw (1X) | 1.18x | 83.2%
-       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 7/10 recent matches.
-15:45  | FC Porto vs Paredes          | 1X2            | FC Porto To Win            | 1.24x | 83.2%
+08:00  | Chelsea vs Leeds             | Double Chance  | Chelsea or Draw (1X)       | 1.19x | 85.6%
+       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 8/10 recent matches.
+06:30  | Audace Cerign vs Barletta    | Double Chance  | Audace Cerignola or Draw ( | 1.19x | 84.3%
+       ↳ Justification: Double Chance 1X: 78% non-loss probability, Home won/drew 9/10 recent matches.
+08:00  | Spalding Unit vs Merthyr     | Double Chance  | Spalding United or Draw (1 | 1.18x | 84.2%
+       ↳ Justification: Double Chance 1X: 79% non-loss probability, Home won/drew 10/10 recent matches.
+06:00  | Galatasaray vs Samsunspor    | 1X2            | Galatasaray To Win         | 1.24x | 83.2%
        ↳ Justification: Straight Home Win: 75% model prob + 100% crowd consensus + strong home form.
-14:45  | Flint Town Un vs Cambrian and  | Goals          | Over 2.5 Goals             | 1.19x | 80.8%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (78% model) with 4.0 combined goals/game.
-13:30  | Rapperswil vs FC Aarau       | Goals          | Over 2.5 Goals             | 1.19x | 80.8%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (78% model) with 3.5 combined goals/game.
 
 --- [ 5-ODDS BANKER ] ---
 >> ONÍTẸ́TẸ́ 5-ODDS BANKER SLIP
    Classic Onítẹ́tẹ́ 5-odds multi-market accumulator with strict risk filters.
-   Total Odds: 3.91x  |  Avg Confidence: 80.7%  |  Legs: 6
+   Total Odds: 3.54x  |  Avg Confidence: 81.4%  |  Legs: 6
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-15:45  | FC Porto vs Paredes          | 1X2            | FC Porto To Win            | 1.24x | 83.2%
+06:00  | Galatasaray vs Samsunspor    | 1X2            | Galatasaray To Win         | 1.24x | 83.2%
        ↳ Justification: Straight Home Win: 75% model prob + 100% crowd consensus + strong home form.
-05:00  | Vissel Kobe vs Mito HollyHoc | 1X2            | Vissel Kobe To Win         | 1.33x | 80.5%
-       ↳ Justification: Straight Home Win: 70% model prob + 100% crowd consensus + strong home form.
-13:00  | Molde vs Bodo/Glimt          | BTS            | Both Teams To Score (Yes)  | 1.21x | 80.2%
-       ↳ Justification: Both Teams To Score (Yes): 77% model prob, verified dual scoring consistency in recent form.
-14:45  | Southend vs Boreham Wood     | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
+06:00  | Crvena Zvezda vs Radnik Surdul | 1X2            | Crvena Zvezda To Win       | 1.27x | 82.2%
+       ↳ Justification: Straight Home Win: 73% model prob + 100% crowd consensus + strong home form.
+08:00  | West Ham vs Preston          | 1X2            | West Ham To Win            | 1.27x | 82.2%
+       ↳ Justification: Straight Home Win: 73% model prob + 100% crowd consensus + strong home form.
+13:30  | Alianza Lima vs FC Cajamarca | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 3.1 combined goals/game.
+08:00  | Clyde vs Stirling Albi       | Goals          | Over 2.5 Goals             | 1.21x | 80.2%
        ↳ Justification: Over 2.5 Goals: High-tempo matchup (77% model) with 4.3 combined goals/game.
-15:00  | Villarreal B vs Gimnastic Tar | DNB            | Villarreal B (Draw No Bet) | 1.20x | 80.0%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (84% non-loss).
-13:30  | Borussia Dort vs Sportfreunde  | 1X2            | Borussia Dortmund II To Wi | 1.35x | 80.0%
-       ↳ Justification: Straight Home Win: 69% model prob + 100% crowd consensus + strong home form.
+06:00  | FC Giessen vs KSV Baunatal   | BTS            | Both Teams To Score (Yes)  | 1.21x | 80.2%
+       ↳ Justification: Both Teams To Score (Yes): 77% model prob, verified dual scoring consistency in recent form.
 
 --- [ 10-ODDS MULTIPLIER ] ---
 >> ONÍTẸ́TẸ́ 10-ODDS MULTIPLIER SLIP
    High-yield 5-8 leg accumulator across diversified high-confidence market selections.
-   Total Odds: 6.42x  |  Avg Confidence: 79.5%  |  Legs: 8
+   Total Odds: 7.74x  |  Avg Confidence: 81.1%  |  Legs: 9
 --------------------------------------------------------------------------------------------
 Time   | Fixture                      | Market         | Selection                  | Odds  | Conf
 --------------------------------------------------------------------------------------------
-15:45  | FC Porto vs Paredes          | 1X2            | FC Porto To Win            | 1.24x | 83.2%
+06:00  | Galatasaray vs Samsunspor    | 1X2            | Galatasaray To Win         | 1.24x | 83.2%
        ↳ Justification: Straight Home Win: 75% model prob + 100% crowd consensus + strong home form.
-05:00  | Vissel Kobe vs Mito HollyHoc | 1X2            | Vissel Kobe To Win         | 1.33x | 80.5%
-       ↳ Justification: Straight Home Win: 70% model prob + 100% crowd consensus + strong home form.
-13:30  | Borussia Dort vs Sportfreunde  | 1X2            | Borussia Dortmund II To Wi | 1.35x | 80.0%
-       ↳ Justification: Straight Home Win: 69% model prob + 100% crowd consensus + strong home form.
-13:00  | Rot-Weiss Erf vs VSG Altglieni | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+06:00  | Crvena Zvezda vs Radnik Surdul | 1X2            | Crvena Zvezda To Win       | 1.27x | 82.2%
+       ↳ Justification: Straight Home Win: 73% model prob + 100% crowd consensus + strong home form.
+08:00  | West Ham vs Preston          | 1X2            | West Ham To Win            | 1.27x | 82.2%
+       ↳ Justification: Straight Home Win: 73% model prob + 100% crowd consensus + strong home form.
+07:30  | Bayer Leverku vs SC Paderborn  | 1X2            | Bayer Leverkusen To Win    | 1.22x | 81.7%
+       ↳ Justification: Straight Home Win: 76% model prob + 92% crowd consensus + strong home form.
+08:00  | Celtic vs St Mirren          | 1X2            | Celtic To Win              | 1.29x | 81.6%
+       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
+09:00  | Fatih Karagum vs Boluspor    | 1X2            | Fatih Karagumruk AS To Win | 1.29x | 81.6%
+       ↳ Justification: Straight Home Win: 72% model prob + 100% crowd consensus + strong home form.
+07:30  | Eintracht Fra vs 1899 Hoffenhe | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
        ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.5 combined goals/game.
-15:00  | Athletic Club vs Espanyol    | DNB            | Athletic Club (Draw No Bet | 1.22x | 78.7%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (83% non-loss).
-14:30  | Verona vs Cesena             | DNB            | Verona (Draw No Bet)       | 1.22x | 78.5%
-       ↳ Justification: Home Draw No Bet (1 DNB): High win probability with draw refund protection (83% non-loss).
-22:00  | FC Juarez vs Atlas           | Half Time      | 1st Half Under 1.5 Goals   | 1.23x | 78.4%
-       ↳ Justification: First Half Under 1.5 Goals: 76% model rating, disciplined early match pace.
-14:45  | Caernarfon To vs FC Nomads of  | Goals          | Over 2.5 Goals             | 1.27x | 77.8%
-       ↳ Justification: Over 2.5 Goals: High-tempo matchup (73% model) with 3.3 combined goals/game.
+06:00  | Jahn Regensbu vs FC Wurzburger | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 3.2 combined goals/game.
+07:00  | Holyhead Hots vs Bala Town   | Goals          | Over 2.5 Goals             | 1.24x | 79.0%
+       ↳ Justification: Over 2.5 Goals: High-tempo matchup (75% model) with 4.0 combined goals/game.
 
 --------------------------------------------------------------------------------------------
 💡 Execution Strategy: Multi-market diversified selections across high-confidence ratings.
